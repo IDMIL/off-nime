@@ -71,33 +71,33 @@ N.4\
 ### 1975
 
 **Joel Chadabe**. 1975. System Composing. ***Proceedings of the Second Annual Music Computation Conference***.\
-[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1975.009) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1975.bib)
+[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1975.009) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1975.bib)
 
 **David Rosenboom**. 1975. A Model for Detection and Analysis of Information Processing Modalities in the Nervous System Through an Adaptive, Interactive, Computerized, Electronic Music Instrument. ***Proceedings of the Second Annual Music Computation Conference***.\
-[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1975.021) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1975.bib)
+[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1975.021) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1975.bib)
 
 ### 1977
 
 **Paul E. Dworak and Alice C. Parker**. 1977. Envelope Control with an Optical Keyboard. ***Proceedings of the International Computer Music Conference***.\
-[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1977.003) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1977.bib)
+[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1977.003) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1977.bib)
 
 **Michael A. Yantis**. 1977. A Microprocessor Based Live-Performance Instrument. ***Proceedings of the International Computer Music Conference***.\
-[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1977.016) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1977.bib)
+[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1977.016) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1977.bib)
 
 ### 1978
 
 **H.G. Alles**. 1978. An Inexpensive Digital Sound Synthesizer. ***Proceedings of the International Computer Music Conference***.\
-[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1978.003) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1978.bib)
+[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1978.003) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1978.bib)
 
 **William Buxton and E.A. Fogels and Guy Fedorkow and Lawrence Sasaki and K.C. Smith**. 1978. An Introduction to the SSSP Digital Synthesizer. ***Proceedings of the International Computer Music Conference***.\
-[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1978.007) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1978.bib)
+[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1978.007) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1978.bib)
 
 **Nelson J. Bridwell**. 1978. Interactive Synthesis Without Obscure Diagnostics. ***Proceedings of the International Computer Music Conference***.\
-[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1978.011) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1978.bib)
+[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1978.011) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1978.bib)
 
 **W. Buxton and G. Fedorkow and R. Baecker and W. Reeves and K.C. Smith and G. Ciamaga and L. Mezei**. 1978. An Overview of the Structured Sound Synthesis Project. ***Proceedings of the International Computer Music Conference***.\
-[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1978.031) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1978.bib)
+[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1978.031) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1978.bib)
 
 **Charles G. Boody**. 1978. The Micro-computer as an Input Device for Music Analysis or Composition by Computer. ***Proceedings of the International Computer Music Conference***.\
-[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1978.038) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1978.bib)
+[<kbd><br>Download PDF<br></kbd>](http://hdl.handle.net/2027/spo.bbp2372.1978.038) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1978.bib)
 

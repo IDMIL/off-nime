@@ -49,7 +49,7 @@ with open("README.md", "w") as md_file:
     
                 md_file.write(f"N.{number}\\\n")
                 md_file.write(f"**{author}**. {title}. ***{journal} {year}***.\\\n")
-                md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/{year}.bib)\n\n")
+                md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/{year}.bib)\n\n") #I hardcoded all the journal articles to be identified with CMJ Folder. Fix this later
     
     
             if entry_type == 'inproceedings':
@@ -59,7 +59,7 @@ with open("README.md", "w") as md_file:
                     md_file.write(f"### {year}\n\n")
     
                 md_file.write(f"**{author}**. {year}. {title}. ***{booktitle}***.\\\n")
-                md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/{year}.bib)\n\n")
+                md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/{year}.bib)\n\n") #I hardcoded all the conference proceedings papers to be identified with ICMC Folder. Fix this later
     
     
             
