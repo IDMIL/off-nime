@@ -31,6 +31,7 @@ with open("README.md", "w") as md_file:
         # write the data to markdown file
         
         current_year = ""
+        current_number = ""
         for entry in all_entries:
             title = entry.get('title', '')
             author = entry.get('author', '')
@@ -46,8 +47,9 @@ with open("README.md", "w") as md_file:
                 if year != current_year:
                     current_year = year
                     md_file.write(f"### {year} (Vol {volume})\n\n")
-    
-                md_file.write(f"N.{number}\\\n")
+                if number != current_number:
+                    current_number = number
+                    md_file.write(f"N.{number}\n")
                 md_file.write(f"* **{author}**. {year}. {title}. ***{journal} v.{volume} n.{number}***.\\\n")
                 md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/{year}.bib)\n\n") #I hardcoded all the journal articles to be identified with CMJ Folder. Fix this later
     
