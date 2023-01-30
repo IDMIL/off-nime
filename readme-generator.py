@@ -6,7 +6,7 @@ directories = ["./CMJ", "./ICMC"]
 
 with open("README.md", "w") as md_file:
     md_file.write(f"# Off-NIME NIME Papers\n")
-    md_file.write(f"Nime papers, chapters and books published outside of the NIME Conference proceedings\n")
+    md_file.write(f"Nime papers, chapters and books published outside of the NIME Conference Proceedings\n")
 
     for directory in directories:
         if directory == "./CMJ":

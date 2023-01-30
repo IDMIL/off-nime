@@ -1,5 +1,5 @@
 # Off-NIME NIME Papers
-Nime papers, chapters and books published outside of the NIME Conference proceedings
+Nime papers, chapters and books published outside of the NIME Conference Proceedings
 
 ## Computer Music Journal (CMJ)
 
