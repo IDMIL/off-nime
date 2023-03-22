@@ -9,10 +9,10 @@ N.4
 * **James Lawson and Max Mathews**. 1977. Computer Program to Control a Digital Real-Time Sound Synthesizer. ***Computer Music Journal v.1 n.4***.\
 [<kbd><br>Download PDF<br></kbd>](http://www.jstor.org/stable/40731295) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1977.bib)
 
-* **Alles, H. G.**. 1977. {A 256-Channel Performer Input Device}. ***Computer Music Journal v.1 n.4***.\
+* **Alles, H. G.**. 1977. A 256-Channel Performer Input Device. ***Computer Music Journal v.1 n.4***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1977.bib)
 
-* **Laske, Otto E.**. 1977. {Toward a Theory of Interfaces for Computer Music Systems}. ***Computer Music Journal v.1 n.4***.\
+* **Laske, Otto E.**. 1977. Toward a Theory of Interfaces for Computer Music Systems. ***Computer Music Journal v.1 n.4***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1977.bib)
 
 ### 1978 (Vol 2)
@@ -73,126 +73,137 @@ N.4
 ### 1987 (Vol 11)
 
 N.3
-* **Logemann, G. W.**. 1987. {Report on the Last STEIM Symposium on Interactive Composing in Live Electronic
-Music}. ***Computer Music Journal v.11 n.3***.\
+* **Logemann, G. W.**. 1987. Report on the Last STEIM Symposium on Interactive Composing in Live Electronic
+Music. ***Computer Music Journal v.11 n.3***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1987.bib)
 
 ### 1990 (Vol 14)
 
 N.1
-* **Pressing, Jeff**. 1990. {Cybernetic Issues in Interactive Performance Systems}. ***Computer Music Journal v.14 n.1***.\
+* **Pressing, Jeff**. 1990. Cybernetic Issues in Interactive Performance Systems. ***Computer Music Journal v.14 n.1***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1990.bib)
 
-* **Rubine, Dean and McAvinney, Paul**. 1990. {Programmable Finger-tracking Instrument Controllers}. ***Computer Music Journal v.14 n.1***.\
+* **Rubine, Dean and McAvinney, Paul**. 1990. Programmable Finger-tracking Instrument Controllers. ***Computer Music Journal v.14 n.1***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1990.bib)
 
-* **Knapp, R. Benjamin and Lusted, Hugh**. 1990. {A Bioelectric Controller for Computer Music Applications}. ***Computer Music Journal v.14 n.1***.\
+* **Knapp, R. Benjamin and Lusted, Hugh**. 1990. A Bioelectric Controller for Computer Music Applications. ***Computer Music Journal v.14 n.1***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1990.bib)
 
 N.2
-* **Chabot, Xavier**. 1990. {Gesture Interfaces and a Software Toolkit for Performance with Electronics}. ***Computer Music Journal v.14 n.2***.\
+* **Chabot, Xavier**. 1990. Gesture Interfaces and a Software Toolkit for Performance with Electronics. ***Computer Music Journal v.14 n.2***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1990.bib)
 
-* **Krefeld, Volker**. 1990. {The Hand in the Web: An Interview with Michel Waisvisz}. ***Computer Music Journal v.14 n.2***.\
+* **Krefeld, Volker**. 1990. The Hand in the Web: An Interview with Michel Waisvisz. ***Computer Music Journal v.14 n.2***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1990.bib)
 
-* **Cadoz, Claude and Lisowski, Leszek and Florens, Jean-Loup**. 1990. {A Modular Feedback Keyboard Design}. ***Computer Music Journal v.14 n.2***.\
+* **Cadoz, Claude and Lisowski, Leszek and Florens, Jean-Loup**. 1990. A Modular Feedback Keyboard Design. ***Computer Music Journal v.14 n.2***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1990.bib)
 
-* **Moog, Robert and Rhea, Thomas**. 1990. {Evolution of the Keyboard Interface: The Bösendorfer 290 SE Recording Piano and
-the Moog Multiply-Touch-Sensitive Keyboards}. ***Computer Music Journal v.14 n.2***.\
+* **Moog, Robert and Rhea, Thomas**. 1990. Evolution of the Keyboard Interface: The Bösendorfer 290 SE Recording Piano and
+the Moog Multiply-Touch-Sensitive Keyboards. ***Computer Music Journal v.14 n.2***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1990.bib)
 
 N.4
-* **Bosi, Marina **. 1990. {An Interactive Real-Time System for the Control of Sound Localization }. ***Computer Music Journal v.14 n.4***.\
+* **Bosi, Marina **. 1990. An Interactive Real-Time System for the Control of Sound Localization . ***Computer Music Journal v.14 n.4***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1990.bib)
 
 ### 1991 (Vol 15)
 
 N.1
-* **Tanaka, Atau**. 1991. {CyberArts International}. ***Computer Music Journal v.15 n.1***.\
+* **Tanaka, Atau**. 1991. CyberArts International. ***Computer Music Journal v.15 n.1***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1991.bib)
 
 N.3
-* **Pennycook, Bruce**. 1991. {Machine Songs II: The PRAESCIO Series - Composition-Driven Interactive
-Software}. ***Computer Music Journal v.15 n.3***.\
+* **Pennycook, Bruce**. 1991. Machine Songs II: The PRAESCIO Series - Composition-Driven Interactive
+Software. ***Computer Music Journal v.15 n.3***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1991.bib)
 
 N.4
-* **Mathews, Max V.**. 1991. {The Radio Baton and Conductor Program, or: Pitch, the Most Important and Least
-Expressive Part of Music}. ***Computer Music Journal v.15 n.4***.\
+* **Mathews, Max V.**. 1991. The Radio Baton and Conductor Program, or: Pitch, the Most Important and Least
+Expressive Part of Music. ***Computer Music Journal v.15 n.4***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1991.bib)
 
-* **Wessel, David L.**. 1991. {Instruments That Learn, Refined Controllers, Source Model Loudspeakers}. ***Computer Music Journal v.15 n.4***.\
+* **Wessel, David L.**. 1991. Instruments That Learn, Refined Controllers, Source Model Loudspeakers. ***Computer Music Journal v.15 n.4***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1991.bib)
 
 ### 1992 (Vol 16)
 
 N.1
-* **Bauer, Will and Foss, Bruce**. 1992. {GAMS: An Integrated Media Controller System}. ***Computer Music Journal v.16 n.1***.\
+* **Bauer, Will and Foss, Bruce**. 1992. GAMS: An Integrated Media Controller System. ***Computer Music Journal v.16 n.1***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1992.bib)
 
 N.3
-* **Czeiszpergerm Michael and Tanaka, Atau**. 1992. {CyberArts International }. ***Computer Music Journal v.16 n.3***.\
+* **Czeiszpergerm Michael and Tanaka, Atau**. 1992. CyberArts International. ***Computer Music Journal v.16 n.3***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1992.bib)
 
 ### 1994 (Vol 18)
 
 N.2
-* **Jaffe, David A. and Schloss, W. Andrew**. 1994. {The Computer-Extended Ensemble}. ***Computer Music Journal v.18 n.2***.\
+* **Jaffe, David A. and Schloss, W. Andrew**. 1994. The Computer-Extended Ensemble. ***Computer Music Journal v.18 n.2***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1994.bib)
 
 N.4
-* **Wright, Matthew**. 1994. {A Comparison of MIDI and ZIPI}. ***Computer Music Journal v.18 n.4***.\
+* **Wright, Matthew**. 1994. A Comparison of MIDI and ZIPI. ***Computer Music Journal v.18 n.4***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1994.bib)
 
 ### 1995 (Vol 19)
 
 N.2
-* **Van den Berghe, Guido and De Moor, Bart and Minten, Willem**. 1995. {Modeling a Grand Piano Key Action}. ***Computer Music Journal v.19 n.2***.\
+* **Van den Berghe, Guido and De Moor, Bart and Minten, Willem**. 1995. Modeling a Grand Piano Key Action. ***Computer Music Journal v.19 n.2***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1995.bib)
+
+### 1996 (Vol 20)
+
+N.3
+* **Hirano, Karl**. 1996. A Review of Electronic Musical Instruments. ***Computer Music Journal v.20 n.3***.\
+[<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1996.bib)
 
 ### 1997 (Vol 21)
 
 N.1
-* **Kroepfl, Francisco**. 1997. {Electronic Music: From Analog Control to Computers}. ***Computer Music Journal v.21 n.1***.\
+* **Kroepfl, Francisco**. 1997. Electronic Music: From Analog Control to Computers. ***Computer Music Journal v.21 n.1***.\
+[<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1997.bib)
+
+N.2
+* **Paradiso, Joseph A. and Gershenfeld, Neil**. 1997. Musical Applications of Electric Field Sensing. ***Computer Music Journal v.21 n.2***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1997.bib)
 
 ### 1998 (Vol 22)
 
-* **Bongers, Bert**. 1998. {An Interview with Sensorband}. ***Computer Music Journal v.22 n.1***.\
+N.1
+* **Bongers, Bert**. 1998. An Interview with Sensorband. ***Computer Music Journal v.22 n.1***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1998.bib)
 
-* **de Laubier, Serge**. 1998. {The Meta-Instrument}. ***Computer Music Journal v.22 n.1***.\
+* **de Laubier, Serge**. 1998. The Meta-Instrument. ***Computer Music Journal v.22 n.1***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1998.bib)
 
-* **Haken, Lippold and Tellman, Ed and Wolfe, Patrick**. 1998. {An Indiscrete Music Keyboard}. ***Computer Music Journal v.22 n.1***.\
+* **Haken, Lippold and Tellman, Ed and Wolfe, Patrick**. 1998. An Indiscrete Music Keyboard. ***Computer Music Journal v.22 n.1***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1998.bib)
 
 N.4
-* **Siegel, Wayne and Jacobsen, Jens**. 1998. {The Challenges of Interactive Dance: An Overview and Case Study}. ***Computer Music Journal v.22 n.4***.\
+* **Siegel, Wayne and Jacobsen, Jens**. 1998. The Challenges of Interactive Dance: An Overview and Case Study. ***Computer Music Journal v.22 n.4***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1998.bib)
 
 ### 2000 (Vol 24)
 
 N.1
 * **Camurri, Antonio and Hashimoto, Shuji and Ricchetti, Matteo and Ricci, Andrea
-and Suzuki, Kenji and Trocca, Riccardo and Volpe, Gualtiero**. 2000. {EyesWeb: Toward Gesture and Affect Recognition in Interactive Dance and Music
-Systems}. ***Computer Music Journal v.24 n.1***.\
+and Suzuki, Kenji and Trocca, Riccardo and Volpe, Gualtiero**. 2000. EyesWeb: Toward Gesture and Affect Recognition in Interactive Dance and Music
+Systems. ***Computer Music Journal v.24 n.1***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/2000.bib)
 
 ### 2001 (Vol 25)
 
 N.2
-* **Ystad, Sølvi and Voinier, Thierry**. 2001. {A Virtually Real Flute}. ***Computer Music Journal v.25 n.2***.\
+* **Ystad, Sølvi and Voinier, Thierry**. 2001. A Virtually Real Flute. ***Computer Music Journal v.25 n.2***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/2001.bib)
 
 * **Morales-Manzanares, Roberto and Morales, Eduardo F. and Dannenberg, Roger and
-Berger , Jonathan**. 2001. {SICIB: An Interactive Music Composition System Using Body Movements}. ***Computer Music Journal v.25 n.2***.\
+Berger , Jonathan**. 2001. SICIB: An Interactive Music Composition System Using Body Movements. ***Computer Music Journal v.25 n.2***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/2001.bib)
 
-* **Weinberg, Gil and Gan, Seum-Lim**. 2001. {The Squeezables: Toward an Expressive and Interdependent Multi-player Musical
-Instrument}. ***Computer Music Journal v.25 n.2***.\
+* **Weinberg, Gil and Gan, Seum-Lim**. 2001. The Squeezables: Toward an Expressive and Interdependent Multi-player Musical
+Instrument. ***Computer Music Journal v.25 n.2***.\
 [<kbd><br>Download PDF<br></kbd>]() <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/2001.bib)
 
 
