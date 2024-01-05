@@ -296,6 +296,9 @@ Instrument. ***Computer Music Journal v.25 n.2***.\
 * **J. F. Allouis and J. Y. Bernier**. 1982. The SYTER Project: Sound Processor Design and Software Overview. ***Proceedings of the International Computer Music Conference***.\
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1982.022/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1982.bib)
 
+* **M. De Loye**. 1982. Real-Time Control System for Digital Synthesizer. ***Proceedings of the International Computer Music Conference***.\
+[<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1982.023/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1982.bib)
+
 * **G. W. Swift and M. Yunik**. 1982. A Microprocessor Based Keyboard Instrument for Microtonal Music. ***Proceedings of the International Computer Music Conference***.\
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1982.046/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1982.bib)
 
@@ -785,6 +788,9 @@ Instrument. ***Computer Music Journal v.25 n.2***.\
 
 * **Nagashima Yoichi and Tono-Ito Tamami**. 1999. "It's SHO time" - An Interactive Environment for SHO(Sheng) Performance. ***Proceedings of the International Computer Music Conference***.\
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.331/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
+
+* **Anthony De Ritis**. 1999. Cathedral: An Interactive Work for the Web. ***Proceedings of the International Computer Music Conference***.\
+[<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.382/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
 
 * **Solvi Ystad and Thierry Voinier**. 1999. Design of a Flute Interface to Control Synthesis Models. ***Proceedings of the International Computer Music Conference***.\
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.383/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)

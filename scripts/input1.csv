@@ -1,0 +1,209 @@
+year,country,institution,city,page-range,authors,title
+1980,USA,Queens College,New York City,96-99,G. Federkow; W. Buxton; S. Patel; K. C. Smith,A microprocessor controlled clavier
+1980,USA,Queens College,New York City,100,W. Reeves; W. Buxton; G. Federkow; K. C. Smith; R. Baecker,A microprocessor-based conducting system
+1980,USA,Queens College,New York City,159-177,F. Richard Moore,Computer audio research laboratory report
+1980,USA,Queens College,New York City,565-573,Steve Levine; J. William Mauchly,THE Fairlight computer musical instrument
+1980,USA,Queens College,New York City,574-576,Michael Yantis,SBASS-1 features
+1980,USA,Queens College,New York City,583-594,Blair D. McKay; Barry L. Wills; David W. Carr,Polyphonic velocity-sensitive keyboard interface
+1980,USA,Queens College,New York City,595-606,Douglas J. Steele; Barry L. Wills,A microcomputer-based keyboard music system
+1981,USA,North Texas State University,Denton,196-212,Colin Banger; Bruce Pennycook,GCOMP : graphic control of mixing and processing
+1981,USA,North Texas State University,Denton,246-263,John Snell,Real-time console for live performance of computer music and for recording studios
+1981,USA,North Texas State University,Denton,283,Barton McLean,The Fairlight CMI and its uses in advanced laser graphics
+1981,USA,North Texas State University,Denton,285,Jeffrey S. Risberg,Evolution of interactive control and real-time synthesis in a digital music system
+1981,USA,North Texas State University,Denton,293-297,L. Sasaki; G. Fedorkow; W. Buxton; C. Retterath; K. C. Smith,A touch-sensitive input device
+1982,Italy,Bienalle Venice,Venedig,66-72,S. Sapir; R. Kronland-Martinet,Use of microprocessor in real-time synthesis of sounds
+1982,Italy,Bienalle Venice,Venedig,73-91,C. Cadoz; A.L Luciani; J. L. Florens; T. Berberyan,The control channels of instrumental playing in computer music - real time in computer music incidence on the choice of the basic models
+1982,Italy,Bienalle Venice,Venedig,188-193,C. Abbott,Remembering performance gestures
+1982,Italy,Bienalle Venice,Venedig,232-240,J. F. Allouis; J. Y. Bernier,The SYTER project : sound processor design and software overview
+1982,Italy,Bienalle Venice,Venedig,241-244,M. De Loye,Real-time control system for digital synthesizer
+1982,Italy,Bienalle Venice,Venedig,588-600,G. W. Swift; M. Yunik,A microprocessor based keyboard instrument for microtonal music
+1982,Italy,Bienalle Venice,Venedig,601-605,R. Moog,A multiply touch-sensitive clavier for computer music
+1983,USA,Eastman School of Music,Rochester,104-110,Gary Nelson; John Talbert,The alles machine revisited
+1983,USA,Eastman School of Music,Rochester,114-127,John Snell,Sensor for playing computer music with expression
+1983,USA,Eastman School of Music,Rochester,128-137,M. Yunik; M. Borys; G. W. Swift,A microprocessor based digital flute
+1983,USA,Eastman School of Music,Rochester,253-261,Werner Kaegi,The MIDIM system
+1983,USA,Eastman School of Music,Rochester,299-306,Joel Chadabe,Interactive composing
+1984,France,IRCAM,Paris,5-16,R. B. Dannenberg; P. Avinney,A functional approach to real-time control
+1984,France,IRCAM,Paris,25-34,F. Azzolini; S. Sapir,Score and/or gesture: The system RTI4I for real-time control of the processor 4I
+1984,France,IRCAM,Paris,199-200,B. Vercoe,The synthetic performer in the context of live performance
+1984,France,IRCAM,Paris,201-202,P. Jaffrennou; P. Jaubert; L. Champenois,SINFONIE: numerical process command with gestural input control
+1984,France,IRCAM,Paris,203-212,G. Young,Hugh Le Caine’s 1948 sackbut synthesizer: performance mode of electronic instruments
+1984,France,IRCAM,Paris,213-216,R. Teitelbaum,The digital piano and the patch control language system
+1985,Canada,Simon Fraser University,Burnaby,275-278,Barry Vercoe; Miller Puckette,Synthetic Rehearsal: Training the Synthetic Performer
+1985,Canada,Simon Fraser University,Burnaby,279-289,Joshua J. Bloch; Roger B. Dannenberg,Real-Time Computer Accompaniment of Keyboard Performances
+1985,Canada,Simon Fraser University,Burnaby,291-295,Eric Johnstone,The ROLKY: A Poly-Touch Controller For Electronic Music
+1985,Canada,Simon Fraser University,Burnaby,313-318,Michel Waisvisz,The HANDS; a Set of Remote MIDI-Controllers
+1985,Canada,Simon Fraser University,Burnaby,325-328,Daniel Arfib,Man-Machine Dialog Using MIDI Files
+1985,Canada,Simon Fraser University,Burnaby,329-330,Ross Gillett; Kenneth C. Smith; Bob Pritchard,MADDM - Dance-Directed Music
+1985,Canada,Simon Fraser University,Burnaby,331-335,Giovanni B. Debiasi,M.I.N.I. (Musical Instruments Numerical Interface)
+1985,Canada,Simon Fraser University,Burnaby,337-339,Ron Kuivila,Untitled: An Interactive Installation
+1986,Netherlands,Royal Conservatory,Den Haag,65-70,Jean-Loup Florens; Aime Razafindrakoto; Annie Luciani; Claude Cadoz,Optimized Real Time Simulation of Objects for Musical Synthesis and Animated Image Synthesis
+1986,Netherlands,Royal Conservatory,Den Haag,95-97,Philippe Prevot,Tele-detection and Large Dimension Gestual Control
+1986,Netherlands,Royal Conservatory,Den Haag,99-100,J. C. Radier; Ch. Deforeit; D. Provost,A User Friendly Synthesizer by Means of a Touch Input Wide LCD Graphic Display
+1986,Netherlands,Royal Conservatory,Den Haag,237-239,P.-F. Baisnee; J.B. Barriere; O. Koechlin; R. Rowe,Real-Time Interaction between Musicians and Computer: Live Performance Utilisations of the 4X Musical Workstation
+1986,Netherlands,Royal Conservatory,Den Haag,423-426,Michel Starkier; Philippe Prevot,Real-Time Gestural Control
+1987,USA,University of Illinois,Champaign/Urbana,104-105,Fernando Lopez-Lezcano,PadMaster: an improvisation environment for real time performance
+1987,USA,University of Illinois,Champaign/Urbana,130-137,John M. Snell,General-purpose Hi-fidelity Affordable Real-time Computer Music System
+1987,USA,University of Illinois,Champaign/Urbana,212-219,Gary Grossman,Instruments Cybernetics and Computer Music
+1988,Germany,GIMIK,Köln,1-12,Claude Cadoz,Instrumental gesture and musical composition
+1988,Germany,GIMIK,Köln,15-19,D. J. Collinge; S. M. Parkinson,The Oculus Ranae
+1988,Germany,GIMIK,Köln,28-40,Sylvie Gibet, Jean-Loup Florens,Machine Recognition of Music Information Composition Systems and Techniques Instrumental Gesture Modeling by Identification with Time-Varying Mechanical Models
+1988,Germany,GIMIK,Köln,49-55,Rubine Dean, Paul McAvinney,The VideoHarp
+1988,Germany,GIMIK,Köln,90-99,Jean-Michel Raczinski, Gerard Marino,A Real-Time Synthesis Unit
+1989,USA,Ohio State University,Columbus,1-4,Kristi Allik,The Interactive Arts System: Introduction to a Real-Time Performance Tool
+1989,USA,Ohio State University,Columbus,65-68,Xavier Chabot,Performance with Electronics: Gesture Interfaces and Software Toolkit
+1989,USA,Ohio State University,Columbus,101-104,Arnie Eigenfeldt,Contour: A Real-Time MIDI System Based on Gestural Input
+1989,USA,Ohio State University,Columbus,151-154,David Keane, Peter Gross,The Midi Baton
+1989,USA,Ohio State University,Columbus,155-159,Gregory Kramer, Robert Moog, Alan Peevers,The Hybrid: A Music Performance System
+1989,USA,Ohio State University,Columbus,184-185,George W. Logemman,Experiments with a Gestural Controller
+1989,USA,Ohio State University,Columbus,186-190,Tod Machover,Hyperinstruments: Musically Intelligent and Interactive Performance and Creativity Systems
+1989,USA,Ohio State University,Columbus,191-198,Toshiaki Matsushima, Sadamu Ohteru, Shuji Hashimoto,An Integrated Music Information Processing System: PSB-er
+1989,USA,Ohio State University,Columbus,207-210,H. Morita, S. Ohteru, S. Hashimoto,Computer Music System which Follows a Human Conductor
+1989,USA,Ohio State University,Columbus,211-214,Dexter Morrill, Perry R. Cook,Hardware, Software, and Compositional Tools for Real Time Improvised Solo Trumpet Work
+1990,United Kingdom,University of Glasgow,Glasgow,53-56,Claude Cadoz; Christophe Ramstein,Capture; Representation; and 'Composition' of the Instrumental Gesture
+1990,United Kingdom,University of Glasgow,Glasgow,75-78,Jean-Loup Florens; Claude Cadoz,Modular Modelisation and Stimulation of the Instrument
+1990,United Kingdom,University of Glasgow,Glasgow,112-114,Marina Bosi,An Interactive Real-time System for the Control of Sound Localization
+1990,United Kingdom,University of Glasgow,Glasgow,245-248,Michael McNabb,Ensemble: An Extensible Real-time Music Performance Environment
+1990,United Kingdom,University of Glasgow,Glasgow,249-252,Gerard Marino; Jean-Michel Raczinski; Marie-Helene Serra,The New UPIC System
+1990,United Kingdom,University of Glasgow,Glasgow,332-334,Hideyuki Morita; Hiroshi Watanabe; Tsumotu Harada; Sadamu Ohteru; Shuji Watanabe,Knowledge Information Processing in Conducting Computer Music Performer
+1990,United Kingdom,University of Glasgow,Glasgow,379-382,Claude Cadoz; Leszek Lisowski; Jean-Loup Florens,Modular Feedback Keyboard
+1990,United Kingdom,University of Glasgow,Glasgow,392-394,Andy Hunt; Ross Kirk; Richard Orton,MIDIGRID: An Innovative Computer-based and Composition System
+1990,United Kingdom,University of Glasgow,Glasgow,395-397,Alistair M. Riddell,A Meta-Action for the Grand Piano
+1990,United Kingdom,University of Glasgow,Glasgow,398-400,W. Andrew Schloss,Recent Advances in the Coupling of the Language MAX with the Matthew-Boie Radio Drum
+1991,Canada,McGill University,Montréal,123-126,Eric Johnstone,A MIDI foot controller - the podoboard
+1991,Canada,McGill University,Montréal,289-292,Akio Sato; Tsutomu Harada; Shuji Hashimoto; Sadamu Ohteru,Singing and playing in musical virtual space
+1991,Canada,McGill University,Montréal,297-299,Perry R. Cook,Tbone: an interactive waveguide brass instrument synthesis workbench for the NeXT machine
+1991,Canada,McGill University,Montréal,404-407,Pauline Oliveros,The expanded instrument system (EIS)
+1991,Canada,McGill University,Montréal,471-474,Louis-Philippe Demers,A performance instrument for lighting
+1991,Canada,McGill University,Montréal,537-540,Roger B. Dannenberg; Kenneth Bookstein,Practical aspects of a MIDI conducting system
+1991,Canada,McGill University,Montréal,541-544,David Keane; Kevin Wood,The MIDI baton III
+1991,Canada,McGill University,Montréal,567-570,J. M. Raczinski,New UPIC system demonstration
+1992,USA,San Jose State University,San Jose,1,Max Mathews,My view of the future of real-time computer music
+1992,USA,San Jose State University,San Jose,73-76,Graziano Bertini, Paolo Carosi,The light baton: a system for conducting computer music performance
+1992,USA,San Jose State University,San Jose,77-80,Brent Gillespie,Dynamical modeling of the grand piano action
+1992,USA,San Jose State University,San Jose,81-84,Lippold Haken, Radi Abdullah, Mark Smart,The continuum: a continuous music keyboard
+1992,USA,San Jose State University,San Jose,85-88,Tsutomu Harada, Akio Sato, Shuji Hashimoto, Sadamu Ohteru,Real time control of 3D sound space by gesture
+1992,USA,San Jose State University,San Jose,89-92,Randy C. Marchany, Joseph G. Tront,A programmable MIDI instrument controller emulating a hammer dulcimer
+1992,USA,San Jose State University,San Jose,93-96,Emile Tobenfeld,A system for computer assisted gestural improvisation
+1992,USA,San Jose State University,San Jose,198-201,Koji Kusu, Masaoki Ino, Donguk Skin, Shuji Hashimoto, Sadama Ohteru,Computer noh system
+1992,USA,San Jose State University,San Jose,269-272,David A. Jaffe, W. Andrew Schloss,The making of 'Wildlife': species of interaction
+1992,USA,San Jose State University,San Jose,273-276,Perry R. Cook,A meta-wind-instrument physical model, and a meta-controller for real-time performance control
+1992,USA,San Jose State University,San Jose,277-280,Michael Lee, David Wessel,Connectionist models for real-time control of synthesis and compositional algorithms
+1992,USA,San Jose State University,San Jose,325-328,Joel Ryan,The STEIM studio report
+1992,USA,San Jose State University,San Jose,360-361,Mark Bolas, Phil Stone,Virtual mutant Theremin
+1992,USA,San Jose State University,San Jose,366-367,Brad Cariou,Design of an alternative controller from an industrial design perspective
+1992,USA,San Jose State University,San Jose,379-380,Peter W. Farrett,A system for acquiring a composer's actions
+1992,USA,San Jose State University,San Jose,414-416,Joel Ryan,Effort and expression
+1992,USA,San Jose State University,San Jose,447-448,Brent Gillespie,Touch back keyboard
+1992,USA,San Jose State University,San Jose,454-455,Michael Lee, Guy Garnett, David Wessel,An adaptive conductor follower
+1992,USA,San Jose State University,San Jose,459-460,Bruce Pennycook, Eric Johnstone,A remote messaging device for interactive performance
+1992,USA,San Jose State University,San Jose,461,Jean-Michel Raczinski,UPIC demonstration
+1992,USA,San Jose State University,San Jose,478-481,David Keane,SOUND LODGE: a touch-sensitive, interactive sound installation
+1993,Japan,Waseda University,Tokyo,76-79,Chris Chafe,Tactile Audio Feedback
+1993,Japan,Waseda University,Tokyo,124-126,Atau Tanaka,Musical Technical Issues in Using Interactive Instrument Technology with Application to the BioMuse
+1993,Japan,Waseda University,Tokyo,127-129,Tsutomu Kanamori; Haruhiro Katayose; Satosi Simura; Seiji Inokuchi,Gesture Sensor in Virtual Performer
+1993,Japan,Waseda University,Tokyo,130-133,Perry Cook; Dexter Morrill; Julius O. Smith,A MIDI Control and Performance System for Brass Instruments
+1993,Japan,Waseda University,Tokyo,134-137,Miller Puckette; Zack Settel,Non-obvious roles for electronics in performance enhancement
+1993,Japan,Waseda University,Tokyo,138-145,Haruhro Katayose; Tsutomu Kanamori; Katsuyuki Kamei; Yoichi Nagashima; Kosuke Sato; Seiji Inokuchi; Satosi Simura,Virtual Performer
+1993,Japan,Waseda University,Tokyo,150-153,Wataru Inoue; Shuji Hashimoto; Sadamu Ohteru,A Computer Music System for Human Singing
+1993,Japan,Waseda University,Tokyo,426-427,Eiji Hayashi; Tatuya Ishikawa; Masami Yamane,The Development of a Piano Player
+1993,Japan,Waseda University,Tokyo,428-429,Koichi Sekiguchi; Ryoji Amemiya; Hiroshi Kubota; Masami Yamane,The Development of an Automatic Drum Playing Device
+1993,Japan,Waseda University,Tokyo,430-431,Hirohisa Ohta; Hiroshi Akita; Motomu Ohtani; Satosi Ishicado; Masami Yamane,The Development of an Automatic Bagpipe Playing Device
+1994,Denmark,DIEM: Danish Institute of Electroacoustic Music,Århus,147-150,Jonathan Impett,A Meta-Trumpet(er)
+1994,Denmark,DIEM: Danish Institute of Electroacoustic Music,Århus,151-158,Pitoyo Hartono, Kazumi Asano, Wataru Inoue, Shuji Hashimoto,Adaptive Timbre Control Using Gesture
+1994,Denmark,DIEM: Danish Institute of Electroacoustic Music,Århus,159-162,Roel Vertegaal, Barry Eaglestone, Clarke Michael,An Evaluation of Input Devices for Use in the ISEE Human-Synthesizer Interface
+1994,Denmark,DIEM: Danish Institute of Electroacoustic Music,Århus,163-166,Brad Cariou,The aXī MIDI Controller
+1994,Denmark,DIEM: Danish Institute of Electroacoustic Music,Århus,167-170,Brent Gillespie,The Virtual Piano Action: Design and Implementation
+1994,Denmark,DIEM: Danish Institute of Electroacoustic Music,Århus,171-174,Bert Bongers,The Use of Active Tactile and Force Feedback in Timbre Controlling Electronic Instruments
+1994,Denmark,DIEM: Danish Institute of Electroacoustic Music,Århus,175-176,Stuart Favilla,Live Performance and Virtuosic Pitch-Bend Technique for the Synthesizer
+1994,Denmark,DIEM: Danish Institute of Electroacoustic Music,Århus,177-180,Stuart Favilla,The LDR controler
+1994,Denmark,DIEM: Danish Institute of Electroacoustic Music,Århus,183-184,Tim Anderson, Debbie Hearn,Using Hyper-Instruments for the re-distribution of the performance control interface
+1994,Denmark,DIEM: Danish Institute of Electroacoustic Music,Århus,192-195,David A. Jaffe, W. Andrew Schloss,A Virtual Piano Concerto Coupling of the Mathews/Boie Radio Drum and the Yamaha Disklavier Grand Piano in 'The Seven Wonders of the Ancient World'
+1994,Denmark,DIEM: Danish Institute of Electroacoustic Music,Århus,196-199,Haruyose Katayose, Tsutomu Kanamori, Satosi Simura, Seiji Inokuchi,Demonstration of Gesture Sensors for the Shakuhachi
+1994,Denmark,DIEM: Danish Institute of Electroacoustic Music,Århus,200-201,Steven Curtin,The SoundLab: a wearable computer music instrument
+1995,Canada,Banff Centre for Arts,Banff,104-105,Fernando Lopez-Lezcano,PadMaster : an improvisation environment for real-time performance
+1995,Canada,Banff Centre for Arts,Banff,106-107,Yushi Aono; Haruhiro Katayose and Seiji Inokuchi,An Improvisational Accompaniment System Observing Performer’s Musical Gesture
+1995,Canada,Banff Centre for Arts,Banff,183-184,Brad Cariou,Vidolin; Alvise A Demonstration of the aXiØ Controller
+1995,Canada,Banff Centre for Arts,Banff,185-186,Bennett Brecht and Guy E. Garnett,Conductor Follower
+1995,Canada,Banff Centre for Arts,Banff,223.,Harold Fortuin,The Clavette: A Generalized Microtonal MIDI Keyboard Controller
+1995,Canada,Banff Centre for Arts,Banff,224-225,Russell Pinkston; Jim Kerkhoff and Mark McQuilken,A Touch Sensitive Dance Floor/MIDI Controller
+1995,Canada,Banff Centre for Arts,Banff,245-252,Antonio Camurri,Interactive Dance/Music Systems
+1995,Canada,Banff Centre for Arts,Banff,253-256,Roel Vertegaal and Tamas Ungvary,The Sentograph: Input Devices and the Communication of Bodily Expression
+1995,Canada,Banff Centre for Arts,Banff,257-260,Hideyuki Sawada; Shin'ya Ohkura and ShujiMaking Hashimoto,Gesture Analysis Using 3- D Acceleration Sensor for Music Control
+1995,Canada,Banff Centre for Arts,Banff,261-264,Todd Winkler;,Motion Musical: Gesture Mapping Strategies for Interactive Computer Music
+1995,Canada,Banff Centre for Arts,Banff,265-268,Tsutomu Kanamori; Haruhiro Katayose; Yushi Aono; Seiji Inokuchi and Takasi Sakaguchi,Sensor Integration for Interactive Digital Art
+1995,Canada,Banff Centre for Arts,Banff,315-318,Todor Todoroff,Real-Time Granular Morphing and Spatialisation of Sounds With Gestual Control Within MAX/FTS
+1995,Canada,Banff Centre for Arts,Banff,491-492,Mark A. Bromwich,A Single Performer Controlled Interface for Electronic Fance/Music Theatre
+1995,Canada,Banff Centre for Arts,Banff,531-532,Claude Cadoz; Jean-Loup Florens and Annie Luciani,Musical Sounds; Animated Images with CORDIS-ANIMA and its Multimodal Interfaces
+1995,Canada,Banff Centre for Arts,Banff,589.,Joel Chadabe,Interactive Performance
+1995,Canada,Banff Centre for Arts,Banff,595-596,Ross Kirk; Andy Hunt and Richard Orton,Audio-Visual Instruments in Live Performance
+year,country,institution,city,page-range,authors,title
+1996,China,Hong Kong University of Science and Technology,Hong Kong,57-58,Lonny Chu,Haptic feedback in a computer music performance interface
+1996,China,Hong Kong University of Science and Technology,Hong Kong,89-92,Stuart Favilla,Non-linear controlled mapping for gestural control of gamaka
+1996,China,Hong Kong University of Science and Technology,Hong Kong,116-117,Cort Lippe,A look at performer/machine interaction using real-time systems
+1996,China,Hong Kong University of Science and Technology,Hong Kong,173-176,Haruhiro Katayose; Tsutomu Kanamori and Seiji Inokushi,An environment for interactive art- sensor integration and applications
+1996,China,Hong Kong University of Science and Technology,Hong Kong,305-307,Forrest Tobey and Ichiro Fujinaga,Extraction of conducting gesture in 3D space
+1996,China,Hong Kong University of Science and Technology,Hong Kong,308-311,Roel Vertegaal; Tamas Ungary and Michael Kieslinger,Towards a musician’s cockpit : Transducers; feedback and musical function
+1996,China,Hong Kong University of Science and Technology,Hong Kong,421-424,Hideyuki Sawada; Naoyuki Onoe and Shuji Hashimoto,Acceleration sensor as an input device for musical environment
+1996,China,Hong Kong University of Science and Technology,Hong Kong,425-427,Fernando Lopez-Lezcano,PadMaster : Banging on algorithms with alternative controllers
+1996,China,Hong Kong University of Science and Technology,Hong Kong,428-431,Chris Chafe and Sile O’Modhrain,Musical muscle memory and the Harpic display of performance nuance
+1996,China,Hong Kong University of Science and Technology,Hong Kong,444-447,Hideyuki Sawada and Shuji Hashimoto,Adaptive control of a vocal chord and vocal tract for computerized mechanical singing instruments
+1997,Greece,Aristote University of Thessaloniki,Thessaloniki,141-144,Nicola Orio,A gesture interface controlled by the oral cavity
+1997,Greece,Aristote University of Thessaloniki,Thessaloniki,309-312,Hideyuki Sawada; Naoyuki Onoe; Shuji Hashimoto,Sounds in hands
+1997,Greece,Aristote University of Thessaloniki,Thessaloniki,313-316,Teresa Marrin; Joseph Paradiso,The digital baton : a versatile performance instrument
+1997,Greece,Aristote University of Thessaloniki,Thessaloniki,321-324,Maura Sile O'Modhrain,Feel the music : narration in touch and sound
+1997,Greece,Aristote University of Thessaloniki,Thessaloniki,375-378,Lippold Haken; Kelly Fitz; Ed Tellman; Patrick Wolfe; Paul Christensen,A continous music keyboard controlling polyphonic morphing using bandwidth-enhanced oscillators
+1997,Greece,Aristote University of Thessaloniki,Thessaloniki,387-390,Matthew Wright; David Wessel; Audrain Freed,New musical control structures from standard gestual controllers
+1997,Greece,Aristote University of Thessaloniki,Thessaloniki,395-398,Richard Boulanger; Max Mathews,The 1997 Mathews' radio baton and improvisation modes
+1997,Greece,Aristote University of Thessaloniki,Thessaloniki,403-407,Dionysios V. Politis; Ioannis A. Tsoukalas; Panagiotis Linardis; Alexandros Bakalakos,VIDI: a voice instrument digital interface of Byzantine music
+1997,Greece,Aristote University of Thessaloniki,Thessaloniki,473-475,Marc Alexander Bromwich,The metabone : an interactive sensory control mechanism for virtuoso trombone
+1997,Greece,Aristote University of Thessaloniki,Thessaloniki,476-478,Haruhiro Katayose; Hirotsugu Shirakabe; Tsutomu Kanamori; Seiji Inokuchi,A toolkit for interactive digital art
+1998,USA,University of Michigan,Ann Arbor,25-32,Satoshi Usa; Yasunori Mochida,A multi-modal conducting simulator
+1998,USA,University of Michigan,Ann Arbor,33-36,Giovanni Costantini; Nottoli Giorgio,A new interactive performance system for real-time sound synthesis
+1998,USA,University of Michigan,Ann Arbor,129-132,Yoichi Nagashima,BioSensorFusion : new interfaces for interactive multimedia art
+1998,USA,University of Michigan,Ann Arbor,211-214,Haruhiro Katayose; Shigeyuki Hirai; Tsutomu Kanamoni,Physiological measurement of performer's tension and its utilization for media control
+1998,USA,University of Michigan,Ann Arbor,215-219,Teresa Marrin; Rosalind Picard,"The ""conductor's Jacket"" : a device for recording expressive musical gestures"
+1998,USA,University of Michigan,Ann Arbor,220-223,Adrian Freed; David Wessel,Communication of musical gesture using the AES/EBU digital audio standard
+1998,USA,University of Michigan,Ann Arbor,224-227,Matthew Wright,Implementation and performance issues with OpenSound control
+1998,USA,University of Michigan,Ann Arbor,288-291,Leonello Tarabella; Massimo Magrini,A system for recognizing shape; position and rotation of the hands
+1998,USA,University of Michigan,Ann Arbor,292-295,Mark Bromwich; Julie Wilson-Bokowiec,Bodycoder's : a sensor suit and vocal performance mechanism for real-time performance
+1998,USA,University of Michigan,Ann Arbor,328-331,Atsuo Takanishi; Manabu Maeda,Development of an anthropomorphic flutist robot WF- 3RIV
+1998,USA,University of Michigan,Ann Arbor,353-356,Perry Cook; Daniel Trueman,NBody : interactive multidirectional musical instrument body radiation simulators; and a database of measured impulse resonses
+1998,USA,University of Michigan,Ann Arbor,357-360,David Gamper; Pauline Oliveros,Expended instrument system : recent development
+1998,USA,University of Michigan,Ann Arbor,471-474,Todd Winkler,Motion-sensing music : artistic and technical challenges in two works for dance
+1998,USA,University of Michigan,Ann Arbor,475-481,Niall Griffith; Mikael Fernstrom,LiveFoot
+1998,USA,University of Michigan,Ann Arbor,514-517,Shigeyuki Hirai; Haruhiro Katayose; Tsutomu Kanamori,Software sensors for interactive digital art
+1998,USA,University of Michigan,Ann Arbor,518-526,Jean-Loup Florens; Claude Cadoz; Annie Lucianni,A real-time workstation for complex physical models of multi-sensorial and gesturally controlled instrumants
+1999,China,,Beijing,24-27,Kai-yuh Hsiao; Joseph Paradiso,A new continuous multimodal musical controller using wireless magnetic tags
+1999,China,,Beijing,28-31,Paul Modler; Ross Kirk,Evaluation of architecture for sound generation systems with respect to interactive gestural control and realtime performance
+1999,China,,Beijing,32-35,Nagashima Yoichi; Tono-Ito Tamami,"""It's SHO time"""
+1999,China,,Beijing,224-227,Anthony De Ritis,Cathedral : an interactive work for the web
+1999,China,,Beijing,228-231,Solvi Ystad; Thierry Voinier,Design of a flute interface to control synthesis models
+1999,China,,Beijing,232-239,Den Trueman; Perry Cook,BoSSA : the deconstructed violin reconstructed
+1999,China,,Beijing,268-271,Guy Garnett; Camille Goudeseume,Performance factors in control of hight-dimentional spaces
+1999,China,,Beijing,276-277,Wayne Siegel; Jens Jacobsen,Composing for the digital dance interface
+1999,China,,Beijing,367-370,Tommi Ilmonen; Tapio Takala,Conductor following with artificial neural networks
+1999,China,,Beijing,371-374,Guy Garnett; Fernando Malvar-Ruiz; Fred Stoltzfus,Virtual conducting practice environment
+1999,China,,Beijing,375-378,Stefania Serafin; Xavier Rodet; Richard Dudas; Marcelo Wanderley,Gestural control of a real-time physical model of a bowed string instrument
+1999,China,,Beijing,391-394,Nicola Orio,The timbre space of the classical guitar and its relationship with the plucking techniques
+1999,China,,Beijing,407-410,Kenji Suzuki; Takeshi Ohashi; Shuji Hashimoto,Interactive multimodal mobile robot for musical performance
+1999,China,,Beijing,418-421,Marcelo Wanderley; Philippe Depalle; Olivier Warufel,Improving instrumental sound synthesis by modeling the effects of performer gesture
+1999,China,,Beijing,449-452,Lonny Chu,MusiCloth : a design methodology for the development of a performance interface
+1999,China,,Beijing,453-456,Joseph Paradiso; Eric Hu; Kai-Yuh Hsiao,Interactive music for instrumented dancing shoes
+1999,China,,Beijing,519-522,Atau Tanaka,Network audio performance and installation
+2000,Germany,,Berlin,66-69,M. Sile O'Modhrain; Stefania Srafin; Chris Chafe; Julius O. Smith,Qualitative and quantitative assessment of a virtual bowed string instrument
+2000,Germany,,Berlin,137-140,Todd Winkler,Participation and response in movement-sensing installations
+2000,Germany,,Berlin,141-144,Insook Choi; Geoffrey Zheng; Ken Cheng,Embedding a sensory data retrieval system in a movement-sensitive space and a surround sound system
+2000,Germany,,Berlin,145-148,M. Sile O'Modhrain; Chris Chafe,The performer-instrument interaction : a sensory motor perspective
+2000,Germany,,Berlin,244-247,Marcelo M. Wanderley; Jean-Philippe Viollet Fabrice Isart; Xavier Rodet,On the choice of transducer technologies for specific musical functions
+2000,Germany,,Berlin,248-251,Dan Trueman; Curtis Bahn; Perry R. Cook,Alternative voices for electronic sound : spherical speakers and sensor-speaker arrays (SenSAs)
+2000,Germany,,Berlin,262-265,Antonio Camurri; Paolo Coletta; Massimiliano Peri; Matteo Ricchetti; Andrea Ricci; Riccardo Trocca; Gualtiero Volpe,A real-time platform for interactive dance and music systems
+2000,Germany,,Berlin,274-276,Charles Nichols,The vBow : a haptic musical controller human-computer interface
+2000,Germany,,Berlin,277-280,Joseph A. Paradiso; Kai-Yuh Hsio; Joshua Strickon; Peter Rice,New sensor and music systems for large interactive surfaces
+2000,Germany,,Berlin,485-488,Kia Ng; Sita Popat; Bee Ong; Ewan Stefani; Kris Ppat; David Cooper,Trans-domain mapping : areal-time interactive system for motion acquisition and musical mapping
+2000,Germany,,Berlin,511-514,Andrei Smirnov,Music and gesture : sensor technologies in interactive music and the Theremin based space control systems
+2000,Germany,,Berlin,515-516,Adrian Freed; Rimas Avizienis,A new music Keyboard with continous key-position sensing and high-speed communication
+2000,Germany,,Berlin,519-522,Perry R. Cook; Colby N. Leider,SqueezeVox : a new controller for vocal synthesis models
+2000,Germany,,Berlin,539-542,Kenji Suzuki; Keishiro Tabe; Shuji Hashimoto,A mobile robot platform for music and dance performance
+2000,Germany,,Berlin,543-546,Adrian Freed; Osman Isvan,Musical applications of new; multi-axis guitar string sensors
+2000,Germany,,Berlin,551-554,Tomoko Yonezawa; Kenji Mase,Tangible sound : musical instrument using fluid media
