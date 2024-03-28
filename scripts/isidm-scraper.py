@@ -98,7 +98,7 @@ type_list: RefTypes = {
         Gen_Case= "TBD"
     ),
     "Book" : RefType(
-        Names= ["Prentice Hall", "MIT"],
+        Names= ["Prentice Hall", "MIT", "Presses de l'Université du Québec", "Music Processing"],
         Gen_Case= "Press"
     ),
     "Other" : RefType(
@@ -151,34 +151,37 @@ def main():
         # Used to visualize the data and see if anything was not extracted well
         # df_references.to_excel("../ISIDM/references.xlsx")
 
+# Sorter
+    #Initially load the data from it's pickle
     data : pd.DataFrame = pd.read_pickle("../ISIDM/references.pkl")
+    
+    
+    # Iterates through the rows and matches the references to a type or reference and their organization
     sorted_reference = []
     for index, row in data.iterrows():
         sorted_reference.append(ref_sorter(row['references'] ,type_list))
-        print(sorted_reference)
+        # print(sorted_reference)
+    # turnes the set of tuples into a DataFrame
     ref_types_orgs = pd.DataFrame(sorted_reference)
-    
+    # Joins it with the core data
     data = data.join(ref_types_orgs)
-    print(data)
-    # for ref in references:
-    #         sorted_reference.append(ref_sorter(ref ,type_list))
-    # df = pd.DataFrame(sorted_reference)
-    # print(df)
 
-    # with open("../ISIDM/ISIDM_references.json", "w", encoding='utf8') as file:
-        
-            
-    #         # json.dump(sorted_reference, file,ensure_ascii=False,  indent = 4)
-            
-    # file.close()
+
+    nIME_references = []
+    for indeX, row in data.iterrows():
+        if (row['org'] == "NIME"):
+            nIME_references.append(row)
+            data.drop(indeX,axis=0,inplace=True)
     
+    data.to_pickle("../ISIDM/sorted_references.pkl")
+    data.to_excel("../ISIDM/sorted_references.xlsx")
+    nIME_references = pd.DataFrame(nIME_references)
 
-        
-    # SECTION: SORTING REFERENCES 
-    # Code must be updated to take into concideration an absolute path, or have it depend on where the user wants the folder.
-        
 
-#    
+
+    print(data)
+    print(nIME_references)
+    
         
     
         
