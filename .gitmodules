@@ -1,0 +1,3 @@
+[submodule "off-nime"]
+	path = off-nime
+	url = https://github.com/IDMIL/off-nime
