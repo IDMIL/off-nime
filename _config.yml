@@ -33,6 +33,10 @@ plugins: ['jekyll/scholar']
 scholar:
   source: "./off-nime"
   bibliography: "**/*.bib"
+  bibliography_list_tag: "tbody"
+  bibliography_item_tag: "tr"
+  bibliography_template: "bibliography_table_row"
+  sort_by: "year"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

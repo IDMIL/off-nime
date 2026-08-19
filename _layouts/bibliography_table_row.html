@@ -1,0 +1,7 @@
+<td>{{ entry.year }}</td>
+<td>{{ entry.journal | default: entry.booktitle }}</td>
+<td>{{ entry.author }}</td>
+<td>{{ entry.title }}</td>
+<td>{{ entry.pages }}</td>
+<td><a href="{{ entry.url }}">Link</a></td>
+<td><button onclick="generateAndDownloadBibtex(`{{ entry.bibtex }}`)">Download</button></td>
