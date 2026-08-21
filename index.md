@@ -7,7 +7,7 @@ layout: page
 
 # Off-NIME: NIME papers, chapters and books published outside of the NIME Conference Proceedings
 
-# How to use this resource
+## How to use this resource
 
 A table of Off-NIME materials has been provided below. The URL column links to a stable host of the material, and the BibTeX column allows you to download the citation as a BibTeX .bib file. 
 

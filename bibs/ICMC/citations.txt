@@ -1,0 +1,389 @@
+PROCEEDINGS OF THE SECOND ANNUAL MUSIC COMPUTATION CONFERENCE 1975,
+University of Illinois, Urbana-Champaign, Illinois, USA
+7-10 - Joel Chadabe - System Composing
+54-78 - David Rosenboom - A model for detection and analysis of information processing
+modalities in the nervous system through an adaptative, interactive, computerized, electronic
+music instrument
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1977,
+University of California at San Diego, San Diego, California, USA
+10-18 - P. Dworak and A. Parker - Envelope control with an optical keyboard
+195-196 - M. Yantis - A microprocessor-based live performance instrument
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1978,
+Northwestern University, Evanston, Illinois, USA
+5-25 - H.G. Alles - An inexpensive digital sound synthesizer
+46-56 - William Buxton, E.A. Fogels, Guy Fedorkow, Lawrence Sasaki, and K.C. Smith - An
+introduction to SSSP digital synthesizer
+108-118 - Nelson Bridwell - Interactive synthesis without obscure diagnostics
+471-485 - W. Buxton, G. Fedorkow, R.Baecer, W. Reeves, K.C. Smith, G.Ciamaga and L.Mezei - An overview of the structures sound synthesis project
+637-344 - Charles G. Boody - The microcomputer as an input device for music analysis or
+composition by computer
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1980,
+Queens College, New York City, USA
+96-99 - G. Federkow, W. Buxton, S. Patel and K. C. Smith - A microprocessor controlled
+clavier
+100. - W. Reeves, W. Buxton, G. Federkow, K. C. Smith and R. Baecker - A microprocessor-
+based conducting system
+159-177 - F. Richard Moore - Computer audio research laboratory report
+565-573 - Steve Levine and J. William Mauchly - THE Fairlight computer musical instrument
+574-576 - Michael Yantis - SBASS-1 features
+583-594 - Blair D. McKay, Barry L. Wills and David W. Carr - Polyphonic velocity-sensitive
+keyboard interface
+595-606 - Douglas J. Steele and Barry L. Wills - A microcomputer-based keyboard music
+system
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1981,
+North Texas State Unversity, Denton, Texas, USA
+196-212 - Colin Banger and Bruce Pennycook - GCOMP : graphic control of mixing and
+processing
+246-263 - John Snell - Real-time console for live performance of computer music and for
+recording studios
+283. - Barton McLean - The Fairlight CMI and its uses in advanced laser graphics
+285. - Jeffrey S. Risberg - Evolution of interactive control and rel-time synthesis in a digital
+music system
+293-297 - L. Sasaki, G. Fedorkow, W. Buxton, C. Retterath and K. C. Smith - A touch-
+sensitive input device
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1982,
+Bienalle Venice, Venedig, Italy
+66-72 - S. Sapir and R. Kronland-Martinet - Use of microprocessor in real-time synthesis of
+sounds
+73-91 - C. Cadoz, A.L Luciani, J. L. Florens and T. Berberyan - The control channels of
+instrumental playing in computer music – real time in computer music incidence on the choice of
+the basic models
+188-193 - C. Abbott - Remembering performance gestures
+232-240 - J. F. Allouis and J. Y. Bernier - The SYTER project : sound processor design and
+software overview
+241-244 - M. De Loye - Real-time control system for digital synthesizer
+588-600 - G. W. Swift and M. Yunik - A microprocessor based keyboard instrument for
+microtonal music
+601-605 - R. Moog - A multiply touch-sensitive clavier for computer music
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1983,
+Eastman School of Music, Rochester, New York, USA
+104-110 - Gary Nelson and John Talbert - The alles machine revisited
+114-127 - John Snell - Sensor for playing compute music with expression
+128-137 - M. Yunik, M. Borys and G. W. SWift - A microprocessor based digital flute
+253-261 - Werner Kaegi - The MIDIM system
+299-306 - Joel Chadabe - Interactive composing
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1984,
+IRCAM : Institut de recherche et Coordination Acoustique/Musique, Paris, France
+5-16 - R. B. Dannenberg and P. Avinney - A functional approach to real-time control
+25-34 - F. Azzolini and S. Sapir - Score and/or gesture : The system RTI4I for real-time contyrol
+of the processor 4I
+199-200 - B. Vercoe - The synthetic performer in the context o live performance
+201-202 - P. Jaffrennou, P. Jaubert and L. Champenois - SINFONIE : numerical process
+command with gestural input control
+203-212 - G. Young - Hugh Le Caine’s 1948 sackbut syntheziser : performance mode of
+electronic instruments
+213-216 - R. Teitelbaum - The digital piano and the patch control language system
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1985,
+British Columbia Simon Fraser University, Burnaby, Canada
+275-278 - Barry Vercoe, Miller Puckette - Synthetic Rehearsal : Training the Synthetic
+Performer
+279-289 - Joshua J. Bloch, Roger B. Dannenberg - Real-Time Computer Accompaniment of
+Keyboard Performances
+291-295 - Eric Johnstone - The ROLKY : A Poly-Touch Controller For Electronic Music
+313-318 - Michel Waisvisz - The HANDS, a Set of Remote MIDI-Controllers
+325-328 - Daniel Arfib - Man-Machine Dialog Using MIDI Files
+329-330 - Ross Gillett, Kenneth C. Smith, Bob Pritchard - MADDM - Dance-Directed Music
+331-335 - Giovanni B. Debiasi - M.I.N.I. (Musical Instruments Numerical Interface)
+337-339 - Ron Kuivila - Untitled : An Interactive Installation
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1986,
+Royal Conservatory, Den Haag, Netherlands
+65-70 - Jean-Loup Florens, Aime Razafindrakoto, Annie Luciani and Claude Cadoz -
+Optimized Real Time Simulation of Objects for Musical Synthesis and Animated Image Synthesis
+95-97 - Philippe Prevot - Tele-detection and Large Dimension Gestual Control
+99-100 - J. C. Radier, Ch. Deforeit and D. Provost - A User Friendly Synthesizer by Means of a
+Touch Input Wide LCD Graphic Display
+237 239 - P.-F. Baisnee, J.B. Barriere, O. Koechlin and R. Rowe - Real-Time Interaction
+between Musicians and Computer : Live Performance Utilisations of the 4X Musical Workstation
+423-426 - Michel Starkier and Philippe Prevot - Real-Time Gestural Control
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1987,
+University of Illinois, Champaign/Urbana, Illinois, USA
+108-116 - David Wessel, David Bristow and Zack Settel - Control of Phrasing and Articulation
+in Synthesis
+212-219 - Gary Grossman - Instruments, Cybernetics, and Computer Music
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1988,
+GIMIK, Köln, Germany
+1-12 - Claude Cadoz - Instrumental gesture and musical composition
+15-19 - D. J. Collinge and S. M. Parkinson - The Oculus Ranae
+28-40 - Sylvie Gibet and Jean-Loup Florens - Machine Recognition of Music Information
+Composition Systems and Techniques Instrumental Gesture Modeling by Identification with
+Time-Varying Mechanical Models
+49-55 - Rubine Dean and Paul McAvinney - The VideoHarp
+90-99 - Jean-Michel Raczinski and Gerard Marino - A Real-Time Synthesis Unit
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1989,
+Ohio State University, Colombus, Ohio, USA
+1-4 - Kristi Allik - The Interactive Arts System: Introduction to a Real-Time Performance Tool
+65-68 - Xavier Chabot - Performance with Electronics: Gesture Interfaces and Software Toolkit
+101-104 - Arnie Eigenfeldt - Contour: A Real-Time MIDI System Based on Gestural Input
+151-154 - David Keane and Peter Gross - The Midi Baton
+155-159 - Gregory Kramer, Robert Moog and Alan Peevers - The Hybrid: A Music
+Performance System
+184-185 - George W. Logemman - Experiments with a Gestural Controller
+186-190 - Tod Machover - Hyperinstruments: Musically Intelligent and Interactive Performance
+and Creativity Systems
+191-198 - Toshiaki Matsushima, Sadamu Ohteru andShuji Hashimoto - An Integrated Music
+Information Processing System: PSB-er
+207-210 - H. Morita, S. Ohteru and S. Hashimoto - Computer Music System which Follows a
+Human Conductor
+211-214 - Dexter Morrill and Perry R. Cook - Hardware, Software, and Compositional Tools
+for Real Time Improvised Solo Trumpet Work
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1990,
+University of Glasgow, Glasgow, Scotland - United Kingdom
+53-56 - Claude Cadoz and Christophe Ramstein - Capture, Representation, and "Composition"
+of the Instrumental Gesture
+75-78 - Jean-Loup Florens and Claude Cadoz - Modular Modelisation and Stimulation of the
+Instrument
+112-114 - Marina Bosi - An Interactive Real-time System for the Control of Sound Localization
+245-248 - Michael McNabb - Ensemble: An Extensible Real-time Music Performance
+Environment
+249-252 - Gerard Marino, Jean-Michel Raczinski and Marie-Helene Serra - The New UPIC
+System
+332-334 - Hideyuki Morita, Hiroshi Watanabe, Tsumotu Harada, Sadamu Ohteru and Shuji Watanabe - Knowledge Information Processing in Conducting Computer Music Performer
+379-382 - Claude Cadoz, Leszek Lisowski and Jean-Loup Florens - Modular Feedback
+Keyboard
+392-394 - Andy Hunt, Ross Kirk and Richard Orton - MIDIGRID : An Innovative Computer-
+based and Composition System
+395-397 - Alistair M. Riddell - A Meta-Action for the Grand Piano
+398-400 - W. Andrew Schloss - Recent Advances in the Coupling of the Language MAX with the
+Matthew-Boie Radio Drum
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1991,
+McGill University, Montréal, Canada
+123-126 - Eric Johnstone - A MIDI foot controller - the podoboard
+289-292 - Akio Sato, Tsutomu Harada, Shuji Hashimoto, Sadamu Ohteru - Singing and
+playing in musical virtual space
+297-299 - Perry R. Cook - Tbone : an interactive waveguide brass instrument synthesis
+workbench for the NeXT machine
+404-407 - Pauline Oliveros - The expanded instrument system (EIS)
+471-474 - Louis-Philippe Demers - A performance instrument for lighting
+537-540 - Roger B. Dannenberg, Kenneth Bookstein - Practical aspects of a MIDI conducting
+system
+541-544 - David Keane, Kevin Wood - The MIDI baton III
+567-570 - J. M. Raczinski - New UPIC system demonstration
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1992,
+San Jose State University, San Jose, California, USA
+1. - Max Mathews - My view of the future of real-time computer music
+73-76 - Graziano Bertini, Paolo Carosi - The light baton : a system for conducting computer
+music performance
+77-80 - Brent Gillespie - Dynamical modeling of the grand piano action
+81-84 - Lippold Haken, Radi Abdullah, Mark Smart - The continuum : a continuous music
+keyboard
+85-88 - Tsutomu Harada, Akio Sato, Shuji Hashimoto, Sadamu Ohteru - Real time control of
+3D sound space by gesture
+89-92 - Randy C. Marchany, Joseph G. Tront - A programmable MIDI instrument controller
+emulating a hammer dulcimer
+93-96 - Emile Tobenfeld - A system for computer assisted gestural improvisation
+198-201 - Koji Kusu, Masaoki Ino, Donguk Skin, Shuji Hashimoto, Sadama Ohteru -
+Computer noh system
+269-272 - David A. Jaffe, W. Andrew Schloss - The making of "Wildlife" : species of interaction
+273-276 - Perry R. Cook - A meta-wind-instrument physical model, and a meta-controller for
+real-time performance control
+277-280 - Michael Lee, David Wessel - Connectionist models for real-time control of synthesis
+and compositional algorithms
+325-328 - Joel Ryan - The STEIM studio report
+360-361 - Mark Bolas, Phil Stone - Virtual mutant Theremin
+366-367 - Brad Cariou - Designof an alternative controller from an industrial design perspective
+379-380 - Peter W. Farrett - A system for acquiring a composer's actions
+414-416 - Joel Ryan - Effort and expression
+447-448 - Brent Gillespie - Touch back keyboard
+454-455 - Michael Lee, Guy Garnett, David Wessel - An adaptive conductor follower
+459-460 - Bruce Pennycook, Eric Johnstone - A remote messaging device for interactive
+performance
+461. - Jean-Michel Raczinski - UPIC demonstration
+478-481 - David Keane - SOUND LODGE : a touch-sensitive, interactive sound installation
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1993,
+Waseda University, Tokyo, Japan
+76-79 - Chris Chafe - Tactile Audio Feedback
+124-126 - Atau Tanaka - Musical Technical Issues in Using Interactive Instrument Technology
+with Application to the BioMuse
+127-129 - Tsutomu Kanamori, Haruhiro Katayose, Satosi Simura and Seiji Inokuchi -
+Gesture Sensor in Virtual Performer
+130-133 - Perry Cook, Dexter Morrill and Julius 0. Smith - A MIDI Control and Performance
+System for Brass Instruments
+134-137 - Miller Puckette and Zack Settel - Non-obvious roles for electronics in performance
+enhancement
+138-145 - Haruhro Katayose, Tsutomu Kanamori, Katsuyuki Kamei, Yoichi Nagashima, Kosuke Sato, Seiji Inokuchi and Satosi Simura - Virtual Performer
+150-153 - Wataru Inoue, Shuji Hashimoto and Sadamu Ohteru - A Computer Music System
+for Human Singing
+426-427 - Eiji Hayashi, Tatuya Ishikawa and Masami Yamane - The Development of a Piano
+Player
+428-429 - Koichi Sekiguchi, Ryoji Amemiya, Hiroshi Kubota and Masami Yamane - The
+Development of an Automatic Drum Playing Device
+430-431 - Hirohisa Ohta, Hiroshi Akita, Motomu Ohtani, Satosi Ishicado, and Masami Yamane - The Development of an Automatic Bagpipe Playing Device
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1994,
+DIEM : Danish Institute of Electroacoustic Music, Århus, Danemark
+147-150 - Jonathan Impett - A Meta-Trumpet(er)
+151-158 - Pitoyo Hartono, Kazumi Asano, Wataru Inoue and Shuji Hashimoto - Adaptive
+Timbre Control Using Gesture
+159-162 - Roel Vertegaal, Barry Eaglestone and Clarke Michael - An Evaluation of Input
+Devices for Use in the ISEE Human-Synthesizer Interface
+163-166 - Brad Cariou - The aXi¯ MIDI Controller
+167-170 - Brent Gillespie - The Virtual Piano Action : Design and Implementation
+171-174 - Bert Bongers - The Use of Active Tactile and Force Feedback in Timbre Controlling
+Electronic Instruments
+175-176 - Stuart Favilla - Live Performance and Virtuosic Pitch-Bend Technique for the
+Synthesizer
+177-180 - Stuart Favilla - The LDR controler
+183-184 - Tim Anderson and Debbie Hearn - Using Hyper-Instruments for the re-distribution od
+the performance control interface
+192-195 - David A. Jaffe and W. Andrew Schloss - A Virtual Piano Concerto Coupling of the
+Mathews/Boie Radio Drum and the Yamaha Disklavier Grand Piano in “ The Seven Wonders of
+the Ancient World ”
+196-199 - Haruyose Katayose, Tsutomu Kanamori, Satosi Simura and Seiji Inokuchi - Demonstration of Gesture Sensors for the Shakuhachi
+200-201 - Steven Curtin - The SoundLab : a wearable computer music instrument
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1995,
+Banff Centre for Arts, Banff, Canada
+104-105 - Fernando Lopez-Lezcano - PadMaster : an improvisation environment for real-time
+performance
+106-107 - Yushi Aono, Haruhiro Katayose and Seiji Inokuchi - An Improvisational
+Accompaniment System Observing Performer’s Musical Gesture
+183-184 - Brad Cariou - Vidolin, Alvise A Demonstration of the aXiØ Controller
+185-186 - Bennett Brecht and Guy E. Garnett - Conductor Follower
+223. - Harold Fortuin - The Clavette: A Generalized Microtonal MIDI Keyboard Controller
+224-225 - Russell Pinkston, Jim Kerkhoff and Mark McQuilken - A Touch Sensitive Dance
+Floor/MIDI Controller
+245-252 - Antonio Camurri - Interactive Dance/Music Systems
+253-256 - Roel Vertegaal and Tamas Ungvary - The Sentograph: Input Devices and the
+Communication of Bodily Expression
+257-260 - Hideyuki Sawada, Shin'ya Ohkura and ShujiMaking Hashimoto - Gesture Analysis
+Using 3-D Acceleration Sensor for Music Control
+261-264 - Todd Winkler, - Motion Musical: Gesture Mapping Strategies for Interactive
+Computer Music
+265-268 - Tsutomu Kanamori, Haruhiro Katayose, Yushi Aono, Seiji Inokuchi and Takasi Sakaguchi - Sensor Integration for Interactive Digital Art
+315-318 - Todor Todoroff - Real-Time Granular Morphing and Spatialisation of Sounds With
+Gestual Control Within MAX/FTS
+491-492 - Mark A. Bromwich - A Single Performer Controlled Interface for Electronic
+Fance/Music Theatre
+531-532 - Claude Cadoz, Jean-Loup Florens and Annie Luciani - Musical Sounds, Animated
+Images with CORDIS-ANIMA and its Multimodal Interfaces
+589. - Joel Chadabe - Interactive Performance
+595-596 - Ross Kirk, Andy Hunt and Richard Orton - Audio-Visual Instruments in Live
+Performance
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1996,
+Hong Kong University of Science and Technology, Hong Kong, China
+57-58 - Lonny Chu - Haptic feedback in a computer music performance interface
+89-92 - Stuart Favilla - Non-linear controlled mapping for gestural control of gamaka
+116-117 - Cort Lippe - A look at performer/machine interaction using real-time systems
+173-176 - Haruhiro Katayose, Tsutomu Kanamori and Seiji Inokushi - An environment for
+interactive art- sensor integration and applications
+305-307 - Forrest Tobey and Ichiro Fujinaga - Extraction of conducting gesture in 3D space
+308-311 - Roel Vertegaal, Tamas Ungary and Michael Kieslinger - Towards a musician’s
+cockpit : Transducers, feedback and musical function
+421-424 - Hideyuki Sawada, Naoyuki Onoe and Shuji Hashimoto - Acceleration sensor as an
+input device for musical environment
+425-427 - Fernando Lopez-Lezcano - PadMaster : Banging on algorithms with alternative
+controllers
+428-431 - Chris Chafe and Sile O’Modhrain - Musical muscle memory and the Harpic display
+of
+performance nuance
+444-447 - Hideyuki Sawada and Shuji Hashimoto - Adaptive control of a vocal chord and vocal
+tract for computerized mechanical singing instruments
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1997,
+Aristote University of Thessaloniki, Thessaloniki, Greece
+141-144 - Nicola Orio - A gesture interface controlled by the oral cavity
+309-312 - Hideyuki Sawada, Naoyuki Onoe, Shuji Hashimoto - Sounds in hands - a sound
+modifier using datagloves and twiddle interface -
+313-316 - Teresa Marrin, Joseph Paradiso - The digital baton : a versatile performance
+instrument
+321-324 - Maura Sile O'Modhrain - Feel the music : narration in touch and sound
+375-378 - Lippold Haken, Kelly Fitz, Ed Tellman, Patrick Wolfe, Paul Christensen - A
+continous music keyboard controlling polyphonic morphing using bandwidth-enhanced oscillators
+387-390 - Matthew Wright, David Wessel, Audrain Freed - New musical control structures
+from standard gestual controllers
+395-398 - Richard Boulanger, Max Mathews - The 1997 Mathews' radio baton and
+improvisation modes
+403-407 - Dionysios V. Politis, Ioannis A. Tsoukalas, Panagiotis Linardis, Alexandros Bakalakos - VIDI – a voice instrument digital interface of Byzantine music
+473-475 - Marc Alexander Bromwich - The metabone : an interactive sensory control
+mechanism for virtuoso trombone
+476-478 - Haruhiro Katayose, Hirotsugu Shirakabe, Tsutomu Kanamori, Seiji Inokuchi - A
+toolkit for interactive digital art
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1998,
+University of Michigan, Ann Arbor, USA
+25-32 - Satoshi Usa, Yasunori Mochida - A multi-modal conducting simulator
+33-36 - Giovanni Costantini, Nottoli Giorgio - A new interactive performance system for real-
+time sound synthesis
+129-132 - Yoichi Nagashima - BioSensorFusion : new interfaces for interactive multimedia art
+211-214 - Haruhiro Katayose, Shigeyuki Hirai, Tsutomu Kanamoni - Physiological
+measurement of performer's tension and its utilization for media control
+215-219 - Teresa Marrin, Rosalind Picard - The "conductor's Jacket" : a device for recording
+expressive musical gestures
+220-223 - Adrian Freed, David Wessel - Communication of musical gesture using the AES/EBU
+digital audio standard
+224-227 - Matthew Wright - Implementation and performance issues with OpenSound control
+288-291 - Leonello Tarabella, Massimo Magrini - A system for recognizing shape, position and
+rotation of the hands
+292-295 - Mark Bromwich, Julie Wilson-Bokowiec - Bodycoder's : a sensor suit and vocal
+performance mechanism for real-time performance
+328-331 - Atsuo Takanishi, Manabu Maeda - Development of an anthropomorphic flutist robot
+WF-3RIV
+353-356 - Perry Cook, Daniel Trueman - NBody : interactive multidirectional musical
+instrument body radiation simulators, and a database of measured impulse resonses
+357-360 - David Gamper, Pauline Oliveros - Expended instrument system : recent development
+471-474 - Todd Winkler - Motion-sensing music : artistic and technical challenges in two works
+for dance
+475-481 - Niall Griffith, Mikael Fernstrom - LiveFoot - a floor space for recording dance and
+controlling media
+514-517 - Shigeyuki Hirai, Haruhiro Katayose, Tsutomu Kanamori - Software sensors for
+interactive digital art
+518-526 - Jean-Loup Florens, Claude Cadoz, Annie Lucianni - A real-time workstation for
+complex physical models of multi-sensorial and gesturally controlled instrumants
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 1999,
+Beijing, China
+24-27 - Kai-yuh Hsiao, Joseph Paradiso - A new continuous multimodal musical controller
+using wireless magnetic tags
+28-31 - Paul Modler, Ross Kirk - Evaluation of architecture for sound generation systems with
+respect to interactive gestural control and realtime performance
+32-35 - Nagashima Yoichi, Tono-Ito Tamami - "It's SHO time" - an interactive environment for
+SHO (Sheng) performance
+224-227 - Anthony De Ritis - Cathedral : an interactive work for the web
+228-231 - Solvi Ystad, Thierry Voinier - Design of a flute interface to control synthesis models
+232-239 - Den Trueman, Perry Cook - BoSSA : the deconstructed violin reconstructed
+268-271 - Guy Garnett, Camille Goudeseume - Performance factors in control of hight-
+dimentional spaces
+276-277 - Wayne Siegel, Jens Jacobsen - Composing for the digital dance interface
+367-370 - Tommi Ilmonen, Tapio Takala - Conductor following with artificial neural networks
+371-374 - Guy Garnett, Fernando Malvar-Ruiz, Fred Stoltzfus - Virtual conducting practice
+environment
+375-378 - Stefania Serafin, Xavier Rodet, Richard Dudas, Marcelo Wanderley - Gestural
+control of a real-time physical model of a bowed string instrument
+391-394 - Nicola Orio - The timbre space of the classical guitar and its relationship with the
+plucking techniques
+407-410 - Kenji Suzuki, Takeshi Ohashi, Shuji Hashimoto - Interactive multimodal mobile
+robot for musical performance
+418-421 - Marcelo Wanderley, Philippe Depalle, Olivier Warufel - Improving instrumental
+sound synthesis by modeling the effects of performer gesture
+449-452 - Lonny Chu - MusiCloth : a design methodology for the development of a performance
+interface
+453-456 - Joseph Paradiso, Eric Hu, Kai-Yuh Hsiao - Interactive music for instrumented
+dancing shoes
+519-522 - Atau Tanaka - Network audio performance and installation
+PROCEEDINGS OF THE INTERNATIONAL COMPUTER MUSIC CONFERENCE 2000,
+Berlin, Germany
+66-69 - M. Sile O'Modhrain, Stefania Srafin, Chris Chafe, Julius O. Smith - Qualitative and
+quantitative assessment of a virtual bowed string instrument
+137-140 - Todd Winkler - Participation and response in movement-sensing installations
+141-144 - Insook Choi, Geoffrey Zheng, Ken Cheng - Embedding a sensory data retrieval
+system in a movement-sensitive space and a surround sound system
+145-148 - M. Sile O'Modhrain, Chris Chafe - The performer-instrument interaction : a sensory
+motor perspective
+244-247 - Marcelo M. Wanderley, Jean-Philippe Viollet Fabrice Isart, Xavier Rodet - On the
+choice of transducer technologies for specific musical functions
+248-251 - Dan Trueman, Curtis Bahn, Perry R. Cook - Alternative voices for electronic sound :
+spherical speakers and sensor-speaker arrays (SenSAs)
+262-265 - Antonio Camurri, Paolo Coletta, Massimiliano Peri, Matteo Ricchetti, Andrea Ricci, Riccardo Trocca, Gualtiero Volpe - A real-time platform for interactive dance and music
+systems
+274-276 - Charles Nichols - The vBow : a haptic musical controller human-computer interface
+277-280 - Joseph A. Paradiso, Kai-Yuh Hsio, Joshua Strickon, Peter Rice - New sensor and
+music systems for large interactive surfaces
+485-488 - Kia Ng, Sita Popat, Bee Ong, Ewan Stefani, Kris Ppat, David Cooper - Trans-
+domain mapping : areal-time interactive system for motion acquisition and musical mapping
+511-514 - Andrei Smirnov - Music and gesture : sensor technologies in interactive music and the
+Theremin based space control systems
+515-516 - Adrian Freed, Rimas Avizienis - A new music Keyboard with continous key-position
+sensing and high-speed communication
+519-522 - Perry R. Cook, Colby N. Leider - SqueezeVox : a new controller for vocal synthesis
+models
+539-542 - Kenji Suzuki, Keishiro Tabe, Shuji Hashimoto - A mobile robot platform for music
+and dance performance
+543-546 - Adrian Freed, Osman Isvan - Musical applications of new, multi-axis guitar string
+sensors
+551-554 - Tomoko Yonezawa, Kenji Mase - Tangible sound : musical instrument using fluid
+media
