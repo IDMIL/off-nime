@@ -5,9 +5,9 @@
 layout: page
 ---
 
-# Off-NIME: NIME papers, chapters and books published outside of the NIME Conference Proceedings
+## Off-NIME: NIME papers, chapters and books published outside of the NIME Conference Proceedings
 
-## How to use this resource
+# How to use this resource
 
 A table of Off-NIME materials has been provided below. The URL column links to a stable host of the material, and the BibTeX column allows you to download the citation as a BibTeX .bib file. 
 
@@ -15,14 +15,15 @@ You can search for specific items using the search box, and you can also sort th
 
 <head>
     <link rel="stylesheet" href="styles.css">
-    <script src="search.js" async></script>
-    <script src="sorttable.js" async></script>
-    <script src="download-bibtex.js" async></script>
+    <script src="scripts/num-entries.js" async></script>
+    <script src="scripts/search.js" async></script>
+    <script src="scripts/sorttable.js" async></script>
+    <script src="scripts/copy-bibtex.js" async></script>
 </head>
 
-<input type="text" id="table-search" onkeyup="tableSearch()" placeholder="Search...">
+<input type="text" id="table-search" onkeyup="tableSearch(); setNumEntries();" placeholder="Search...">
 
-
+<div class="scrollableTable">
 <table id="bibliography-table" class="sortable">
     <thead>
         <th>Year</th>
@@ -35,3 +36,6 @@ You can search for specific items using the search box, and you can also sort th
     </thead>
     {% bibliography %}
 </table>
+</div>
+
+<div id="num-entries"></div>

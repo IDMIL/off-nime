@@ -1,3 +1,23 @@
 #table-search {
-    width: 100%
+    width: 100%;
+}
+
+.scrollableTable {
+    overflow: auto;
+    height: 60vh;
+}
+
+#bibliography-table thead th {
+    position: sticky;
+    top: 0;
+}
+
+#num-entries {
+    width: 100%;
+}
+
+#num-entries p {
+    text-align: right;
+    font-style: italic;
+    color: gray;
 }

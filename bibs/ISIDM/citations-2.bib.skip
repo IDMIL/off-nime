@@ -1,0 +1,2460 @@
+% Created 2026-08-21 21:51:39 by https://text2bib.org. Algorithm version 2026-08-13 16:42:51.
+
+% Orio, N. 1997. “A Gestural Interface Controlled by the Oral Cavity.” In Proceedings of the 1997 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 141 - 144. 
+@inproceedings{Orio1997,
+  author = {Orio, N.},
+  year = {1997},
+  title = {A Gestural Interface Controlled by the Oral Cavity},
+  booktitle = {Proceedings of the 1997 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {141-144},
+}
+
+% Orio, N. 1999. “A Model for Human-Computer Interaction Based on the Recognition of Musical Gestures.” Proceedings of the 1999 IEEE International Conference on Systems, Man and Cybernetics, pp. 333?338 
+@inproceedings{Orio1999,
+  author = {Orio, N.},
+  year = {1999},
+  title = {A Model for Human-Computer Interaction Based on the Recognition of Musical Gestures},
+  booktitle = {Proceedings of the 1999 IEEE International Conference on Systems, Man and Cybernetics, pp. 333?338},
+}
+
+% Orio, N.. 1998. Progetto di un controllore gestuale azionato dal cavo orale. Tesi diLaurea. Universita di Padova, Italy, 1998. 
+@article{Orio1998,
+  author = {Orio, N.},
+  year = {1998},
+  title = {Progetto di un controllore gestuale azionato dal cavo orale. Tesi diLaurea},
+  journal = {Universita di Padova, Italy},
+  volume = {1998},
+}
+
+% Overholt, D. 2001. “The MATRIX: A New Musical Instrument for Interactive Performance.” In Proceedings of the 2001 International Computer Music Conference. San Francisco, International Computer Music Association. 
+@inproceedings{Overholt2001,
+  author = {Overholt, D.},
+  year = {2001},
+  title = {The MATRIX: A New Musical Instrument for Interactive Performance},
+  booktitle = {Proceedings of the 2001 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+}
+
+% Overholt, D. 2006. “Musical Interaction Design with the CREATE USB Interface: Teaching HCI with CUIs instead of GUIs.” Proceedings of the International Computer Music Conference (ICMC-2006). New Orleans, USA. pp. 6-11. 
+@inproceedings{Overholt2006,
+  author = {Overholt, D.},
+  year = {2006},
+  title = {Musical Interaction Design with the CREATE USB Interface: Teaching HCI with CUIs instead of GUIs},
+  booktitle = {Proceedings of the International Computer Music Conference (ICMC-2006)},
+  address = {USA},
+  publisher = {New Orleans},
+  pages = {6-11},
+}
+
+% Overholt, D. 2009, “The Musical Interface Technology Design Space”, In Organised Sound 14(2): 217–226 
+@article{Overholt2009,
+  author = {Overholt, D.},
+  year = {2009},
+  title = {The Musical Interface Technology Design Space},
+  journal = {Organised Sound},
+  volume = {14},
+  number = {2},
+  pages = {217-226},
+}
+
+% Overholt, D. Thompson, J. Putnam, L. Bell, B. Kleban, J. Sturm, B. and Kuchera-Morin, J. 2009. “A Multimodal System for Gesture Recognition in Interactive Music Performance.” Computer Music Journal. 33(4):69-82. 
+@article{OverholtPutnamBellKlebanJSturmKucheraMorin2009,
+  author = {Overholt, D. Thompson and J. Putnam and L. Bell and B. Kleban and J. Sturm, B. and Kuchera-Morin, J.},
+  year = {2009},
+  title = {A Multimodal System for Gesture Recognition in Interactive Music Performance},
+  journal = {Computer Music Journal},
+  volume = {33},
+  number = {4},
+  pages = {69-82},
+}
+
+% Overholt, D., Thompson, J., Putnam, L., Bell, B., Kleban, J., Sturm, B., Kuchera-Morin, J., 2009,”A Multimodal System for Gesture Recognition in Interactive Music Performance“,Computer Music Journal, 33:4, pp. 69–82 
+@article{OverholtThompsonPutnamBellKlebanSturmKucheraMorin2009,
+  author = {Overholt, D. and Thompson, J. and Putnam, L. and Bell, B. and Kleban, J. and Sturm, B. and Kuchera-Morin, J.},
+  year = {2009},
+  title = {A Multimodal System for Gesture Recognition in Interactive Music Performance``, Computer Music Journal, 33:4, pp},
+  journal = {69--82},
+}
+
+% Overholt,D. Berdahl, E. and Hamilton, R. 2011. “Advancements in Actuated Musical Instruments”. Journal of Organised Sound. 16(2):154-165. 
+@article{OverholtHamilton2011,
+  author = {Overholt, D. Berdahl E. and Hamilton, R.},
+  year = {2011},
+  title = {Advancements in Actuated Musical Instruments},
+  journal = {Journal of Organised Sound},
+  volume = {16},
+  number = {2},
+  pages = {154-165},
+}
+
+% Paine, G. 2009. “Gesture and Morphology in Laptop Music Performance.” In R. T. Dean (Ed.), The Oxford Handbook of Computer Music and Digital Sound Culture. Oxford: Oxford University Press. pp. 299-329. 
+@incollection{Paine2009,
+  author = {Paine, G.},
+  year = {2009},
+  title = {Gesture and Morphology in Laptop Music Performance},
+  booktitle = {The Oxford Handbook of Computer Music and Digital Sound Culture},
+  editor = {R. T. Dean},
+  address = {Oxford},
+  publisher = {Oxford University Press},
+  pages = {299-329},
+}
+
+% Paine, G. 2009. “Towards Unified Design Guidelines for New Interfaces for Musical Expression.” Journal of Organised Sound. 14(2):142-155. 
+@article{Paine2009-1,
+  author = {Paine, G.},
+  year = {2009},
+  title = {Towards Unified Design Guidelines for New Interfaces for Musical Expression},
+  journal = {Journal of Organised Sound},
+  volume = {14},
+  number = {2},
+  pages = {142-155},
+}
+
+% Pallàs-Areny, R. and J. G. Webster. 2001. Sensors and Signal Conditioning, 2nd Edition. New York, USA: Wiley Interscience. 
+@book{PallàsArenyWebster2001,
+  author = {Pallàs-Areny, R. and J. G. Webster},
+  year = {2001},
+  title = {Sensors and Signal Conditioning},
+  edition = {2nd},
+  address = {New York, USA},
+  publisher = {Wiley Interscience},
+}
+
+% Paradiso, J. 1997. Electronic Music: New Ways to play. IEEE Spectrum, 34(12): 18-30. 
+@article{Paradiso1997,
+  author = {Paradiso, J.},
+  year = {1997},
+  title = {Electronic Music: New Ways to play},
+  journal = {IEEE Spectrum},
+  volume = {34},
+  number = {12},
+  pages = {18-30},
+}
+
+% Paradiso, J. 1999. “The Brain Opera Technology: New Instruments and Gestural Sensors for Musical Interaction and Performance.” Journal of New Music Research, 28(2): 130. 
+@article{Paradiso1999,
+  author = {Paradiso, J.},
+  year = {1999},
+  title = {The Brain Opera Technology: New Instruments and Gestural Sensors for Musical Interaction and Performance},
+  journal = {Journal of New Music Research},
+  volume = {28},
+  number = {2},
+  pages = {130},
+}
+
+% Paradiso, J. A. 1996. “The Interactive Ballon: Sensing, Actuation, and Behavior in a Common Object.” IBM Systems Journal 35(3/4):473-487. 
+@article{Paradiso1996,
+  author = {Paradiso, J. A.},
+  year = {1996},
+  title = {The Interactive Ballon: Sensing, Actuation, and Behavior in a Common Object},
+  journal = {IBM Systems Journal},
+  volume = {35},
+  number = {3/4},
+  pages = {473-487},
+}
+
+% Paradiso, J. A. 1997. “Electronic Music: New ways to play.” IEEE Spectrum, 34(12): 18-30. 
+@article{Paradiso1997-1,
+  author = {Paradiso, J. A.},
+  year = {1997},
+  title = {Electronic Music: New ways to play},
+  journal = {IEEE Spectrum},
+  volume = {34},
+  number = {12},
+  pages = {18-30},
+}
+
+% Paradiso, J. A. 1999. “The Brain Opera Technology: New Instruments and Gestural Sensors for Musical Interaction and Performance”. Journal of New Music Research 28(2). 
+@article{Paradiso1999-1,
+  author = {Paradiso, J. A.},
+  year = {1999},
+  title = {The Brain Opera Technology: New Instruments and Gestural Sensors for Musical Interaction and Performance},
+  journal = {Journal of New Music Research},
+  volume = {28},
+  number = {2},
+}
+
+% Paradiso, J. A. and N. Gershelfeld. 1997. “Musical Applications of Electric Field Sensing”. Computer Music Journal, 21(2):69-89. 
+@article{ParadisoGershelfeld1997,
+  author = {Paradiso, J. A. and N. Gershelfeld},
+  year = {1997},
+  title = {Musical Applications of Electric Field Sensing},
+  journal = {Computer Music Journal},
+  volume = {21},
+  number = {2},
+  pages = {69-89},
+}
+
+% Paradiso, J. A., E. Chu, and K.-Y. Hsiao. 1999. ” Interactive Music for Instrumented Dancing Shoes.“ In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 453-456. 
+@unpublished{ParadisoChuHsiao1999,
+  author = {Paradiso, J. A. and E. Chu and K.-Y. Hsiao},
+  title = {Interactive Music for Instrumented Dancing Shoes.`` In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 453-456},
+  year = {1999},
+}
+
+% Paradiso, J. and N. Gershenfeld. 1997. “Musical Applications of Electric Field Sensing”. Computer Music Journal, 21(2):69-89. 
+@article{ParadisoGershenfeld1997,
+  author = {Paradiso, J. and N. Gershenfeld},
+  year = {1997},
+  title = {Musical Applications of Electric Field Sensing},
+  journal = {Computer Music Journal},
+  volume = {21},
+  number = {2},
+  pages = {69-89},
+}
+
+% Paradiso, J., Abler, C., Hsiao, K. and Reynolds, M. 1997. “The Magic Carpet: Physical Sensing for Immersive Environments”. CHI97 Electronic Publications: Late-Breaking/Short Demonstrations. 
+@article{ParadisoAblerHsiaoReynolds1997,
+  author = {Paradiso, J. and Abler, C. and Hsiao, K. and Reynolds, M.},
+  year = {1997},
+  title = {The Magic Carpet: Physical Sensing for Immersive Environments},
+  journal = {CHI97 Electronic Publications: Late-Breaking/Short Demonstrations},
+}
+
+% Paradiso, J., and Hu, E. 1997. “Expressive Footwear for Computer-Augmented Dance Performance,” in Proc. of the Int. Symp. on WearableComputers. Cambridge, MA, IEEE Comp. Soc. Pr, pp. 165- 166. 
+@inproceedings{ParadisoHu1997,
+  author = {Paradiso, J. and Hu, E.},
+  year = {1997},
+  title = {Expressive Footwear for Computer-Augmented Dance Performance},
+  booktitle = {Proc. of the Int. Symp. on WearableComputers. Cambridge, MA, IEEE Comp. Soc. Pr},
+  pages = {165-166},
+}
+
+% Paradiso, J., and M. Ó Modhrain. 2003. “Current Trends in Electronic Music Interfaces.” Journal of New Music Research, 32(4): 345. 
+@article{ParadisoModhrain2003,
+  author = {Paradiso, J. and M. Ó. Modhrain},
+  year = {2003},
+  title = {Current Trends in Electronic Music Interfaces},
+  journal = {Journal of New Music Research},
+  volume = {32},
+  number = {4},
+  pages = {345},
+}
+
+% Paradiso, J., C. Abler, K. Hsiao, M. Reynolds. 1997. “The Magic Carpet: Physical Sensing for Immersive En- vironments.” in Conference on Human Factors in Computing Systems, New York, NY. ACM Press. 
+@inproceedings{ParadisoAblerHsiaoReynolds1997-1,
+  author = {Paradiso, J. and C. Abler and K. Hsiao and M. Reynolds},
+  year = {1997},
+  title = {The Magic Carpet: Physical Sensing for Immersive En- vironments},
+  booktitle = {Conference on Human Factors in Computing Systems, New York, NY},
+  publisher = {ACM Press},
+}
+
+% Paradiso, J., E., Hu, K., Hsiao. 1999. The CyberShoe: A Wireless Multisensor Interface for a Dancer’s Feet. Proc. Intl. Dance and Technology 99. Tempe AZ. 
+@inproceedings{ParadisoE1999,
+  author = {Paradiso, J. and E. , Hu K.Hsiao},
+  year = {1999},
+  title = {The CyberShoe: A Wireless Multisensor Interface for a Dancer's Feet},
+  booktitle = {Proc. Intl. Dance and Technology 99. Tempe AZ},
+}
+
+% Paradiso, J., et al. 2000.”Design and Implementation of Expressive Footwear,“IBM Systems Journal. 39(3,4): pp. 511-529. 
+@unpublished{Paradisoothers2000,
+  author = {Paradiso, J. and others},
+  title = {Design and Implementation of Expressive Footwear, ``IBM Systems Journal. 39(3,4): pp. 511-529},
+  year = {2000},
+}
+
+% Paradiso, J., Hsiao, K. 1999. “Interactive Music for Instrumented Dancing Shoes,” Proc. Of 1999 International Computer Music Conference, pp.453-456. 
+@inproceedings{ParadisoHsiao1999,
+  author = {Paradiso, J. and Hsiao, K.},
+  year = {1999},
+  title = {Interactive Music for Instrumented Dancing Shoes},
+  booktitle = {Proc. Of 1999 International Computer Music Conference},
+  pages = {453-456},
+}
+
+% Paradiso, J., Hu, E., Hsiao, K. 1998. “Instrumented Footwear for Interactive Dance.” Proc. Of the International Dance and Technology 99 (IDAT99). Tempe AZ. 
+@inproceedings{ParadisoHuHsiao1998,
+  author = {Paradiso, J. and Hu, E. and Hsiao, K.},
+  year = {1998},
+  title = {Instrumented Footwear for Interactive Dance},
+  booktitle = {Proc. Of the International Dance and Technology 99 (IDAT99). Tempe AZ},
+}
+
+% Paradiso, J., K.-Y. Hsiao, J. Strickon, and P. Rice. 2000. “New Sensor and Music Systems for Large Interactive Surfaces.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 277-280. 
+@inproceedings{ParadisoHsiaoStrickonRice2000,
+  author = {Paradiso, J. and K.-Y. Hsiao and J. Strickon and P. Rice},
+  year = {2000},
+  title = {New Sensor and Music Systems for Large Interactive Surfaces},
+  booktitle = {Proceedings of the 2000 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {277-280},
+}
+
+% Paradiso, J., Leo, C. K., Checka, N. and Hsiao, K. 2002. “Passive Acoustic Knock Tracking for Interactive Windows”, Proceedings of the CHI'02 Conference on Human Factors in Computing Systems, Minneapolis, USA, pp. 732-733. 
+@inproceedings{ParadisoLeoCheckaHsiao2002,
+  author = {Paradiso, J. and Leo, C. K. and Checka, N. and Hsiao, K.},
+  year = {2002},
+  title = {Passive Acoustic Knock Tracking for Interactive Windows},
+  booktitle = {Proceedings of the CHI'02 Conference on Human Factors in Computing Systems, Minneapolis, USA},
+  pages = {732-733},
+}
+
+% Paraguai D., and L. Gilberto Prado. 2001. “Artistic Environments of Telepresence on the World WideWeb, ” Leonardo 34(5): 437-442. 
+@article{ParaguaiPrado2001,
+  author = {Paraguai, D. and L. Gilberto Prado},
+  year = {2001},
+  title = {Artistic Environments of Telepresence on the World WideWeb},
+  journal = {Leonardo},
+  volume = {34},
+  number = {5},
+  pages = {437-442},
+}
+
+% Pendharkar, C., Gurevich, M., Wyse, L. 2006. “Parameterized Morphing as a Mapping Technique for Sound Synthesis.” In Proceedings of the 9th International Conference on Digital Audio Effects - DAFx-06. 
+@inproceedings{PendharkarGurevichWyse2006,
+  author = {Pendharkar, C. and Gurevich, M. and Wyse, L.},
+  year = {2006},
+  title = {Parameterized Morphing as a Mapping Technique for Sound Synthesis},
+  booktitle = {Proceedings of the 9th International Conference on Digital Audio Effects - DA},
+  pages = {Fx-06},
+}
+
+% Pennycook, B. 1985. “Computer Music Intrerfaces: A Survey.” ACM Computing Survey, Association for Computing Machinery, Special Issue on Computer Music, 17(2):267-289. 
+@article{Pennycook1985,
+  author = {Pennycook, B.},
+  year = {1985},
+  title = {Computer Music Intrerfaces: A Survey},
+  journal = {ACM Computing Survey, Association for Computing Machinery, Special},
+  volume = {17},
+  number = {2},
+  pages = {267-289},
+  note = {Issue on Computer Music},
+}
+
+% Pennycook, B. W. 1985. “Computer-Music Interfaces: A Survey.” ACM Computing Surveys 17(2):267-289. 
+@article{Pennycook1985-1,
+  author = {Pennycook, B. W.},
+  year = {1985},
+  title = {Computer-Music Interfaces: A Survey},
+  journal = {ACM Computing Surveys},
+  volume = {17},
+  number = {2},
+  pages = {267-289},
+}
+
+% Petersen, K. Solis, J. and Takanishi, A. 2008. “Development of a Real-Time Instrument Tracking System for Enabling the Musical Interaction with the Waseda Flutist Robot.” in IEEE/RSJ International Conference on Intelligent Robots and Systems. Nice, pp.313-318. 
+@inproceedings{PetersenTakanishi2008,
+  author = {Petersen, K. Solis J. and Takanishi, A.},
+  year = {2008},
+  title = {Development of a Real-Time Instrument Tracking System for Enabling the Musical Interaction with the Waseda Flutist Robot},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  publisher = {Nice},
+  pages = {313-318},
+}
+
+% Petersen, K. Solis, J. and Takanishi, A. 2009. “Development of a Aural Real-Time Rhythmical and Harmonic Tracking to Enable the Musical Interaction with the Waseda Flutist Robot.” in IEEE/RSJ International Conference on Intelligent Robots and Systems. St. Louis, MO, pp. 2303-2308. 
+@inproceedings{PetersenTakanishi2009,
+  author = {Petersen, K. Solis J. and Takanishi, A.},
+  year = {2009},
+  title = {Development of a Aural Real-Time Rhythmical and Harmonic Tracking to Enable the Musical Interaction with the Waseda Flutist Robot},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  address = {MO},
+  publisher = {St. Louis},
+  pages = {2303-2308},
+}
+
+% Petersen, K. Solis, J. and Takanishi, A. 2010. “Musical-based interaction system for the Waseda Flutist Robot.” Autonomous Robots. 28(4):471-488. 
+@article{PetersenTakanishi2010,
+  author = {Petersen, K. Solis J. and Takanishi, A.},
+  year = {2010},
+  title = {Musical-based interaction system for the Waseda Flutist Robot},
+  journal = {Autonomous Robots},
+  volume = {28},
+  number = {4},
+  pages = {471-488},
+}
+
+% Pimentel, K. and K. Teixeira. 1993. The science of virtual reality: through the new looking glass. London: McGraw-Hill. 
+@book{PimentelTeixeira1993,
+  author = {Pimentel, K. and K. Teixeira},
+  year = {1993},
+  title = {The science of virtual reality: through the new looking glass},
+  address = {London},
+  publisher = {McGraw-Hill},
+}
+
+% Pinkston, R., J. Kerkhoff, and M. McQuilken. 1995. “A Touch Sensitive Dance Floor/MIDI Controller.” In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 224-225. 
+@inproceedings{PinkstonKerkhoffMcQuilken1995,
+  author = {Pinkston, R. and J. Kerkhoff and M. McQuilken},
+  year = {1995},
+  title = {A Touch Sensitive Dance Floor/MIDI Controller},
+  booktitle = {Proceedings of the 1995 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {224-225},
+}
+
+% Piringer, J. 2001.”Elektronische Musik un Interaktivität. Prinzipien, Konzepte, Anwendungen.“, MSc Thesis. Wien, Austria: Technischen Universität Wien. 
+@unpublished{Piringer2001,
+  author = {Piringer, J.},
+  title = {Elektronische Musik un Interaktivität. Prinzipien, Konzepte, Anwendungen.``, MSc Thesis. Wien, Austria: Technischen Universität Wien},
+  year = {2001},
+}
+
+% Polana, R., and R. Nelson. 1994. Low level recognition of human motion. In Proc. of IEEE Workshop on Motion of Non-Rigid and Articulated Objects, Austin, Texas: pp. 77-82. 
+@inproceedings{PolanaNelson1994,
+  author = {Polana, R. and R. Nelson},
+  year = {1994},
+  title = {Low level recognition of human motion},
+  booktitle = {Proc. of IEEE Workshop on Motion of Non-Rigid and Articulated Objects, Austin, Texas},
+  pages = {77-82},
+}
+
+% Polfreman, R., and J. Sapsford-Francis. 1995. “A Human Factors Approach to Computer Music Systems User-Interface Design.” In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 381-384. 
+@inproceedings{PolfremanSapsfordFrancis1995,
+  author = {Polfreman, R. and J. Sapsford-Francis},
+  year = {1995},
+  title = {A Human Factors Approach to Computer Music Systems User-Interface Design},
+  booktitle = {Proceedings of the 1995 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {381-384},
+}
+
+% Politis, G. 1990. “A survey of Computers in Dance”. Technical Report 311, University of Sydney, Basser, Department of Computer Science, 1987. 
+@techreport{Politis1990,
+  author = {Politis, G.},
+  year = {1990},
+  title = {A survey of Computers in Dance},
+  note = {Technical Report 311, University of Sydney, Basser, Department of Computer Science, 1987. Technical Report 311, University of Sydney, Basser, Department of Computer Science, 1987},
+}
+
+% Politis, G. “Computers and dance : A bibliography”. Leonardo. 23(1):87-90. 
+@article{Politis??,
+  author = {Politis, G.},
+  title = {Computers and dance : A bibliography},
+  journal = {Leonardo},
+  volume = {23},
+  number = {1},
+  pages = {87-90},
+}
+
+% Popat, S., and J. Smith-Autard. 2002. “Dance-Making on the Internet: Can Online Choreographic Projects Foster Creativity in the User-Participant?” Leonardo 35(1): 31-36. 
+@article{PopatSmithAutard2002,
+  author = {Popat, S. and J. Smith-Autard},
+  year = {2002},
+  title = {Dance-Making on the Internet: Can Online Choreographic Projects Foster Creativity in the User-Participant?},
+  journal = {Leonardo},
+  volume = {35},
+  number = {1},
+  pages = {31-36},
+}
+
+% Pope, S.T. 1993. “Real-Time Performance via User Interfaces to Musical Structures.” Journal of Interface. 22(3):195-212. 
+@article{Pope1993,
+  author = {Pope, S. T.},
+  year = {1993},
+  title = {Real-Time Performance via User Interfaces to Musical Structures},
+  journal = {Journal of Interface},
+  volume = {22},
+  number = {3},
+  pages = {195-212},
+}
+
+% Porcaro, N., D. Jaffe, P. Scandalis, J. Smith, T. Stilson, and S. V. Duyne. 1998. “SynthBuilder: A Graphical Rapid-Prototyping Tool for the Development of Music Synthesis and Effects Patches on Multiple Platforms.” Computer Music Journal, 22(2): 35–43. 
+@article{PorcaroJaffeScandalisSmithStilsonDuyne1998,
+  author = {Porcaro, N. and D. Jaffe and P. Scandalis and J. Smith and T. Stilson and S. V. Duyne},
+  year = {1998},
+  title = {SynthBuilder: A Graphical Rapid-Prototyping Tool for the Development of Music Synthesis and Effects Patches on Multiple Platforms},
+  journal = {Computer Music Journal},
+  volume = {22},
+  number = {2},
+  pages = {35-43},
+}
+
+% Pottier, L. 1999. “Contrôle interactif d'une voix chantée de synthèse.” In H. Genevois and R. de Vivo, eds. Les nouveaux gestes de la musique. Marseille:Editions Parenthèses, pp. 175-180. 
+@incollection{Pottier1999,
+  author = {Pottier, L.},
+  year = {1999},
+  title = {Contrôle interactif d'une voix chantée de synthèse},
+  booktitle = {Les nouveaux gestes de la musique},
+  editor = {H. Genevois and R. de Vivo},
+  address = {Marseille},
+  publisher = {Editions Parenthèses},
+  pages = {175-180},
+}
+
+% Pousset, D. 1992. “La flûte-MIDI, l'histoire et quelques applications.” Mémoire de Maîtrise. Université Paris-Sorbonne. 
+@book{Pousset1992,
+  author = {Pousset, D.},
+  year = {1992},
+  title = {La flûte-MIDI, l'histoire et quelques applications},
+  address = {Mémoire de Maîtrise},
+  publisher = {Université Paris-Sorbonne},
+}
+
+% Prado, G. 1997. “Cronologiasde experiências artísticas nas redes de telecomunicações.” Trilhas, Campinas, SP, Unicamp, pp. 77-103. 
+@article{Prado1997,
+  author = {Prado, G.},
+  year = {1997},
+  title = {Cronologiasde experiências artísticas nas redes de telecomunicações},
+  journal = {Trilhas, Campinas, SP, Unicamp},
+  pages = {77-103},
+}
+
+% Preece, J., Y., Rogers, H., Sharp. 2002. Interaction Design: Beyond Human-Computer Interaction. Hoboken, NJ.: John Wiley & Sons, Inc. 
+@book{PreeceRogers2002,
+  author = {Preece, J. Y. and Rogers, H.Sharp},
+  year = {2002},
+  title = {Interaction Design: Beyond Human-Computer Interaction},
+  address = {Hoboken, NJ.},
+  publisher = {John Wiley & Sons, Inc},
+}
+
+% Pressing, J. (1990). Cybernetic issues in interactive performance systems. Computer Music Journal, 14 (1), 12-25. 
+@article{Pressing1990,
+  author = {Pressing, J.},
+  year = {1990},
+  title = {Cybernetic issues in interactive performance systems},
+  journal = {Computer Music Journal},
+  volume = {14},
+  number = {1},
+  pages = {12-25},
+}
+
+% Pressing, J. 1990. “Cybernetic Issues in Interactive Performance Systems.” Computer Music Journal 14(1):12-25. 
+@article{Pressing1990-1,
+  author = {Pressing, J.},
+  year = {1990},
+  title = {Cybernetic Issues in Interactive Performance Systems},
+  journal = {Computer Music Journal},
+  volume = {14},
+  number = {1},
+  pages = {12-25},
+}
+
+% Pressing, J. 1992. Synthesizer Performance and Real-Time Techniques. Madison, Wisconsin: A-R Editions. 
+@book{Pressing1992,
+  author = {Pressing, J.},
+  year = {1992},
+  title = {Synthesizer Performance and Real-Time Techniques},
+  address = {Madison, Wisconsin},
+  publisher = {A-R Editions},
+}
+
+% Puckette, M. 1996. “Pure Data: Another Integrated Computer Music Environment.” Proceedings of the Second Intercollege Computer Music Concerts. Tachikawa, Japan, pp. 37–41. 
+@inproceedings{Puckette1996,
+  author = {Puckette, M.},
+  year = {1996},
+  title = {Pure Data: Another Integrated Computer Music Environment},
+  booktitle = {Proceedings of the Second Intercollege Computer Music Concerts},
+  address = {Japan},
+  publisher = {Tachikawa},
+  pages = {37-41},
+}
+
+% Pulfer, J.K. 1995. “Man-Machine Communication in Creative Applications, ” International Journal of Man-Machine Studies, 1971, 3. 
+@article{Pulfer1995,
+  author = {Pulfer, J. K.},
+  year = {1995},
+  title = {Man-Machine Communication in Creative Applications},
+  journal = {International Journal of Man-Machine Studies},
+  volume = {1971},
+  pages = {3},
+}
+
+% Putnam, W. 1993. “The Use of the Electromyogram for the Control of Musical Performance.” Masters Thesis, San Jose State University, C 
+@mastersthesis{Putnam1993,
+  author = {Putnam, W.},
+  year = {1993},
+  title = {The Use of the Electromyogram for the Control of Musical Performance},
+  school = {San Jose State University, C},
+}
+
+% Putnam, W. 1993. “The Use of the Electromyogram for the Control of Musical Performance.” Masters Thesis, San Jose State University, CA. 
+@mastersthesis{Putnam1993-1,
+  author = {Putnam, W.},
+  year = {1993},
+  title = {The Use of the Electromyogram for the Control of Musical Performance},
+  school = {San Jose State University, CA},
+}
+
+% Putnam, W., and B.Knapp. ” Input/Data Acquisition System Design for Human Computer Interfacing.“ 
+@unpublished{PutnamKnapp??,
+  author = {Putnam, W. and B. Knapp},
+  title = {Input/Data Acquisition System Design for Human Computer Interfacing.``},
+}
+
+% Qian, G., F., Guo, T., Ingalls, L., Olson, J., James, and T., Rikakis. 2004. “A Gesture-Driven Multimodal Interactive Dance System.” in Proc. IEEE Int’l Conf. Multimedia and Expo (ICME ’04), pp. 1579-1582 
+@inproceedings{QianGuoIngallsOlsonTRikakis2004,
+  author = {Qian, G. F. and Guo, T. and Ingalls, L. and Olson, J. James and T.Rikakis},
+  year = {2004},
+  title = {A Gesture-Driven Multimodal Interactive Dance System},
+  booktitle = {Proc. IEEE Int'l Conf. Multimedia and Expo (ICME '04)},
+  pages = {1579-1582},
+}
+
+% Raczinski, J.-M., and G. Marino. 1988. “A Real-Time Synthesis Unit.” In Proceedings of the 1988 International Computer Music Conference. San Francisco, CA: International Computer Music Association, pp. 90-100. 
+@inproceedings{RaczinskiMarino1988,
+  author = {Raczinski, J.-M. and G. Marino},
+  year = {1988},
+  title = {A Real-Time Synthesis Unit},
+  booktitle = {Proceedings of the 1988 International Computer Music Conference},
+  address = {San Francisco, CA},
+  publisher = {International Computer Music Association},
+  pages = {90-100},
+}
+
+% Ramstein, C. 1991. Analyse, représentation et traitement du geste instrumental. PhD thesis. Institut National Polytechnique de Grenoble. 
+@phdthesis{Ramstein1991,
+  author = {Ramstein, C.},
+  year = {1991},
+  title = {Analyse, représentation et traitement du geste instrumental},
+  school = {Institut National Polytechnique de Grenoble},
+}
+
+% Ramstein, C., and V. Hayward. 1994. “The Pantograph: a Large Workspace Haptic Device for a Multi-Modal Human-Computer Interaction.” In Proceedings of the CHI'94 Conference on Human factors in Computing Systems, Association of Computer Machinery. 
+@inproceedings{RamsteinHayward1994,
+  author = {Ramstein, C. and V. Hayward},
+  year = {1994},
+  title = {The Pantograph: a Large Workspace Haptic Device for a Multi-Modal Human-Computer Interaction},
+  booktitle = {Proceedings of the CHI'94 Conference on Human factors in Computing Systems, Association of Computer Machinery},
+}
+
+% Rasamimanana, N. et al. 2011. “Modular Musical Objects Towards Embodied Control of Digital Music.” in Proceedings of Tangible and Embedded Interaction. pp.9-12. 
+@inproceedings{Rasamimananaothers2011,
+  author = {Rasamimanana, N. and others},
+  year = {2011},
+  title = {Modular Musical Objects Towards Embodied Control of Digital Music},
+  booktitle = {Proceedings of Tangible and Embedded Interaction},
+  pages = {9-12},
+}
+
+% Reaney, M. 1996. “Virtual scenography: The actor, audience, computer interface.” Theatre Design and Technology, 32(1): 36-43. 
+@article{Reaney1996,
+  author = {Reaney, M.},
+  year = {1996},
+  title = {Virtual scenography: The actor, audience, computer interface},
+  journal = {Theatre Design and Technology},
+  volume = {32},
+  number = {1},
+  pages = {36-43},
+}
+
+% Richards, J. 2008. “Getting the Hands Dirty.” Leonardo Music Journal. 18:25-31. 
+@article{Richards2008,
+  author = {Richards, J.},
+  year = {2008},
+  title = {Getting the Hands Dirty},
+  journal = {Leonardo Music Journal},
+  volume = {18},
+  pages = {25-31},
+}
+
+% Rieser, M., and Z. Andrea, (eds). 2002. New Screen Media/Cinema/Art/Narrative. London: BFI. 
+@book{RieserAndrea2002,
+  year = {2002},
+  editor = {Rieser, M. and Z. Andrea},
+  title = {New Screen Media/Cinema/Art/Narrative},
+  address = {London},
+  publisher = {BFI},
+}
+
+% Risset, J. and van Duyne, S. 1996. “Real-time performance interaction with a computer-controlled acoustic piano.” Computer Music Journal. 20(1):62-75. 
+@article{RissetvanDuyne1996,
+  author = {Risset, J. and van Duyne, S.},
+  year = {1996},
+  title = {Real-time performance interaction with a computer-controlled acoustic piano},
+  journal = {Computer Music Journal},
+  volume = {20},
+  number = {1},
+  pages = {62-75},
+}
+
+% Risset, J.-C. 1999. “Nouveaux gestes musicaux: quelques points de repére historiques.” In Les nouveaux gestes de la musique, Hugues Genevoix and Rapha‘l de Vivo (eds), Marseille: Editions Parenthéses and GMEM, pp. 19-33. 
+@incollection{Risset1999,
+  author = {Risset, J.-C.},
+  year = {1999},
+  title = {Nouveaux gestes musicaux: quelques points de repére historiques},
+  booktitle = {Les nouveaux gestes de la musique, Hugues Genevoix and Rapha`l de Vivo},
+  editor = {Marseille:},
+  publisher = {Editions Parenthéses and GMEM},
+  pages = {19-33},
+}
+
+% Risset, J.C. 1999. “Composing in real-time?” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 31-39. (with audio excerpts on the accompanying CD). 
+@article{Risset1999-1,
+  author = {Risset, J. C.},
+  year = {1999},
+  title = {Composing in real-time?},
+  journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+  volume = {18},
+  number = {3},
+  pages = {31-39},
+  note = {(with audio excerpts on the accompanying CD)},
+}
+
+% Roads, C. 1986. “The Second STEIM Symposium on Interactive Composition in Live Electronic Music.” Computer Music Journal, pp. 44-50. 
+@article{Roads1986,
+  author = {Roads, C.},
+  year = {1986},
+  title = {The Second STEIM Symposium on Interactive Composition in Live Electronic Music},
+  journal = {Computer Music Journal},
+  pages = {44-50},
+}
+
+% Roads, C. 1996. The Computer Music Tutorial. Cambridge, MA: The MIT Press. 
+@book{Roads1996,
+  author = {Roads, C.},
+  year = {1996},
+  title = {The Computer Music Tutorial},
+  address = {Cambridge, MA},
+  publisher = {The MIT Press},
+}
+
+% Roberts, C., Wright, M., Kuchera-Morin, J., Putnam, L., Wakefield, G., 2010. “Dynamic Interactivity Inside the AlloSphere”, In Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp. 57 
+@inproceedings{RobertsWrightKucheraMorinPutnamWakefield2010,
+  author = {Roberts, C. and Wright, M. and Kuchera-Morin, J. and Putnam, L. and Wakefield, G.},
+  year = {2010},
+  title = {Dynamic Interactivity Inside the AlloSphere},
+  booktitle = {Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp. 57},
+}
+
+% Rogala, Miroslaw, “Lovers Leap” in Artintact .Ostfildern: Cantz Verlag/ Karlsruhe: ZKM. 
+@incollection{Rogala??,
+  author = {Rogala, Miroslaw},
+  title = {Lovers Leap},
+  booktitle = {Artintact},
+  publisher = {Ostfildern: Cantz Verlag/ Karlsruhe: ZKM},
+}
+
+% Rohr, K. 1994. “Towards model-based recognition of human movements in image sequences.” CGVIP: Image Understanding, 59(1): 94-115. 
+@article{Rohr1994,
+  author = {Rohr, K.},
+  year = {1994},
+  title = {Towards model-based recognition of human movements in image sequences},
+  journal = {CGVIP: Image Understanding},
+  volume = {59},
+  number = {1},
+  pages = {94-115},
+}
+
+% Rondon, Y., “TELE-EVENTO-PENSAMENTO: a imagem mediada na videoconferência e na telepresença.” 
+@unpublished{Rondon??,
+  author = {Rondon, Y.},
+  title = {TELE-EVENTO-PENSAMENTO: a imagem mediada na videoconferência e na telepresença},
+}
+
+% Rosenboom, D. 1990. Extended Musical Interface with the Human Nervous System. Berkeley, Calif.: International Society for the Arts, Sciences, and Technology. 
+@unpublished{Rosenboom1990,
+  author = {Rosenboom, D.},
+  title = {Extended Musical Interface with the Human Nervous System. Berkeley, Calif.: International Society for the Arts, Sciences, and Technology},
+  year = {1990},
+}
+
+% Rosenboom, D. 1990. Extended Musical Interface with the Human Nervous System. Berkeley, Calif.:International Society for the Arts, Sciences, and Technology. 
+@unpublished{Rosenboom1990-1,
+  author = {Rosenboom, D.},
+  title = {Extended Musical Interface with the Human Nervous System. Berkeley, Calif.:International Society for the Arts, Sciences, and Technology},
+  year = {1990},
+}
+
+% Rovan, B. and R. Wechsler. 2000. “The multi-dimensional mapping of movement-to-sound within an integrated Eyecon and Max Environment. Performance of “Seine Hohle Form.” 10e Symposium International des Arts Électroniques, Paris. 
+@unpublished{RovanWechsler2000,
+  author = {Rovan, B. and R. Wechsler},
+  title = {The multi-dimensional mapping of movement-to-sound within an integrated Eyecon and Max Environment. Performance of ``Seine Hohle Form.'' 10e Symposium International des Arts Électroniques, Paris},
+  year = {2000},
+}
+
+% Rovan, J., and M. Wanderley. 1998. “Gestural Controllers: Strategies for Expressive Application.” Abstract presented at the SEAMUS Conference. Hanover, N. H. 
+@inproceedings{RovanWanderley1998,
+  author = {Rovan, J. and M. Wanderley},
+  year = {1998},
+  title = {Gestural Controllers: Strategies for Expressive Application},
+  booktitle = {Abstract presented at the SEAMUS Conference},
+  address = {N. H},
+  publisher = {Hanover},
+}
+
+% Rovan, J., and Wechsler, R. 2000. “The Multi-Dimensional Mapping of Movement-to-Sound within an Integrated Eyecon and Max Environment. Performance of “Seine Hohle Form…” In Proc. of the 10e Symposium International des Arts Electroniques, ISEA 2000. Paris. 
+@unpublished{RovanWechsler2000-1,
+  author = {Rovan, J. and Wechsler, R.},
+  title = {The Multi-Dimensional Mapping of Movement-to-Sound within an Integrated Eyecon and Max Environment. Performance of ``Seine Hohle Form…'' In Proc. of the 10e Symposium International des Arts Electroniques, ISEA 2000. Paris},
+  year = {2000},
+}
+
+% Rovan, J., M. Wanderley, S. Dubnov, and P. Depalle. 1997. “Instrumental Gestural Mapping Strategies as Expressivity Determinants in Computer Music Performance.” In Kansei, The Technology of Emotion. Proceedings of the AIMI International Workshop, A. Camurri, ed. Genoa: Associazionedi Informatica Musicale Italiana, October 3-4, 1997, pp. 68-73. 
+@inproceedings{RovanWanderleyDubnovDepalle1997,
+  author = {Rovan, J. and M. Wanderley and S. Dubnov and P. Depalle},
+  year = {1997},
+  title = {Instrumental Gestural Mapping Strategies as Expressivity Determinants in Computer Music Performance},
+  booktitle = {Genoa},
+  booksubtitle = {Associazionedi Informatica Musicale Italiana, October 3-4, 1997},
+  editor = {Kansei, The},
+  pages = {68-73},
+}
+
+% Rovan, J., M. Wanderley, S. Dubnov, and P. Depalle. 1997. “Instrumental Gestural Mapping Strategies as Expressivity Determinants in Computer Music Performance.” Kansei, The Technology of Emotion. Proceedings of the AIMI International Workshop, A. Camurri, ed. Genoa: Associazione di Informatica Musicale Italiana, October 3-4, 1997, pp. 68-73. 
+@inproceedings{RovanWanderleyDubnovDepalle1997-1,
+  author = {Rovan, J. and M. Wanderley and S. Dubnov and P. Depalle},
+  year = {1997},
+  title = {Instrumental Gestural Mapping Strategies as Expressivity Determinants in Computer Music Performance},
+  booktitle = {Genoa},
+  booksubtitle = {Associazione di Informatica Musicale Italiana, October 3-4, 1997},
+  editor = {Kansei, The},
+  pages = {68-73},
+}
+
+% Rovan, J., Wanderley, M. M., Dubnov, S., & Depalle, P. (1997). Instrumental gesture mapping strategies as expressivity determinants in computer music performance. Presented at Kansei Technology of Emotion Workshop, Genova, Ital 
+@inproceedings{RovanWanderleyDubnovDepalle1997-2,
+  author = {Rovan, J. and Wanderley, M. M. and Dubnov, S. and Depalle, P.},
+  year = {1997},
+  title = {Instrumental gesture mapping strategies as expressivity determinants in computer music performance},
+  booktitle = {Presented at Kansei Technology of Emotion Workshop},
+  address = {Ital},
+  publisher = {Genova},
+}
+
+% Rowe, R. 1993. Interactive Music Systems - Machine Listening and Composing. Cambridge, Mass.: The MIT Press. 
+@book{Rowe1993,
+  author = {Rowe, R.},
+  year = {1993},
+  title = {Interactive Music Systems - Machine Listening and Composing},
+  address = {Cambridge, Mass.},
+  publisher = {The MIT Press},
+}
+
+% Rowe, R. 1993. Interactive Music Systems - Machine Listening and Composing. Cambridge, Mass.:The MIT Press. 
+@book{Rowe1993-1,
+  author = {Rowe, R.},
+  year = {1993},
+  title = {Interactive Music Systems - Machine Listening and Composing},
+  address = {Cambridge, Mass.},
+  publisher = {The MIT Press},
+}
+
+% Rowe, R. 1993. Interactive Music Systems: Machine Listening and Composing. MIT Press Cambridge. 
+@book{Rowe1993-2,
+  author = {Rowe, R.},
+  year = {1993},
+  title = {Interactive Music Systems: Machine Listening and Composing},
+  address = {Cambridge},
+  publisher = {MIT Press},
+}
+
+% Rowe, R. 1999. “The aesthetics of interactive music systems” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 83-87. (with audio excerpts on the accompanying CD). 
+@article{Rowe1999,
+  author = {Rowe, R.},
+  year = {1999},
+  title = {The aesthetics of interactive music systems},
+  journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+  volume = {18},
+  number = {3},
+  pages = {83-87},
+  note = {(with audio excerpts on the accompanying CD)},
+}
+
+% Rowe, R. 2001. Machine Musicianship. Cambridge, Mass: MIT Press. 
+@book{Rowe2001,
+  author = {Rowe, R.},
+  year = {2001},
+  title = {Machine Musicianship},
+  address = {Cambridge, Mass},
+  publisher = {MIT Press},
+}
+
+% Rubine, D. & McAvinney, P. (1990). Programmable finger tracking instrument controllers. Computer Music Journal, 14 (1), 26-41. 
+@article{RubineMcAvinney1990,
+  author = {Rubine, D. and McAvinney, P.},
+  year = {1990},
+  title = {Programmable finger tracking instrument controllers},
+  journal = {Computer Music Journal},
+  volume = {14},
+  number = {1},
+  pages = {26-41},
+}
+
+% Rubine, D., and P. McAvinney. 1988. “The Videoharp.” In Proceedings of the 1988 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 49-55. 
+@inproceedings{RubineMcAvinney1988,
+  author = {Rubine, D. and P. McAvinney},
+  year = {1988},
+  title = {The Videoharp},
+  booktitle = {Proceedings of the 1988 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {49-55},
+}
+
+% Ryan, J. 1991. “Some Remarks on Musical Instrument Design at STEIM.” Contemporary Music Review 6(1):3-17. 
+@article{Ryan1991,
+  author = {Ryan, J.},
+  year = {1991},
+  title = {Some Remarks on Musical Instrument Design at STEIM},
+  journal = {Contemporary Music Review},
+  volume = {6},
+  number = {1},
+  pages = {3-17},
+}
+
+% Ryan, J. 1991. “Some Remarks on Musical Instrument Design at STEIM.” Contemporary Music Review 6(1):3-17. 
+@article{Ryan1991-1,
+  author = {Ryan, J.},
+  year = {1991},
+  title = {Some Remarks on Musical Instrument Design at STEIM},
+  journal = {Contemporary Music Review},
+  volume = {6},
+  number = {1},
+  pages = {3-17},
+}
+
+% Saltz, D. 2001. “The Collaborative Subject: Telerobotic Performance and Identity.” PerformanceResearch 6(3): 70-83. 
+@article{Saltz2001,
+  author = {Saltz, D.},
+  year = {2001},
+  title = {The Collaborative Subject: Telerobotic Performance and Identity},
+  journal = {PerformanceResearch},
+  volume = {6},
+  number = {3},
+  pages = {70-83},
+}
+
+% Sànchez, A., J. J. Pantrigo, J. Virseda, and G. Pérez. 2007. “Spieldose: An Interactive Genetic Software for Assisting to Music Composition Tasks.” Proceedings of the 2nd International work-conference on The Interplay Between Natural and Artificial Computation (IWINAC-2007). Berlin, Heidelberg: Springer-Verlag. pp. 617–626. 
+@inproceedings{SànchezPantrigoVirsedaPérez2007,
+  author = {Sànchez, A. and J. J. Pantrigo and J. Virseda and G. Pérez},
+  year = {2007},
+  title = {Spieldose: An Interactive Genetic Software for Assisting to Music Composition Tasks},
+  booktitle = {Proceedings of the 2nd International work-conference on The Interplay Between Natural and Artificial Computation (IWINAC-2007)},
+  address = {Berlin, Heidelberg},
+  publisher = {Springer-Verlag},
+  pages = {617-626},
+}
+
+% Santana, I. 2002. Corpo Aberto: Cunningham, dança e novas tecnologias. São Paulo: EDUC/FAPESC. 
+@book{Santana2002,
+  author = {Santana, I.},
+  year = {2002},
+  title = {Corpo Aberto: Cunningham, dança e novas tecnologias},
+  address = {São Paulo},
+  publisher = {EDUC/FAPESC},
+}
+
+% Sapir, S. 2002. “Gestural Control of Digital Audio Environments.” Journal of New Music Research, 31(2): 119. 
+@article{Sapir2002,
+  author = {Sapir, S.},
+  year = {2002},
+  title = {Gestural Control of Digital Audio Environments},
+  journal = {Journal of New Music Research},
+  volume = {31},
+  number = {2},
+  pages = {119},
+}
+
+% Sawada, H., N. Onoe and S. Hashimoto. 1997. “Sounds in Hands - a Sound Modifier using Datagloves and Twiddle Interface.” In Proceedings of the 1997 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 309-312. 
+@inproceedings{SawadaOnoeHashimoto1997,
+  author = {Sawada, H. and N. Onoe and S. Hashimoto},
+  year = {1997},
+  title = {Sounds in Hands - a Sound Modifier using Datagloves and Twiddle Interface},
+  booktitle = {Proceedings of the 1997 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {309-312},
+}
+
+% Sawada, H., N. Onoe, and S. Hashimoto. 1996. “Acceleration Sensor as an Input Device for Musical Environment.” In Proceedings of the 1996 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 421-424. 
+@inproceedings{SawadaOnoeHashimoto1996,
+  author = {Sawada, H. and N. Onoe and S. Hashimoto},
+  year = {1996},
+  title = {Acceleration Sensor as an Input Device for Musical Environment},
+  booktitle = {Proceedings of the 1996 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {421-424},
+}
+
+% Sawada, H., N. Onoe, and S. Hashimoto. 1996. Acceleration Sensor as an Input Device for Musical Environment. Proceedings of the 1996 International Computer Music Conference (ICMC96), Hong Kong, pp. 421-424. 
+@inproceedings{SawadaOnoeHashimoto1996-1,
+  author = {Sawada, H. and N. Onoe and S. Hashimoto},
+  year = {1996},
+  title = {Acceleration Sensor as an Input Device for Musical Environment},
+  booktitle = {Proceedings of the 1996 International Computer Music Conference (ICMC96), Hong Kong},
+  pages = {421-424},
+}
+
+% Sawada, H., S. Ohkura, and S. Hashimoto. 1995. “Gesture Analysis Using 3D Acceleration Sensor for Music Control.” In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 257-260. 
+@inproceedings{SawadaOhkuraHashimoto1995,
+  author = {Sawada, H. and S. Ohkura and S. Hashimoto},
+  year = {1995},
+  title = {Gesture Analysis Using 3D Acceleration Sensor for Music Control},
+  booktitle = {Proceedings of the 1995 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {257-260},
+}
+
+% Schloss, W. A. 1990. “Recent Advances in the Coupling of the Language MAX with the Mathews/Boie Radio Drum.” In Proceedings of the 1990 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 398-400. 
+@inproceedings{Schloss1990,
+  author = {Schloss, W. A.},
+  year = {1990},
+  title = {Recent Advances in the Coupling of the Language MAX with the Mathews/Boie Radio Drum},
+  booktitle = {Proceedings of the 1990 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {398-400},
+}
+
+% Schloss, W. A. 1990. “Recent Advances in the Coupling of the Language MAX with the Mathews/Boie Radio Drum. In Proceedings of the International Computer Music Conference. San Francisco: International Computer Music Association, pp. 398-400. 
+@unpublished{Schloss1990-1,
+  author = {Schloss, W. A.},
+  title = {Recent Advances in the Coupling of the Language MAX with the Mathews/Boie Radio Drum. In Proceedings of the International Computer Music Conference. San Francisco: International Computer Music Association, pp. 398-400},
+  year = {1990},
+}
+
+% Schloss, W. A., and P. Driessen. 2001. “Towards a Virtual Membrane: New Algorithms and Technology for Analyzing Gestural Data.” In Proceedings of the 2001 International Computer Music Conference. San Francisco, International Computer Music Association. 
+@inproceedings{SchlossDriessen2001,
+  author = {Schloss, W. A. and P. Driessen},
+  year = {2001},
+  title = {Towards a Virtual Membrane: New Algorithms and Technology for Analyzing Gestural Data},
+  booktitle = {Proceedings of the 2001 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+}
+
+% Schmeder, A. 2004. “Mapping Spectral Frames to Pitch with Support Vector Machine.” In Proceedings from the 2004 International Computer Music Conference - ICMC04. 
+@inproceedings{Schmeder2004,
+  author = {Schmeder, A.},
+  year = {2004},
+  title = {Mapping Spectral Frames to Pitch with Support Vector Machine},
+  booktitle = {Proceedings from the 2004 International Computer Music Conference - ICMC04},
+}
+
+% Scholder, A. and J. Crandall, (eds). 2001. Interaction: Artistic Practice in the Network. New York: D.A.P. 
+@book{ScholderCrandall2001,
+  year = {2001},
+  editor = {Scholder, A. and J. Crandall},
+  title = {Interaction: Artistic Practice in the Network},
+  address = {New York},
+  publisher = {D. A. P},
+}
+
+% Schumacher, M. and Bresson, J. 2011. “Spatial Sound Synthesis in Computer-Aided Composition.” Journal of Organised Sound. 15(3):271-289. 
+@article{SchumacherBresson2011,
+  author = {Schumacher, M. and Bresson, J.},
+  year = {2011},
+  title = {Spatial Sound Synthesis in Computer-Aided Composition},
+  journal = {Journal of Organised Sound},
+  volume = {15},
+  number = {3},
+  pages = {271-289},
+}
+
+% Schumacher, M. and J. Bresson. 2010. “Compositional Control of Periphonic Sound Spatialization.” Proceedings of the 2nd International Symposium on Ambisonics and Spherical Acoustics. Paris, France. 
+@inproceedings{SchumacherBresson2010,
+  author = {Schumacher, M. and J. Bresson},
+  year = {2010},
+  title = {Compositional Control of Periphonic Sound Spatialization},
+  booktitle = {Proceedings of the 2nd International Symposium on Ambisonics and Spherical Acoustics},
+  address = {Paris},
+  publisher = {France},
+}
+
+% Schumacher, M. and J. Bresson. 2010. “Spatial Sound Synthesis in Computer-Aided Composition.” Organised Sound, 15(3): 271-289. 
+@article{SchumacherBresson2010-1,
+  author = {Schumacher, M. and J. Bresson},
+  year = {2010},
+  title = {Spatial Sound Synthesis in Computer-Aided Composition},
+  journal = {Organised Sound},
+  volume = {15},
+  number = {3},
+  pages = {271-289},
+}
+
+% Seaman, B. 2002. “Recombinant Poetics: Emergent Explorations of Digital Video in Virtual Space.” in Martin Rieser/Andrea Zapp, eds., New Screen Media/Cinema/Art/Narrative. London: BFI, pp. 237 -55. 
+@incollection{Seaman2002,
+  author = {Seaman, B.},
+  year = {2002},
+  title = {Recombinant Poetics: Emergent Explorations of Digital Video in Virtual Space},
+  booktitle = {New Screen Media/Cinema/Art/Narrative},
+  editor = {Martin Rieser/Andrea Zapp},
+  address = {London},
+  publisher = {BFI},
+  pages = {237-55},
+}
+
+% Selfridge, R. and J.D. Reiss. 2011. Interactive Mixing Using Wii Controller. Proceedings of the 130th Audio Engineering Society Convention. New York: Audio Engineering Society. Paper no. 8396. 
+@inproceedings{SelfridgeReiss2011,
+  author = {Selfridge, R. and J. D. Reiss},
+  year = {2011},
+  title = {Interactive Mixing Using Wii Controller},
+  booktitle = {Proceedings of the 130th Audio Engineering Society Convention},
+  address = {New York},
+  publisher = {Audio Engineering Society},
+  note = {Paper no. 8396},
+}
+
+% Serafin, S., R. Dudas, M. Wanderley, and X. Rodet. 1999. “Gestural Control of a Real-Time Physical Model of a Bowed String Instrument.” In Proceedings of the 1999 International Computer Music Conference. San Francisco, CA: International Computer Music Association, pp. 375-378. 
+@inproceedings{SerafinDudasWanderleyRodet1999,
+  author = {Serafin, S. and R. Dudas and M. Wanderley and X. Rodet},
+  year = {1999},
+  title = {Gestural Control of a Real-Time Physical Model of a Bowed String Instrument},
+  booktitle = {Proceedings of the 1999 International Computer Music Conference},
+  address = {San Francisco, CA},
+  publisher = {International Computer Music Association},
+  pages = {375-378},
+}
+
+% Shedel, M. and Rootberg, A. 2009. “Generative Techniques in Hypermedia Performance.” Contemporary Music Review. 28(1): 57-73. 
+@article{ShedelRootberg2009,
+  author = {Shedel, M. and Rootberg, A.},
+  year = {2009},
+  title = {Generative Techniques in Hypermedia Performance},
+  journal = {Contemporary Music Review},
+  volume = {28},
+  number = {1},
+  pages = {57-73},
+}
+
+% Shiratori, T., A., Nakazawa, and K., Ikeuchi. 2006. “Dancing-To-Music Character Animation.” in Computer Graphics Forum, 25(3): pp. 449-458 
+@article{ShiratoriKIkeuchi2006,
+  author = {Shiratori, T. A. Nakazawa, and K.Ikeuchi},
+  year = {2006},
+  title = {Dancing-To-Music Character Animation},
+  journal = {Computer Graphics Forum},
+  volume = {25},
+  number = {3},
+  pages = {449-458},
+}
+
+% Siegel, W. 1999. “The Digital Dance Interface.” Proceedings of the Interantional Music Conference. Bejing, China. 
+@inproceedings{Siegel1999,
+  author = {Siegel, W.},
+  year = {1999},
+  title = {The Digital Dance Interface},
+  booktitle = {Proceedings of the Interantional Music Conference},
+  address = {China},
+  publisher = {Bejing},
+}
+
+% Siegel, W. 2009. ”Dancing the Music: Interactive Dance and Music” In The Oxford Handbook of Computer Music. Roger Dean (ed.). New York: Oxford University Press, pp. 191-213. 
+@incollection{Siegel2009,
+  author = {Siegel, W.},
+  year = {2009},
+  title = {Dancing the Music: Interactive Dance and Music},
+  booktitle = {The Oxford Handbook of Computer Music},
+  editor = {Roger Dean},
+  address = {New York},
+  publisher = {Oxford University Press},
+  pages = {191-213},
+}
+
+% Siegel, W. and J. Jacobsen. 1998. “The Challenges of Interactive Dance: An Overview and Case Study.” Computer Music Journal 22(4):29-43. 
+@article{SiegelJacobsen1998,
+  author = {Siegel, W. and J. Jacobsen},
+  year = {1998},
+  title = {The Challenges of Interactive Dance: An Overview and Case Study},
+  journal = {Computer Music Journal},
+  volume = {22},
+  number = {4},
+  pages = {29-43},
+}
+
+% Siegel, W., 1999. “Two Compositions for Interactive Dance.” The Danish Institute of Electroacoustic Music DIEM. Musikhuset. DK-8000 C, Aarhus, Denmark. 
+@article{Siegel1999-1,
+  author = {Siegel, W.},
+  year = {1999},
+  title = {Two Compositions for Interactive Dance},
+  journal = {The Danish Institute of Electroacoustic Music DIEM. Musikhuset},
+  volume = {DK-8000 C, Aarhus, Den k},
+  month = {March},
+}
+
+% Siegel, W., and J. Jacobsen. 1999. “Composing for the Digital Dance Interface.” In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 276-277. 
+@inproceedings{SiegelJacobsen1999,
+  author = {Siegel, W. and J. Jacobsen},
+  year = {1999},
+  title = {Composing for the Digital Dance Interface},
+  booktitle = {Proceedings of the 1999 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {276-277},
+}
+
+% Siegel, W., and J. Jacobson. 1998. “The Challenges of Interactive Dance: An Overview and Case Study.” Computer Music Journal, 22(4): 29 
+@article{SiegelJacobson1998,
+  author = {Siegel, W. and J. Jacobson},
+  year = {1998},
+  title = {The Challenges of Interactive Dance: An Overview and Case Study},
+  journal = {Computer Music Journal},
+  volume = {22},
+  number = {4},
+  pages = {29},
+}
+
+% Sinclair, S. and M. Wanderley. 2007. “Extending DIMPLE: a Rigid Body Simulator for Interactive Control of Sound.” Proceedings of the the 4th International Conference on Enactive Interfaces (ENACTIVE'07). Grenoble, France. 
+@inproceedings{SinclairWanderley2007,
+  author = {Sinclair, S. and M. Wanderley},
+  year = {2007},
+  title = {Extending DIMPLE: a Rigid Body Simulator for Interactive Control of Sound},
+  booktitle = {Proceedings of the the 4th International Conference on Enactive Interfaces (ENACTIVE'07)},
+  address = {France},
+  publisher = {Grenoble},
+}
+
+% Sinclair, S. and M. Wanderley. 2007. “Using PureData to Control a Haptically-enabled Virtual Environment.” PureData Convention 2007. Montreal, Canada. 
+@article{SinclairWanderley2007-1,
+  author = {Sinclair, S. and M. Wanderley},
+  year = {2007},
+  title = {Using PureData to Control a Haptically-enabled Virtual Environment},
+  journal = {PureData Convention},
+  volume = {2007. Montreal, Canada},
+}
+
+% Sinnott, Laura. 2008. Mapping Strategies for the Augmented Tango Shoe. MM Thesis, New York University, USA. 
+@phdthesis{Sinnott2008,
+  author = {Sinnott, Laura},
+  year = {2008},
+  title = {Mapping Strategies for the Augmented Tango Shoe},
+  school = {MM New York University, USA},
+}
+
+% Slater, M., M. Usoh, , and A. Steed. 1994. “Depth of presence in virtual environment.” Presence. 3(2): pp. 130-144. 
+@article{SlaterUsohSteed1994,
+  author = {Slater, M. and M. Usoh and A. Steed},
+  year = {1994},
+  title = {Depth of presence in virtual environment},
+  journal = {Presence},
+  volume = {3},
+  number = {2},
+  pages = {130-144},
+}
+
+% Smirnov, A. 2000. “Music and Gesture: Sensor Technologies in Interactive Music and the Theremin Based Space Control System.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 511-514. 
+@inproceedings{Smirnov2000,
+  author = {Smirnov, A.},
+  year = {2000},
+  title = {Music and Gesture: Sensor Technologies in Interactive Music and the Theremin Based Space Control System},
+  booktitle = {Proceedings of the 2000 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {511-514},
+}
+
+% Smith, A., (ed). 1992. Dance and Technology I: Moving Toward the Future. Proceedings of the First Annual Conference. University of Wisconsin, Madison, WI. 
+@inproceedings{Smith1992,
+  year = {1992},
+  title = {Dance and Technology I: Moving Toward the Future},
+  booktitle = {Proceedings of the First Annual Conference},
+  editor = {Smith, A.},
+  address = {Madison, WI},
+  publisher = {University of Wisconsin},
+}
+
+% Smith, A., (ed). 1995. Dance and Technology III: Transcending Boundaries. Proceedings of the Third Annual Conference. York University, Toronto, CA: pp. 18-25. 
+@inproceedings{Smith1995,
+  year = {1995},
+  title = {Dance and Technology III: Transcending Boundaries},
+  booktitle = {Proceedings of the Third Annual Conference},
+  editor = {Smith, A.},
+  address = {Toronto, CA},
+  publisher = {York University},
+  pages = {18-25},
+}
+
+% Smith, A., (ed). 1999. Dance and Technology IV:. Proceedings of the Fourth Annual Conference. Arizona State University, Tempe. 
+@inproceedings{Smith1999,
+  year = {1999},
+  title = {Dance and Technology IV},
+  booktitle = {Proceedings of the Fourth Annual Conference},
+  editor = {Smith, A.},
+  address = {Tempe},
+  publisher = {Arizona State University},
+}
+
+% Smith, J. 2004. “I Can See Tomorrow In Your Dance: A Study of Dance Dance Revolution and Music Video Games.” Journal of Popular Music Studies. 16(1): 58–84. 
+@article{Smith2004,
+  author = {Smith, J.},
+  year = {2004},
+  title = {I Can See Tomorrow In Your Dance: A Study of Dance Dance Revolution and Music Video Games},
+  journal = {Journal of Popular Music Studies},
+  volume = {16},
+  number = {1},
+  pages = {58-84},
+}
+
+% Smith, J. R. 1996. “Field Mice: Extracting Hand Geometry from Electric Field Measurements.” IBM Systems Journal 35(3/4):587-608. 
+@article{Smith1996,
+  author = {Smith, J. R.},
+  year = {1996},
+  title = {Field Mice: Extracting Hand Geometry from Electric Field Measurements},
+  journal = {IBM Systems Journal},
+  volume = {35},
+  number = {3/4},
+  pages = {587-608},
+}
+
+% Smith, R. L. 1993. Sensors. In R. C. Dorf (Ed.), The Electrical Engineering Handbook. London, UK: CRC Press. 
+@incollection{Smith1993,
+  author = {Smith, R. L.},
+  year = {1993},
+  title = {Sensors},
+  booktitle = {The Electrical Engineering Handbook},
+  editor = {R. C. Dorf},
+  address = {London, UK},
+  publisher = {CRC Press},
+}
+
+% Snell, J. 1983. “Sensors for Playing Computer Music with Expression.” In Proceedings of the 1983 International Computer Music Conference. San Francisco, International Computer Music Association. 
+@inproceedings{Snell1983,
+  author = {Snell, J.},
+  year = {1983},
+  title = {Sensors for Playing Computer Music with Expression},
+  booktitle = {Proceedings of the 1983 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+}
+
+% Snell, J. 1983. Sensors for Playing Computer Music with Expression. Proceedings of the 1983 International Computer Music Conference (ICMC83), Rochester, USA, pp. 113-126. 
+@inproceedings{Snell1983-1,
+  author = {Snell, J.},
+  year = {1983},
+  title = {Sensors for Playing Computer Music with Expression},
+  booktitle = {Proceedings of the 1983 International Computer Music Conference (ICMC83), Rochester, USA},
+  pages = {113-126},
+}
+
+% Soga, A., B., Umino, M., Hirayama. 2009. “Automatic Composition for Contemporary Dance Using 3D Motion Clips: Experiment on Dance Training and System Evaluation.” in Proc. Int’l Conf. Cyber- Worlds, pp. 171-176 
+@inproceedings{SogaUmino2009,
+  author = {Soga, A. B. and Umino, M.Hirayama},
+  year = {2009},
+  title = {Automatic Composition for Contemporary Dance Using 3D Motion Clips: Experiment on Dance Training and System Evaluation},
+  booktitle = {Proc. Int'l Conf. Cyber- Worlds},
+  pages = {171-176},
+}
+
+% Sorensen, A. 2005. “Impromptu: An Interactive Programming Environment for Composition and Performance.” Proceedings of the Australasian Computer Music Conference. Queensland University of Technology, Brisbane, Australia, pp. 149–153. 
+@inproceedings{Sorensen2005,
+  author = {Sorensen, A.},
+  year = {2005},
+  title = {Impromptu: An Interactive Programming Environment for Composition and Performance},
+  booktitle = {Proceedings of the Australasian Computer Music Conference},
+  address = {Brisbane, Australia},
+  publisher = {Queensland University of Technology},
+  pages = {149-153},
+}
+
+% Spasov, M. 2011. “Music Composition as an Act of Cognition: ENACTIV -Interactive Multi-modal Composing System.” Journal of Organised Sound. 16(1):69-86. 
+@article{Spasov2011,
+  author = {Spasov, M.},
+  year = {2011},
+  title = {Music Composition as an Act of Cognition: ENACTIV -Interactive Multi-modal Composing System},
+  journal = {Journal of Organised Sound},
+  volume = {16},
+  number = {1},
+  pages = {69-86},
+}
+
+% Srinivasan, P., D., Birchfield, G., Qian, A., Kidane. 2005. “A pressure sensing floor for interactive media appli- cations,” in ACE ’05: Proceedings of the 2005 ACM SIGCHI International Conference on Advances in computer entertainment technology. Valencia, Spain: ACM, 265. 
+@inproceedings{SrinivasanBirchfieldQian2005,
+  author = {Srinivasan, P. D. and Birchfield, G. and Qian, A.Kidane},
+  year = {2005},
+  title = {A pressure sensing floor for interactive media appli- cations},
+  booktitle = {ACE '05},
+  booksubtitle = {Proceedings of the 2005 ACM SIGCHI International Conference on Advances in computer entertainment technology},
+  address = {Valencia, Spain},
+  publisher = {ACM, 265},
+}
+
+% Starkier, M., and P. Prevot. 1986. “Real-Time Gestural Control.” In Proceedings of the 1986 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 423-426. 
+@inproceedings{StarkierPrevot1986,
+  author = {Starkier, M. and P. Prevot},
+  year = {1986},
+  title = {Real-Time Gestural Control},
+  booktitle = {Proceedings of the 1986 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {423-426},
+}
+
+% Stroppa, M. 1999. “Live electronics or… live music? Towards a critique of interaction” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 41-77. (with audio excerpts on the accompanying CD). 
+@article{Stroppa1999,
+  author = {Stroppa, M.},
+  year = {1999},
+  title = {Live electronics or… live music? Towards a critique of interaction},
+  journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+  volume = {18},
+  number = {3},
+  pages = {41-77},
+  note = {(with audio excerpts on the accompanying CD)},
+}
+
+% Subotnick, M. 1999. “The use of computer technology in an interactive or 'real-time' performance environment” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 113-117. (with audio excerpts on the accompanying CD). 
+@article{Subotnick1999,
+  author = {Subotnick, M.},
+  year = {1999},
+  title = {The use of computer technology in an interactive or 'real-time' performance environment},
+  journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+  volume = {18},
+  number = {3},
+  pages = {113-117},
+  note = {(with audio excerpts on the accompanying CD)},
+}
+
+% Sundén, J. 2003. Material Virtualities: Approaching Online Textual Embodiment. New York: Peter Lang. 
+@book{Sundén2003,
+  author = {Sundén, J.},
+  year = {2003},
+  title = {Material Virtualities: Approaching Online Textual Embodiment},
+  address = {New York},
+  publisher = {Peter Lang},
+}
+
+% Suzuki, K., and S. Hashimoto. 2004. “Robotic Interface for Embodied Interaction Via Dance and Musical Performance.” Proceedings of the IEEE. 92(4): 656-671. 
+@inproceedings{SuzukiHashimoto2004,
+  author = {Suzuki, K. and S. Hashimoto},
+  year = {2004},
+  title = {Robotic Interface for Embodied Interaction Via Dance and Musical Performance},
+  booktitle = {Proceedings of the IEEE},
+  publisher = {92(4},
+  pages = {656-671},
+}
+
+% Suzuki, K., K. Tabe, and S. Hashimoto. 2000. “A Mobile Robot Platform for Music and Dance Performance.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 539-542. 
+@inproceedings{SuzukiTabeHashimoto2000,
+  author = {Suzuki, K. and K. Tabe and S. Hashimoto},
+  year = {2000},
+  title = {A Mobile Robot Platform for Music and Dance Performance},
+  booktitle = {Proceedings of the 2000 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {539-542},
+}
+
+% Suzuki, R., Y., Iwadate, M., Inoue, and W., Woo. 2000. “MIDAS: MIC Interactive Dance System.” in Proc. IEEE Int’l Conf. Systems, Man, and Cybernetics, vol. 2, pp. 751-756 
+@inproceedings{SuzukiIwadateWoo2000,
+  author = {Suzuki, R. Y. and Iwadate, M. Inoue and W. Woo.},
+  year = {2000},
+  title = {MIDAS: MIC Interactive Dance System},
+  booktitle = {Proc. IEEE Int'l Conf. Systems, Man, and Cybernetics},
+  pages = {751-756},
+}
+
+% Takanishi, A., and M. Maeda. 1998. “Development of an Anthropomorphic Flutist Robot WF-3RIV.” In Proceedings of the 1998 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 328-331. 
+@inproceedings{TakanishiMaeda1998,
+  author = {Takanishi, A. and M. Maeda},
+  year = {1998},
+  title = {Development of an Anthropomorphic Flutist Robot WF-3RIV},
+  booktitle = {Proceedings of the 1998 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {328-331},
+}
+
+% Tanaka A., 2010., “Mapping Out Instruments, Affordances, and Mobiles” In Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp. 88 
+@inproceedings{Tanaka2010,
+  author = {Tanaka, A.},
+  year = {2010},
+  title = {Mapping Out Instruments, Affordances, and Mobiles},
+  booktitle = {Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp. 88},
+}
+
+% Tanaka, A. (1997). Musical technical issues in using interactive instrument technology with applications to the BioMuse. In Proceedings of the 1993 International Computer Music Conference, (pp. 124-126). 
+@inproceedings{Tanaka1997,
+  author = {Tanaka, A.},
+  year = {1997},
+  title = {Musical technical issues in using interactive instrument technology with applications to the BioMuse},
+  booktitle = {Proceedings of the 1993 International Computer Music Conference},
+  pages = {124-126},
+}
+
+% Tanaka, A. 1993. “Musical Technical Issues in Using Interactive Instrument Technology with Application to the Biomuse.” In Proceedings of the 1993 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 124-126. 
+@inproceedings{Tanaka1993,
+  author = {Tanaka, A.},
+  year = {1993},
+  title = {Musical Technical Issues in Using Interactive Instrument Technology with Application to the Biomuse},
+  booktitle = {Proceedings of the 1993 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {124-126},
+}
+
+% Tanaka, A. 2000. “Musical Performance Practice on Sensor-Based Instruments.” Trends in Gestural Control of Music. 389-406. 
+@article{Tanaka2000,
+  author = {Tanaka, A.},
+  year = {2000},
+  title = {Musical Performance Practice on Sensor-Based Instruments},
+  journal = {Trends in Gestural Control of Music},
+  pages = {389-406},
+}
+
+% Tanaka, A. Musical performance practice on sensor-based instruments. 2000. In M. Wanderley and M. Battier, eds. Trends in Gestural Control of Music. Paris: IRCAM – Centre Pompidou. 
+@incollection{Tanaka2000-1,
+  author = {Tanaka, A.},
+  year = {2000},
+  title = {Musical performance practice on sensor-based instruments},
+  booktitle = {Trends in Gestural Control of Music},
+  editor = {M. Wanderley and M. Battier},
+  address = {Paris},
+  publisher = {IRCAM -- Centre Pompidou},
+}
+
+% Tanzi, D. “Time, Proximity And Meaning On The Net.” online essay, CTHEORY. 
+@book{Tanzi??,
+  author = {Tanzi, D.},
+  title = {Time, Proximity And Meaning On The Net},
+  address = {CTHEORY},
+  publisher = {online essay},
+}
+
+% Tarabella, L. 1997. “Studio Report of the Computer Music Lab of CNUCE/C.N.R.” In Proceedings of the 1997 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 86-88. 
+@inproceedings{Tarabella1997,
+  author = {Tarabella, L.},
+  year = {1997},
+  title = {Studio Report of the Computer Music Lab of CNUCE/C. N. R},
+  booktitle = {Proceedings of the 1997 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {86-88},
+}
+
+% Tarabella, L., and G. Bertini. 1997. “Original Gesture Interfaces for Live Interactive Multimedia Performances.” In Proceedings of the Journées d’Informatique Musicale, pp. 41-45. 
+@inproceedings{TarabellaBertini1997,
+  author = {Tarabella, L. and G. Bertini},
+  year = {1997},
+  title = {Original Gesture Interfaces for Live Interactive Multimedia Performances},
+  booktitle = {Proceedings of the Journées d'Informatique Musicale},
+  pages = {41-45},
+}
+
+% Theremin, L. 1999. “Recollections.” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 15-19. 
+@article{Theremin1999,
+  author = {Theremin, L.},
+  year = {1999},
+  title = {Recollections},
+  journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+  volume = {18},
+  number = {3},
+  pages = {15-19},
+}
+
+% Tholen, G. 2001. “In Between: Time, Space and Image in Cross-Media Performance.” Performance Research6(3): 52-60. 
+@article{Tholen2001,
+  author = {Tholen, G.},
+  year = {2001},
+  title = {In Between: Time, Space and Image in Cross-Media Performance},
+  journal = {Performance},
+  volume = {6},
+  number = {3},
+  pages = {52-60},
+  note = {Researc},
+}
+
+% Tindale, A.R., A. Kapur, G. Tzanetakis, and W.A. Schloss. 2005. “Indirect Acquisition of Percussion Gestures Using Timbre Recognition.” Proceedings of the Conference on Interdisciplinary Musicology, Montreal: Canada. 
+@inproceedings{TindaleKapurTzanetakisSchloss2005,
+  author = {Tindale, A. R. and A. Kapur and G. Tzanetakis and W. A. Schloss},
+  year = {2005},
+  title = {Indirect Acquisition of Percussion Gestures Using Timbre Recognition},
+  booktitle = {Proceedings of the Conference on Interdisciplinary Musicology},
+  address = {Montreal},
+  publisher = {Canada},
+}
+
+% Tobenfeld, E. 1992. “A System for Computer Assisted Gestural Improvisation.” Accessed at http://quod.lib.umich.edu/cgi/p/pod/dod-idx?c=icmc;idno=bbp2372.1992.025 
+@online{Tobenfeld1992,
+  author = {Tobenfeld, E.},
+  year = {1992},
+  title = {A System for Computer Assisted Gestural Improvisation},
+  url = {http://quod.lib.umich.edu/cgi/p/pod/dod-idx?c=icmc;idno=bbp2372.1992.025},
+}
+
+% Tobenfeld, E. 1992.”A System for Computer Assisted Gestural Improvisation.” In Proceedings of the 1992 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 93-96. 
+@inproceedings{Tobenfeld1992-1,
+  author = {Tobenfeld, E.},
+  year = {1992},
+  title = {A System for Computer Assisted Gestural Improvisation},
+  booktitle = {Proceedings of the 1992 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {93-96},
+}
+
+% Tobey, F. 1995. “The Ensemble Member and the Conducted Computer.” In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 529-530. 
+@inproceedings{Tobey1995,
+  author = {Tobey, F.},
+  year = {1995},
+  title = {The Ensemble Member and the Conducted Computer},
+  booktitle = {Proceedings of the 1995 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {529-530},
+}
+
+% Tobey, F. 1996. “Extraction of Conducting Gestures in 3D Space.” In Proceedings of the 1996 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 305-307. 
+@inproceedings{Tobey1996,
+  author = {Tobey, F.},
+  year = {1996},
+  title = {Extraction of Conducting Gestures in 3D Space},
+  booktitle = {Proceedings of the 1996 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {305-307},
+}
+
+% Toulemonde, O., P. Möenne-Loccoz, and B. Donzel-Gargand. 1999. “Des nouvelles lutheries informatiques.” In H. Genevois and R. de Vivo, eds. Les nouveaux gestes de la musique. Marseille: Editions Parenthèses, pp. 169-174. 
+@incollection{ToulemondeMöenneLoccozDonzelGargand1999,
+  author = {Toulemonde, O. and P. Möenne-Loccoz and B. Donzel-Gargand},
+  year = {1999},
+  title = {Des nouvelles lutheries informatiques},
+  booktitle = {Les nouveaux gestes de la musique},
+  editor = {H. Genevois and R. de Vivo},
+  address = {Marseille},
+  publisher = {Editions Parenthèses},
+  pages = {169-174},
+}
+
+% Trueman, D., and P. Cook. 1999. “BoSSA: The Deconstructed Violin Reconstructed.” In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 232-239. 
+@inproceedings{TruemanCook1999,
+  author = {Trueman, D. and P. Cook},
+  year = {1999},
+  title = {BoSSA: The Deconstructed Violin Reconstructed},
+  booktitle = {Proceedings of the 1999 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {232-239},
+}
+
+% Trueman, D., C. Bahn, and P. Cook. 2000. “Alternative Voices for Electronic Sound: Spherical Speakers and Sensor-Speaker Arrays (SenSAs).” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 248-251. 
+@inproceedings{TruemanBahnCook2000,
+  author = {Trueman, D. and C. Bahn and P. Cook},
+  year = {2000},
+  title = {Alternative Voices for Electronic Sound: Spherical Speakers and Sensor-Speaker Arrays (SenSAs)},
+  booktitle = {Proceedings of the 2000 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {248-251},
+}
+
+% Ulyate, R. 1998. “Interactive Dance Club.” SIGGRAPH98 Conference Abstracts and Applications. ACM Press. New York, pp. 230-235. 
+@inproceedings{Ulyate1998,
+  author = {Ulyate, R.},
+  year = {1998},
+  title = {Interactive Dance Club},
+  booktitle = {SIGGRAPH98 Conference Abstracts and Applications},
+  address = {ACM Press},
+  publisher = {New York},
+  pages = {230-235},
+}
+
+% Ungvary, T. 1992. Waters, S., and Rajka, P. “Nuntius – A Computer System for the Interactive Composition and Analysis of Music and Dance.” Leonardo, 25(1): 59-68. 
+@article{Ungvary1992,
+  author = {Ungvary, T.},
+  year = {1992},
+  title = {Waters, S., and Rajka},
+  journal = {P. ``Nuntius -- A Computer System for the Interactive Composition and Analysis of Music and Dance.'' Leonardo},
+  volume = {25},
+  number = {1},
+  pages = {59-68},
+}
+
+% Ungvary, T. and Vertegaal, R. 2000. “Designing Musical Cyberinstruments with body and soul in mind.” Journal of New Music Research. 29(3):245-255. 
+@article{UngvaryVertegaal2000,
+  author = {Ungvary, T. and Vertegaal, R.},
+  year = {2000},
+  title = {Designing Musical Cyberinstruments with body and soul in mind},
+  journal = {Journal of New Music Research},
+  volume = {29},
+  number = {3},
+  pages = {245-255},
+}
+
+% Ungvary, T., and Kieslinger, M. 1998. “Creative and Interpretative Process milieu for Live-Computer music with the Sentograph.” In Kopiez und Auhagen, eds. Controlling Creative Processes in Music. Schriften Musikpsychologie und Musikästhetik 12. Peter Lang Verlag, pp. 173-227. 
+@incollection{UngvaryKieslinger1998,
+  author = {Ungvary, T. and Kieslinger, M.},
+  year = {1998},
+  title = {Creative and Interpretative Process milieu for Live-Computer music with the Sentograph},
+  booktitle = {Controlling Creative Processes in Music. Schriften Musikpsychologie und Musikästhetik 12},
+  editor = {Kopiez and},
+  publisher = {Peter Lang Verlag},
+  pages = {173-227},
+}
+
+% Ungvary, T., and R. Vertegaal. 1998. “The SensOrg: A Musical Cyberinstrument with a Cognitive Ergonomical Touch.” In Proceedings of the 1998 IEEE International Conference on Systems, Man and Cybernetics (SMC'98), pp. 1066-1071. 
+@inproceedings{UngvaryVertegaal1998,
+  author = {Ungvary, T. and R. Vertegaal},
+  year = {1998},
+  title = {The SensOrg: A Musical Cyberinstrument with a Cognitive Ergonomical Touch},
+  booktitle = {Proceedings of the 1998 IEEE International Conference on Systems, Man and Cybernetics (SMC'98)},
+  pages = {1066-1071},
+}
+
+% Ungvary, T., and R. Vertegaal. 1999 “The SensOrg: Time-complexity and the Design of a Musical Cyberinstrument.” In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 363-366. 
+@inproceedings{UngvaryVertegaal1999,
+  author = {Ungvary, T. and R. Vertegaal},
+  year = {1999},
+  title = {The SensOrg: Time-complexity and the Design of a Musical Cyberinstrument},
+  booktitle = {Proceedings of the 1999 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {363-366},
+}
+
+% Usa, S., and Y. Mochida. 1998. “A Multi-Modal Conducting Simulator.” In Proceedings of the 1998 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 25-32. 
+@inproceedings{UsaMochida1998,
+  author = {Usa, S. and Y. Mochida},
+  year = {1998},
+  title = {A Multi-Modal Conducting Simulator},
+  booktitle = {Proceedings of the 1998 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {25-32},
+}
+
+% Valverde, I., L., Naugle, F., Bevilacqua. 2001. “Embodied Shifts: Towards an experiential approach to dance- technology interfaces”, MTAC Proceeding. 
+@book{ValverdeNaugle2001,
+  author = {Valverde, I. L. and Naugle, F.Bevilacqua},
+  year = {2001},
+  title = {Embodied Shifts: Towards an experiential approach to dance- technology interfaces},
+  publisher = {MTAC Proceeding},
+}
+
+% Vecchi, F., C. Freschi, S. Micera, A. M. Sabatini, P. Dario, and R. Sacchetti. 2000. “Experimental Evaluation of Two Commercial Force Sensors for Applications in Biomechanics and Motor Control”. Proceedings of the 5th Annual Conference of the International Functional Electrical Stimulation Society, Aalborg, Danemark. 
+@inproceedings{VecchiFreschiMiceraSabatiniDarioSacchetti2000,
+  author = {Vecchi, F. and C. Freschi and S. Micera and A. M. Sabatini and P. Dario and R. Sacchetti},
+  year = {2000},
+  title = {Experimental Evaluation of Two Commercial Force Sensors for Applications in Biomechanics and Motor Control},
+  booktitle = {Proceedings of the 5th Annual Conference of the International Functional Electrical Stimulation Society, Aalborg, Danemark},
+}
+
+% Vergez, C. 2000. Trompette et trompettiste: un systeme dynamique non lineaire analyse, modelise et simule dans un contexte musical. PhD thesis, Université de Paris VI. 
+@phdthesis{Vergez2000,
+  author = {Vergez, C.},
+  year = {2000},
+  title = {Trompette et trompettiste: un systeme dynamique non lineaire analyse, modelise et simule dans un contexte musical},
+  school = {Université de Paris VI},
+}
+
+% Vergez, C., and X. Rodet. 2001. “Trumpet and Trumpet Player: Model and Simulation in a Musical Context.” In Proceedings of the 2001 International Computer Music Conference. San Francisco, International Computer Music Association. 
+@inproceedings{VergezRodet2001,
+  author = {Vergez, C. and X. Rodet},
+  year = {2001},
+  title = {Trumpet and Trumpet Player: Model and Simulation in a Musical Context},
+  booktitle = {Proceedings of the 2001 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+}
+
+% Verplaetse, C. 1996. “Inertial Proprioceptive Devices: Self-Motion-Sensing Toys and Tools”. IBM Systems Journal, 35(3&4):639-650. 
+@article{Verplaetse1996,
+  author = {Verplaetse, C.},
+  year = {1996},
+  title = {Inertial Proprioceptive Devices: Self-Motion-Sensing Toys and Tools},
+  journal = {IBM Systems Journal},
+  volume = {35},
+  number = {3},
+  pages = {639-650},
+  note = {&4},
+}
+
+% Vertegaal, R. , Ungvary, T. and Kieslinger, M. 1996. Towards a Musician's Cockpit: Transducers, Feedback and Musical Function. Proceedings of the 1996 International Computer Music Conference (ICMC-96). 
+@inproceedings{VertegaalUngvaryKieslinger1996,
+  author = {Vertegaal, R. and Ungvary, T. and Kieslinger, M.},
+  year = {1996},
+  title = {Towards a Musician's Cockpit: Transducers, Feedback and Musical Function},
+  booktitle = {Proceedings of the 1996 International Computer Music Conference (ICMC-96)},
+}
+
+% Vertegaal, R. 1994. “An Evaluation of Input Devices for Timbre Space Navigation.” Master's thesis. Department of Computing - University of Bradford. 
+@mastersthesis{Vertegaal1994,
+  author = {Vertegaal, R.},
+  year = {1994},
+  title = {An Evaluation of Input Devices for Timbre Space Navigation},
+  school = {Department of Computing - University of Bradford},
+}
+
+% Vertegaal, R. and B. Eaglestone. 1996. “Comparison of Input Devices in an ISEE Direct Timbre Manipulation Task.” Interacting with Computers 8, 1, pp. 113-30. 
+@article{VertegaalEaglestone1996,
+  author = {Vertegaal, R. and B. Eaglestone},
+  year = {1996},
+  title = {Comparison of Input Devices in an ISEE Direct Timbre Manipulation Task},
+  journal = {Interacting with Computers},
+  volume = {8},
+  number = {1},
+  pages = {113-30},
+}
+
+% Vertegaal, R., and Bonis, E.. 1994. “ISEE: An Intuitive Sound Editing Environment.” Computer Music Journal 18(2): 21-29. 
+@article{VertegaalBonis1994,
+  author = {Vertegaal, R. and Bonis, E.},
+  year = {1994},
+  title = {ISEE: An Intuitive Sound Editing Environment},
+  journal = {Computer Music Journal},
+  volume = {18},
+  number = {2},
+  pages = {21-29},
+}
+
+% Vertegaal, R., and T. Ungvary. 1995. “The Sentograph: Input Devices and the Communication of Bodily Expression.” In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 253-256. 
+@inproceedings{VertegaalUngvary1995,
+  author = {Vertegaal, R. and T. Ungvary},
+  year = {1995},
+  title = {The Sentograph: Input Devices and the Communication of Bodily Expression},
+  booktitle = {Proceedings of the 1995 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {253-256},
+}
+
+% Vertegaal, R., T. Ungvary, and M. Kieslinger. 1996. “Towards a Musician's Cockpit: Transducer, Feedback and Musical Function.” In Proceedings of the 1996 International Computer Music Conference. San Francisco, CA: International Computer Music Association, pp. 308-311. 
+@inproceedings{VertegaalUngvaryKieslinger1996-1,
+  author = {Vertegaal, R. and T. Ungvary and M. Kieslinger},
+  year = {1996},
+  title = {Towards a Musician's Cockpit: Transducer, Feedback and Musical Function},
+  booktitle = {Proceedings of the 1996 International Computer Music Conference},
+  address = {San Francisco, CA},
+  publisher = {International Computer Music Association},
+  pages = {308-311},
+}
+
+% Vertegaal, R., T. Ungvary, and M. Kieslinger. 1996. “Towards a Musicianʼs Cockpit: Transducers, Feedback and Musical Function.” Proceedings of the International Computer Music Conference, pp. 308–311 
+@inproceedings{VertegaalUngvaryKieslinger1996-2,
+  author = {Vertegaal, R. and T. Ungvary and M. Kieslinger},
+  year = {1996},
+  title = {Towards a Musicianʼs Cockpit: Transducers, Feedback and Musical Function},
+  booktitle = {Proceedings of the International Computer Music Conference},
+  pages = {308-311},
+}
+
+% Vigier, F. 1999. “Etude et réalisation de dispositifs de captation du jeu instrumental”. Rapport de Stage. Ircam - Centre Pompidou/ENSEA. 
+@book{Vigier1999,
+  author = {Vigier, F.},
+  year = {1999},
+  title = {Etude et réalisation de dispositifs de captation du jeu instrumental},
+  address = {Centre Pompidou/ENSEA},
+  publisher = {Rapport de Stage. Ircam},
+}
+
+% Vinet, H. and F. Delalande (eds.). 1999. Interfaces homme-machine et création musicale. Paris: Hermes Science Publications, 236 p. 
+@book{VinetDelalande1999,
+  year = {1999},
+  editor = {Vinet, H. and F. Delalande},
+  title = {Interfaces homme-machine et création musicale},
+  address = {Paris},
+  publisher = {Hermes Science Publications},
+  note = {236 p.},
+}
+
+% Vinet, H., and F. Delalande, eds. 1999. Interfaces homme-machine et création musicale. Paris: Hermès Science Publications. 
+@book{VinetDelalande1999-1,
+  year = {1999},
+  editor = {Vinet, H. and F. Delalande},
+  title = {Interfaces homme-machine et création musicale},
+  address = {Paris},
+  publisher = {Hermès Science Publications},
+}
+
+% Viollet, J.P. 1999. “Etude de Dispositifs de Contrôle Gestuel de la Synthèse Sonore.” Rapport de Stage-Ingénieur. Ecole Nationale Supérieure des Télécommunications de Paris. 
+@book{Viollet1999,
+  author = {Viollet, J. P.},
+  year = {1999},
+  title = {Etude de Dispositifs de Contrôle Gestuel de la Synthèse Sonore},
+  address = {Rapport de Stage-Ingénieur},
+  publisher = {Ecole Nationale Supérieure des Télécommunications de Paris},
+}
+
+% Vlasic, D., Adelsberger, R., Vannucci, G., Barnwell, J. and Markus G. Practical Motion Capture in Everyday Surroundings. Proceedings of the International Conference and Exhibition on Computer Graphics and Interactive Technologies (SIGGRAPH), 2007. 
+@inproceedings{VlasicAdelsbergerVannucciBarnwellMarkus2007,
+  author = {Vlasic, D. and Adelsberger, R. and Vannucci, G. and Barnwell, J. and Markus, G.},
+  year = {2007},
+  title = {Practical Motion Capture in Everyday Surroundings},
+  booktitle = {Proceedings of the International Conference and Exhibition on Computer Graphics and Interactive Technologies (SIGGRAPH), 2007},
+}
+
+% Waisvisz, M. 1985. “The Hands, a Set of Remote MIDI-Controllers.” In Proceedings of the 1985 International Computer Music Conference. San Francisco, International Computer International Computer Music Association, pp. 313-318. 
+@inproceedings{Waisvisz1985,
+  author = {Waisvisz, M.},
+  year = {1985},
+  title = {The Hands, a Set of Remote MIDI-Controllers},
+  booktitle = {Proceedings of the 1985 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer International Computer Music Association},
+  pages = {313-318},
+}
+
+% Waisvisz, M. 1999. “Riding the Sphinx - lines about 'live'” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 119-126. 
+@article{Waisvisz1999,
+  author = {Waisvisz, M.},
+  year = {1999},
+  title = {Riding the Sphinx - lines about 'live'},
+  journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+  volume = {18},
+  number = {3},
+  pages = {119-126},
+}
+
+% Waisvisz, M., J. Ryan, and N. Collins. 1993. “STEIM - de zoetgevooisde Bliksem.” (chief editor: S. Sjollema), STEIM. 
+@book{WaisviszRyanCollins1993,
+  author = {Waisvisz, M. and J. Ryan and N. Collins},
+  year = {1993},
+  title = {STEIM - de zoetgevooisde Bliksem},
+  address = {chief editor},
+  publisher = {S. Sjollema), STEIM},
+}
+
+% Wanderley M. M. , Viollet, J.-P. , Isart, F. and Rodet, X. 2000. On the choice of transducer technologies for speciﬁc musical functions. Proceedings of the 2000 International Computer Music Conference (ICMC-00), Berlin, Germany, pp. 244–247. 
+@inproceedings{WanderleyViolletIsartRodet2000,
+  author = {Wanderley, M. M. and Viollet, J.-P. and Isart, F. and Rodet, X.},
+  year = {2000},
+  title = {On the choice of transducer technologies for specific musical functions},
+  booktitle = {Proceedings of the 2000 International Computer Music Conference (ICMC-00), Berlin, Germany},
+  pages = {244-247},
+}
+
+% Wanderley M. M. and Orio N. 2002. Evaluation of Input Devices for Musical Expression: Borrowing Tools from HCI. Computer Music Journal, 26:3, pp. 62-76. 
+@article{WanderleyOrio2002,
+  author = {Wanderley, M. M. and Orio, N.},
+  year = {2002},
+  title = {Evaluation of Input Devices for Musical Expression: Borrowing Tools from HCI},
+  journal = {Computer Music Journal},
+  volume = {26},
+  number = {3},
+  pages = {62-76},
+}
+
+% Wanderley, M. 2001. “Performer-Instrument Interaction: Applications to Gestural Control of Music.” PhD Thesis . Paris, France: University Pierre et Marie Curie - Paris VI. 
+@phdthesis{Wanderley2001,
+  author = {Wanderley, M.},
+  year = {2001},
+  title = {Performer-Instrument Interaction: Applications to Gestural Control of Music},
+  school = {University Pierre et Marie Curie - Paris VI},
+  note = {Paris, France},
+}
+
+% Wanderley, M. 2001. Performer-Instrument Interaction: Applications to Gestural Control of Music. PhD Thesis. Paris, France: University Pierre et Marie Curie - Paris VI. 
+@phdthesis{Wanderley2001-1,
+  author = {Wanderley, M.},
+  year = {2001},
+  title = {Performer-Instrument Interaction: Applications to Gestural Control of Music},
+  school = {University Pierre et Marie Curie - Paris VI},
+  note = {Paris, France},
+}
+
+% Wanderley, M. 2002. “Mapping Strategies in Interactive Computer Music.” Organised Sound, 7(2):83-84. 
+@article{Wanderley2002,
+  author = {Wanderley, M.},
+  year = {2002},
+  title = {Mapping Strategies in Interactive Computer Music},
+  journal = {Organised Sound},
+  volume = {7},
+  number = {2},
+  pages = {83-84},
+}
+
+% Wanderley, M. M. (2001). Performer-instrument interaction: Applications to gestural control of sound synthesis, (Ph.D. dissertation) Université Pierre et Marie Curie—Paris VI, Paris, France. 
+@phdthesis{Wanderley2001-2,
+  author = {Wanderley, M. M.},
+  year = {2001},
+  title = {Performer-instrument interaction: Applications to gestural control of sound synthesis},
+  school = {Ph. D. Université Pierre et Marie Curie---Paris VI, Paris, France},
+}
+
+% Wanderley, M. M. and M. Battier, eds. 2000. Trends in Gestural Control of Music. Paris: Thesis. Paris Ircam - Centre Pompidou. 
+@phdthesis{WanderleyBattier2000,
+  year = {2000},
+  title = {Trends in Gestural Control of Music},
+  school = {Paris Ircam - Centre Pompidou},
+  note = {Paris},
+}
+
+% Wanderley, M. M. and P. Depalle. 1999. “Contrôle Gestuel de la Synthèse Sonore.”, In H. Vinet and F. Delalande, eds. Interfaces Homme-Machine et Création Musicale. Paris: Hermès Science Publishing, pp. 145-163. 
+@incollection{WanderleyDepalle1999,
+  author = {Wanderley, M. M. and P. Depalle},
+  year = {1999},
+  title = {Contrôle Gestuel de la Synthèse Sonore},
+  booktitle = {Interfaces Homme-Machine et Création Musicale},
+  editor = {H. Vinet and F. Delalande},
+  address = {Paris},
+  publisher = {Hermès Science Publishing},
+  pages = {145-163},
+}
+
+% Wanderley, M. M., J.-P. Viollet, F. Isart, and X. Rodet. 2000. “On the Choice of Transducer Technologies for Specific Musical Functions.”, In Proceedings of the 2000 International Computer Music Conference. San Francisco, CA: International Computer Music Association, pp. 244-247. 
+@inproceedings{WanderleyViolletIsartRodet2000-1,
+  author = {Wanderley, M. M. and J.-P. Viollet and F. Isart and X. Rodet},
+  year = {2000},
+  title = {On the Choice of Transducer Technologies for Specific Musical Functions},
+  booktitle = {Proceedings of the 2000 International Computer Music Conference},
+  address = {San Francisco, CA},
+  publisher = {International Computer Music Association},
+  pages = {244-247},
+}
+
+% Wanderley, M., and N. Orio. 2002. “Evaluation of Input Devices for Musical Expression: Borrowing Tools from HCI.” Computer Music Journal, 26(3): 62-76. 
+@article{WanderleyOrio2002-1,
+  author = {Wanderley, M. and N. Orio},
+  year = {2002},
+  title = {Evaluation of Input Devices for Musical Expression: Borrowing Tools from HCI},
+  journal = {Computer Music Journal},
+  volume = {26},
+  number = {3},
+  pages = {62-76},
+}
+
+% Wanderley, M., Depalle, P., “Gestural Control of Sound Synthesis”, 2004, In Proceedings of the IEEE Conference Vol. 92, No. 4,. 
+@inproceedings{WanderleyDepalle2004,
+  author = {Wanderley, M. and Depalle, P.},
+  year = {2004},
+  title = {Gestural Control of Sound Synthesis},
+  booktitle = {04, In Proceedings of the IEEE Conference Vol. 92, No},
+}
+
+% Wanderley, M., N. Schnell and J. B. Rovan. 1998. “Escher- Modeling and Performing Composed Instruments in Real-Time. In Proceedings of the 1998 IEEE International Conference on Systems, Man and Cybernetics(SMC'98), pp. 1080-1084. 
+@unpublished{WanderleySchnellRovan1998,
+  author = {Wanderley, M. and N. Schnell and J. B. Rovan},
+  title = {Escher- Modeling and Performing Composed Instruments in Real-Time. In Proceedings of the 1998 IEEE International Conference on Systems, Man and Cybernetics(SMC'98), pp. 1080-1084},
+  year = {1998},
+}
+
+% Wanderley, M., Orio, N., 2002, “Evaluation of Input Devices for Musical Expression: Borrowing Tools from HCI”, Computer Music Journal, 26:3, pp. 62–76 
+@article{WanderleyOrio2002-2,
+  author = {Wanderley, M. and Orio, N.},
+  year = {2002},
+  title = {Evaluation of Input Devices for Musical Expression: Borrowing Tools from HCI},
+  journal = {Computer Music Journal},
+  volume = {26},
+  number = {3},
+  pages = {62-76},
+}
+
+% Wang, G. and Cook. P. R. 2003. “ChucK: A Concurrent, On-the-fly Audio Programming Language.” Proceedings of the International Computer Music Conference (ICMC 2003). pp. 219–226. 
+@inproceedings{WangCook2003,
+  author = {Wang, G. and Cook, P. R.},
+  year = {2003},
+  title = {ChucK: A Concurrent, On-the-fly Audio Programming Language},
+  booktitle = {Proceedings of the International Computer Music Conference (ICMC 2003)},
+  pages = {219-226},
+}
+
+% Wardrip-Fruin, N. and N. Montfort, (eds). 2003. The New Media Reader.Cambridge, MA.: MIT Press. 
+@book{WardripFruinMontfort2003,
+  year = {2003},
+  editor = {Wardrip-Fruin, N. and N. Montfort},
+  title = {The New Media Reader},
+  address = {Cambridge, MA},
+  publisher = {MIT Press},
+}
+
+% Wasserman, K. C., M. Blanchard, U. Bernardet, J. Manzolli, and P. Verschure. 2000. “Roboser- An Autonomous Interactive Musical Composition System.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 535-538. 
+@inproceedings{WassermanBlanchardBernardetManzolliVerschure2000,
+  author = {Wasserman, K. C. and M. Blanchard and U. Bernardet and J. Manzolli and P. Verschure},
+  year = {2000},
+  title = {Roboser- An Autonomous Interactive Musical Composition System},
+  booktitle = {Proceedings of the 2000 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {535-538},
+}
+
+% Webster, J. (ed.) 1989. The Measurement, Instrumentation and Sensors Handbook. CRC Press. 
+@book{Webster1989,
+  year = {1989},
+  editor = {Webster, J.},
+  title = {The Measurement, Instrumentation and Sensors Handbook},
+  publisher = {CRC Press},
+}
+
+% Wechsler, R. 1985. “Symmetry in Dance.” Contact Quarterly. 
+@book{Wechsler1985,
+  author = {Wechsler, R.},
+  year = {1985},
+  title = {Symmetry in Dance},
+  publisher = {Contact Quarterly},
+}
+
+% Wechsler, R. 1995. “Analysis of “reversals” in the Cunningham Dance Technique. Issues concerning the perception of symmetry in dance.” Proceedings of the first International Dance and Technology Conference, Vancouver, Canada. 
+@inproceedings{Wechsler1995,
+  author = {Wechsler, R.},
+  year = {1995},
+  title = {Analysis of ``reversals'' in the Cunningham Dance Technique. Issues concerning the perception of symmetry in dance},
+  booktitle = {Proceedings of the first International Dance and Technology Conference},
+  address = {Vancouver, Canada},
+}
+
+% Wechsler, R. 1997. “Computer im Tanz: Medium oder Werkzeug?”, Ballett International. 
+@book{Wechsler1997,
+  author = {Wechsler, R.},
+  year = {1997},
+  title = {Computer im Tanz: Medium oder Werkzeug?},
+  publisher = {Ballett International},
+}
+
+% Wechsler, R. 1997. “Computers and Art: a Dancer's Perspective”, IEEE Technology and Society Magazine. 
+@book{Wechsler1997-1,
+  author = {Wechsler, R.},
+  year = {1997},
+  title = {Computers and Art: a Dancer's Perspective},
+  publisher = {IEEE Technology and Society Magazine},
+}
+
+% Wechsler, R. 1997. “O Body Swayed to Music… (and vise versa)” (published in Leonardo Magazine. 
+@book{Wechsler1997-2,
+  author = {Wechsler, R.},
+  year = {1997},
+  title = {O Body Swayed to Music… (and vise versa)},
+  publisher = {published in Leonardo Magazine},
+}
+
+% Wechsler, R. 1998. “Symmetrie und Tanz.” Tanz Aktuell, Berlin. 
+@book{Wechsler1998,
+  author = {Wechsler, R.},
+  year = {1998},
+  title = {Symmetrie und Tanz},
+  address = {Berlin},
+  publisher = {Tanz Aktuell},
+}
+
+% Wechsler, R. 2000. “The Meaning of Interaction in Dance” (publication pending) 
+@book{Wechsler2000,
+  author = {Wechsler, R.},
+  year = {2000},
+  title = {The Meaning of Interaction in Dance},
+  publisher = {publication pending},
+}
+
+% Wechsler, R. and H. Zwiauer. 1998. “Computer und Tanz”, Der Tanz der Dinge, 41. 
+@article{WechslerZwiauer1998,
+  author = {Wechsler, R. and H. Zwiauer},
+  year = {1998},
+  title = {Computer und Tanz},
+  journal = {Der Tanz der Dinge},
+  volume = {41},
+}
+
+% Wechsler, R. and H. Zwiauer. 1999. “Les ordinateurs et la danse: retour vers l'avenier?” Nouvelles de Danse, pp. 40-41 
+@article{WechslerZwiauer1999,
+  author = {Wechsler, R. and H. Zwiauer},
+  year = {1999},
+  title = {Les ordinateurs et la danse: retour vers l'avenier?},
+  journal = {Nouvelles de Danse},
+  pages = {40-41},
+}
+
+% Wechsler, R. and H.Zwiauer. 1998. “Computers and Dance: Back to the Future?” Dance Research Journal. 
+@article{WechslerZwiauer1998-1,
+  author = {Wechsler, R. and H. Zwiauer},
+  year = {1998},
+  title = {Computers and Dance: Back to the Future?},
+  journal = {Dance Research Journal},
+}
+
+% Wechsler, R., and A.P., Acitores. 2010. “Motion Tracking: a Music and Dance Tool for People with Cerebral Palsy.” publication pending. 
+@book{WechslerPAcitores2010,
+  author = {Wechsler, R. and A. P.Acitores},
+  year = {2010},
+  title = {Motion Tracking: a Music and Dance Tool for People with Cerebral Palsy},
+  publisher = {publication pending},
+}
+
+% Wechsler, R., F., Weiss. 2004. “Motion Sensing for Interactive Dance.” IEEE-Pervasive Computing, Mobile and Ubiquitous Systems. 
+@book{Wechsler2004,
+  author = {Wechsler, R. F.Weiss},
+  year = {2004},
+  title = {Motion Sensing for Interactive Dance},
+  address = {Mobile and Ubiquitous Systems},
+  publisher = {IEEE-Pervasive Computing},
+}
+
+% Weinberg, G. 2005. “Voice Networks: The Human Voice as a Creative Medium for Musical Collaboration.” Leonardo Music Journal. 15:23-26. 
+@article{Weinberg2005,
+  author = {Weinberg, G.},
+  year = {2005},
+  title = {Voice Networks: The Human Voice as a Creative Medium for Musical Collaboration},
+  journal = {Leonardo Music Journal},
+  volume = {15},
+  pages = {23-26},
+}
+
+% Weinberg, G. and Thatcher, T. 2006. “Interactive Sonification: Aesthetics, Functionality and Performance.” Leonardo Music Journal. 16:9-12. 
+@article{WeinbergThatcher2006,
+  author = {Weinberg, G. and Thatcher, T.},
+  year = {2006},
+  title = {Interactive Sonification: Aesthetics, Functionality and Performance},
+  journal = {Leonardo Music Journal},
+  volume = {16},
+  pages = {9-12},
+}
+
+% Weschler, R., F., Weiß, P., Dowling. 2004. “EyeCon – A motion sensing tool for creating interactive dance, music and video projections.” in Proceedings of the Society for the Study of Artificial Intelligence and the Simulation of Behavior (SSAISB)'s convention: Motion, Emotion and Cognition. University of Leeds, Englan    Wechsler, R. 2009. “Mappings – applying the lessons of motion tracking. An open letter to musical collaborators.” 
+@inproceedings{WeschlerWeiß2004,
+  author = {Weschler, R. F. and Weiß, P.Dowling},
+  year = {2004},
+  title = {EyeCon -- A motion sensing tool for creating interactive dance, music and video projections},
+  booktitle = {Mappings -- applying the lessons of motion tracking. An open letter to musical collaborators.},
+  editor = {Proceedings of the Society for the Study of Artificial Intelligence and the Simulation of Behavior (SSAISB)'s convention: Motion},
+}
+
+% Wessel, D. 1979. “Timbre Space as a Musical Control Structure.” Computer Music Journal 3(2):45-52. 
+@article{Wessel1979,
+  author = {Wessel, D.},
+  year = {1979},
+  title = {Timbre Space as a Musical Control Structure},
+  journal = {Computer Music Journal},
+  volume = {3},
+  number = {2},
+  pages = {45-52},
+}
+
+% Wessel, D. 1991. “ Instruments that Learn, Refined Controllers, and Source Model Loudspeakers.” Computer Music Journal 15(4):82-86. 
+@article{Wessel1991,
+  author = {Wessel, D.},
+  year = {1991},
+  title = {Instruments that Learn, Refined Controllers, and Source Model Loudspeakers},
+  journal = {Computer Music Journal},
+  volume = {15},
+  number = {4},
+  pages = {82-86},
+}
+
+% Wessel, D. 1991. “Instruments that Learn, Refined Controllers, and Source Model Loudspeakers.” Computer Music Journal 15(4):82-86. 
+@article{Wessel1991-1,
+  author = {Wessel, D.},
+  year = {1991},
+  title = {Instruments that Learn, Refined Controllers, and Source Model Loudspeakers},
+  journal = {Computer Music Journal},
+  volume = {15},
+  number = {4},
+  pages = {82-86},
+}
+
+% Whalley, I. 2009. “Software Agents in Music and Sound Art Research/Creative Work: Current State adn a Possible Direction.” Journal of Organised Sound. 14(2):156-167. 
+@article{Whalley2009,
+  author = {Whalley, I.},
+  year = {2009},
+  title = {Software Agents in Music and Sound Art Research/Creative Work: Current State adn a Possible Direction},
+  journal = {Journal of Organised Sound},
+  volume = {14},
+  number = {2},
+  pages = {156-167},
+}
+
+% Whitelaw, M. 2004. Metacreation: Art and Artificial Life. Cambridge: MIT Press. 
+@book{Whitelaw2004,
+  author = {Whitelaw, M.},
+  year = {2004},
+  title = {Metacreation: Art and Artificial Life},
+  address = {Cambridge},
+  publisher = {MIT Press},
+}
+
+% Wilson, J. S. 2005. Sensor Technology Handbook. Newnes (Elsevier). 
+@book{Wilson2005,
+  author = {Wilson, J. S.},
+  year = {2005},
+  title = {Sensor Technology Handbook},
+  address = {Newnes (},
+  publisher = {Elsevier},
+}
+
+% Wilson, S. 2002. Information Arts: A Survey of Art and Research at the Intersection of Art, Science, and Technology. Cambridge, MA.: MIT Press. 
+@book{Wilson2002,
+  author = {Wilson, S.},
+  year = {2002},
+  title = {Information Arts: A Survey of Art and Research at the Intersection of Art, Science, and Technology},
+  address = {Cambridge, MA},
+  publisher = {MIT Press},
+}
+
+% Wilson, S., N. Collins, and D. Cottle. 2011. The SuperCollider Book. Cambridge, Mass: MIT Press. 
+@book{WilsonCollinsCottle2011,
+  author = {Wilson, S. and N. Collins and D. Cottle},
+  year = {2011},
+  title = {The SuperCollider Book},
+  address = {Cambridge, Mass},
+  publisher = {MIT Press},
+}
+
+% Winkler, T. 1995. “Making Motion Musical: Gestural Mapping Strategies for Interactive Computer Music.”In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 261-264. 
+@inproceedings{Winkler1995,
+  author = {Winkler, T.},
+  year = {1995},
+  title = {Making Motion Musical: Gestural Mapping Strategies for Interactive Computer Music},
+  booktitle = {Proceedings of the 1995 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {261-264},
+}
+
+% Winkler, T. 1995. “Making Motion Musical: Gesture Mapping Strategies for Interactive Computer Music. “From the Proceedings of the 1995 International Computer Music Conference, Banff, Canada. 
+@unpublished{Winkler1995-1,
+  author = {Winkler, T.},
+  title = {Making Motion Musical: Gesture Mapping Strategies for Interactive Computer Music. ``From the Proceedings of the 1995 International Computer Music Conference, Banff, Canada},
+  year = {1995},
+}
+
+% Winkler, T. 1997. “Creating Interactive Dance with the Very Nervous System.” From the Proceedings of the 1997 Connecticut College Symposium on Art and Technology. 
+@inproceedings{Winkler1997,
+  author = {Winkler, T.},
+  year = {1997},
+  title = {Creating Interactive Dance with the Very Nervous System},
+  booktitle = {From the Proceedings of the 1997 Connecticut College Symposium on Art and Technology},
+}
+
+% Winkler, T. 1998. Composing Interactive Music. Techniques and ideas using MAX. Cambridge, Mass: MIT Press. 
+@book{Winkler1998,
+  author = {Winkler, T.},
+  year = {1998},
+  title = {Composing Interactive Music. Techniques and ideas using MAX},
+  address = {Cambridge, Mass},
+  publisher = {MIT Press},
+}
+
+% Wood, J., (ed). 1998. The Virtual Embodied: Presence, Practice, Technology. London: Routledge. 
+@book{Wood1998,
+  year = {1998},
+  editor = {Wood, J.},
+  title = {The Virtual Embodied: Presence, Practice, Technology},
+  address = {London},
+  publisher = {Routledge},
+}
+
+% Wright, M., A. Freed, A. Lee, T. Madden, and A. Momeni. 2001. “Managing Complexity with Explicit Mapping of Gestures to Sound Control in OSC.” In Proceedings of the 2001 International Computer Music Conference. San Francisco, International Computer Music Association. 
+@inproceedings{WrightFreedLeeMaddenMomeni2001,
+  author = {Wright, M. and A. Freed and A. Lee and T. Madden and A. Momeni},
+  year = {2001},
+  title = {Managing Complexity with Explicit Mapping of Gestures to Sound Control in OSC},
+  booktitle = {Proceedings of the 2001 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+}
+
+% Wright, M., A. Freed, A. Lee, T. Madden, and A. Momeni. 2001. “Managing Complexity with Explicit Mapping of Gestures to Sound Control in OSC.” In Proceedings of the 2001 International Computer Music Conference. San Francisco, International Computer Music Association. 
+@inproceedings{WrightFreedLeeMaddenMomeni2001-1,
+  author = {Wright, M. and A. Freed and A. Lee and T. Madden and A. Momeni},
+  year = {2001},
+  title = {Managing Complexity with Explicit Mapping of Gestures to Sound Control in OSC},
+  booktitle = {Proceedings of the 2001 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+}
+
+% Wright, M., D. Wessel, and A. Freed. 1997. “New Musical Control Structures from Standard Gestural Controllers.” In Proceedings of the 1997 International Computer Music Conference. San Francisco, CA: International Computer Music Association, pp. 387-390. 
+@inproceedings{WrightWesselFreed1997,
+  author = {Wright, M. and D. Wessel and A. Freed},
+  year = {1997},
+  title = {New Musical Control Structures from Standard Gestural Controllers},
+  booktitle = {Proceedings of the 1997 International Computer Music Conference},
+  address = {San Francisco, CA},
+  publisher = {International Computer Music Association},
+  pages = {387-390},
+}
+
+% Yamaguchi, T. and Hashimoto, S. 2009. “Grasping Interface with Photo Sensor for a Musical Instrument.” in Proceedings of the 13th International Conference on Human-Computer Interaction. Part II: Novel Interaction Methods and Techniques. San Diego, pp. 542-547. 
+@inproceedings{YamaguchiHashimoto2009,
+  author = {Yamaguchi, T. and Hashimoto, S.},
+  year = {2009},
+  title = {Grasping Interface with Photo Sensor for a Musical Instrument},
+  booktitle = {Proceedings of the 13th International Conference on Human-Computer Interaction},
+  address = {Part II},
+  publisher = {Novel Interaction Methods and Techniques},
+  pages = {542-547},
+  note = {San Diego},
+}
+
+% Yamaguchi, T., Kobayashi, T., Ariga, A., Hashimoto, S., 2010, “TwinkleBall: A Wireless Musical Interface for Embodied Sound Media”, In Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp. 116 
+@inproceedings{YamaguchiKobayashiArigaHashimoto2010,
+  author = {Yamaguchi, T. and Kobayashi, T. and Ariga, A. and Hashimoto, S.},
+  year = {2010},
+  title = {TwinkleBall: A Wireless Musical Interface for Embodied Sound Media},
+  booktitle = {Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp. 116},
+}
+
+% Yang, Z., B., Yu., R., Diankov, W., Wu, R., Bajscy. 2006.“Collaborative Dancing in Tele-Immersive Environment.” in Proc. Ann. ACM Int’l Conf. Multimedia, pp. 723-726. 
+@inproceedings{YangRDiankovWu2006,
+  author = {Yang, Z. B. and Yu. R. and Diankov, W. and Wu, R.Bajscy},
+  year = {2006},
+  title = {Collaborative Dancing in Tele-Immersive Environment},
+  booktitle = {Proc. Ann. ACM Int'l Conf. Multimedia},
+  pages = {723-726},
+}
+
+% Yokono, J., and S. Hashimoto. 1998. “Center of Gravity Sensing for Motion Interface.” In Proceedings of the 1998 IEEE International Conference on Systems, Man and Cybernetics(SMC'98), pp. 1113-1118. 
+@inproceedings{YokonoHashimoto1998,
+  author = {Yokono, J. and S. Hashimoto},
+  year = {1998},
+  title = {Center of Gravity Sensing for Motion Interface},
+  booktitle = {Proceedings of the 1998 IEEE International Conference on Systems, Man and Cybernetics(SMC'98)},
+  pages = {1113-1118},
+}
+
+% Yonezawa, T., and K. Mase. 2000. “Tangible Sound: Musical Instrument Using Fluid Media.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 551-554. 
+@inproceedings{YonezawaMase2000,
+  author = {Yonezawa, T. and K. Mase},
+  year = {2000},
+  title = {Tangible Sound: Musical Instrument Using Fluid Media},
+  booktitle = {Proceedings of the 2000 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {551-554},
+}
+
+% Ystad, S., and T. Voinier. 1999. “Design of a Flute Interface to Control Synthesis Models.” In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 228-231. 
+@inproceedings{YstadVoinier1999,
+  author = {Ystad, S. and T. Voinier},
+  year = {1999},
+  title = {Design of a Flute Interface to Control Synthesis Models},
+  booktitle = {Proceedings of the 1999 International Computer Music Conference},
+  address = {San Francisco},
+  publisher = {International Computer Music Association},
+  pages = {228-231},
+}
+
+% Yunik, M., M. Borys and G.W. Swift. 1985. “3A Digital Flute.” Computer Music Journal 9(2):49-52. 
+@article{YunikBorysSwift1985,
+  author = {Yunik, M. and M. Borys and G. W. Swift},
+  year = {1985},
+  title = {3A Digital Flute},
+  journal = {Computer Music Journal},
+  volume = {9},
+  number = {2},
+  pages = {49-52},
+}
+
+% Zadel, M. 2006. “A Software System for Laptop Performance and Improvisation.” Master’s thesis, McGill University. 
+@mastersthesis{Zadel2006,
+  author = {Zadel, M.},
+  year = {2006},
+  title = {A Software System for Laptop Performance and Improvisation},
+  school = {McGill University},
+}
+
+% Zadel, M., and G. Scavone. 2006. “Laptop Performance: Techniques, Tools, and a New Interface Design.” Proceedings of the International Computer Music Conference (ICMC-2006). New Orleans, USA, pp. 643—648. 
+@inproceedings{ZadelScavone2006,
+  author = {Zadel, M. and G. Scavone},
+  year = {2006},
+  title = {Laptop Performance: Techniques, Tools, and a New Interface Design},
+  booktitle = {Proceedings of the International Computer Music Conference (ICMC-2006)},
+  address = {USA},
+  publisher = {New Orleans},
+  pages = {643--648},
+}
+
+% Zannos, I., P. Modler, and K. Naoi. 1997. “Gesture Controlled Music Performance in a Real-Time Network.” In Proceedings of KANSEI - The Technology of Emotion Workshop, pp. 60-63. 
+@inproceedings{ZannosModlerNaoi1997,
+  author = {Zannos, I. and P. Modler and K. Naoi},
+  year = {1997},
+  title = {Gesture Controlled Music Performance in a Real-Time Network},
+  booktitle = {Proceedings of KANSEI - The Technology of Emotion Workshop},
+  pages = {60-63},
+}
+
+% Zhai, S., P. Milgram, and W. Buxton. 1996. “The Influence of Muscle Groups on Performance of Multiple Degree-of-Freedom Input.” In Proceedings of the CHI'96 Conference on Human factors in Computing Systems, Association of Computer Machinery, pp. 308-315. 
+@inproceedings{ZhaiMilgramBuxton1996,
+  author = {Zhai, S. and P. Milgram and W. Buxton},
+  year = {1996},
+  title = {The Influence of Muscle Groups on Performance of Multiple Degree-of-Freedom Input},
+  booktitle = {Proceedings of the CHI'96 Conference on Human factors in Computing Systems, Association of Computer Machinery},
+  pages = {308-315},
+}
+
+% Zicarelli, D. 1998 “An Extensible Real-Time Signal Processing Environment for Max”. Proceedings of the International Computer Music Conference (ICMC-1998). Ann Arbor, Michigan, USA. 
+@inproceedings{Zicarelli1998,
+  author = {Zicarelli, D.},
+  year = {1998},
+  title = {An Extensible Real-Time Signal Processing Environment for Max},
+  booktitle = {Proceedings of the International Computer Music Conference (ICMC-1998)},
+  address = {Ann Arbor, Michigan, USA},
+}
+

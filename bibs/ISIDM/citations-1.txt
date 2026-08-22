@@ -1,0 +1,567 @@
+Abbott, C. 1982. “Remembering Performance Gestures.” In Proceedings of the 1982 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 188-193.
+Accot, J. and S. Zhai. 1997. “Beyond Fitts' Law: Models for Trajectory-Based HCI Tasks.” In Proceedings of the 1997 ACM Conference on Human Factors in Computing Systems. New York, NY: ACM Press, pp. 295-302.
+Accot, J. and S. Zhai. 1999. “Performance Evaluation of Input Devices in Trajectory-based Tasks: An Application of The Steering Law.” In Proceedings of the 1999 ACM Conference on Human Factors in Computing Systems. New York, NY: ACM Press, pp. 466-472.
+Accot, J. and S. Zhai. 2001. “Scale Effects in Steering Law Tasks.” In Proceedings of the 2001 ACM Conference on Human Factors in Computing Systems. New York, NY:ACM Press, pp. 1-8.
+Akamatsu, M., and I.S. MacKenzie. 1996. “Movement Characteristics Using a Mouse with Tactile and Force Feedback.” International Journal of Human-Computer Studies 45:483-493.
+Akamatsu, M., I. S. MacKenzie, and T. Hasbrouc. 1995. “A Comparison of Tactile, Auditory and Visual Feedback in a Pointing Task using a Mouse-Type Device.” Ergonomics 38:816-827.
+Alankus, G., A.A., Bayazit, and O.B., Bayazit. 2005. “Automated Motion Synthesis for Dancing Characters: Motion Capture and Retrieval.” in Computer Animation and Virtual Worlds, 16(3,4): pp. 259- 271.
+Albertini, R. 1999. Technological Rituals. Stories from the Annenberg Dialogues. Los Angeles: Annenberg Center for Communications.
+Alexandraki, C., and D. Akoumanakis. Sum 2010. “Exploring New Perspectives in Network Music Performance: The DIAMOUSES Framework,” Computer Music Journal, vol. 34, pp. 66-83.
+Almeida, A. G. 1996. “Methodologies for Design and Evaluation of Interactive Musical Interfaces.” In Proceedings of the 3rd Brazilian Symposium on Computer Music, pp. 68-73.
+Amatriain, X. 2007. “CLAM: A Framework for Audio and Music Application Development.” Software, IEEE, 24(1): 82−85.
+Andean, J. Aug 2011. “Ecological Psychology and the Electroacoustic Concert Context,” Organised Sound, vol. 16, pp. 125-133.
+Anderson, S., Apr 2008. “Microsound in public space: compositional methods to enhance site-specific sound,” Organised Sound, vol. 13, pp. 51-60.
+Anderson, T. 1999. “Using Music Performance Software with Flexible Control Interfaces for Live Performance by Severely Disabled Musicians.” Proceedings of the 25th EUROMICRO Conference. Milan, Italy. vol 2. pp. 20−27.
+Anderson, T., and D. Hearn. 1994. “Using Hyperinstruments for the Redistribution of the Performance Control Interface.” In Proceedings of the 1994 International Computer Music Conference. San Francisco: International Computer Music Association, pp. 183-184.
+Anderton, C. 1994. “STEIM: In the Land of Alternate Controllers.” Keyboard 20(8): 54-62.
+Appleton, J. 1989. “21st-Century Musical Instruments: Hardware and Software.” New York: Institute for Studies in American Music, Brooklyn College of the City University of New York.
+Appleton, Jon. 1990 .“Composer pour de nouveaux instruments.” in Contrechamps n¡ 11 - Musiques électroniques, Editions l'âge d'homme. Appleton, J. 1999. “Reflections of a former perfomer of electroacoustic music.” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 5-8. (with audio excerpts on the accompanying CD).
+Arfib, D., and L. Kessous. 2000. “From 'Music V' to 'creative gestures in computer music'”. Accessed at http://gsd.ime.usp.br/sbcm/2000/papers/arfib.pd
+Arfib, D., J. M. Couturier, L. Kessous, and V. Verfaille. 2002. “Strategies of Mapping between Gesture data and Synthesis Model Parameters using Perceptual Spaces.” Organised Sound, 7(2):127-144.
+Arnold, A. 2003. Deanimated. Matt Gerald and Thomas Miessgang (eds.). Wien/New York: Springer.
+Artaud, A. 1998. Review, “Big Briar Wavefront. Ethervox and Travel case theremins provide gestural MIDI control.” Electronic Musician 14(5):120-128.
+Arveiller, Jacques, Marc Battier, and Giuseppe Englert. 1976. A computer Music Repertory. Paris, Como (Italy): I quaderni dell'autunno musicale 4 and Artinfo/musinfo 23-24-25, Groupe art et informatique de Vincennes, 128 p.
+Ascott, R. 1984. “Art and Telematics.” in Art Telecommunications, Heidi Grundmann, (ed)., Vancouver: The Western Front, pp. 25-58.
+Ascott, R. 1998. Art & Telematics: Toward the Construction of New Aesthetics. NTT Publishing Co.
+Ascott, R. 2003. Telematic Embrace: Visionary Theories of Art, Technology and Consciousness. Edited and with an essay by Edward A. Shanken. Berkeley: Univ. of California.
+Ascott, R., (ed). 1999. Reframing Consciousness: Art, Mind and Technology. Portland: Intellect Books.
+Assayag, G., and A. Gerzso. 2009. New Computational Paradigms for Computer Music. Sampzon: Delatour.
+Auer, V., M. M. Maes, M. C. Bonfim, M. M. Wanderley, and M. V. Lamar. 1996. “3D Position Signal Acquisition System with Application in Real-Time Processing.” In Proceedings of the ICSPAT '96 -International Congress on Signal Processing Applications Technology, pp. 505-509.
+Aylward, R., and J. Paradiso. 2006. “Sensemble: A Wireless, Compact, Multi-User Sensor System for Interactive Dance.” in Proceedings of 2006 Conference on New Interfaces for Musical Expression. Paris, France, pp. 134-139.
+Aylward, R., and J. Paradiso. 2007. “A compact, high-speed, wearable sensor network for biomotion capture and interactive media.” in Proceedings of the 6th international conference on Information processing in sensor networks,
+Azzolini, F., and S. Sapir. 1984. “Score and/or Gesture - The System RTI4I for Real Time Control of the Digital Processor 4I.” In Proceedings of the 1984 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 25-34.
+Baalman, M. A., V. d Belleval, C. L. Salter, J. Malloch, J. Thibodeau, and M. Wanderley. 2010. “Sense/Stage- Low Cost, Open Source Wireless Sensor Infrastructure for Liver Performance and Interactive, Real-Time Environments.” Proceedings of Linux Audio Conference (LAC 2010). Utrect, The Netherlands, pp. 242-249.
+Baba, T., Hashida, M., Katayose, H., ““VirtualPhilharmony”: A Conducting System with Heuristics of Conducting an Orchestra”, In Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp. 263
+Baecker, R. M., and W. A. S. Buxton. 1987. “Readings in Human-Computer Interaction: A Multidisciplinary Approach.” San Mateo, Calif.:Morgan-Kauffmann Publishers, Inc.
+Baecker, R. M., J. Grudin, W. A. S. Buxton, and S. Greenberg. 1995. Readings in Human-Computer Interaction: Toward the Year 2000. San Mateo, Calif.:Morgan-Kauffmann Publishers, Inc.
+Bahn, C., T. Hahn, and D. Trueman. 2001. “Physicality and Feedback: A Focus on the Body in the Performance of Electronic Music.” In Proceedings of the 2001 International Computer Music Conference. San Francisco, International Computer Music Association.
+Bailey, N. J., A. Purvis, I. W. Bowler, and P. D. Manning. 1993. “Applications of the Phase Vocoder Interface in the Control of Real-Time Electronic Musical Instruments.” Interface 22:259-275.
+Bakogianni, J.S., E., Kavakli, V., Karkou, M., Tsakogianni. 2007. “Teaching Traditional Dance Using E-Learning Tools: Experience from the WebDANCE Project.” in Proc. 21st World Congress on Dance Research: Dancers without Frontiers.
+Balakrishnan, R., and I. S. MacKenzie. 1997. “Performance Differences in the Fingers, Wrist and Forearm in Computer Input Control.” In Proceedings of the CHI'97 Conference on Human factors in Computing Systems, Association of Computer Machinery, pp. 303-310.
+Balin, W., and J. Lovischach. 2011. “Gestures to Operate DAW software.” Proceeding of the 130th Audio Engineering Society Convention. New York: Audio Engineering Society. Paper no. 8456.
+Barabási, A. 2002. Linked: The New Science of Networks. Cambridge, MA.: Perseus Publ.
+Barbosa, A., and M. Kaltenbrunner. 2002. “Public sound objects: A shared musical space on the web.” Second International Conference on Web Delivering of Music, Proceedings.
+Barfield, W., and S. Weghorst, “The sense of presence within virtual environment: A conceptual framework.”Proceedings of the International Conference on Human-computer Interaction, 5, 91993), pp. 699-704.
+Barrass, S. 1995. “Personify: A Toolkit for Perceptually Meaningful Sonification.” Proceedings of the Australian Conference on Computer Music (ACCM-95). Melbourne - University of Melbourne: Australasian Computer Music Association.
+Bates, J., A. Bryan Loyall, and W. Scott Reilly. 1992. “An architecture for action, emotion, and social behaviour.” in Proceedings of the Fourth European Workshop on Modeling Autonomous Agents in a Multi-Agent World, S. Martino al Cimino, Italy.
+Battier, M. 1981. Les musiques électroacoustiques et l'environnement informatique. PhD thesis, University of Paris X.
+Battier, M. 1995. “Entre l'idée et l'œuvre. Parcours de l'informatique musicale.” in Esthétique des arts médiatiques, tome 1,Louise Poissant, ed., Presses de l'Université du Québec, Sainte-Foy (Québec), pp. 319-334.
+Battier, M. Ed. 1999. Aesthetics of Live Electronic Music. Contemporary Music Review 18(3).
+Bauer, W., and B. Foss. 1992. “GAMS: An Integrated Media Controller System.” Computer Music Journal 16(1):19-24.
+Baumgärtel, T., (ed). 2001. net.art 2.0. new materials towards net art. Nürnberg: Verlag für moderneKunst.
+Bayliss, A., J., Sheridan, and N., Villar. 2005. “New shapes on the dance floor: influencing ambient sound and vision with computationally augmented poi.” International Journal of Performance Arts and Digital Media. 1(1):67–82.
+Bayreuther, R., 2007. “Contemporary composition as musical disciplina - The example of sound installations of Robin Minard,” Musiktheorie, vol. 22, pp. 357-364.
+Belet, B. 2003. “Live performance interaction for humans and machines in the early twenty-first century: One composer's aesthetics for composition and performance practice,” Organised sound: An international journal of music technology, vol. 8, p. 305.
+Bertini, G. & Carosi, P. (1992). The light baton: a system for conducting computer music performance. Proceedings International Computer Music Conference, San Jose, California, USA, 73-76. San Francisco CA, USA: International Computer Music Association.
+Bertini, G., and P. Carosi. 1992. “Light Baton: a System for Conducting Computer Music Performance.” In Proceedings of the 1992 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 73-76.
+Bevilacqua, F., L. Naugle, I. Valverde. 2001. “Virtual dance and music environment using motion capture.” in IEEE Multimedia Technology and Applications Conference Proceedings, Irvine, CA.
+Biocca, F. (forthcoming).Presence of mind in virtual environments. Unpublished book manuscript: Media Interface and Network Design Lab, Michigan State University, East Lansing, MI.
+Biocca, F. 1997. “Cyborg's dilemma: Progressive embodiment in virtual environments”. Journal of Computer Mediated-Communication.
+Biocca, F., and B., Delaney. 1995. “Immersive virtual reality technology.” in: F. Biocca & M. Levy, Eds., Communication in the age of virtual reality. Hillsdale, NJ: Lawrence Erlbaum and Associates,
+Biocca, F., T., Kim, and M., Levy. 1995. “The vision of virtual reality.” in: F. Biocca and M. Levy, (eds)., Communication in the age of virtual reality. Hillsdale, NJ: Lawrence Erlbaum Associates, Inc., pp. 3-14.
+Birnbaum, D. 2007. Musical vibrotactile feedback. Master thesis in Music Technology. McGill University.
+Birringer, J. 1998, “Media and Performance: along the border.” Baltimore: Johns Hopkins.
+Birringer, J. 1999. “Contemporary Performance/Technology.” Theatre Journal 61(4): 361-81.
+Birringer, J. 2001. “Dance and New Environments.” Newsletter, Congress of Research in Dance.
+Birringer, J. 2001. “The intelligent stage.” Performance Research 6(2): 116-22.
+Birringer, J. 2002. “Experimentelle Tanzmedien, Interaktive Systeme.” in Tanz, Theorie, Text. Jahrbuch der Gesellschaft für Tanzforschung 2002, ed. Christa Zipprich/Gabriele Klein. Hamburg: LIT Verlag, pp. 477-98.
+Birringer, J. 2003 “Dance and Interactivity.” Dance Research Journal 35(2): 88-111.
+Birringer, J. 2003. “Performance Systems.” South African Theatre Journal 17: 79-113.
+Birringer, J. 2004 “Dance and Interactivity.” Dance Research Journal 336(1): 88-111.
+Birringer, J. 2004 “Dertransmediale Tanz.” in: Tanz Anders Wo: Tanz intra- und interkulturel l. Jahrbuch der Gesellschaft für Tanzforschung, hg. Krassimira Kurschkova, Nele Lipp. Hamburg: LIT Verlag (forthcoming)
+Birringer, J. 2004. Klaus Behringer, Uschi Schmidt-Lenhard, (eds)., Wechselwirkung: Internationales Interaktionslabor. Saarbrücken: SDV.
+Birringer, J. 2004. “Transspacial Light and Virtual Choreography, ” ballettanz 6: 30-32.
+Birringer, J. “New Environments for Interactive Dance.” in: Between Nature: Explorations in Ecology and Performance, ed. Nigel Stewart and Gabriella Giannachi. Frankfurt: Peter Lang (in press).
+Birringer, J. “Spletna Okolja za Interaktivni Ples”/Networked Environments for Interactive Dance.“Maska 18, pp. 68-78.
+Birringer, J., (ed). 2002. “Dance and Digital Media.” special issue prepared and edited for Performing Arts Journal70, introduction, pp. 84-93.
+Birringer, J., (ed). 2011. “Connected Dance: Distributed Performance across Time Zones.” hypertext essay with Ellen Bromberg, Naomi Jackson, John Mitchell, Lisa Naugle, and Doug Rosenberg, in Transmigratory Moves/Dance in Global Circulation. Congress On Research in Dance Conference Proceedings, New York University, pp. 51-77.
+Black, D., Gohlke, K., and Lovischach, J. (2010). “Foley Sonic: Placing Sounds on a Timeline Through Gestures.” Proceedings of the 128th Audio Engineering Society Conference. New York: Audio Engineering Society. Paper no. 8004.
+Blaine, T. and T. Perkis. 2000. “The Jam-O-Drum interactive music system: a study in interaction design,” pp. 165-173.
+Blaine, T. and T. Perkis. 2000. “The Jam-O-Drum Interactive Music System: A Study in Interaction Design.” Proceedings of the ACM Symposium on Designing Interactive Systems. New York, NY: ACM Press, pp. 165-173.
+Bobick, A. 1997. “Movement, Motion.” MIT Activity, and Action: The Role of Knowledge in the Perception of Motion.“ MIT Media Laboratory Perceptual Computing Section. Technical report, 413.
+Boie, R., M. Mathews, and A. Schloss. 1989. “The Radio Drum as a Synthesizer Controller.” In Proceedings of the 1989 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 42-45.
+Bolas, M., and P. Stone. 1992. “Virtual Mutant Theremin.” In Proceedings of the 1992 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 360-361.
+Bolter, J.D., and R., Grusin. 1999. Remediation: Understanding New Media. Cambridge: MIT Press.
+Boltz, M. G., B. Ebendorf, and B. Field. Sep 2009. “AUDIOVISUAL INTERACTIONS: THE IMPACT OF VISUAL INFORMATION ON MUSIC PERCEPTION AND MEMORY,” Music Perception, vol. 27, pp. 43-59.
+Bongers, B. (1994). The use of active tactile and force feedback in timbre controlling electronic instruments. In Proceedings of the 1994 International Computer Music Conference, (pp. 171-174).
+Bongers, B. 1994. “The Use of Active Tactile and Force Feedback in Timbre Controlling Electronic Instruments.” In Proceedings of the 1994 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 171-174.
+Bongers, B. 1998. “An Interview with Sensorband.” Computer Music Journa l 22(1): 13-24.
+Bongers, B. 1998. “An interview with Sensorband.” Computer Music Journal 22(1):13-24.
+Bongers, B. 1998. “Tactual Display of Sound Properties in Electronic Musical Instruments.” Displays 18:129- 133.
+Bongers, B. 1998. Tactual display of sound properties in electronic musical instruments. Displays, Volume 18, Issue 3, Pages 129-133.
+Bongers, B. 1999. “Exploring Novel Ways of Interaction in Musical Performance.” In Proceedings of the Creativity & Cognition Conference, pp. 76-81.
+Bongers, B. 2000. Physical Interfaces in the Electronic Arts. Interaction Theory and Interfacing Techniques for Real-time Performance. In M. Wanderley and M. Battier, eds. Trends in Gestural Control of Music. Ircam - Centre Pompidou.
+Bongers, B. 2000. “Physical Interfaces in the Electronic Arts. Interaction Theory and Interfacing Techniques for Real-time Performance.” In M. Wanderley and M. Battier, eds. Trends in Gestural Control of Music. Ircam - Centre Pompidou.
+Borchers, J.O. 1997. “WorldBeat: Designing a Baton-Based Interface for an Interactive Music Exhibit.” In Proceedings of the CHI’97 Conference on Human Factors in Computing Systems. Association for Computer Machinery, pp. 131-138.
+Borchers, J.O., and M. Muhlheuser. 1998. “Design Patterns for Interactive Musical Systems.” IEEE Multimedia 5(3):36-46.
+Boulanger, R. 2004. The Csound Book: Perspectives in Software Synthesis, Sound Design, Signal Processing, and Programming. Cambridge, MA, USA: MIT Press.
+Boulanger, R. C., and V. Lazzarini. 2011. The Audio Programming Book. Cambridge, Mass: MIT Press.
+Boulanger, R., and M. V. Mathews. 1997. “The 1997 Mathews' Radio Baton and Improvisation Modes.” In Proceedings of the 1997 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 395-398.
+Boulanger, R., Y. J. Choi, and L. Castelli. 2000. “Developing a Windows and Macintosh Graphical User Interface for the Mathews Radio-Baton System.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 547-550.
+Boulez, P. and A. Gerzso. 1988. “Computers in music.” Scientific American 258 (4), April, pp. 26-32.
+Bouwer, J., (ed.). 2000. Machine Times. V2 Organisation (ed.). Rotterdam: V2_ and NAI Publishers.
+Bowler, I., A. Purvis, P. Manning, and N. Bailey. 1990. “On Mapping N Articulation onto M Synthesiser-Control Parameters.” In Proceedings of the 1990 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 181-184.
+Bown, O., A. Eldridge, and J. McCormack. Aug 2009. “Understanding Interaction in Contemporary Digital Music: from instruments to behavioural objects,” Organised Sound, vol. 14, pp. 188-196.
+Brandstetter, G and H. Voelkers. 2000. ReMembering the Body. Ostfildern: Cantz,(USA: D.A.P. New York).
+Brecht, B., and G. Garnett. 1995. “Conductor follower.” In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 185-186.
+Bresson, J., Agon, C. and M. Schumacher. 2010. Représentation des données de contrôle pour la spatialisation dans OpenMusic. Actes des Journées d'Informatique Musicale, Rennes, France, 2010.
+Brickwood, C. et al. 1999. New Media Culture in Europe. Amsterdam: DeBalle and the Virtual Platform.
+Brightman, P. 1990. “Computer Dancemakers.” Leonardo. 23(4):393-396.
+Bromberg E., and J., Birringer. 2004. “ADaPT: Telepresent Artistic Collaborations.” Interdisciplinary Humanities 21(1), pp 87-93.
+Bromberg, E., and J. Birringer. 2002. “ADAPT: Telepresent Artistic Collaborations.” Centerfor High Performance Computing Newsletter, vol. 13: 2, Universityof Utah.
+Bromberg, E., J., Birringer, J., Miklavcic, D., Zemmels, J., Facelli, “TelemediatedArt: The Utah experience with the ADaPT (Association for Dance and PerformanceTelematics) Collaboration.”
+Bromwich, M. 1995.”A Single Performer Controlled Interface for Electronic Dance/Music Theatre.“ Poster presented at 1995 International Computer Music Conference 'Digital Playgrounds', Banff Centre, Canada. Paper published in ICMC proceedings.
+Bromwich, M. A. 1997. “The Metabone: An Interactive Sensory Control Mechanism for Virtuoso Trombone.” In Proceedings of the 1997 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 473-475.
+Bromwich, M. A. and J. Wilson. 1998. “Bodycoder: A Sensor Suit and Vocal Performance Mechanism for Real-Time Performance.” In Proceedings of the 1998 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 292-295.
+Brouwer, J., A., Mulder, and S., Charlton. 2003. Information is Alive - Art and Theory on Archiving and Retrieving Data. Rotterdam : V2_Publishing/NAI Publishers.
+Brown, A. R. and A. Sorensen. 2009. “Interacting with Generative Music through Live Coding,” Contemporary Music Review, vol. 28, pp. 17-29.
+Brown, N. G. 2011. “Being Among the Living: On the interrelations between performers, witnesses and environment in As I Have Now Memoyre,” Organised Sound, vol. 16, pp. 176-183.
+Brum Medeiros, C. and Wanderley M.M. 2011. Evaluating of sensor technologies for The Rulers, a kalimba-like Digital Musical Instrument. Proceedings of the Sound and Music Computing Conference (SMC-2011).
+Buchla, D. “Lightning II MIDI Controller.” Buchla and Associates' Homepage at http://www.buchla.com/.
+Buchla, D., W. Buxton, C. Chafe, T. Machover, M. V. Matthews, R. Moog, J.-C. Risset, L. Sonami, and M. Waisvisz. 2000. “Round Table.” In M. M. Wanderley and M. Battier, eds. Trends in Gestural Control of Music.]] Ircam - Centre Pompidou.
+Buck, B., G., Miller, AJ., Niehaus and A., Seech. 2004. “ADAPT (The Association for Dance and PerformanceTelematics): Multiple definitions of distributed performance.” Hawaii InternationalConference on Arts and Humanities.
+Buescher, M., J., O'Brien and J., Hughes. 1998. Interaction and Presence in Shared Electronic Environments (Fieldwork at ZKM). Lancaster University.
+Burdea, G. 1996. Force and Touch Feedback for Virtual Reality. John Wiley and Sons.
+Burdea, G. and P. Coiffet. 2003. Virtual Reality Technology. 2nd edition. John Wiley and Sons.
+Burtner, M. 2002. “The Metasaxophone: concept, implementation, and mapping strategies for a new computer music instrument.” Organised Sound, 7(2):201-213.
+Buxton, W. 1977. Computer Music 1976/77: a Directory to Current Work. Ottawa: The Canadian Commission for Unesco and University of Toronto: Structured Sound Synthesis Project.
+Buxton, W., ed. 1977. Computer Music 1976/77: a Directory to Current Work. Ottawa: Canadian Commission for UNESCO, 239 p.
+Buxton, W., et. al. 1979. “A Computer-Based System for the Performance of Electroacoustic Music.” Proceedings of the 64th Annual Audio Engineering Society Convention. New York: Audio Engineering Society. Paper no. 1529.
+Buxton, W.A.S. 1986. “Chuncking and Phrasing and the Design of Human-Computer Dialogues.” InH.J. Kugler, ed. Information Processing ‘86, Proceedings of the IFIP 10th World Computer Congress, North Holland, pp. 475-480. Reprinted in R. Baecker, J. Grudin, W.A.S. Buxton, and S. Greenberg, eds. Human-Computer Interaction: Towards the Year 2000. San Mateo, Calif.: Morgan Kaufmann Publishers Inc., pp. 494-499.
+Buxton, W.A.S. 1986. “There’s More Interaction than Meets the Eye: Some Issues in Manual Input.” In D.A. Norman and S.W. Draper, eds. User Centered System Design: New Perspectives on Human-Computer Interaction. Hillsdale, NJ: Lawrence Erlbaum Associates, pp. 319-337. Reprinted in R. Baecker and W.A.S. Buxton, eds. Readings in Human-Computer Interaction: A Multidisciplinary Approach. San Mateo, Calif.: Morgan Kaufmann Publishers Inc., pp. 366-375.
+Buxton, W.A.S. 1987. “The Haptic Channel.” In Baecker and Buxton, eds. Readings in Human-Computer Interaction: A Multidisciplinary Approach. San Mateo CA: Morgan Kaufmann Publishers, pp. 357-365.
+Buxton, W.A.S., R. Sniderman, W. Reeves, S. Patel, and R. Baecker. 1979. “The Evolution of the SSSP Score-Editing Tools.” Computer Music Journal 3(4):14-25.
+Cadoz, C. L. Lisowsky, and J. L. Florens. 1990. “Modular Feedback Keyboard.” In Proceedings of the 1990 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 379-382.
+Cadoz, C., A. Luciani, and J. L. Florens. 1981. “Synthèse musicale par simulation des mécanismes instrumentaux. Transducteurs Gestuels Rétroactifs pour l’'étude du jeu instrumental.” Revue d'’Acoustique 1984. “Responsive 59 : 279-292.
+Cadoz, C., A. Luciani, and J. L. Florens. 1984. “Responsive Input Devices and Sound Synthesis by Simulation of Instrumental Mechanisms: The Cordis System.” Computer Music Journal 8(3): 60-73. Reprinted in C. Roads, ed., The Music Machine. Cambridge, Mass.: The MIT Press, pp. 495-508.
+Cadoz, C., and C. Ramstein. 1990. “Capture, Representation and Composition of the Instrumental Gesture.” In Proceedings of the 1990 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 53-56.
+Cadoz, C., et al (1984). “Responsive Input Devices and Sound Synthesis by Simulation of Instrumental Mechanisms: The Cordis System.” Computer Music Journal 8 (3), pp. 60-73.
+Cadoz, C., L. Lisowski, and J. L. Florens. 1990. “A Modular Feedback Keyboard Design.” Computer Music Journal 14(2):47-51.
+Cadoz, C.e. 1991. “Timbre et causalité.” In Le timbre: métaphore pour la composition. Jean-Baptiste Barriére, ed., Paris: IRCAM/Christian Bourgois, . pp. 17-46.
+Camurri A., Mazzarino B., Ricchetti M., Timmers R., Volpe G. 2004. “Multimodal analysis of expressive gesture in music and dance performances.” in A. Camurri, G. Volpe (Eds.), “Gesture-based Communication in Human-Computer Interaction”, LNAI 2915, Springer Verlag.
+Camurri A., P. Coletta, M. Peri, M. Ricchetti, A. Ricci, R. Trocca, G. Volpe. 2000. A real-time platform for interactive dance and music systems.” in Proc. Intl. Conf. ICMC2000, Berlin.
+Camurri, A. (1995). Interactive dance/music systems. Proceedings of the 1995 International Computer Music Conference, (pp. 245-252).
+Camurri, A. 1995. ” Interactive Dance/Music Systems.” In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 245-252
+Camurri, A. 1995. “Interactive Dance/Music Systems.” In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 245-252.
+Camurri, A. 1997. “Network Models for Music and Motor Control.” In Self-Organization, Computational Maps and Motor Control. Elsevier.
+Camurri, A. 1999. “Music content processing and multimedia: Case studies and emerging applications of intelligent interactive systems,” Journal of New Music Research, vol. 28, pp. 351-363.
+Camurri, A. et al (1987). Interactions between music and movement: A system for music generation from 3D animations. Proceedings of the 4th international conference on event perception and action, Trieste.
+Camurri, A., B. Mazzarino, and G. Volpe. 2004. “Analysis of Expressive Gesture: The Eyesweb Expressive Gesture Processing Library.” Gesture-based Communication in Human- Computer Interaction, LNAI 2915. Springer Verlag, pp. 460-467.
+Camurri, A., et. al. 2000. “EyesWeb: Toward Gesture and Affect Recognition in Interactive Dance and Music Systems.” Computer Music Journal, 24(1):57.
+Camurri, A., M. Ricchetti, M. Di Stefano, and A. Stroscio. 1998. “EyesWeb - Toward Gesture and Affect Recognition in Dance/Music Interactive Systems.” In Proceedings of the Colloquio di Informatica Musicale CIM'98. AIMI.
+Camurri, A., P. Coletta, M. Peri, M. Ricchetti, A. Ricci, R. Trocca, and G. Volpe. 2000. “A Real-time Platform for Interactive Dance and Music Systems.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 262-265.
+Camurri, A., P., Morasso, V., Tagliasco, R., Zaccaria. 1986. “Dance and Movement Notation.” In Morasso & Tagliasco (Eds.), Human Movement Understanding, pp.85-124, Amsterdam: North Holland.
+Camurri, A., S. Hashimoto, M. Ricchetti, A. Ricci, K. Suzuki, R. Trocca, and G. Volpe. 2000. “EyesWeb: Toward Gesture and Affect Recognition in Interactive Dance and Music Systems”, Computer Music Journal. 24(1): p. 57
+Camurri, A., S.Hashimoto, K.Suzuki, R.Trocca. 1999. “KANSEI analysis of dance performance”. In Proceedings of the 1999 IEEE Intl Conf on Systems Man and Cybernetics SMC’99, Tokyo, New York: IEEE Computer Society Press.
+Canazza, S., et. al. Sep 2003. “An abstract control space for communication of sensory expressive intentions in music performance,” Journal of New Music Research, vol. 32, pp. 281-294.
+Card, S. K., J. D. Mackinlay, and G. G. Robertson. 1991. “A Morphological Analysis of the Design Space of Input Devices.” ACM Transactions on Information Systems, 9, 2, pp. 99-122.
+Card, S.K., W. K. English, and B. J. Burr. 1978. “Evaluation of Mouse, Rate-controlled Isometric Joystick, Step keys, and Text keys for Text Selection on a CRT.” Ergonomics, 21, 8, pp. 601-613. Reprinted in R. Baecker and W.A.S. Buxton, eds. Readings in Human-Computer Interaction: A Multidisciplinary Approach. San Mateo, CA.: Morgan Kaufmann Publishers Inc., pp. 386-392.
+Cariou, B. 1992. “Design of an Alternate Controller from an Industrial Design Perspective.” In Proceedings of the 1992 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 366-367.
+Cariou, B. 1994. “The aXi0 MIDI Controller.” In Proceedings of the 1994 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 163-166.
+Carr, J. J. 1993. Sensors and Circuits: Sensors, Transducers, and Supporting Circuits for Electronic Instrumentation, Measurement, and Control. Upper Saddle River, USA: Prentice-Hall.
+Carr, J. J. 1997. Electronic Circuit Guidebook. Volume 1: Sensors. Indianapolis, USA: Prompt Publications – Howard W. Sams & Company.
+Cascella, D. Apr 2008. “Carl Michael von Hausswolff,” Organised Sound, vol. 13, pp. 21-29.
+Castine, P. An Evaluation of the User Interface in Digital Audio Systems. Master's Thesis. Technical University Berlin. 1988.
+Cerana, C. 2000. “Gesture Control of Musical processes: A MAX Environment for Buchla's Lightning.” Organised Sound, 5: 3-7.
+Chabot, X. 1989. “Performance with Electronics: Gesture Interfaces and Software Toolkit.” In Proceedings of the 1989 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 65-68.
+Chabot, X. 1990. “Gesture Interfaces and a Software Toolkit for Performance with Electronics.” Computer Music Journal 14(2):15-27.
+Chabot, X. 1990. “Gesture Interfaces and a Software Toolkit for Performance with Electronics.” Computer Music Journal, 14(2): 15–27.
+Chabot, X. 1993. “To Listen and to See: Making and Using Electronic Instruments.” Leonardo Music Journal vol. 3, pp. 11-16.
+Chadabe, J. 1977. “Some reflections on the Nature of the Landscape within which Computer Music Systems are Designed.” Computer Music Journal 1(3): 5-11.
+Chadabe, J. 1997. Electric Sound: The Past and Promise of Electronic Music. New Jersey: Prentice Hall.
+Chadabe, J. 1999. “The performer is us” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 25-30.
+Chadabe, J.. 1980. 'Solo' : a Specific Example of Realtime Performance.“ In Computer Music - Composition musicale par ordinateur, M. Battier et B. Truax, eds., Ottawa: Commission Canadienne pour l'UNESCO, pp. 87-94.
+Chadabe, J.l. 1997. Electric sound - the past and promise of electronic music, Prentice Hall, Upper Saddle River (N.J.), 336 p.
+Chafe, C. 1989. “Simulating Performance on a Bowed Instrument.” In M. V. Mathews and J. R. Pierce, eds. Current Directions in Computer Music Research. Cambridge, Mass.:The MIT Press, pp. 185-198.
+Chafe, C. 1993. “Tactile Audio Feedback.” In Proceedings of the 1993 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 76-79.
+Chafe, C. 1999. “Interplay(er) machines” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 89-97. (with audio excerpts on the accompanying CD).
+Choi, I. 1998. “From Motion to Emotion: Synthesis of Interactivity with Gestural Primitives.” Emotional and Intelligent: The Tangled Knot of Cognition, AAAI Fall Symposium, Orlando FL. (October):22-25.
+Choi, I. 2000. “A Manifold Interface for Kinesthetic Notation for High-Dimensional Systems.” In M. Wanderley and M. Battier, eds. Trends in Gestural Control of Music. Ircam - Centre Pompidou.
+Choi, I., and C. Ricii. 1997. “Foot-Mounted Gesture Detection and its Application in Virtual Environments.” In Proceedings of the IEEE International Conference on Systems, Man and Cybernetics.
+Choi, I., G. Zheng, and K. Chen. 2000. “Embedding a Sensory Data Retrieval System in a Movement-Sensitive Space and a Surround Sound System.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 141-144.
+Choi, I., R. Bargar, and C. Goudeseune. 1995. “A Manifold Interface for a High Dimensional Control Space.” In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 385-392.
+Choi, I., R. Bargar, and C. Goudeseune. 1995. “A Manifold Interface for a High Dimensional Control Space.”, In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 385-392.
+Chu, L. 1996. “Haptic Feedback in Computer Music Performance.” In Proceedings of the 1996 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 57-58.
+Chu, L. 1999. “MusiCloth:A Design Methodology for the Development of a Performance Interface.” In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 449 - 452.
+Chu, L. L. 1996. Haptic Feedback in Computer Music Performance. Proceedings of the 1996 International Computer Music Conference (ICMC-96).
+Chusid, I. 1999. “Beethoven-in-a-Box: Raymond Scott's Electronium.” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 9-14. (with audio excerpts on the accompanying CD).
+Clara Rockmore. 1998. Asheville: Big Briar, VHS video tape, 58 minutes.
+Collins, N. 1991. “Low Brass: the Evolution of the Trombone Propelled Electronics.” Leonardo Music Journal 1(1): 41-44.
+Cook, P. R. 1992. “A Meta-Wind-Instrument Physical Model, and a Meta-Controller for Real Time Performance Control.” In Proceedings of the 1992 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 273-276.
+Cook, P. R. 2002. Real Sound Synthesis for Interactive Applications. Natick, Mass: A K Peters.
+Cook, P. R., and D. Trueman. 1998. “NBody: Interactive Multidirectional Musical Instrument Body Radiation Simulations, and a Database of Measured Impulse Responses.” In Proceedings of the 1998 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 353-356.
+Cook, P. R., D. Morrill, and J. O. Smith. 1992. “An Automatic Pitch Detection and MIDI Control System for Brass Instruments.” Acoustical Society of America Conference, New Orleans.
+Cook, P. R., D. Morrill, and J. O. Smith. 1993. “A MIDI Control and Performance System for Brass Instruments.” In Proceedings of the 1993 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 130-133.
+Cook, P., and C. N. Leider. 2000. “SqueezeVox: A New Controller for Vocal Synthesis Models.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 519-522.
+Copier, M., and J., Raessens. 2003. Level Up: Digital Games Research Conference. Utrecht: Diagra/University of Utrecht.
+Coulter, J. Apr 2010. “Electroacoustic Music with Moving Images: the art of media pairing,” Organised Sound, vol. 15, pp. 26-34, Apr 2010.
+Crampton, N., K., Fox, H., Johnston, A.,Whitehead. 2007. “Dance, Dance Evolution: Accelerometer Sensor Networks as Input to Video Games.” In 2007 IEEE International Workshop on Haptic, Audio and Visual Environments and Games., pp. 107–112.
+Cronkite, D. 2000. “Mediating Gesture: An Interactive Approach to Computer-Assisted Music.” Musicworks: Explorations in Sound, 78: 20.
+Cseres, J. 2009. “In Between as a Permanent Status: Milan Adamciak's Version of Intermedia,” Leonardo Music Journal, vol. 19, pp. 31-34.
+Cunningham, H. 1998. ‘Digital Culture – the View from the Dance Floor’ in Digital Diversions: Youth Culture in the Age of Multimedia, Sefton-Green J (ed), London: UCL Press Ltd.
+Dahl, L., Wang, G., 2010. “Sound Bounce: Physical Metaphors in Designing Mobile Music Performance”, In Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp. 178
+Dahlstedt, P. 2008. “Dynamic Mapping Strategies for Expressive Synthesis Performance and Improvisation.” In Proceedings of the 2008 Computer Music Modeling and Retrieval conference - CMMR08.
+Dannenberg, R.. 1993. “Computer music at Carnegie Mellon University.” In Music Processing, Goffredo Haus,ed., A-R Editions, Madison (Wisconsin), pp. 303-333.
+Davcev, D., V., Trajkovic, S., Kalajdziski, S., Celakoski. 2003. “Augmented Reality Environment for Dance Learning.” in Proc. Int’l Conf. Information Technology: Research and Education, pp. 189- 193.
+Davidson, P.W. Haptic Perception. Journal of Pediatric Psychology, Volume 1, Issue 3, pages 21-25.
+Davies, H. 1984. Electronic musical instruments. Various entries in The New Grove Dictionary of Musical Instruments, Stanly Sadie, ed. London: Macmillan Press.
+Dchelle, F., R. Borghesi, M. D. Cecco, E. Maggi, B. Rovan, and N. Schnell. 1999. “jMax: An Environment for Real-Time Musical Applications.” Computer Music Journal, 23(3): 50–58.
+De, M., and M. Beatriz, (ed). 2002. Arte e tecnologia na cultura contemporânea. Brasilia: Universidadede Brasilia.
+Deng, LQ., H., Leung, NJ., Gu, Y., Yang, (eds). 2011. “Real-time mocap dance recognition for an interactive dancing game.” in COMPUTER ANIMATION AND VIRTUAL WORLDS. 22 (2-3): 229-237.
+Dinkla, S. 1997. Pioniereinteraktiver Kunst. Ostfildern: Cantz Verlag.
+Dinkla, S., and M. Leeker. 2003. Dance and Technology/ Tanz und Technologie: Moving towards Media Productions - Auf dem Weg zu medialen Inszenierungen. Berlin: Alexander Verlag.
+Dipper, G. Dec 2009. “Interactive Interfaces: Installations produced at the ZKM vertical bar IMA,” Organised Sound, vol. 14, pp. 286-298.
+Dixon, S. 2007. “Digital Performance – A History of New Media in Theater, Dance, Performance, Art, and Installation.” In The MIT Press.
+Domingues, D. 1997. Arte no Séc. XXI: A Humanização das Tecnologias. São Paulo: Ed. da Unesp.
+Doornbusch, P. 2002. “Composers' Views on Mapping in Algorithmic Composition.” Organised Sound, 7(2):145-156.
+Downes, P. 1987. “Motion Sensing in Music and Dance Performance.” In AES 5th International Conference. New York, NY: Audio Engineering Society, pp. 165 - 172.
+Downes, P. 1987. “Motion Sensing in Music and Dance Performance.” Proceedings of the 5th Audio Engineering Society Conference. New York: Audio Engineering Society. Paper no. 105.
+Dreyfus, H. 2001. Onthe Internet. London/New York: Routledge.
+Drummond, J. 2009. “Understanding Interactive Systems.” Organised Sound, 14(2):124-133.
+Dubost, G. 1993. “Technologies de capteurs et leurs applications musicales.” Master's thesis. UniversitéParis Sud Orsay, 1993.
+Dunn, P. F. 2010. Measurement and Data Analysis for Engineering and Science. CRC Press, Taylor & Francis Group.
+Eaton, J. 1999. This is an instrument!” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 21-24. (with audio excerpts on the accompanying CD).
+Ebeweuter, N. 2005. “Dance movement: a focus on the technology.” In Computer Graphics and Applications, IEEE. 25(6): 80-83
+Egozy, E. B. 1995. “Deriving Musical Control Features from a Real-Time Timbre Analysis of the Clarinet.” Master's thesis. Massachusetts Institute of Technology.
+Eigenfeldt, A. Aug 2011. “Real-time Composition as Performance Ecosystem,” Organised Sound, vol. 16, pp. 145-153.
+Ellis, S.R. 1991. “Nature and Origins of Virtual Environments: A Bibliographical Essay.” Excerpt reprinted in R. Baecker, J. Grudin, W.A.S. Buxton, and S. Greenberg, eds. Human-Computer Interaction: Towards the Year 2000. San Mateo, Calif.: Morgan Kaufmann Publishers Kaufmann Publishers Inc., pp. 913-932.
+Englert, G. G. (1980), Ç Musique: composition automatique - automation composée È, Mathématiques et Sciences Humaines (45), Paris: Sorbonne, juin, pp. 37-50.
+Enke, U. 2006. “DanSense: Rhythmic Analysis of Dance Movements Using Acceleration-Onset Times.” Master thesis, RWTH Aachen University.
+Essa, I., S. Basu, T. Darrell, and A. Pentland. 1996. Modeling, tracking and interactive animation of faces and heads using input from video. In Proceedings of Computer Animation '96 Conference, Geneva, Switzerland.
+Essl, G. and M. Rohs. Aug 2009. “Interactivity for Mobile Music-Making,” Organised Sound, vol. 14, pp. 197-207.
+Evers, F., L., der Velden, J.P., van der Wenden. 2002. The Art of Programming (Sonic Acts 2001 conference on digital art). Amsterdam: Sonic Arts.
+Fadon, C. 1991. “StillLife/Alive.” in Connectivity: Art and Interactive Telecommunications. Roy Ascott and Carl Eugene Loeffler. (eds.). Leonardo. 2(24).
+Fassler, M. 1996. Mediale Interaktion. München: Fink Verlag.
+Favilla, S. 1994. “The LDR Controller.”, In Proceedings of the 1994 International Computer Music Conference. San Francisco, International Computer Music Association.
+Favilla, S. 1996. “Non-Linear Controller Mapping for Gestural Control of the Gamaka.” In Proceedings of the 1996 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 89-92.
+Favilla, S. 1996. “Non-Linear Controller Mapping for Gestural Control of the Gamaka.”, In Proceedings of the 1996 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 89-92.
+Favilla, S. 1997. “Real-time Control of Synthesis Parameters for LightHarp MIDI Controller.” In Proceedings of the 1997 ACMA Conference. Auckland, New Zealand.
+Favilla, S. 1997. “Real-time Control of Synthesis Parameters for LightHarp MIDI Controller.”, In Proceedings of the 1997 ACMA Conference. Auckland, New Zealand.
+Feldmeier, M., and J., Paradiso. 2004. ‘Giveaway wireless sensors for large-group interaction’, in Proceedings of CHI 2004, CHI Extended Abstracts, pp. 1291-1292.
+Fels, S. 1994. Glove-Talk II: Mapping Hand Gestures to Speech Using Neural Networks - An Approach to Building Adaptive Interfaces. PhD Thesis, University of Toronto, Canada.
+Fels, S. 1994. Glove-Talk II: Mapping Hand Gestures to Speech Using Neural Networks - An Approach to Building Adaptive Interfaces. PhD Thesis, University of Toronto, Canada.
+Fels, S., A. Gadd, and A. Mulder. 2002. “Mapping Transparency through Metaphor: towards more expressive musical instruments.” Organised Sound, 7(2):109-126.
+Fels, S., K. Nishimoto, and K. Mase. 1998. “MusiKalscope:A Graphical Musical Instrument.”, IEEE Multimedia 5(3):26-35.
+Ferguson, S., and MM Wanderley. 2009. “The McGill Digital Orchestra: Interdisciplinarity in Digital musical Instrument Design.”
+Fisher, S. 1990. “Virtual interface environments. ” in: The Art of Computer Interface Design. Laurel, B., (ed). Massachusetts, Addison Wesley.
+Fitzmaurice, G.W., and W. Buxton. 1997. “An Empirical Evaluation of Graspable User Interfaces:towards specialized, space-multiplexed input.” In Proceedings of the CHI'97 Conference on Human factors in Computing Systems, Association of Computer Machinery, pp. 43-50.
+Fletcher, R. 1996. “Applying Transduction Materials for Human-Technology Interfaces.” IBM Systems Journal 35(3/4):630-638.
+Fletcher, R. 1996. Force Transduction Materials for Human-Technology Interfaces. IBM Systems Journal, 35(3&4):630-638.
+Fléty, E. 1997. “Sonars à ultrasons.” Technical report. Ircam Centre Pompidou.
+Fléty, E. 2000. 3D Gesture Acquisition Using Ultrasonic Sensors. In M. Wanderley and M. Battier, eds. Trends in Gestural Control of Music. Paris: IRCAM – Centre Pompidou, pp. 193-207.
+Fléty, E. 2000. “3D Gesture Acquisition Using Ultrasonic Sensors.” Trends in Gestural Control of Music. 193-208.
+Fléty, E., and M.-H. Serra. 1998. “Utilisations récentes de capteurs gestuels encréation musicale à l'Ircam.” Proceedings of the Journées d'Informatique Musicale, pp. D3-1-D3-4.
+Florens, J.-L, C. Cadoz, and A. Luciani. 1998. “A Real-Time Workstation for Physical Model of Multi-Sensorial and Gesturally Controlled Instrument.” In Proceedings of the 1998 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 518-525.
+Florens, J.-L. 1978. Coupleur gestuel rétroactif pour la commande et le contrôle de sons de synthèse. PhD. Thesis. Institut National Polytechnique de Grenoble.
+Florens, J.-L., and C. Henry. 2001. “Bowed String Synthesis with Force Feedback Gesture Interaction.” In Proceedings of the 2001 International Computer Music Conference. San Francisco, International Computer Music Association.
+Foellmer, G., , Roland Franck, and Folmar Hein (eds). 1992. Dokumentation Elektroakustischer Musik in Europ. Produced by: Technische Universitaet Berlin, Elektronisches Studio, Deutsche Sektion der internationalen Gesellschaft fuer Elektroakustische Musik (DecimE); published by: InventionenU92. 370 pp.
+Forest, F. “Communication Esthetics, Interactive Participation and Artistic Systems of Communication and Expression.” in Designing the Immaterial Society. Design Issues special issue. Marco Diani, (ed). University of Illinois, Chicago: 4(1,2): pp. 97-115.
+Fraden, J. 2004. Handbook of Modern Sensors. Physics, Design and Applications. 3rd Edition. London: Springer-Verlag.
+Frank, M., L. Mehr, A. Sontacchi, & F. Zotter. 2010. “Flexible and Intuitive Pointing Method for 3D Auditory Localization Experiments.” Proceedings of the 130th Audio Engineering Society Conference. New York: Audio Engineering Society. Paper no. 38.
+Freed, A., and O. Isvan. 2000. “Musical Applications of New, Multi-Axis Guitar String Sensors.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 543-546.
+Freed, A., and O. Isvan. Musical Applications of New, Multi-axis Guitar String Sensors. Proceedings of the 2000 International Computer Music Conference (ICMC-2000).
+Freed, A., and R. Avizienis. 2000. “A New Music Keyboard with Continuous Key-Position Sensing and High-Speed Communication.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 515-518.
+Frengel, M. 2010. “A Multidimensional Approach to Relationships between Live and Non-live Sound Sources in Mixed Works”. Organised Sound 15 (2):96-106.
+Friberg, A. 1991. “Generative rules for music performance: A formal description of a rule system”. Computer Music Journal:56-71.
+Friberg, A., et al.1991. PERFORMANCE RULES FOR COMPUTER-CONTROLLED CONTEMPORARY KEYBOARD MUSIC. Computer Music Journal 15 (2):49-55.
+Fujimoto, M., N. Fujita, Y., Takegawa, T., Terada, M., Tsukamoto. 2009. “A Motion Recognition Method for a Wearable Dancing Musical Instrument,” in 2009 Inter- national Symposium on Wearable Computers. IEEE.
+Fujimoto, M., N., Fujita, Y., Takegawa, T., Terada, M., Tsukamoto. 2008 “Musical B-boying: A Wearable Musi- cal Instrument by Dancing,” Lecture Notes In Computer Science. 5309.
+Garnett, G. E. 2001. “The Aesthetics of Interactive Computer Music.” Computer Music Journal, 25(1): 21-33.
+Garnett, G., and C. Goudeseune. 1999. “Performance Factors in Control of High-Dimensional Spaces.” In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 268 - 271.
+Garnett, G., and C. Goudeseune. 1999. “Performance Factors in Control of High-Dimensional Spaces.”, In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 268-271.
+Garnett, G., F. Malvar-Ruiz, and F. Stoltzfus. 1999. “Virtual Conducting Practice Environment.” In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 371-374.
+Garrett, P. H. 1994. Advanced Instrumentation and Computer I/O Design: Real-time System Computer Interface Engineering. Los Alamitos, USA: IEEE Press.
+Gavrilla, D. M., and L. S. Davis. 1995. “3-D model based tracking of human upper body movement: a multi-view approach.” in Proc. of the IEEE-PAMI International Symposium on Computer Vision. Coral Gables, Florida: pp. 253-258.
+Gendolla, P., N., Schmitz, I., Schneider, P., Spangenberg,(eds). 2001. Formen interaktiver Medienkunst. Frankfurt: Suhrkamp.
+Genevois, H. 1999. “Geste et pensée musicale: de l'outil à l'instrument.” InH. Genevois and R. de Vivo, eds. Les nouveaux gestes de la musique. Marseille: Editions Parenthèses, pp. 35-45.
+Genevois, H., and R. de Vivo, eds. 1999. Les nouveaux gestes de la musique. Marseille:Editions Parenthèses.
+Gershenfeld, G., and J. Paradiso. 1997. “Musical Applications of Electric Field Sensing.” Computer Music Journal 21(2):69-89.
+Gibet, S. & Marteau, P.-F. (1990). Gestural control of sound synthesis. Proceedings International Computer Music Conference, Glasgow, UK, 387-391. San Francisco CA, USA: International Computer Music Association.
+Gidney, E. 1983. “The Artist's use of telecommunications: a review.” Leonardo. 16(4): pp 311-315.
+Gillespie, B. 1992. “The Touchback Keyboard.” In Proceedings of the 1992 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 447-448.
+Gillett, K., and R. Pritchard. 1985. “Maddm - Dance Directed Music.” In Proceedings of the 1985 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 329-330.
+Giordano, M. and Wanderley, M.M. 2011. A Learning Interface for Novice Guitar Players using Vibrotactile Stimulation. Proceedings of the Sound and Music Computing Conference (SMC-2011).
+Giraudon, F. 1994. “Contrôle de paramètres de synthèse issus d’'une analyse par une interface gestuelle.” MSc. thesis. Centre National de la Recherche Scientifique.
+Glesner, J. 2002. “Web Dance: Konvergenzen zwischen Tanz und Internet?” in Tanz, Theorie, Text.Jahrbuch der Gesellschaft für Tanzforschung , (ed). Christa Zipprich and GabrieleKlein. Hamburg: LIT Verlag, pp. 509-2.
+Gluck, R. J. 2005. “Sounds of a community: Cultural identity and interactive art”. Leonardo Music Journal 15:37-43.
+Goldberg, K. (ed). 2000. The Robot in the Garden: Telerobotics and Telepistemology in the Age of the Internet. Cambridge, MA: MIT Press.
+Goldstein, M. 1998. “Gestural Coherence and Musical Interaction Design.” In Proceedings of IEEE Systems, Man and Cybernetics Conference, San Diego, CA.
+Goudeseune, C. 2001. “Composing with Parameters for Synthetic Instruments.”, PhD Thesis, University of Illinois at Urbana-Champaign.
+Goudeseune, C. 2001.Composing with Parameters for Synthetic Instruments. PhD Thesis, University of Illinois at Urbana-Champaign.
+Goudeseune, C. 2002. “Interpolated Mappings for Musical Instruments.” Organised Sound, 7(2): 85-96.
+Goudeseune, C. 2002. “Interpolated Mappings for Musical Instruments.” Organised Sound, 7(2):85-96.
+Goudeseune, C., 2002., “Interpolated Mappings for Musical Instruments”, In Organized Sound, Vol. 7(2), pp. 85-96
+Grau, O. 1999. “The history of telepresence: automata, illusion, and the rejection of the body.” in: TheRobot in the Garden: Telerobotics and Telepistemology in the Age of the Internet, ed. Ken Goldberg. Cambridge, MA.: The MIT Press: pp. 94-99.
+Grau. 2003. Virtual Art: From Illusion to Immersion. Cambridge: MIT Press.
+Gray, J. (ed). 1989. Dance Technology: Current Applications and Future Trends. National Dance Association.
+Gray, J. 1989. “The Evolution of Dance Technology.” in Dance Technology: Current Applications and Future Trends. National Dance Association, pp 1-5.
+Green, O. 2011. “Agility and Playfulness: Technology and skill in the performance ecosystem”. Organised Sound 16 (2):134-144.
+Griffith, N. and M. Fernstro ̈m. 1998. “LiteFoot: A floor space for recording dance and controlling media,” in Proceed- ings of the 1998 International Computer Music Conference. Ann Arbor, MI.
+Griffith, N., and M. Fernstrom. 1998. “Litefoot - a Floor Space for Recording Dance and Controlling Media.” In Proceedings of the 1998 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 475-481.
+Grollmisch, S. E. Cano Ceron, and C. Dittmar. 2011. “Songs 2 See: Learn to Play by Playing.” Proceedings of the 131st Audio Engineering Society Convention. New York: Audio Engineering Society. pp. 2-3.
+Grossmann, R. 2008. “The tip of the iceberg: laptop music and the information-technological transformation of music”. Organised Sound 13 (1):5-11.
+Grumwald, M. “Human Haptic Perception: Basics and Applications.” Birkhauser (Basel).
+Grzinic, M. (ed). 2002. Stelarc: Political Prosthesis and Knowledge of the Body. Ljubljana: Maska/MKC.
+Guedes, C. 1999. “Mapping Dance to Musical Rhythm: The Creation of a Computational Algorithm for Musical Gesture.” PhD Proposal, School of Education, New York University.
+Guedes, C. 2006. “Extracting Musically-Relevant Rhythmic Information from Dance Movement by Applying Pitch Tracking Techniques to a Video Signal.” in Proceedings of the 2006 Sound and Music Computing Conference, Marseille, France.
+Guiard, Y. 2001. “Disentangling Relative from Absolute Amplitude in Fitts’ Law Experiments.” In Proceedings of the 2001 ACM Conference on Human Factors in Computing Systems. New York, NY: ACM Press, pp. 315-316.
+Guiard, Y., M. Beaudouin-Lafon, and D. Mottet. 1999. “Navigation as a Multiscale Pointing: Extending Fitts’Model to very high Precision Tasks.” In Proceedings of the 1999 ACM Conference on Human Factors in Computing Systems. New York, NY: ACM Press, pp. 450-457.
+Gurevich, M., and A. C. Fyans. 2011. “Digital Musical Interactions: Performer-system relationships and their perception by spectators”. Organised Sound 16 (2):166-175.
+Gurevich, M., and S. von Muehlen. 2001. “The Accordiatron: A Gestural Interface for Interactive Music.” In Proceedings of the 2001 International Computer Music Conference. San Francisco, International Computer Music Association.
+Gutknecht, J, I., Kulka, P., Lukowicz, T., Strieker. 2008. Advances in Expressive Animation in the Interactive Performance of a Butoh Dance, pp. 418–433.
+Hachimura, K., H., Kato, and H. Tamura. 2004. “A Prototype Dance Training Support System with Motion Capture and Mixed Reality Technologies.” in Proc. IEEE Int’l Workshop Robot and Human Interactive Comm., pp. 217-222
+Hachimura, K., K., Takashina, and M., Yoshimura. 2005. “Analysis and Evaluation of Dancing Movement Based on LMA.” in Proc. IEEE Int’l Workshop Robots and Human Interactive Comm., pp. 294-299
+Haflich, S., and M. Burns. 1983. “Following a Conductor: the Engineering of an Input Device.” In Proceedings of the 1983 International Computer Music Conference. San Francisco, International Computer Music Association.
+Hahnel, T., 2010., “From Mozart to MIDI: A Rule System for Expressive Articulation”, In Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp. 72
+Haken, L., E. Tellman, and P. Wolfe. 1998. “An Indiscrete Music Keyboard.” Computer Music Journal 22(1):31-48.
+Haken, L., K. Fritz, E. Tellmann, P. Wolfe and P. Christensen. 1997. “A Continuous Music Keyboard Controlling Polyphonic Morphing using Bandwidth Enhanced Oscillators.”, In Proceedings of the 1997 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 375-378.
+Haken, L., R. Abdullah, and M. Smart. 1992. “The Continuum: A Continuous Music Keyboard.” In Proceedings of the 1992 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 81-84.
+Hand, C. 1993. “A Survey of 3-D Input Devices.” Technical report, De Montfort University- Leicester - UK.
+Hansen, M. 2004. New Philosophy for New Media. Cambridge: MIT Press.
+Harada, T., A. Sato, S. Hashimoto, and S. Ohteru. 1992. “Real Time Control of 3D Sound Space by Gesture.” Proceedings of the 1992 International Computer Music Conference. Ann Arbor, MI: MPublishing, University of Michigan Library. pp. 85-88.
+Harrison, B.L., K.P. Fishkin, A. Gujar, C. Mochon, and R. Want. 1998. “Squeeze Me, Hold Me, Tilt Me! An Exploration of Manipulative User Interfaces.” In Proceedings of the CHI’98 Conference on Human Factors in Computing Systems. Association for Computer Machinery, pp. 17-24.
+Hartono, P., K. Asano, W. Inoue, and S. Hashimoto. 1994. “Adaptative Timbre Control using Gesture.” In Proceedings of the 1994 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 151-158.
+Harvey, J. 1999. “The metaphysics of live electronics” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 79-82. (with audio excerpts on the accompanying CD).
+Hashimoto, S., and H. Sawada. 1998. “Musical Performance Control Using Gesture: Toward Kansei Technology for Art.” In Kopiez and Auhagen, eds. Controlling Creative Processes in Music. Schriften Musikpsychologie und Musikäesthetik 12. Frankfurt am Main: Peter Lang Verlag, pp. 93-106.
+Hashimoto, S., and H. Sawada. 2005. “A Grasping Device to Sense Hand Gesture for Expressive Sound Generation.” Journal of New Music Research, 34(1): 115.
+Havryliv, M., 2010., “Composing For Improvisation with Chaotic Oscillators”, In Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp. 94
+Hayward, V. 1995. “Toward a Seven Axis Haptic Interface.” In Proceedings of the IROS'95, Int. Workshop on Intelligent Robots and Systems. vol. 2. Piscataway, NJ: IEEE Press, pp. 133-139.
+Hayward, V. and MacLean, K.E. 2007. Do it yourself haptics: Part I. IEEE Robotics & Automation Magazine.
+Hayward, V. and MacLean, K.E. 2008. Do it yourself haptics: Part II [Tutorial]. IEEE Robotics & Automation Magazine.
+Held, R., and N. Durlach. 1992 “Telepresence. ” Presence, 1(1): pp 109-112.
+Henning, Pohl. 2010. “Motion Pattern Recognition For Interactive Dance.” Master thesis. Darmstadt, Germany.
+Herbison-Evans, D. 1988. “Dance, Video, Notation and Computers”. Leonardo, 21(1): 45-50.
+Herbison-Evans, D. 1999. “Publications”. Several articles relating to computers and dance/ dance notation and computer animation.
+Hinckley, K., M. Czerwinski, and M. Sinclair. 1998. “ Interaction and Modeling Techniques for Desktop Two-Handed Input.” In Proceedings of the UIST’98. Association for Computer Machinery, pp. 49-58.
+Hinckley, K., R. Pausch, D. Proffitt, and N. Kassell. 1998. “Two-Handed Virtual Manipulation.” ACM Transactions on Computer-Human Interaction 5(3): 260-302.
+Hinckley, K., R. Pausch, D. Proffitt, J. Patten, and N. Kassell. 1997. “Cooperative Bimanual Action.” In Proceedings of the CHI’'97 Conference on Human Factors in Computing Systems. Association for Computer Machinery, pp. 27-34.
+Hirai, S., H. Katayose, T. Kanamori, and S. Inokuchi. 1998. “Software Sensors for Interactive Digital Art.” In Proceedings of the 1998 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 514-517.
+Hoadley, R. 2010. “Implementation and Developments of Interfaces for Music Performance Through Analysis of Improvised Dance Movements.” Proceedings of the 128th Audio Engineering Society Convention. New York: Audio Engineering Society. Paper no. 8002.
+Hochenbaum, J., Kapur, A., Wright, M., 2010, “Multimodal Musician Recognition”, In Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp. 233
+Hodges, M. 1995. “Computers and dance.” Technology Review, 98(1):20-21
+Hromin, D., M. Chladil, N. Vanatta, D. Naumann, S. Wetzel, F. Anjum, R. Jain. 2003.“CodeBLUE: a bluetooth interactive dance club system.” in GLOBE- COM ’03. IEEE Global Telecommunications Conference. 5, San Francisco, CA, IEEE.
+Hsiao, K.Y., and J. Paradiso. 1999. “A New Multimodal Musical Controller Using Wireless Magnetic Tags.” In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 24-27.
+Hummels, C., G. Smets, and K. Overbeeke. 1998. “An Intuitive Two-Handed Gestural interface for Computer Supported Product Design.” In I. Wachsmuth and M. Fröhlich, eds. Gesture and Sign Language in Human-Computer Interaction, Proceedings of the II Gesture Workshop, Heildeberg: Springer-Verlag, pp. 197-208.
+Humphrey, T., Flynn, M., Stevens, J., 2010. “Epi-thet: A Musical performance installation and a choreography of stillness”, In Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp. 69
+Hünnekens, A. 1997. Derbewegte Betrachter. Theorien der Interaktiven Medienkunst. Köln: Wienand.
+Hunt, A. 1999. “Radical User Interfaces for Real-time Musical Control.”, DPhil thesis, University of York UK.
+Hunt, A. 1999. Radical User Interfaces for Real-time Musical Control.DPhil thesis, University of York UK.
+Hunt, A. and R. Kirk. 2000. “Mapping Strategies for Musical Performance.” In M. Wanderley and M. Battier, eds. Trends in Gestural Control of Music. Paris, France:IRCAM - Centre Pompidou.
+Hunt, A., and M. M. Wanderley. 2002. “Mapping Performer Parameters to Synthesis Engines.” Organised Sound, 7(2):97-108.
+Hunt, A., and M. Wanderley. 2002. “Mapping performer parameters to synthesis engines.” Organised Sound, 7(2): 97-108.
+Hunt, A., and R. Kirk. 1999. Radical User Interfaces for Real-time Control. In Proceedings of the Euromicro Conference. Milan.
+Hunt, A., and R. Kirk. 2000. “Mapping Strategies for Musical Performance.” In M. Wanderley and M. Battier, eds. Trends in Gestural Control of Music. Ircam - Centre Pompidou.
+Hunt, A., M. M. Wanderley, and R. Kirk. 2000. “Towards a Model for Instrumental Mapping for Expert Musical Performance.”, In Proceedings of the 2000 International Computer Music Conference. San Francisco, CA: International Computer Music Association, pp. 209-212.
+Hunt, A., M. Wanderley, and M. Paradis. 2002. “The Importance of Parameter Mapping in Electronic Instrument Design.” Proceedings of the 2002 conference on New Interfaces for Musical Expression. Singapore: National University of Singapore, pp. 1-6.
+Hunt, A., M. Wanderley, and R. Kirk. 2000. “Towards a Model for Instrumental Mapping in Expert Musical Interaction.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 209 - 212.
+Hunt, A., R. Kirk, and R. Orton. 1990. “MIDIGRID: An Innovative Computer-Based Performance and Composition System.” In Proceedings of the 1990 International Computer Music Conference. San Francisco: International Computer Music Association, pp. 392-394.
+Hurbain. P. 2004. Demystifying the Sharp IR Ranger, Acroname Articles Online,
+Hurney, M. “Synthophone. The MIDI sax.” http://www.softwind.c
+Huron, D. 2002. “Music Information Processing Using the Humdrum Toolkit: Concepts, Examples, and Lessons.” Computer Music Journal, 26(2): 11–26.
+Iaird, I., D. Murphy, R. Capman, and S. Jouan. 2011. “Development of a Virtual Performance Studio with Application of Virtual Acoustic Recording Methods.” Proceedings of the 130th Audio Engineering Society Convention. New York: Audio Engineering Society. Paper no. 8358.
+Ilmonene, T., and T. Takala. 1999. “Conductor Following with Artificial Neural Networks.” In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 367-370.
+Impett, J. 1994. “A Meta-Trumpet(er).” In Proceedings of the 1994 International Computer Music Conference. San Francisco: International Computer Music Association, pp. 147-150.
+Isaacs, D. 2003. Evaluating input devices for musical expression. Bachelor's thesis in Information Technology, University of Queensland.
+Jacob, R. J. K., L. Sibert, D. McFarlane, and M. Mullen Jr. 1994. “ Integrality and Separability of Input Devices.” ACM Transactions on Human-Computer Interaction 1, 1, pp. 3-26.
+Jacob, R.J.K. 1996. “Human-Computer Interaction: Input Devices.” ACM Computing Surveys 28(1):177-179.
+Janocha H., 2004. Actuators: basics and applications. Springe
+Jean, F., and A.B. Albu. 2008. “The Visual Keyboard: Real-Time Feet Tracking for the Control of Musical Meta-Instruments.” Signal Processing: Image Communication, 23(7): 505-515.
+Johnston, A., L. Candy, and E. Edmonds. 2008. “Designing and evaluating virtual musical instruments: facilitating conversational user interaction”. Design Studies 29 (6):556-571.
+Johnstone, E. 1991. “A MIDI Foot Controller - The PodoBoard.” in International Computer Music Conference, San Francisco, CA.
+Jorda, S. 2001. “Improvising with Computers: A Personal Survey (1989-2001).” In Proceedings of the 2001 International Computer Music Conference. San Francisco, International Computer Music Association.
+Jordanous, A., and A. Smaill. 2009. “Investigating the Role of Score Following in Automatic Musical Accompaniment”. Journal of New Music Research 38 (2):197-209.
+Kabbash, P., I.S. MacKenzie, and W. Buxton. 1993. “Human Performance Using Computer Input Devices in the 2001 International Preferred and Non-Preferred Hands.” In Proceedings of the ACM INTERCHI, pp. 474-481.
+Kac, E. 1991. “Ornitorrinco: Exploring Telepresence and Remote Sensing”, in Connectivity: Art and Interactive Telecommunications, Roy Ascott and Carl Eugene Loeffler, (eds)., Leonardo, 24(2).
+Kac, E. 1992. “Aspects of the Aesthetics of Telecomommunications.” originally published in Siggraph Visual Proceedings, ed. John Grimes and Gray Lorig. New York: ACM.
+Kahlich, L. 1992. “Dance Technology – Moving into the Future.” Dance Research Journal. 24(2): 63-64.
+Kalawasky, R. S. 1993. The science of virtual reality and virtual environments. Wokingham: Addison-Wesley.
+Kaltenbrunner, M., and R. Bencina. 2007. “reacTIVision: a computer-vision framework for table-based tangible interaction.” Proceedings of the 1st International Conference on Tangible and Embedded Interaction (TEI ’07). New York, NY, USA: ACM. pp. 69–74.
+Kanamori, T., H. Katayose, S. Simura, and S. Inokuchi. 1993. “Gesture Sensor in Virtual Performer.” In Proceedings of the 1993 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 127-129.
+Kanamori, T., H. Katayose, Y. Aono, S. Inokuchi, and T. Sakaguchi. 1995. “Sensor Integration for Interactive Digital Art.” In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 265-268.
+Kapur, A., et al. 2005. “Wearable sensors for real-time musical signal processing”. In 2005 Ieee Pacific Rim Conference on Communications, Computers and Signal Processing.
+Karjalainen, M., T. Maki-patola, A. Kanerva, and A. Huovilainen. 2006. “Virtual Air Guitar.” Journal of Audio Engineering Society. 54(10): 964-980.
+Katayose, H. and Inokuchi, S. 1993. “Learning Performance Rules in a Music Interpretation System.” Computers and the Humanities. 27(1):31-40.
+Katayose, H. and Okudaira, K. 2004. “iFP: A Music Interface Using an Expressive Performance Template.” Entertainment Computing - Icec 2004. 3166: 529-540.
+Katayose, H., H. Shirakabe, T. Kanamori, and S. Inokuchi. 1997. “A Toolkit for Interactive Digital Art.” In Proceedings of the 1997 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 476-478.
+Katayose, H., S. Hirai, T. Kanamori, H. Kato, and S. Inokuchi. 1998. “Physiological Measurement of Performers' Tension and its Utilisation for Media Control.” In Proceedings of the 1998 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 211-214.
+Katayose, H., T. Kanamori, and S. Inokuchi. 1996. “An Environment for Interactive Art - sensor integration and applications.” In Proceedings of the 1996 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 173-176.
+Katayose, H., T. Kanamori, K. Kamei, Y. Nagashima, K. Sato, S. Inokuchi, and S. Simura. 1993. “Virtual Performer.” In Proceedings of the 1993 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 138-145.
+Katayose, H., T. Kanamori, S. Simura, and S. Inokuchi. 1994. “Demonstration of Gesture Sensors for the Shakuhachi.” In Proceedings of the 1994 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 196-199.
+Keane, D., and P. Gross. 1989. “The MIDI Baton.” In Proceedings of the 1989 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 151-154.
+Keane, D., G. Smecca, and K. Wood. 1990. “The MIDI Baton II.” In Proceedings of the 1990 International Computer Music Conference. San Francisco, International Computer Music Association.
+Keyson, D. V. 1996. Touch in User Interface Navigation. PhD Thesis. Technische Universiteit Eindhoven.
+Kieslinger, M., and T. Ungvary. 1997. “Aspects of Visualizing Information for a Realtime Hypermedia Musical Environment.” In Chow, ed. Multimedia Technology and Applications. Singapore: Springer-Publications.
+Kim-Boyle, D. 2009. “Network Musics: Play, Engagement and the Democratization of Performance.” Contemporary Music Review. 28(4-5):363-375.
+Kim, Y., D., Jung, S., Park, J., Chi, T., Kim, and S., Lee. 2008 “The Shadow Dancer: A New Dance Interface with Interactive Shoes,” in International Conference on Cyberworlds. Hangzhou, China: IEEE Computer Society,
+Kirlik, A. and Maruyama, S. 2004. “Human-technology Interaction and Music Perception and Performance: Toward the Robust Design of Sociotechnical Systems.” Proceedings of the IEEE 92(4):616-631.
+Knapp, R. B., and H. S. Lusted. 1990. “A Bioelectric Controller for Computer Music Applications.” Computer Music Journal 14(1):42-47.
+Kramer, G. 1996. “Mapping a single data stream to multiple auditory variables: A subjective approach to creating a compelling design.”. In Proceedings of International Conference on Auditory Display - ICAD'96.
+Krefeld, V. (1990). The Hand in the Web: An interview with Michel Waisvisz. Computer Music Journal, 14 (2), 28-33.
+Krefeld, V. 1990. “The Hand in the Web: An Interview with Michel Waisvisz.” Computer Music Journal 14(2):28-33.
+Kristiansen, K., and A. Aaberg. 1996. “Digital Dance-A Wireless Microprocessor-BasedSystem for Interactive Dance and Music.” Examination project, Aarhus Teknikum, Aarhus,Denmark.
+Kuivila, R. 2000. “Forests and Trees: Distinguishing Many from Few with a Video Camera.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 281-283.
+Kwon, D.Y., and M. Cross. 2005. “Combining Body Sensors and Visual Sensors for Motion Training.” in Proc. ACM SIGCHI, pp. 94-101
+LaBelle, B. and C. Migone, (eds). 2001. Writing Aloud: The Sonics of Language. Los Angeles: Errant Bodies Press.
+Laske, O. 1977. “Toward a Theory of Interfaces for Computer Music Systems.” Computer Music Journal 1(4):53-60.
+Latulipe, C., and S., Huskey. 2008. “Dance. Draw: exquisite interaction.” in Proceedings of the 22nd British CHI Group Annual Conferenc on HCI 2008: People and Computers XXII: Culture, Creativity, Interaction UK: vol. 2, pp. 47–51.
+Laubier, S. de. 1998. “The Meta-Instrument.” Computer Music Journal 22(1):25-29.
+Laubier, S. de.. 1999. “Le Méta-Instrument a-t-il un son? Emergence de lois ou de constantes dans le développement d'instruments virtuels.” In H. Genevois and R. de Vivo, eds. Les nouveaux gestes de la musique. Marseille: Editions Parenthèses, pp. 151-156.
+Laurel, B. 1993. Computers as Theatre. Reading, Mass.: Addison-Wesley.
+Lee, M. & Wessel, D. (1992). Connectionist models for real-time control of synthesis and compositional algorithms. Proceedings International Computer Music Conference, San Jose, CA, USA, 277-280. San Fransisco CA, USA: International Computer Music Association.
+Lee, M., A. Freed, and D. Wessel. 1991. “Real-Time Neural Network Processing of Gestural and Acoustic Signals.” In Proceedings of the 1991 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 277-280.
+Lee, M., and D. Wessel. 1992. “Connectionist Models for Real-Time Control of Synthesis and Compositional Algorithms.” In Proceedings of the 1992 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 277-280.
+Lee, M., G. Garnet, and D. Wessel. 1992. “An Adaptative Conductor Follower.” In Proceedings of the 1992 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 454-455.
+Leeker, M. (ed). 2001. Medien, Maschinen, Performances. Theater an der Schnittstelle zu digitalen Welten. with CD-ROM by Irina Kaldrack and Martina Leeker. Berlin: Alexander Verlag.
+Lehrman, P.D. 2009. “The Wii Remote as a Musical Instrument: Technology and Case Studies.” Proceedings of the 127th Audio Engineering Society Convention. New York: Audio Engineering Society. Paper no. 7888.
+Leman, M. and Camurri, A. 2005. “Understanding Musical Expressiveness using Interactive Multimedia Platforms.” Journal of Musicae Scientiae. pp.209-233.
+Levitin, D., S. McAdams, and R. Adams. 2002. “Control Parameters for Musical Instruments: a foundation for new mappings of gesture to sound.” Organised Sound, 7(2):171-189.
+Levy, P. 1997. Cyberculture: Rapport au Conseil de l'Europe dans le cadre du projet Nouvelles technologies: cooperation culturelle et communication. Odile Jacob (ed). Paris.
+Lewis, G. 1999. “Interacting with latter-day musical ” in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3): 99-112. (with audio excerpts on the accompanying CD).
+Li, T., M. Ogihara, and G. Tzanetakis. 2012. Music Data Mining. Boca Raton: CRC Press.
+Liang, X., Q., Li, X., Zhang, S., Zhang, and W., Geng. 2009. “Performance-driven motion choreographing with accelerometers.” Computer Animation and Virtual Worlds. 2(3): 89–99.
+Liestøl, G., with A. Morrison, T. Rasmussen, (eds). 2003. Digital Media Revisited. Cambridge: MIT Press.
+Lima, G. H. T., M. Maes, M. Bonfim, M. V. Lamar, and M.M. Wanderley. 1996. “Dance-Music Interface based on Ultrasound Sensors and Computers.” In Proceedings of the 3rd Brazilian Symposium on Computer Music, pp. 12-16.
+Linz, R. 1996. “Towards the Design of a Real-Time Interactive Performance Sound System.” Leonardo Music Journal 6:99-107.
+Lippe, C. 1996. “A Look at Performer/Machine Interaction using Real-Time Systems.” In Proceedings of the 1996 International Computer Music Conference. San Francisco, International Computer Music Association, pp.116-117.
+Liu, F., and R. Picard. “Detecting and Segmenting Periodic Motion.” MIT Media Laboratory Perceptual Computing Section. Technical report, 400.
+Lopez-Lezcano, F. 1995. “Padmaster: An Improvisation Environment for Real-Time Performance.” In Proceedings of the 1995 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 104-105.
+Lopez-Lezcano, F. 1996. “Padmaster: Banging on Algorithms with Alternate Controllers.” In Proceedings of the 1996 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 425-427.
+Loveless, Richard and Lizbeth Goodman, ” Live and Media Performance: The Next Frontier.“ Performance Research 4(2): 74-79.
+Lovell, R., and J. Mitchell. 1995. Using human movement to control activities in theatrical environments. In Proc. of Third International Conference on Dance and Technology.
+Lovink, G. 2002. DarkFibre: Tracking Critical Internet Culture. Cambridge MA: MIT Press.
+Lovink, G. 2002. Uncanny Networks: Dialogues with the Virtual Intelligentsia. Cambridge, MA.: MITPress.
+Lovischach, J. 2009. “Music at Your Fingertips: An Electrotactile Fader.” Proceedings of the 123rd Audio Engineering Society Convention. New York: Audio Engineering Society. Paper no. 7306.
+Lunenfeld, P. (ed). 1999. The Digital Dialectic: New Essays on New Media. Cambridge, Mass: MIT Press.
+Lusted, H. S. and R. B. Knapp. 1996. “Controlling Computers with Neural Signals.” Scientific American (October):58-63.
+Lusted, H. S., and R. B. Knapp. 1996. “Controlling Computers with Neural Signals.” Scientific American (October), pp. 58-63.
+Lyons, M. J. and N. Tetsutani. 2001. “Facing the Music. A Facial Action Controlled Musical Interface.” In Proceedings of the 2001 ACM Conference on Human Factors in Computing Systems. New York, NY: ACM Press, pp. 309-310.
+Machover, T. & Chung, J. (1989). Hyperinstruments: Musically intelligent and interactive performance and creativity systems. Proceedings International Computer Music Conference, Columbus, Ohio, USA. San Fransisco CA, USA: International Computer Music Association.
+Machover, T. 1992. “Hyperinstruments - a Composer's Approach to the Evolution of Intelligent Musical Instruments.” In L. Jacobson, ed. Cyberarts: Exploring Arts and Technology. San Francisco: Miller Freeman Inc., pp. 67-76.
+Machover, T. 1992. “Hyperinstruments - a Composer's Approach to the Evolution of Intelligent Musical Instruments.” In L. Jacobson, ed. Cyberarts: Exploring Arts and Technology. San Francisco: MillerFreeman Inc., pp. 67-76.
+Machover, T. 1992. “Hyperinstruments - a Progress Report 1987 - 1991.” Technical report. Massachusetts Institute of Technology.
+Machover, T., and J. Performance and Chung. 1989. “Hyperinstruments: Musically Intelligent and Interactive Performance 1992. “Hyperinstruments and Creativity Systems.” In Proceedings of the 1989 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 186-190.
+Mackenzie, A. 2002. Transductions: Bodies and Machines at Speed. London: Continuum.
+MacKenzie, I.S. 1992. “Movement Time Prediction in Human-Computer Interfaces.” Proceedings Graphics Interface ’92, pp. 140-150. Reprinted in R. Backer et al., eds. Readings in Human-Computer Interaction: Towards the Year 2000, pp. 483-493. San Mateo, CA: Morgan-Kaufmann.
+MacKenzie, I.S. and W. Buxton. 1992. “Extending Fitts’ Law to Two Dimensional Tasks.” In Proceedings of the 1992 ACM Conference on Human Factors in Computing Systems. New York, NY: ACM Press, pp. 219-226.
+Mackinlay, J. D., S.K. Card, and G. G. Robertson. 1990. “A Semantic Analysis of the Design Space of Input Devices.” Human-Computer Interaction (5):145-190.
+Maes, M., et. al. 1996. “Dance-Music Interface Based on Ultrasound Sensors and Computers.” Proceedings of the 3rd Brazilian Symposium on Computer Music. Accessed at http://recherche.ircam.fr/equipes/analyse-synthese/wanderle/Gestes/Externe/sbcm96.pd
+Maes, P., T., Darrell, B., Blumberg, A., Pentland. 1995. The ALIVE system: Full-body interaction with autonomous agents. In Proc. of the Computer Animation '95 Conference, Geneva, Switzerland.
+Maestre, E et al. 2007. “Acquisition of Violin Instrumental Gestures Using a Commercial EMF Tracking Device.” Proceedings of the 2007 International Computer Music Conference. Copenhagen: Denmark. pp. 386–393.
+Magnenat-Thalmann, N., and C. Joslin. 2007. “Learning How to Dance on the Internet.” in Proc. Sixth Int’l Conf. Web-Based Learning (ICWL ’07).
+Magnenat-Thalmann, N., D., Protopsaltou, and E., Kavakli. 2007. “Learn- ing How to Dance Using a Web 3D Platform.” in Proc. Sixth Int’l Conf. Web-Based Learning, pp. 1-12
+Magnusson, T. 2005. “ixi software: Open Controllers for Open Source Audio Software.” Proceedings of the International Computer Music Conference (ICMC 2005). Pompeu Fabra University, Barcelona.
+Magnusson, T. 2009. “Of Epistemic Tools: Musical Instruments as Cognitive Extensions.” Jounal of Organised Sound. 14(2):168-176.
+Magnusson, T. 2011. “ixi lang: A SuperCollider Parasite for Live Coding.” Proceedings of the International Computer Music Conference (ICMC 2011). Huddersfield University, Huddersfield, UK, pp. 198-200.
+Mair, G. 1996. “Virtual performance.” Global international, pp. 18-21.
+Majoe, D., Kulka, I., Schacher, J.C. 2009. “Towards An Interactive Multimedia Experience For Club Music And Dance” in Proceedings, International Conference on Mobile Computing and Multimedia MOMM. Kuala Lumpur, Malaysia.
+Malloch, J. Sinclair, S. and Wanderley, M.M. 2008. “A Network-based Framework for Collaborative Development and Performance of Digital Musical Instruments.” in Computer Music Modeling and Retrieval: Sense of Sounds. pp. 401-405.
+Malloch, J., Birnbaum, D., Sinyor, E. and Wanerley, M.M. 2006. “Towards a New Conceptual Framework for Digital Musical Instruments.” Proceedings of the 9th International Conference on Digital Audio Effects. Montreal, Canada, pp.49-52.
+Malloch, J., Sinclair, S., and M. M. Wanderley. 2007. “From controller to sound: Tools for collaborative development of digital musical instruments.” Proceedings of the International Computer Music Conference (ICMC 2007). Copenhagen, Denmark, pp. 65-72.
+Malloch, J., Sinclair, S., and M. M. Wanderley. 2008. A Network-based Framework for Collaborative Development and Performance of Digital Musical Instruments. Proceedings of the Computer Music Modeling and Retrieval Conference (CMMR 2008), LNCS 4969. Berlin Heidelberg: Springer-Verlag, pp. 401-425.
+Malloy, J., (ed). 2003. Women, Art & Technology. Cambridge, MA.: MIT Press.
+Manning, P. D. 1999. “The evolution of interactive graphical control interfaces for music applications.” Organised Sound, 4(1): 45–59.
+Manovich, L. 2001. The Language of New Media. Cambridge, MA.: MIT Press.
+Marrin-Nakra, T. 2000. Inside the Conductor's Jacket: Analysis, Interpretation and Musical Synthesis of Expressive Gestures.PhD Thesis. MIT Media Lab.
+Marrin, T. A. (Nakra). 2000. “Inside the Conductor's Jacket: Analysis, Interpretation and Musical Synthesis of Expressive Gesture.”, PhD Thesis, Massachusetts Institute of Technology.
+Marrin, T. A. 1996. “Toward an Understanding of Musical Gesture: Mapping Expressive Intention with the Digital Baton.” Master's thesis. Massachusetts Institute of Technology.
+Marrin, T. A. 1996. “Toward an Understanding of Musical Gesture: Mapping Expressive Intention with the Digital Baton.”Master's thesis. Massachusetts Institute of Technology.
+Marrin, T. A. 1997.”Possibilities for the Digital Baton as a General-Purpose Gestural Interface.“, In Proceedings of the CHI'97 Conference on Human factors in Computing Systems, Association of Computer Machinery, pp. 311-312.
+Marrin, T. A., and J. Paradiso. 1997. “The Digital Baton: A Versatile Performance Instrument.”, In Proceedings of the 1997 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 313-316.
+Marrin, T. A., and R. Picard. 1998. “The “Conductor’s Jacquet”: A device for recording expressive musical gestures.”, In Proceedings of the 1998 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 215-219.
+Marrin, T. A., and R. Picard. 1998., “The Conductor's Jacket: a Testbed for Research on Gestural and Affective Expression.”, In Proceedings of the XII Colloquium for Musical Informatics. Gorizia, Italy.
+Marshall, M. T. , Hartshorn, M. , Wanderley, M. M. and Levitin D. J. 2009. Sensor Choice for Parameter Modulations in Digital Musical Instruments: Empirical Evidence from Pitch Modulation. Journal of New Music Research, Vol. 38, No. 3, pp. 241–253.
+Marshall, M. T. 2008. Physical Interface Design for Digital Musical Instruments. PhD thesis in Music Technology, McGill University.
+Marshall, M. T. and Wanderley, M. M. 2006. Evaluation of Sensors as Input Devices for Computer Music Interfaces. Chapter in Computer Music Modeling and Retrieval (Richard Kronland-Martinet, Thierry Voinier, Sølvi Ystad, eds.), Springer Berlin / Heidelberg, vol. 3902, pp. 130-139.
+Martin, S.. 1995. Theremin. An Electronic Odyssey. Los Angeles: Orion Home Video 5080, VHS video tape, 84 minutes.
+Mathews, M. and F. R.d Moore. 1970. “GROOVE - a Program to Compose, Store, and Edit Functions of Time”, Communications of the ACM 13 (12): 715-721.
+Mathews, M. V. , and R. Moore. 1969. “GROOVE, a Program for Realtime Control of a Sound Synthesizer by a Computer.” In Proceedings of the 4th Annual Conference of the American Society of University Composers, New York: ASUC, Columbia University, pp. 22-31.
+Mathews, M. V. 1989. “The Conductor Program and the Mechanical Baton.” In M. Mathews and J. Pierce, eds. Current Directions in Computer Music Research. Cambridge, Mass. : The MIT Press, pp. 263-282.
+Mathews, M. V. 1991. “The Radio Baton and the Conductor Program, or: Pitch, the Most Important and Least Expressive Part of Music.” Computer Music Journal 15(4):37-46.
+Mathews, M. V., and C. Abbott. 1980. “The Sequential Drum.” Computer Music Journal 4(4):45-59.
+Mathews, M. V., and G. Bennet. 1978. “Real-Time Synthesizer Control.” Technical report, 5/78, Ircam Centre Pompidou.
+Mathews, M. V., and J. R. Pierce, eds. 1989. Current Directions in Computer Music Research. System development foundation benchmark series: The MIT2. Cambridge, Mass.: The MIT Press.
+Mathews, M. V., and R. Moore. 1969. “A Program to Compose, Store, and Edit Functions of Time.” Communications of the ACM 13(12):715-721.
+Mathews, M., F. R. Moore and J.-C. Risset. 1974. “Computers and Future music”, Science 183: 263-268.
+Matsumoto, F. 1993. “Using Simple Controls to Manipulate Complex Objects: Application to the Drum-Boy Interactive Percussion System.” Master's thesis. Massachusetts Institute of Technology.
+Matuck, A. 1996. “Tele-transmissãono contexto artístico”, “Perspectivas da televisão interativa.”, “Telemáticae interatividade.”, “Crítica ao futuro iminente.” in O potencial dialógicoda televisão - Comunicação e arte na perspectiva do receptor. São Paulo, Anna Blume e Eca-USP.
+Maxwell, D. and C. Ginsberg. 1986.”Graphical marionette.“ in Motion:Representation and Perception, Proceedings ACM SIGGRAPH/SIGART Interdisciplinary Workshop on Motion, pp. 303-310.
+McAlpine, K., M. Bett, and J. Scanlan. 2009. “Approaches to Creating Real-Time Adaptive Music in Interactive Entertainment: A Musical Perspective.” Proceedings of the 128th Audio Engineering Society Conference. New York: Audio Engineering Society. 35(14).
+McGlynn, P. 2011. “Towards for Effective Mapping Strategies for Digital Musical Instruments.” In Proceedings from the 2011 Linux Audio Conference - LAC11.
+McPherson, A., Kim, Y., “Augmenting the Acoustic Piano with Electromagnetic String Actuation and Continuous Key Position Sensing”, In Proceedings of the 2010 Conference on New Interfaces for Musical Expression pp.217 `
+Menache, A. 2000. Understanding Motion Capture for Computer Animation and Video Games. San Diego: Academic Press.
+Menicacci, A., and E. Quinz, (eds). 2001., La scena digital: Nuovi media per la danza. Bolzano: Marsilio.
+Menzies, D. 1999. “New Performance Instruments for Electroacoustic Music.”, DPhil thesis, University of York UK.
+Menzies, D., and D. Howard. 1998. “The CyberWhistle: An Instrument For Live Performance.”, In Proceedings of the XII Colloquium for Musical Informatics. Gorizia, Italy.
+Merrill, D., Raffle, H. and Aimi, R. 2008. “The Sound of Touch: Physical Manipulation of Digital Sound.” in Proceedings of CHI(2008). Florence, Italy, pp. 739-742.
+Metois, E. 1996. Musical Sound Information: Musical Gestures and Embedding Systems. PhD Thesis. MIT Media Lab.
+Mihalic, A. 1998. “Pédalophone.” In Proceedings of the Journées d'Informatique Musicale, pp. D4-1-D4-13.
+Minnick, M. 1990. “A Graphical Editor for Building Unit Generator Patches.” Proceedings of the International Computer Music Conference (ICMC 1990). Glasgow, UK, pp. 253-255.
+Mion, L., D'Inca, G., de Gotzen, A. and Rapana, E. 2010. “Modeling Expression with Perceptual Audio Features to Enhance User Interaction.” Computer Music Journal. 34(1):65-79.
+Miranda E.R. and Wanderley M. M., 2006. New digital musical instruments: control and interaction beyond the keyboard. A-R Editions Inc.
+Misdariis, N., F. Nicolas, O. Warusfel, and R, Causse. 2001. “Radiation Control on Multi-Loudspeaker Device: La Timee.” In Proceedings of the 2001 International Computer Music Conference. San Francisco, International Computer Music Association.
+Mitchell, J. D., and R. Lovell. 1995. “Environment for the Interactive Design of Emergent Art.” International Symposium on Electronic Art, Montreal, Canada.
+Mitchell, J. D., and R. Lovell. 1995. “Using Human Movement to Control Activities in Theatrical Environments.” Third International Conference on Dance and Technology. 18-21 May '95, York University, Toronto.
+Mitchell. R., and T., Phillip. 2004. Data made Flesh: Embodying Information. New York: Routledge.
+Modler, P. 1998. “Interactive Control of Musical Structures by Hand Gestures.” In Proceedings of the Fifth Brazilian Symposium on Computer Music, pp. 143-150.
+Modler, P. 2000. “Neural Networks for Mapping Gestures to Sound Synthesis.” In M. Wanderley and M. Battier, eds. Trends in Gestural Control of Music. Ircam - Centre Pompidou.
+Modler, P., and I. Emotion. Proceedings Zannos. 1997. “Emotional Aspects of Gesture Recognition by a Neural Network, using Dedicated Input Devices.” In Kansei, The Technology of Emotion. Proceedings of the AIMI International Workshop, A. Camurri, ed. Genoa:Associazione di Informatica Musicale Italiana, October 3-4, pp. 79-86.
+Moog, R. 1987. “Position and Force Sensors and their Application to Keyboards and Related Controllers.” In AES 5 th International Conference. New York, NY: Audio Engineering Society, pp. 179 ? 181.
+Moog, R. 1993. “Controller oddities.” Keyboard 19(3):44-49.
+Moog, R., and T. Rea. 1990. “Evolution of the Keyboard Interface: The Bosendorfer 290SE Recording Piano and the Moog Multiply-Touch-Sensitive Keyboards.” Computer Music Journal, 14(2):52-60.
+Moore, F. R. 1987. “The Disfunctions of MIDI.” In Proceedings of the 1987 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 256-262.
+Morita, H., H. Watanabe, T. Harada, S. Otheru, and S. Hashimoto. 1990. “Knowledge Information Processing in Conducting Computer Music Performance.” In Proceedings of the 1990 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 332-334.
+Morita, H., S. Otheru, and S. Hashimoto. 1989. “Computer Music System that Follows a Human Conductor.” In Proceedings of the 1989 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 207-210.
+Morrill, D. and P.R. Cook. 1989. “Hardware, Software, and Compositional Tools for a Real-Time Improvised Solo Trumpet Work.” In Proceedings of the 1989 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 211-214.
+Morse, M., (ed). 1997. Hardware, Software, Artware: Confluence of Art and Technology–Art Practice at the ZKM Institute for Visual Media. Karlsruhe: ZKM.
+Moser, M., D. MacLeod, (eds). 1996. Immersed in Technology: Art and Virtual Environments. Cambridge: MIT Press.
+Mulder, A. (1991). Viewing dance as instrumental to music. Interface 4 (2), 15-17. Columbus, Ohio, USA: ACCAD, Ohio state university.
+Mulder, A. (2000). Toward a choice of gestural constraints for instrumental performers. Trends in Gestural Control of Music, 315-335.
+Mulder, A. 1994. “How to Build an Instrumented Glove based on the Powerglove Flex Sensors.” In PCVR Magazine 16:10-14.
+Mulder, A. 1994. “Human Movement Tracking Technology.” Technical report, Simon Fraser University.
+Mulder, A. 1994. “Virtual Musical Instruments: Accessing the Sound Synthesis Universe as a Performer.” In Proceedings of the First Brazilian Symposium on Computer Music, pp. 243-250.
+Mulder, A. 1994. “Virtual musical instruments: Accessing the Sound Synthesis Universe as a Performer.” Proceedings of the first Brazilian Symposium on Computer Music. Caxambu, Minas Gerais: Brazil. pp. 243-250.
+Mulder, A. 1995. “Human Movement Tracking Technology: Resources.” Technical report, Addendum to Technical Report 94-1. Simon Fraser University.
+Mulder, A. 1996. “Getting a Grip on Alternate Controllers: Addressing the Variability of Gestural Expression in Musical Instrument Design.” Leonardo Music Journal 6:33-40.
+Mulder, A. 1996. “Hand Gestures for HCI.” Technical Report 96-1. Simon Fraser University.
+Mulder, A. 1998. Design of Virtual Three-Dimensional Instruments for Sound Control. PhD. thesis. Burnaby, BC, Canada: Simon Fraser University.
+Mulder, A. 1998., “Design of Virtual Three-Dimensional Instruments for Sound Control.”, PhD. thesis. Burnaby, BC, Canada: Simon Fraser University.
+Mulder, A., and S. Fels. 1998. “Sound Sculpting: Manipulating Sound through Virtual Sculpting.” In Proceedings of the 1998 Western Computer Graphics Symposium, pp. 15-23.
+Mulder, A., and S. Fels. 1998. “Sound Sculpting: Performing with Virtual Musical Instruments.” In Proceedings of the Fifth Brazilian Symposium on Computer Music, pp. 151-164
+Mulder, A., S. Fels, and K Mase, 1997. “Mapping Virtual Object Manipulation to Sound Variation.” In T. Rai and R. Basset, eds. IPSJSIG notes 97(122):63-68.
+Mulder, A., S. Fels, and K Mase. 1997. “Empty-Handed Gesture Analysis in Max/FTS.” In Kansei, The Technology of Emotion. Proceedings of the AIMI International Workshop, A. Camurri, ed. Genoa:Associazione di Informatica Musicale Italiana, October 3-4, pp. 87-91.
+Mulder, A., S. Fels, and K. Mase, 1997. “Mapping Virtual Object Manipulation to Sound Variation.” In T. Rai and R. Basset, eds. IPSJ SIG notes 97(122):63-68.
+Mulder, A., S. Fels, and K. Mase. 1997. “Empty-Handed Gesture Analysis in Max/FTS.” In Kansei, The Technology of Emotion. Proceedings of the AIMI International Workshop, A. Camurri, ed. Genoa: Associazione di Informatica Musicale Italiana, October 3-4, pp. 87-91.
+Murray-Browne, T., et. al. 2010. “The Serendiptichord: A Wearable Instrument for Contemporary Dance Performance.” Proceedings of the 128th Audio Engineering Society Convention. New York: Audio Engineering Society. Paper no. 8139.
+Murray, T. 1998. “Digital Incompossibility: The Aesthetics of Interactivity.” distributed on disk in theform of an electronic catalogue to participants of “La Sensibilitat multimedia: il journades sobre ar I multimedia.” Fundacio “la Caixa, ” Barcelona.
+Myatt, T. 2002. “Strategies for Interaction in Construction 3.” Organised Sound, 7(2):157-169.
+Nagashima, Y. 1998. “Biosensor fusion: New Interfaces for Interactive Multimedia Art.” In Proceedings of the 1998 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 129-132.
+Nagashima, Y. 1998. “Biosensorfusion: New Interfaces For Interactive Multimedia Art.” In Proceedings of the International Computer Music Conference, San Francisco: International Computer Music Association, pp. 129-132.
+Nagashima, Y., and T.-I. Tanami. 1999. “It’s SHO time - An Interactive Environment for SHO(Sheng) Performance.” In Proceedings of the 1999 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 32-35.
+Nakamura, A., S., Tabata, T., Ueda, S., Kiyofuji, and Y., Kuno. 2005. “Dance Training System with Active Vibro-Devices and a Mobile Image Display.” in Proc. IEEE/RSJ Int’l Conf. Intelligent Robots and Systems (IROS ’05), pp. 3075-3080
+Naugle, L. 1998. “Digital Dancing.” IEEE Multimedia 5(4):8-12.
+Naugle, L. 1998. “DigitalDancing.” IEEE Multimedia. IEEE Computer Society October-December. 5(4).
+Naugle, L. 1998. “InternetPerformance: Reflections on Dancing in Cyberspace.” Proceedings of the MultimediaTechnology and Applications Conference., pp. 14-18.
+Naugle, L. 1998. “The CassandraProject: In the Mediascape of the Internet.” Proceedings of the 31st AnnualConference Congress on Research in Dance, pp. 101-108.
+Naugle, L. 2002. “DistributedChoreography in a Video-Conference Environment.” Performance Art Journal. 71: 56-61.
+Naugle, L. 2003. “Probing the Barriers to Dance and Other Worlds: Separation and Connection through Internet.” October, Toronto, Canada: Association for Internet Researchers. Panelpresentation with Johannes Birringer and Susan Kozel.
+Naugle, L., 2002. “A Studyof On-line Collaborative Choreography Using Life Forms and Internet Communication.” Ph.D. Dissertation. New York University, Department of Music and Performing Arts Professions, Dance Education Program.
+Naugle, L., and G., Claudia. 1999. “Reconstructing a Late Work of Hanya Holm: Stage Success and ElectronicHeartache.” Proceedings of the Society of Dance History Scholars, pp. 63-67.
+Naugle, L., and G., Iris. 1997. “A University Dance Course in Cyberspace: The Telelearning Experience.” Journal of Distance Education, 12(1).
+Naveda, L., and M. Leman. 2008. “Representation of Samba dance gestures, using a multi-modal analysis approach,” in 5th International Conference on Enactive Interfaces. Pisa, Italy: Edizione ETS.
+Newman, J. 2004. Videogames. London: Routledge.
+Newton, D. and Marshall, M.T. 2011. “The Augmentalist: Enabling Musicians to Develop Augmented Musical Instruments.” in Proceedings of the 5th International Conference on Tangible, Embedded and Embodied Interaction. pp. 249-252.
+Ng, K. 2002. “Sensing and Mapping for Interactive Performance.” Organised Sound, 7(2):191-200.
+Ng, K. C. 2004. “Music via Motion: Transdomain Mapping of Motion and Sound for Interactive Performances,” Pro- ceedings of the IEEE. 92,.
+Ng, K., S. Popat, B. Ong, E. Stefani, K. Popat, and D. Cooper. 2000. “Trans-Domain Mapping: A Real-Time Interactive System for Motion Acquisition and Musical Mapping.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 485-488.
+Ng, K.C. 2004. “Music via Motion: Transdomain Mapping of Motion and Sound for Interactive Performances.” in Proceedings of the IEEE. 92(4):645-655.
+Nichols, C. 2000. “The vBow: A Haptic Musical Controller Human-Computer Interface.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 274-276.
+Nichols, C. 2002. “The vBow: a virtual violin bow controller for mapping gesture to synthesis with haptic feedback.” Organised Sound, 7(2):215-220.
+Nottoli, G., M. Salerno, and G. Constantini. 1998. “A New Interactive Performance System for Real-Time Sound Synthesis.” In Proceedings of the 1998 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 33-36.
+Nyce, D. S. 2004. Linear Position Sensors: Theory and Application. Hoboken, USA: John Wiley and Sons.
+O'Modhrain, M.-S. 1997. “Feel the Music: Narration in Touch and Sound.” In Proceedings of the 1997 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 321-324.
+O'Modhrain, M.-S., C. Chafe. 2000. “The Performer-Instrument Interaction: A Sensory Motor Perspective.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 145-148.
+O'Modhrain, M.-S., S. Serafin, C. Chafe, and J. O. Smith. 2000. “Qualitative and Quantitative Assesment of a Virtual Bowed String Instrument.” In Proceedings of the 2000 International Computer Music Conference. San Francisco, International Computer Music Association, pp. 66-69.
+O'Sullivan, D. and Igoe T. 2004. Physical computing: sensing and controlling the physical world with computers. Thomson Course Technology, Boston.
+O'Sullivan, L., and F. Boland. 2011. “Visualizing and Controlling Sound with Graphical Interfaces.” Proceedings of the 131st Audio Engineering Society Convention. New York: Audio Engineering Society. 41. pp.2-4.
+Obrenovic, Z. 2005. “A flexible system for creating music while interacting with the computer.” in 13th Annual ACM International Conference on Multimedia. New York, NY, USA, pp. 996-1004.
+Oosterling, H. 2001. “Hypo-critical Theatre: Holandia's Intermedial Multiverse.” Performance Research6(3): 61-67.
