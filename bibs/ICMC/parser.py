@@ -104,18 +104,17 @@ def parseAuthors(authorString):
 def toBibtexString(data):
     citationName = data["authors"][0].split(" ")[-1].replace("\'", "-") + data["year"]
 
-    return f'''
-    {f"% {data["comment"]}" if data.get("comment") else ""}
-    @inproceedings{{{citationName},
-        author = {{{" and ".join(data["authors"])}}},
-        title = {{{data["title"]}}},
-        pages = {{{data["pages"]}}},
-        booktitle = {{{data["booktitle"]}}},
-        year = {{{data["year"]}}},
-        publisher = {{{data["publisher"]}}},
-        address = {{{data["address"]}}}{f''',
-        url = {{{data["url"]}}}''' if data.get("url") else ""}
-    }}
+    return f'''{f"% {data["comment"]}" if data.get("comment") else ""}
+@inproceedings{{{citationName},
+    author = {{{" and ".join(data["authors"])}}},
+    title = {{{data["title"]}}},
+    pages = {{{data["pages"]}}},
+    booktitle = {{{data["booktitle"]}}},
+    year = {{{data["year"]}}},
+    publisher = {{{data["publisher"]}}},
+    address = {{{data["address"]}}}{f''',
+    url = {{{data["url"]}}}''' if data.get("url") else ""}
+}}
     '''
 
 ################
