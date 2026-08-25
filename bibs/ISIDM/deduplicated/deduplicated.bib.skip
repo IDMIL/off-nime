@@ -1,0 +1,6073 @@
+@article{smith_allpass_nodate,
+	title = {An allpass approach to digital phasing and flanging},
+	author = {Smith, Julius O}
+}
+
+
+@article{schwabbauer_use_1975,
+	title = {Use of the latent image technique to develop and evaluate problem-solving skills},
+	volume = {41},
+	issn = {0002-9335},
+	abstract = {This project involved designing, developing and evaluating a simulation module, utilizing the latent image technique. The general topic chosen for this simulation was the laboratory characterization of anemias. Target learner populations included medical technology students, physician assistant students, and pathology residents. Members of all three groups participated in the evaluation of the module and responded to its use in varied settings.},
+	language = {eng},
+	number = {12},
+	journal = {The American Journal of Medical Technology},
+	author = {Schwabbauer, M. L.},
+	month = {dec},
+	year = {1975},
+	keywords = {Anemia, Hematuria, Humans, Iowa, Medical Laboratory Science, Models, Psychological, Physician Assistants, Problem Solving, Teaching, Teaching Materials},
+	pages = {457--462}
+}
+
+
+@book{smith_physical_nodate,
+	title = {Physical {Audio} {Signal} {Processing}},
+	url = {https://ccrma.stanford.edu/~jos/pasp},
+	author = {Smith, Julius O.}
+}
+
+
+@article{amatriain_clam_2007,
+	title = {{CLAM}: {A} {Framework} for {Audio} and {Music} {Application} {Development}},
+	volume = {24},
+	number = {1},
+	journal = {IEEE Software},
+	author = {Amatriain, Xavier},
+	year = {2007},
+	pages = {82--85}
+}
+
+
+@inproceedings{anderson_using_1999,
+	address = {Milan, Italy},
+	title = {Using {Music} {Performance} {Software} with {Flexible} {Control} {Interfaces} for {Live} {Performance} by {Severely} {Disabled} {Musicians}},
+	booktitle = {Proceedings of the 25th {EUROMICRO} {Conference}},
+	author = {Anderson, T.},
+	year = {1999},
+	pages = {20--27}
+}
+
+
+@book{assayag_new_2009,
+	address = {Sampzon},
+	title = {New {Computational} {Paradigms} for {Computer} {Music}},
+	publisher = {Delatour},
+	author = {Assayag, Gerard and Gerzso, Andrew},
+	year = {2009}
+}
+
+
+@inproceedings{baalman_sharing_2009,
+	title = {Sharing {Data} in {Collaborative}, {Interactive} {Performances}: the {SenseWorld} {DataNetwork}},
+	booktitle = {{NIME}},
+	author = {Baalman, Marije A. and Smoak, H. C. and Salter, Chris and Malloch, Joseph and Wanderley, Marcelo},
+	year = {2009}
+}
+
+
+@inproceedings{bevilacqua_mnm_2005,
+	title = {{MnM}: a {Max}/{MSP} {Mapping} {Toolbox}},
+	booktitle = {{NIME}},
+	author = {Bevilacqua, Frederic and Muller, R. and Schnell, Norbert},
+	year = {2005},
+	pages = {85--88}
+}
+
+
+@book{boulanger_csound_2004,
+	address = {Cambridge, MA, USA},
+	title = {The {Csound} {Book}: {Perspectives} in {Software} {Synthesis}, {Sound} {Design}, {Signal} {Processing}, and {Programming}},
+	publisher = {MIT Press},
+	author = {Boulanger, Richard},
+	year = {2004}
+}
+
+
+@book{boulanger_audio_2011,
+	address = {Cambridge, Mass},
+	title = {The {Audio} {Programming} {Book}},
+	publisher = {MIT Press},
+	author = {Boulanger, Richard C. and Lazzarini, Victor},
+	year = {2011}
+}
+
+
+@inproceedings{bryan_momu_2010,
+	title = {{MoMu}: {A} {Mobile} {Music} {Toolkit}},
+	booktitle = {{NIME}},
+	author = {Bryan, Nicholas J. and Herrera, Jorge and Oh, Jieun and Wang, Ge},
+	year = {2010},
+	pages = {174--177}
+}
+
+
+@inproceedings{bullock_integra_2011,
+	title = {Integra {Live}: a new graphical user interface for live electronic music},
+	booktitle = {{NIME}},
+	author = {Bullock, Jamie and Beattie, Dave and Turner, Joe},
+	year = {2011},
+	pages = {387--392}
+}
+
+
+@inproceedings{camurri_analysis_2004,
+	title = {Analysis of {Expressive} {Gesture}: {The} {EyesWeb} {Expressive} {Gesture} {Processing} {Library}},
+	booktitle = {Gesture-based {Communication} in {Human}-{Computer} {Interaction}},
+	author = {Camurri, Antonio and Mazzarino, Barbara and Volpe, Gualtiero},
+	year = {2004},
+	pages = {460--467}
+}
+
+
+@article{dechelle_jmax_1999,
+	title = {{jMax}: {An} {Environment} for {Real}-{Time} {Musical} {Applications}},
+	volume = {23},
+	number = {3},
+	journal = {Computer Music Journal},
+	author = {Dechelle, Francois and Borghesi, R. and Cecco, M. D. and Maggi, E. and Rovan, B. and Schnell, N.},
+	year = {1999},
+	pages = {50--58}
+}
+
+
+@article{huron_music_2002,
+	title = {Music {Information} {Processing} {Using} the {Humdrum} {Toolkit}: {Concepts}, {Examples}, and {Lessons}},
+	volume = {26},
+	number = {2},
+	journal = {Computer Music Journal},
+	author = {Huron, David},
+	year = {2002},
+	pages = {11--26}
+}
+
+
+@book{li_music_2012,
+	address = {Boca Raton},
+	title = {Music {Data} {Mining}},
+	publisher = {CRC Press},
+	author = {Li, Tao and Ogihara, Mitsunori and Tzanetakis, George},
+	year = {2012}
+}
+
+
+@inproceedings{magnusson_ixi_2011,
+	address = {Huddersfield, UK},
+	title = {ixi lang: {A} {SuperCollider} {Parasite} for {Live} {Coding}},
+	booktitle = {Proceedings of the {International} {Computer} {Music} {Conference} ({ICMC} 2011)},
+	publisher = {Huddersfield University},
+	author = {Magnusson, Thor},
+	year = {2011},
+	pages = {198--200}
+}
+
+
+@article{manning_evolution_1999,
+	title = {The evolution of interactive graphical control interfaces for music applications},
+	volume = {4},
+	number = {1},
+	journal = {Organised Sound},
+	author = {Manning, Peter D.},
+	year = {1999},
+	pages = {45--59}
+}
+
+
+@inproceedings{overholt_musical_2006,
+	title = {Musical {Interaction} {Design} with the {CREATE} {USB} {Interface}: {Teaching} {HCI} with {CUIs} instead of {GUIs}},
+	booktitle = {Proceedings of the {International} {Computer} {Music} {Conference} ({ICMC}-2006)},
+	author = {Overholt, Dan},
+	year = {2006},
+	pages = {6--11}
+}
+
+
+@article{porcaro_synthbuilder_1998,
+	title = {{SynthBuilder}: {A} {Graphical} {Rapid}-{Prototyping} {Tool} for the {Development} of {Music} {Synthesis} and {Effects} {Patches} on {Multiple} {Platforms}},
+	volume = {22},
+	number = {2},
+	journal = {Computer Music Journal},
+	author = {Porcaro, Nick and Jaffe, David and Scandalis, P. and Smith, J. and Stilson, T. and Van Duyne, S.},
+	year = {1998},
+	pages = {35--43}
+}
+
+
+@article{schumacher_spatial_2010,
+	title = {Spatial {Sound} {Synthesis} in {Computer}-{Aided} {Composition}},
+	volume = {15},
+	number = {3},
+	journal = {Organised Sound},
+	author = {Schumacher, Marion and Bresson, Jean},
+	year = {2010},
+	pages = {271--289}
+}
+
+
+@inproceedings{steiner_hid_2005,
+	title = {[hid] toolkit: {A} {Unified} {Framework} for {Instrument} {Design}},
+	booktitle = {{NIME}},
+	author = {Steiner, Hans},
+	year = {2005},
+	pages = {140--143}
+}
+
+
+@inproceedings{wang_chuck_2003,
+	title = {{ChucK}: {A} {Concurrent}, {On}-the-fly {Audio} {Programming} {Language}},
+	booktitle = {Proceedings of the {International} {Computer} {Music} {Conference} ({ICMC} 2003)},
+	author = {Wang, Ge and Cook, Perry R.},
+	year = {2003},
+	pages = {219--226}
+}
+
+
+@book{wilson_supercollider_2011,
+	address = {Cambridge, Mass},
+	title = {The {SuperCollider} {Book}},
+	publisher = {MIT Press},
+	author = {Wilson, Scott and Collins, Nick and Cottle, David},
+	year = {2011}
+}
+
+
+@mastersthesis{zadel_software_2006,
+	title = {A {Software} {System} for {Laptop} {Performance} and {Improvisation}},
+	school = {McGill University},
+	author = {Zadel, Mark},
+	year = {2006}
+}
+
+
+@inproceedings{zicarelli_extensible_1998,
+	address = {Ann Arbor, Michigan, USA},
+	title = {An {Extensible} {Real}-{Time} {Signal} {Processing} {Environment} for {Max}},
+	booktitle = {Proceedings of the {International} {Computer} {Music} {Conference} ({ICMC}-1998)},
+	author = {Zicarelli, David},
+	year = {1998}
+}
+
+
+@inproceedings{accot_beyond_1997,
+	address = {New York, NY},
+	title = {Beyond {Fitts}' {Law}: {Models} for {Trajectory}-{Based} {HCI} {Tasks}},
+	booktitle = {Proceedings of the 1997 {ACM} {Conference} on {Human} {Factors} in {Computing} {Systems}},
+	publisher = {ACM Press},
+	author = {Accot, J. and Zhai, S.},
+	year = {1997},
+	pages = {295--302}
+}
+
+
+@inproceedings{accot_performance_1999,
+	address = {New York, NY},
+	title = {Performance {Evaluation} of {Input} {Devices} in {Trajectory}-based {Tasks}: {An} {Application} of {The} {Steering} {Law}},
+	booktitle = {Proceedings of the 1999 {ACM} {Conference} on {Human} {Factors} in {Computing} {Systems}},
+	publisher = {ACM Press},
+	author = {Accot, J. and Zhai, S.},
+	year = {1999},
+	pages = {466--472}
+}
+
+
+@inproceedings{accot_scale_2001,
+	address = {New York, NY},
+	title = {Scale {Effects} in {Steering} {Law} {Tasks}},
+	booktitle = {Proceedings of the 2001 {ACM} {Conference} on {Human} {Factors} in {Computing} {Systems}},
+	publisher = {ACM Press},
+	author = {Accot, J. and Zhai, S.},
+	year = {2001},
+	pages = {1--8}
+}
+
+
+@article{akamatsu_movement_1996,
+	title = {Movement {Characteristics} {Using} a {Mouse} with {Tactile} and {Force} {Feedback}},
+	volume = {45},
+	journal = {International Journal of Human-Computer Studies},
+	author = {Akamatsu, M. and MacKenzie, I. S.},
+	year = {1996},
+	pages = {483--493}
+}
+
+
+@article{akamatsu_comparison_1995,
+	title = {A {Comparison} of {Tactile}, {Auditory} and {Visual} {Feedback} in a {Pointing} {Task} using a {Mouse}-{Type} {Device}},
+	volume = {38},
+	journal = {Ergonomics},
+	author = {Akamatsu, M. and MacKenzie, I. S. and Hasbrouc, T.},
+	year = {1995},
+	pages = {816--827}
+}
+
+
+@article{alankus_automated_2005,
+	title = {Automated {Motion} {Synthesis} for {Dancing} {Characters}: {Motion} {Capture} and {Retrieval}},
+	volume = {16},
+	number = {3},
+	journal = {Computer Animation and Virtual Worlds},
+	author = {Alankus, G. A. A. Bayazit,  and B.Bayazit, O.},
+	year = {2005},
+	pages = {4}
+}
+
+
+@book{albertini_technological_1999,
+	address = {Los Angeles},
+	title = {Technological {Rituals}. {Stories} from the {Annenberg} {Dialogues}},
+	publisher = {Annenberg Center for Communications},
+	author = {Albertini, R.},
+	year = {1999}
+}
+
+
+@article{alexandraki_sum_nodate,
+	title = {Sum 2010. “{Exploring} {New} {Perspectives} in {Network} {Music} {Performance}: {The} {DIAMOUSES} {Framework}},
+	volume = {34},
+	journal = {Computer Music Journal},
+	author = {Alexandraki, C. and Akoumanakis, D.},
+	pages = {66--83}
+}
+
+
+@inproceedings{almeida_methodologies_1996,
+	title = {Methodologies for {Design} and {Evaluation} of {Interactive} {Musical} {Interfaces}},
+	booktitle = {Proceedings of the 3rd {Brazilian} {Symposium} on {Computer} {Music}},
+	author = {Almeida, A. G.},
+	year = {1996},
+	pages = {68--73}
+}
+
+
+@article{andean_ecological_2011,
+	title = {Ecological {Psychology} and the {Electroacoustic} {Concert} {Context}},
+	volume = {16},
+	journal = {Organised Sound},
+	author = {Andean, J.},
+	month = {aug},
+	year = {2011},
+	pages = {125--133}
+}
+
+
+@article{anderson_microsound_2008,
+	title = {Microsound in public space: compositional methods to enhance site-specific sound},
+	volume = {13},
+	journal = {Organised Sound},
+	author = {Anderson, S.},
+	month = {apr},
+	year = {2008},
+	pages = {51--60}
+}
+
+
+@article{anderton_steim_1994,
+	title = {{STEIM}: {In} the {Land} of {Alternate} {Controllers}},
+	volume = {20},
+	number = {8},
+	journal = {Keyboard},
+	author = {Anderton, C.},
+	year = {1994},
+	pages = {54--62}
+}
+
+
+@book{appleton_21st-century_1989,
+	address = {New York},
+	title = {21st-{Century} {Musical} {Instruments}: {Hardware} and {Software}},
+	publisher = {Institute for Studies in American Music, Brooklyn College of the City University of New York},
+	author = {Appleton, J.},
+	year = {1989}
+}
+
+
+@incollection{appleton_composer_1990,
+	address = {(with audio excerpts on the accompanying CD},
+	title = {Composer pour de nouveaux instruments},
+	booktitle = {Reflections of a former perfomer of electroacoustic music.},
+	publisher = {in Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review 18(3)},
+	author = {Appleton, Jon},
+	editor = {électroniques, Contrechamps n¡ 11-Musiques and Appleton, Editions l'âge d'homme and J. 1999},
+	year = {1990},
+	pages = {5--8}
+}
+
+
+@misc{arfib_music_2000,
+	title = {From '{Music} {V}' to 'creative gestures in computer music'},
+	url = {http://gsd.ime.usp.br/sbcm/2000/papers/arfib.pd},
+	author = {Arfib, D. and Kessous, L.},
+	year = {2000}
+}
+
+
+@article{arfib_strategies_2002,
+	title = {Strategies of {Mapping} between {Gesture} data and {Synthesis} {Model} {Parameters} using {Perceptual} {Spaces}},
+	volume = {7},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Arfib, D. and Couturier, J. M. and Kessous, L. and Verfaille, V.},
+	year = {2002},
+	pages = {127--144}
+}
+
+
+@book{arnold_deanimated_2003,
+	address = {Wien/New York},
+	title = {Deanimated. {Matt} {Gerald} and {Thomas} {Miessgang} (eds.)},
+	publisher = {Springer},
+	author = {Arnold, A.},
+	year = {2003}
+}
+
+
+@article{artaud_review_1998,
+	title = {Review, “{Big} {Briar} {Wavefront}. {Ethervox} and {Travel} case theremins provide gestural {MIDI} control.”},
+	volume = {14},
+	number = {5},
+	journal = {Electronic Musician},
+	author = {Artaud, A.},
+	year = {1998},
+	pages = {120--128}
+}
+
+
+@article{arveiller_computer_1976,
+	title = {A computer {Music} {Repertory}},
+	volume = {4 and Artinfo/musinfo -25, Groupe art et informatique de Vincennes},
+	journal = {Paris, Como (Italy): I quaderni dell'autunno musicale},
+	author = {Arveiller, Jacques and Battier, Marc and Englert, Giuseppe},
+	year = {1976},
+	pages = {23--24}
+}
+
+
+@book{ascott_art_1984,
+	address = {Vancouver},
+	title = {Art and {Telematics}},
+	publisher = {The Western Front},
+	author = {Ascott, R.},
+	editor = {Telecommunications, Art and Grundmann, Heidi},
+	year = {1984}
+}
+
+
+@book{ascott_art_1998,
+	title = {Art \& {Telematics}: {Toward} the {Construction} of {New} {Aesthetics}},
+	publisher = {NTT Publishing Co},
+	author = {Ascott, R.},
+	year = {1998}
+}
+
+
+@book{ascott_telematic_2003,
+	address = {Berkeley},
+	title = {Telematic {Embrace}: {Visionary} {Theories} of {Art}, {Technology} and {Consciousness}. {Edited} and with an essay by {Edward} {A}. {Shanken}},
+	publisher = {Univ. of California},
+	author = {Ascott, R.},
+	year = {2003}
+}
+
+
+@book{ascott_reframing_1999,
+	address = {Portland},
+	title = {Reframing {Consciousness}: {Art}, {Mind} and {Technology}},
+	publisher = {Intellect Books},
+	editor = {Ascott, R.},
+	year = {1999}
+}
+
+
+@inproceedings{auer_3d_1996,
+	title = {{3D} {Position} {Signal} {Acquisition} {System} with {Application} in {Real}-{Time} {Processing}},
+	booktitle = {Proceedings of the {ICSPAT} '96 -{International} {Congress} on {Signal} {Processing} {Applications} {Technology}},
+	author = {Auer, V. and Maes, M. M. and Bonfim, M. C. and Wanderley, M. M. and Lamar, M. V.},
+	year = {1996},
+	pages = {505--509}
+}
+
+
+@inproceedings{aylward_sensemble_2006,
+	address = {Paris},
+	title = {Sensemble: {A} {Wireless}, {Compact}, {Multi}-{User} {Sensor} {System} for {Interactive} {Dance}},
+	booktitle = {Proceedings of 2006 {Conference} on {New} {Interfaces} for {Musical} {Expression}},
+	publisher = {France},
+	author = {Aylward, R. and Paradiso, J.},
+	year = {2006},
+	pages = {134--139}
+}
+
+
+@inproceedings{aylward_compact_2007,
+	title = {A compact, high-speed, wearable sensor network for biomotion capture and interactive media},
+	booktitle = {Proceedings of the 6th international conference on {Information} processing in sensor networks},
+	author = {Aylward, R. and Paradiso, J.},
+	year = {2007}
+}
+
+
+@inproceedings{baalman_d_2010,
+	address = {The Netherlands},
+	title = {d {Belleval}},
+	booktitle = {Sense/{Stage}- {Low} {Cost}, {Open} {Source} {Wireless} {Sensor} {Infrastructure} for {Liver} {Performance} and {Interactive}, {Real}-{Time} {Environments}.},
+	publisher = {Proceedings of Linux Audio Conference (LAC 2010). Utrect},
+	author = {Baalman, M. A. V.},
+	editor = {Salter, C. L. and Malloch, J. and Thibodeau, J. and Wanderley, M.},
+	year = {2010},
+	pages = {242--249}
+}
+
+
+@inproceedings{baba_virtualphilharmony_2010,
+	title = {“{VirtualPhilharmony}”: {A} {Conducting} {System} with {Heuristics} of {Conducting} an {Orchestra}},
+	booktitle = {Proceedings of the 2010 {Conference} on {New} {Interfaces} for {Musical} {Expression} pp. 263},
+	author = {Baba, T. and Hashida, M. and Katayose, H.},
+	year = {2010}
+}
+
+
+@book{baecker_readings_1987,
+	address = {San Mateo, Calif.},
+	title = {Readings in {Human}-{Computer} {Interaction}: {A} {Multidisciplinary} {Approach}},
+	publisher = {Morgan-Kauffmann Publishers, Inc},
+	author = {Baecker, R. M. and Buxton, W. A. S.},
+	year = {1987}
+}
+
+
+@unpublished{baecker_readings_1995,
+	title = {Readings in {Human}-{Computer} {Interaction}: {Toward} the {Year} 2000. {San} {Mateo}, {Calif}.:{Morgan}-{Kauffmann} {Publishers}, {Inc}},
+	author = {Baecker, R. M. and Grudin, J. and Buxton, W. A. S. and Greenberg, S.},
+	year = {1995}
+}
+
+
+@inproceedings{bahn_physicality_2001,
+	address = {San Francisco},
+	title = {Physicality and {Feedback}: {A} {Focus} on the {Body} in the {Performance} of {Electronic} {Music}},
+	booktitle = {Proceedings of the 2001 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Bahn, C. and Hahn, T. and Trueman, D.},
+	year = {2001}
+}
+
+
+@article{bailey_applications_1993,
+	title = {Applications of the {Phase} {Vocoder} {Interface} in the {Control} of {Real}-{Time} {Electronic} {Musical} {Instruments}},
+	volume = {22},
+	journal = {Interface},
+	author = {Bailey, N. J. and Purvis, A. and Bowler, I. W. and Manning, P. D.},
+	year = {1993},
+	pages = {259--275}
+}
+
+
+@inproceedings{bakogianni_teaching_2007,
+	title = {Teaching {Traditional} {Dance} {Using} {E}-{Learning} {Tools}: {Experience} from the {WebDANCE} {Project}},
+	booktitle = {Proc. 21st {World} {Congress} on {Dance} {Research}},
+	author = {Bakogianni, J. S. E. and Kavakli, V. and Karkou, M.Tsakogianni},
+	year = {2007}
+}
+
+
+@inproceedings{balakrishnan_performance_1997,
+	title = {Performance {Differences} in the {Fingers}, {Wrist} and {Forearm} in {Computer} {Input} {Control}},
+	booktitle = {Proceedings of the {CHI}'97 {Conference} on {Human} factors in {Computing} {Systems}, {Association} of {Computer} {Machinery}},
+	author = {Balakrishnan, R. and MacKenzie, I. S.},
+	year = {1997},
+	pages = {303--310}
+}
+
+
+@article{balin_gestures_2011,
+	title = {Gestures to {Operate} {DAW} software},
+	volume = {130th Audio Engineering Society Convention. New York: Audio Engineering Society. Paper no. 8456},
+	journal = {Proceeding of the},
+	author = {Balin, W. and Lovischach, J.},
+	year = {2011}
+}
+
+
+@book{barabasi_linked_2002,
+	address = {Cambridge, MA.},
+	title = {Linked: {The} {New} {Science} of {Networks}},
+	publisher = {Perseus Publ},
+	author = {Barabási, A.},
+	year = {2002}
+}
+
+
+@inproceedings{barbosa_public_2002,
+	title = {Public sound objects: {A} shared musical space on the web},
+	booktitle = {Second {International} {Conference} on {Web} {Delivering} of {Music}, {Proceedings}},
+	author = {Barbosa, A. and Kaltenbrunner, M.},
+	year = {2002}
+}
+
+
+@inproceedings{barfield_sense_nodate,
+	title = {The sense of presence within virtual environment: {A} conceptual framework},
+	booktitle = {Proceedings of the {International} {Conference} on {Human}-computer {Interaction}, 5, 91993)},
+	author = {Barfield, W. and Weghorst, S.},
+	pages = {699--704}
+}
+
+
+@inproceedings{barrass_personify_1995,
+	address = {Melbourne - University of Melbourne},
+	title = {Personify: {A} {Toolkit} for {Perceptually} {Meaningful} {Sonification}},
+	booktitle = {Proceedings of the {Australian} {Conference} on {Computer} {Music} ({ACCM}-95)},
+	publisher = {Australasian Computer Music Association},
+	author = {Barrass, S.},
+	year = {1995}
+}
+
+
+@inproceedings{bates_architecture_1992,
+	address = {Italy},
+	title = {An architecture for action, emotion, and social behaviour},
+	booktitle = {Proceedings of the {Fourth} {European} {Workshop} on {Modeling} {Autonomous} {Agents} in a {Multi}-{Agent} {World}, {S}},
+	publisher = {Martino al Cimino},
+	author = {Bates, J. and Loyall, A. Bryan and Reilly, W. Scott},
+	year = {1992}
+}
+
+
+@phdthesis{battier_musiques_1981,
+	type = {{PhD} {Thesis}},
+	title = {Les musiques électroacoustiques et l'environnement informatique},
+	school = {University of Paris X},
+	author = {Battier, M.},
+	year = {1981}
+}
+
+
+@incollection{battier_entre_1995,
+	address = {Sainte-Foy (Québec},
+	title = {Entre l'idée et l'œuvre. {Parcours} de l'informatique musicale},
+	booktitle = {Esthétique des arts médiatiques, tome 1, {Louise} {Poissant}},
+	publisher = {l'Université du Québec},
+	author = {Battier, M.},
+	editor = {de, Presses},
+	year = {1995},
+	pages = {319--334}
+}
+
+
+@article{noauthor_aesthetics_1999,
+	title = {Aesthetics of {Live} {Electronic} {Music}},
+	volume = {18},
+	number = {3},
+	journal = {Contemporary Music Review},
+	year = {1999}
+}
+
+
+@book{baumgartel_netart_2001,
+	address = {Nürnberg},
+	title = {net.art 2.0. new materials towards net art},
+	publisher = {Verlag für moderneKunst},
+	editor = {Baumgärtel, T.},
+	year = {2001}
+}
+
+
+@article{bayliss_new_2005,
+	title = {New shapes on the dance floor: influencing ambient sound and vision with computationally augmented poi},
+	volume = {1},
+	number = {1},
+	journal = {International Journal of Performance Arts and Digital Media},
+	author = {Bayliss, A. J. Sheridan,  and {N.Villar}},
+	year = {2005},
+	pages = {67--82}
+}
+
+
+@article{bayreuther_contemporary_2007,
+	title = {Contemporary composition as musical disciplina - {The} example of sound installations of {Robin} {Minard}},
+	volume = {22},
+	journal = {Musiktheorie},
+	author = {Bayreuther, R.},
+	year = {2007},
+	pages = {357--364}
+}
+
+
+@article{belet_live_2003,
+	title = {Live performance interaction for humans and machines in the early twenty-first century: {One} composer's aesthetics for composition and performance practice},
+	volume = {8},
+	journal = {Organised sound: An international journal of music technology},
+	author = {Belet, B.},
+	year = {2003},
+	pages = {305}
+}
+
+
+@inproceedings{bevilacqua_virtual_2001,
+	address = {CA},
+	title = {Virtual dance and music environment using motion capture},
+	booktitle = {{IEEE} {Multimedia} {Technology} and {Applications} {Conference} {Proceedings}},
+	publisher = {Irvine},
+	author = {Bevilacqua, F. and Naugle, L. and Valverde, I.},
+	year = {2001}
+}
+
+
+@unpublished{biocca_presence_nodate,
+	title = {Presence of mind in virtual environments. {Unpublished} book manuscript: {Media} {Interface} and {Network} {Design} {Lab}, {Michigan} {State} {University}, {East} {Lansing}, {MI}},
+	author = {Biocca, F.}
+}
+
+
+@article{biocca_cyborgs_1997,
+	title = {Cyborg's dilemma: {Progressive} embodiment in virtual environments},
+	journal = {Journal of Computer Mediated-Communication},
+	author = {Biocca, F.},
+	year = {1997}
+}
+
+
+@incollection{biocca_immersive_1995,
+	address = {Hillsdale, NJ},
+	title = {Immersive virtual reality technology},
+	booktitle = {Communication in the age of virtual reality},
+	publisher = {Lawrence Erlbaum and Associates},
+	author = {Biocca, F. and {B.Delaney}},
+	editor = {Biocca, F. and Levy, M.},
+	year = {1995}
+}
+
+
+@incollection{biocca_vision_1995,
+	address = {Hillsdale, NJ},
+	title = {The vision of virtual reality},
+	booktitle = {Communication in the age of virtual reality},
+	publisher = {Lawrence Erlbaum Associates, Inc},
+	author = {Biocca, F. T. Kim,  and {M.Levy}},
+	editor = {Biocca, F. and Levy, M.},
+	year = {1995},
+	pages = {3--14}
+}
+
+
+@mastersthesis{birnbaum_musical_2007,
+	title = {Musical vibrotactile feedback},
+	school = {in Music Technology. McGill University},
+	author = {Birnbaum, D.},
+	year = {2007}
+}
+
+
+@book{birringer_media_1998,
+	address = {Baltimore},
+	title = {Media and {Performance}: along the border},
+	publisher = {Johns Hopkins},
+	author = {Birringer, J.},
+	year = {1998}
+}
+
+
+@article{birringer_contemporary_1999,
+	title = {Contemporary {Performance}/{Technology}},
+	volume = {61},
+	number = {4},
+	journal = {Theatre Journal},
+	author = {Birringer, J.},
+	year = {1999},
+	pages = {361--81}
+}
+
+
+@book{birringer_dance_2001,
+	address = {Congress of Research in Dance},
+	title = {Dance and {New} {Environments}},
+	publisher = {Newsletter},
+	author = {Birringer, J.},
+	year = {2001}
+}
+
+
+@article{birringer_intelligent_2001,
+	title = {The intelligent stage},
+	volume = {6},
+	number = {2},
+	journal = {Performance Research},
+	author = {Birringer, J.},
+	year = {2001},
+	pages = {116--22}
+}
+
+
+@incollection{birringer_experimentelle_2002,
+	address = {Hamburg},
+	title = {Experimentelle {Tanzmedien}, {Interaktive} {Systeme}},
+	booktitle = {der {Gesellschaft} für {Tanzforschung} 2002, {Christa} {Zipprich}/{Gabriele} {Klein}},
+	publisher = {LIT Verlag},
+	author = {Birringer, J.},
+	editor = {Tanz, Theorie and Text, Jahrbuch},
+	year = {2002},
+	pages = {477--98}
+}
+
+
+@article{birringer_performance_2003,
+	title = {Performance {Systems}},
+	volume = {17},
+	journal = {South African Theatre Journal},
+	author = {Birringer, J.},
+	year = {2003},
+	pages = {79--113}
+}
+
+
+@article{birringer_dance_2004,
+	title = {Dance and {Interactivity}},
+	volume = {336},
+	number = {1},
+	journal = {Dance Research Journal},
+	author = {Birringer, J.},
+	year = {2004},
+	pages = {88--111}
+}
+
+
+@incollection{birringer_dertransmediale_2004,
+	address = {Hamburg},
+	title = {Dertransmediale {Tanz}},
+	booktitle = {Tanz intra- und interkulturel l. {Jahrbuch} der {Gesellschaft} für {Tanzforschung}, hg. {Krassimira} {Kurschkova}, {Nele} {Lipp}},
+	publisher = {LIT Verlag (forthcoming)},
+	author = {Birringer, J.},
+	editor = {Wo, Tanz Anders},
+	year = {2004}
+}
+
+
+@book{birringer_klaus_2004,
+	address = {Saarbrücken},
+	title = {Klaus {Behringer}, {Uschi} {Schmidt}-{Lenhard}, (eds)., {Wechselwirkung}: {Internationales} {Interaktionslabor}},
+	publisher = {SDV},
+	author = {Birringer, J.},
+	year = {2004}
+}
+
+
+@article{birringer_transspacial_2004,
+	title = {Transspacial {Light} and {Virtual} {Choreography}},
+	volume = {6},
+	journal = {ballettanz},
+	author = {Birringer, J.},
+	year = {2004},
+	pages = {30--32}
+}
+
+
+@incollection{birringer_new_nodate,
+	address = {Frankfurt},
+	title = {New {Environments} for {Interactive} {Dance}},
+	booktitle = {Nigel {Stewart} and {Gabriella} {Giannachi}},
+	publisher = {Peter Lang (in press},
+	author = {Birringer, J.},
+	editor = {Nature, Between}
+}
+
+
+@article{birringer_spletna_nodate,
+	title = {Spletna {Okolja} za {Interaktivni} {Ples}},
+	volume = {18},
+	journal = {/Networked Environments for Interactive Dance.“Maska},
+	author = {Birringer, J.},
+	pages = {68--78}
+}
+
+
+@article{noauthor_dance_2002,
+	title = {Dance and {Digital} {Media}},
+	volume = {issue prepared and edited for Performing Arts Journal70, introduction},
+	journal = {special},
+	year = {2002},
+	pages = {84--93}
+}
+
+
+@inproceedings{birringer_connected_2011,
+	address = {Congress On Research in Dance Conference Proceedings},
+	title = {Connected {Dance}: {Distributed} {Performance} across {Time} {Zones}},
+	booktitle = {hypertext essay with {Ellen} {Bromberg}, {Naomi} {Jackson}, {John} {Mitchell}, {Lisa} {Naugle}, and {Doug} {Rosenberg}, in {Transmigratory} {Moves}/{Dance} in {Global} {Circulation}},
+	publisher = {New York University},
+	editor = {Birringer, J.},
+	year = {2011},
+	pages = {51--77}
+}
+
+
+@inproceedings{black_foley_2010,
+	address = {New York},
+	title = {Foley {Sonic}: {Placing} {Sounds} on a {Timeline} {Through} {Gestures}},
+	booktitle = {Proceedings of the 128th {Audio} {Engineering} {Society} {Conference}},
+	publisher = {Audio Engineering Society},
+	author = {Black, D. and Gohlke, K. and Lovischach, J.},
+	year = {2010}
+}
+
+
+@inproceedings{blaine_jam-o-drum_2000,
+	address = {New York, NY},
+	title = {The {Jam}-{O}-{Drum} {Interactive} {Music} {System}: {A} {Study} in {Interaction} {Design}},
+	booktitle = {Proceedings of the {ACM} {Symposium} on {Designing} {Interactive} {Systems}},
+	publisher = {ACM Press},
+	author = {Blaine, T. and Perkis, T.},
+	year = {2000},
+	pages = {165--173}
+}
+
+
+@techreport{bobick_movement_1997,
+	title = {Movement, {Motion}},
+	author = {Bobick, A.},
+	year = {1997}
+}
+
+
+@inproceedings{boie_radio_1989,
+	address = {San Francisco},
+	title = {The {Radio} {Drum} as a {Synthesizer} {Controller}},
+	booktitle = {Proceedings of the 1989 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Boie, R. and Mathews, M. and Schloss, A.},
+	year = {1989},
+	pages = {42--45}
+}
+
+
+@book{bolter_remediation_1999,
+	address = {Cambridge},
+	title = {Remediation: {Understanding} {New} {Media}},
+	publisher = {MIT Press},
+	author = {Bolter, J. D. and {R.Grusin}},
+	year = {1999}
+}
+
+
+@article{boltz_audiovisual_2009,
+	title = {{AUDIOVISUAL} {INTERACTIONS}: {THE} {IMPACT} {OF} {VISUAL} {INFORMATION} {ON} {MUSIC} {PERCEPTION} {AND} {MEMORY}},
+	volume = {27},
+	journal = {Music Perception},
+	author = {Boltz, M. G. and Ebendorf, B. and Field, B.},
+	month = {sep},
+	year = {2009},
+	pages = {43--59}
+}
+
+
+@article{bongers_tactual_1998,
+	title = {Tactual {Display} of {Sound} {Properties} in {Electronic} {Musical} {Instruments}},
+	volume = {18},
+	number = {3},
+	journal = {Displays},
+	author = {Bongers, B.},
+	year = {1998},
+	pages = {129--133}
+}
+
+
+@inproceedings{bongers_exploring_1999,
+	title = {Exploring {Novel} {Ways} of {Interaction} in {Musical} {Performance}},
+	booktitle = {Proceedings of the {Creativity} \& {Cognition} {Conference}},
+	author = {Bongers, B.},
+	year = {1999},
+	pages = {76--81}
+}
+
+
+@incollection{bongers_physical_2000,
+	address = {Centre Pompidou},
+	title = {Physical {Interfaces} in the {Electronic} {Arts}. {Interaction} {Theory} and {Interfacing} {Techniques} for {Real}-time {Performance}},
+	booktitle = {Trends in {Gestural} {Control} of {Music}},
+	publisher = {Ircam},
+	author = {Bongers, B.},
+	editor = {Wanderley, M. and Battier, M.},
+	year = {2000}
+}
+
+
+@inproceedings{borchers_worldbeat_1997,
+	title = {{WorldBeat}: {Designing} a {Baton}-{Based} {Interface} for an {Interactive} {Music} {Exhibit}},
+	booktitle = {Proceedings of the {CHI}'97 {Conference} on {Human} {Factors} in {Computing} {Systems}},
+	publisher = {Association for Computer Machinery},
+	author = {Borchers, J. O.},
+	year = {1997},
+	pages = {131--138}
+}
+
+
+@article{borchers_design_1998,
+	title = {Design {Patterns} for {Interactive} {Musical} {Systems}},
+	volume = {5},
+	number = {3},
+	journal = {IEEE Multimedia},
+	author = {Borchers, J. O. and Muhlheuser, M.},
+	year = {1998},
+	pages = {36--46}
+}
+
+
+@inproceedings{boulanger_developing_2000,
+	address = {San Francisco},
+	title = {Developing a {Windows} and {Macintosh} {Graphical} {User} {Interface} for the {Mathews} {Radio}-{Baton} {System}},
+	booktitle = {Proceedings of the 2000 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Boulanger, R. and Choi, Y. J. and Castelli, L.},
+	year = {2000},
+	pages = {547--550}
+}
+
+
+@article{boulez_computers_1988,
+	title = {Computers in music},
+	volume = {258},
+	number = {4},
+	journal = {Scientific American},
+	author = {Boulez, P. and Gerzso, A.},
+	month = {apr},
+	year = {1988},
+	pages = {26--32}
+}
+
+
+@book{bouwer_machine_2000,
+	address = {Rotterdam},
+	title = {Machine {Times}. {V2} {Organisation} (ed.)},
+	publisher = {V2\_ and NAI Publishers},
+	editor = {Bouwer, J.},
+	year = {2000}
+}
+
+
+@inproceedings{bowler_mapping_1990,
+	address = {San Francisco},
+	title = {On {Mapping} {N} {Articulation} onto {M} {Synthesiser}-{Control} {Parameters}},
+	booktitle = {Proceedings of the 1990 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Bowler, I. and Purvis, A. and Manning, P. and Bailey, N.},
+	year = {1990},
+	pages = {181--184}
+}
+
+
+@article{bown_understanding_2009,
+	title = {Understanding {Interaction} in {Contemporary} {Digital} {Music}: from instruments to behavioural objects},
+	volume = {14},
+	journal = {Organised Sound},
+	author = {Bown, O. and Eldridge, A. and McCormack, J.},
+	month = {aug},
+	year = {2009},
+	pages = {188--196}
+}
+
+
+@book{brandstetter_remembering_2000,
+	address = {New York},
+	title = {{ReMembering} the {Body}},
+	publisher = {Ostfildern: Cantz,(USA: D. A. P},
+	author = {Brandstetter, G. and Voelkers, H.},
+	year = {2000}
+}
+
+
+@article{bresson_representation_2010,
+	title = {Représentation des données de contrôle pour la spatialisation dans {OpenMusic}},
+	volume = {2010},
+	journal = {Actes des Journées d'Informatique Musicale, Rennes, France},
+	author = {Bresson, J. and Agon, C. and Schumacher, M.},
+	year = {2010}
+}
+
+
+@book{brickwood_new_1999,
+	address = {Amsterdam},
+	title = {New {Media} {Culture} in {Europe}},
+	publisher = {DeBalle and the Virtual Platform},
+	author = {Brickwood, C. and {others}},
+	year = {1999}
+}
+
+
+@article{brightman_computer_1990,
+	title = {Computer {Dancemakers}},
+	volume = {23},
+	number = {4},
+	journal = {Leonardo},
+	author = {Brightman, P.},
+	year = {1990},
+	pages = {393--396}
+}
+
+
+@article{bromberg_adapt_2004,
+	title = {{ADaPT}: {Telepresent} {Artistic} {Collaborations}},
+	volume = {21},
+	number = {1},
+	journal = {Interdisciplinary Humanities},
+	author = {Bromberg, E. and {J.Birringer}},
+	year = {2004},
+	pages = {87--93}
+}
+
+
+@article{bromberg_adapt_2002,
+	title = {{ADAPT}: {Telepresent} {Artistic} {Collaborations}},
+	volume = {13},
+	journal = {Centerfor High Performance Computing Newsletter},
+	author = {Bromberg, E. and Birringer, J.},
+	year = {2002},
+	pages = {2}
+}
+
+
+@unpublished{bromberg_telemediatedart_nodate,
+	title = {{TelemediatedArt}: {The} {Utah} experience with the {ADaPT} ({Association} for {Dance} and {PerformanceTelematics}) {Collaboration}},
+	author = {Bromberg, E. J. and Birringer, J. and Miklavcic, D. and Zemmels, J. Facelli}
+}
+
+
+@unpublished{bromwich_single_1995,
+	title = {A {Single} {Performer} {Controlled} {Interface} for {Electronic} {Dance}/{Music} {Theatre}.“ {Poster} presented at 1995 {International} {Computer} {Music} {Conference} '{Digital} {Playgrounds}', {Banff} {Centre}, {Canada}. {Paper} published in {ICMC} proceedings},
+	author = {Bromwich, M.},
+	year = {1995}
+}
+
+
+@book{brouwer_information_2003,
+	address = {Rotterdam},
+	title = {Information is {Alive} - {Art} and {Theory} on {Archiving} and {Retrieving} {Data}},
+	publisher = {V2\_Publishing/NAI Publishers},
+	author = {Brouwer, J. A. Mulder,  and {S.Charlton}},
+	year = {2003}
+}
+
+
+@article{brown_interacting_2009,
+	title = {Interacting with {Generative} {Music} through {Live} {Coding}},
+	volume = {28},
+	journal = {Contemporary Music Review},
+	author = {Brown, A. R. and Sorensen, A.},
+	year = {2009},
+	pages = {17--29}
+}
+
+
+@article{brown_being_2011,
+	title = {Being {Among} the {Living}: {On} the interrelations between performers, witnesses and environment in {As} {I} {Have} {Now} {Memoyre}},
+	volume = {16},
+	journal = {Organised Sound},
+	author = {Brown, N. G.},
+	year = {2011},
+	pages = {176--183}
+}
+
+
+@inproceedings{brum_medeiros_evaluating_2011,
+	title = {Evaluating of sensor technologies for {The} {Rulers}, a kalimba-like {Digital} {Musical} {Instrument}},
+	booktitle = {Proceedings of the {Sound} and {Music} {Computing} {Conference} ({SMC}-2011)},
+	author = {Brum Medeiros, C. and Wanderley, M. M.},
+	year = {2011}
+}
+
+
+@misc{buchla_lightning_nodate,
+	title = {Lightning {II} {MIDI} {Controller}},
+	url = {http://www.buchla.com/},
+	author = {Buchla, D.}
+}
+
+
+@incollection{buchla_round_2000,
+	address = {Centre Pompidou},
+	title = {Round {Table}},
+	booktitle = {Trends in {Gestural} {Control} of {Music}},
+	publisher = {]] Ircam},
+	author = {Buchla, D. and Buxton, W. and Chafe, C. and Machover, T. and Matthews, M. V. and Moog, R. and Risset, J.-C. and Sonami, L. and Waisvisz, M.},
+	editor = {Wanderley, M. M. and Battier, M.},
+	year = {2000}
+}
+
+
+@inproceedings{buck_niehaus_2004,
+	title = {Niehaus and {A}},
+	booktitle = {{ADAPT} ({The} {Association} for {Dance} and {PerformanceTelematics})},
+	publisher = {Hawaii InternationalConference on Arts and Humanities},
+	author = {Buck, B. G. and Miller, A. J.},
+	editor = {{Seech}},
+	year = {2004}
+}
+
+
+@book{buescher_interaction_1998,
+	title = {Interaction and {Presence} in {Shared} {Electronic} {Environments} ({Fieldwork} at {ZKM})},
+	publisher = {Lancaster University},
+	author = {Buescher, M. J. O'Brien and {J.Hughes}},
+	year = {1998}
+}
+
+
+@book{burdea_force_1996,
+	title = {Force and {Touch} {Feedback} for {Virtual} {Reality}},
+	publisher = {John Wiley and Sons},
+	author = {Burdea, G.},
+	year = {1996}
+}
+
+
+@book{burdea_virtual_2003,
+	edition = {2nd},
+	title = {Virtual {Reality} {Technology}},
+	publisher = {John Wiley and Sons},
+	author = {Burdea, G. and Coiffet, P.},
+	year = {2003}
+}
+
+
+@article{burtner_metasaxophone_2002,
+	title = {The {Metasaxophone}: concept, implementation, and mapping strategies for a new computer music instrument},
+	volume = {7},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Burtner, M.},
+	year = {2002},
+	pages = {201--213}
+}
+
+
+@book{buxton_computer_1977,
+	address = {Ottawa},
+	title = {Computer {Music} 1976/77: a {Directory} to {Current} {Work}},
+	publisher = {Canadian Commission for UNESCO},
+	author = {Buxton, W.},
+	year = {1977}
+}
+
+
+@inproceedings{buxton_computer-based_1979,
+	address = {New York},
+	title = {A {Computer}-{Based} {System} for the {Performance} of {Electroacoustic} {Music}},
+	booktitle = {Proceedings of the 64th {Annual} {Audio} {Engineering} {Society} {Convention}},
+	publisher = {Audio Engineering Society},
+	author = {Buxton, W. and {others}},
+	year = {1979}
+}
+
+
+@inproceedings{buxton_chuncking_1986,
+	address = {Calif.},
+	title = {Chuncking and {Phrasing} and the {Design} of {Human}-{Computer} {Dialogues}},
+	booktitle = {Information {Processing} `86, {Proceedings} of the {IFIP} 10th {World} {Computer} {Congress}, {North} {Holland}, pp. 475-480. {Reprinted} in {R}. {Baecker}, {J}. {Grudin}, {W}. {A}. {S}. {Buxton}, and {S}. {Greenberg}, eds. {Human}-{Computer} {Interaction}},
+	publisher = {Morgan Kaufmann Publishers Inc},
+	author = {Buxton, W. A. S.},
+	editor = {{InH}},
+	year = {1986},
+	pages = {494--499}
+}
+
+
+@incollection{buxton_theres_1986,
+	address = {Hillsdale, NJ},
+	title = {There's {More} {Interaction} than {Meets} the {Eye}: {Some} {Issues} in {Manual} {Input}},
+	booktitle = {User {Centered} {System} {Design}},
+	publisher = {Lawrence Erlbaum Associates, pp. 319-337. Reprinted in R. Baecker and W. A. S. Buxton, eds. Readings in Human-Computer Interaction: A Multidisciplinary Approach. San Mateo, Calif.: Morgan Kaufmann Publishers Inc},
+	author = {Buxton, W. A. S.},
+	editor = {Norman, D. A. and Draper, S. W.},
+	year = {1986},
+	pages = {366--375}
+}
+
+
+@incollection{buxton_haptic_1987,
+	address = {San Mateo CA},
+	title = {The {Haptic} {Channel}},
+	booktitle = {Baecker and {Buxton}},
+	publisher = {Morgan Kaufmann Publishers},
+	author = {Buxton, W. A. S.},
+	editor = {{Readings}},
+	year = {1987},
+	pages = {357--365}
+}
+
+
+@article{buxton_evolution_1979,
+	title = {The {Evolution} of the {SSSP} {Score}-{Editing} {Tools}},
+	volume = {3},
+	number = {4},
+	journal = {Computer Music Journal},
+	author = {Buxton, W. A. S. and Sniderman, R. and Reeves, W. and Patel, S. and Baecker, R.},
+	year = {1979},
+	pages = {14--25}
+}
+
+
+@article{cadoz_synthese_1981,
+	title = {Synthèse musicale par simulation des mécanismes instrumentaux. {Transducteurs} {Gestuels} {Rétroactifs} pour l},
+	volume = {1984. “Responsive 59},
+	journal = {étude du jeu instrumental.” Revue d”Acoustique},
+	author = {Cadoz, C. and Luciani, A. and Florens, J. L.},
+	year = {1981},
+	pages = {279--292}
+}
+
+
+@incollection{cadoz_timbre_1991,
+	address = {Paris},
+	title = {Timbre et causalité},
+	booktitle = {Le timbre},
+	publisher = {IRCAM/Christian Bourgois},
+	author = {Cadoz, C. e.},
+	editor = {Barriére, Jean-Baptiste},
+	year = {1991},
+	pages = {17--46}
+}
+
+
+@incollection{camurri_multimodal_2004,
+	address = {Springer Verlag},
+	title = {Multimodal analysis of expressive gesture in music and dance performances},
+	booktitle = {Gesture-based {Communication} in {Human}-{Computer} {Interaction}},
+	publisher = {LNAI 2915},
+	author = {Camurri, A. and Mazzarino, B. and Ricchetti, M. and Timmers, R. and Volpe, G.},
+	editor = {Camurri, A. and Volpe, G.},
+	year = {2004}
+}
+
+
+@incollection{camurri_network_1997,
+	title = {Network {Models} for {Music} and {Motor} {Control}},
+	booktitle = {Maps and {Motor} {Control}},
+	publisher = {Elsevier},
+	author = {Camurri, A.},
+	editor = {Self-Organization, Computational},
+	year = {1997}
+}
+
+
+@article{camurri_music_1999,
+	title = {Music content processing and multimedia: {Case} studies and emerging applications of intelligent interactive systems},
+	volume = {28},
+	journal = {Journal of New Music Research},
+	author = {Camurri, A.},
+	year = {1999},
+	pages = {351--363}
+}
+
+
+@inproceedings{camurri_interactions_1987,
+	title = {Interactions between music and movement: {A} system for music generation from {3D} animations},
+	booktitle = {Proceedings of the 4th international conference on event perception and action, {Trieste}},
+	author = {Camurri, A. and {others}},
+	year = {1987}
+}
+
+
+@incollection{camurri_dance_1986,
+	address = {Amsterdam},
+	title = {Dance and {Movement} {Notation}},
+	booktitle = {Human {Movement} {Understanding}},
+	publisher = {North Holland},
+	author = {Camurri, A. P. and Morasso, V. and Tagliasco, R.Zaccaria},
+	editor = {andTagliasco, Morasso},
+	year = {1986},
+	pages = {85--124}
+}
+
+
+@inproceedings{camurri_kansei_1999,
+	title = {{KANSEI} analysis of dance performance},
+	booktitle = {Proceedings of the 1999 {IEEE} {Intl} {Conf} on {Systems} {Man} and {Cybernetics} {SMC}'99, {Tokyo}, {New} {York}},
+	author = {Camurri, A. and Hashimoto, S. and Suzuki, K. and Trocca, R.},
+	year = {1999}
+}
+
+
+@article{canazza_abstract_2003,
+	title = {An abstract control space for communication of sensory expressive intentions in music performance},
+	volume = {32},
+	journal = {Journal of New Music Research},
+	author = {Canazza, S. and {others}},
+	month = {sep},
+	year = {2003},
+	pages = {281--294}
+}
+
+
+@article{card_morphological_1991,
+	title = {A {Morphological} {Analysis} of the {Design} {Space} of {Input} {Devices}},
+	volume = {9},
+	number = {2},
+	journal = {ACM Transactions on Information Systems},
+	author = {Card, S. K. and Mackinlay, J. D. and Robertson, G. G.},
+	year = {1991},
+	pages = {99--122}
+}
+
+
+@incollection{card_evaluation_1978,
+	title = {Evaluation of {Mouse}, {Rate}-controlled {Isometric} {Joystick}, {Step} keys, and {Text} keys for {Text} {Selection} on a {CRT}},
+	booktitle = {Ergonomics, 21, 8, pp. 601-613. {Reprinted} in {R}. {Baecker} and {W}. {A}. {S}. {Buxton}},
+	publisher = {in Human-Computer Interaction: A Multidisciplinary Approach. San Mateo, CA.: Morgan Kaufmann Publishers Inc},
+	author = {Card, S. K. and English, W. K. and Burr, B. J.},
+	editor = {{Readings}},
+	year = {1978},
+	pages = {386--392}
+}
+
+
+@book{carr_sensors_1993,
+	address = {Upper Saddle River, USA},
+	title = {Sensors and {Circuits}: {Sensors}, {Transducers}, and {Supporting} {Circuits} for {Electronic} {Instrumentation}, {Measurement}, and {Control}},
+	publisher = {Prentice-Hall},
+	author = {Carr, J. J.},
+	year = {1993}
+}
+
+
+@book{carr_electronic_1997,
+	address = {Sensors. Indianapolis, USA},
+	title = {Electronic {Circuit} {Guidebook}},
+	volume = {1},
+	publisher = {Prompt Publications – Howard W. Sams \& Company},
+	author = {Carr, J. J.},
+	year = {1997}
+}
+
+
+@article{cascella_carl_2008,
+	title = {Carl {Michael} von {Hausswolff}},
+	volume = {13},
+	journal = {Organised Sound},
+	author = {Cascella, D.},
+	month = {apr},
+	year = {2008},
+	pages = {21--29}
+}
+
+
+@mastersthesis{castine_evaluation_1988,
+	title = {An {Evaluation} of the {User} {Interface} in {Digital} {Audio} {Systems}},
+	school = {Technical University Berlin},
+	author = {Castine, P.},
+	year = {1988}
+}
+
+
+@article{cerana_gesture_2000,
+	title = {Gesture {Control} of {Musical} processes: {A} {MAX} {Environment} for {Buchla}'s {Lightning}},
+	volume = {5},
+	journal = {Organised Sound},
+	author = {Cerana, C.},
+	year = {2000},
+	pages = {3--7}
+}
+
+
+@article{chabot_listen_1993,
+	title = {To {Listen} and to {See}: {Making} and {Using} {Electronic} {Instruments}},
+	volume = {3},
+	journal = {Leonardo Music Journal},
+	author = {Chabot, X.},
+	year = {1993},
+	pages = {11--16}
+}
+
+
+@article{chadabe_reflections_1977,
+	title = {Some reflections on the {Nature} of the {Landscape} within which {Computer} {Music} {Systems} are {Designed}},
+	volume = {1},
+	number = {3},
+	journal = {Computer Music Journal},
+	author = {Chadabe, J.},
+	year = {1977},
+	pages = {5--11}
+}
+
+
+@book{chadabe_electric_1997,
+	address = {New Jersey},
+	title = {Electric {Sound}: {The} {Past} and {Promise} of {Electronic} {Music}},
+	publisher = {Prentice Hall},
+	author = {Chadabe, J.},
+	year = {1997}
+}
+
+
+@article{chadabe_performer_1999,
+	title = {The performer is us},
+	volume = {18},
+	number = {3},
+	journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+	author = {Chadabe, J.},
+	year = {1999},
+	pages = {25--30}
+}
+
+
+@incollection{chadabe_solo_1980,
+	address = {Ottawa},
+	title = {Solo},
+	booktitle = {: a {Specific} {Example} of {Realtime} {Performance}},
+	publisher = {Commission Canadienne pour l'UNESCO},
+	author = {Chadabe, J.},
+	editor = {{“}},
+	year = {1980},
+	pages = {87--94}
+}
+
+
+@incollection{chafe_simulating_1989,
+	address = {Cambridge},
+	title = {Simulating {Performance} on a {Bowed} {Instrument}},
+	booktitle = {Current {Directions} in {Computer} {Music} {Research}. , {Mass}.:{The}},
+	publisher = {MIT Press},
+	author = {Chafe, C.},
+	editor = {Mathews, M. V. and Pierce, J. R.},
+	year = {1989},
+	pages = {185--198}
+}
+
+
+@article{chafe_interplayer_1999,
+	title = {Interplay(er) machines},
+	volume = {18},
+	number = {3},
+	journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+	author = {Chafe, C.},
+	year = {1999},
+	pages = {89--97}
+}
+
+
+@book{choi_motion_1998,
+	address = {Orlando},
+	title = {From {Motion} to {Emotion}: {Synthesis} of {Interactivity} with {Gestural} {Primitives}},
+	publisher = {Emotional and Intelligent: The Tangled Knot of Cognition, AAAI Fall Symposium, FL. (October):22-25},
+	author = {Choi, I.},
+	year = {1998}
+}
+
+
+@incollection{choi_manifold_2000,
+	address = {Centre Pompidou},
+	title = {A {Manifold} {Interface} for {Kinesthetic} {Notation} for {High}-{Dimensional} {Systems}},
+	booktitle = {Trends in {Gestural} {Control} of {Music}},
+	publisher = {Ircam},
+	author = {Choi, I.},
+	editor = {Wanderley, M. and Battier, M.},
+	year = {2000}
+}
+
+
+@inproceedings{choi_foot-mounted_1997,
+	title = {Foot-{Mounted} {Gesture} {Detection} and its {Application} in {Virtual} {Environments}},
+	booktitle = {Proceedings of the {IEEE} {International} {Conference} on {Systems}, {Man} and {Cybernetics}},
+	author = {Choi, I. and Ricii, C.},
+	year = {1997}
+}
+
+
+@inproceedings{choi_manifold_1995,
+	address = {San Francisco},
+	title = {A {Manifold} {Interface} for a {High} {Dimensional} {Control} {Space}},
+	booktitle = {Proceedings of the 1995 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Choi, I. and Bargar, R. and Goudeseune, C.},
+	year = {1995},
+	pages = {385--392}
+}
+
+
+@article{chusid_beethoven---box_1999,
+	title = {Beethoven-in-a-{Box}: {Raymond} {Scott}'s {Electronium}},
+	volume = {18},
+	number = {3},
+	journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+	author = {Chusid, I.},
+	year = {1999},
+	pages = {9--14}
+}
+
+
+@unpublished{rockmore_asheville_1998,
+	title = {Asheville: {Big} {Briar}, {VHS} video tape, 58 minutes},
+	author = {Rockmore, Clara},
+	year = {1998}
+}
+
+
+@article{collins_low_1991,
+	title = {Low {Brass}: the {Evolution} of the {Trombone} {Propelled} {Electronics}},
+	volume = {1},
+	number = {1},
+	journal = {Leonardo Music Journal},
+	author = {Collins, N.},
+	year = {1991},
+	pages = {41--44}
+}
+
+
+@book{cook_real_2002,
+	address = {Natick, Mass},
+	title = {Real {Sound} {Synthesis} for {Interactive} {Applications}},
+	publisher = {A K Peters},
+	author = {Cook, P. R.},
+	year = {2002}
+}
+
+
+@inproceedings{cook_automatic_1992,
+	title = {An {Automatic} {Pitch} {Detection} and {MIDI} {Control} {System} for {Brass} {Instruments}},
+	booktitle = {Acoustical {Society} of {America} {Conference}, {New} {Orleans}},
+	author = {Cook, P. R. and Morrill, D. and Smith, J. O.},
+	year = {1992}
+}
+
+
+@book{copier_level_2003,
+	address = {Utrecht},
+	title = {Level {Up}: {Digital} {Games} {Research} {Conference}},
+	publisher = {Diagra/University of Utrecht},
+	author = {Copier, M. and {J.Raessens}},
+	year = {2003}
+}
+
+
+@article{coulter_electroacoustic_2010,
+	title = {Electroacoustic {Music} with {Moving} {Images}: the art of media pairing},
+	volume = {15},
+	journal = {Organised Sound},
+	author = {Coulter, J.},
+	month = {apr},
+	year = {2010},
+	pages = {2010}
+}
+
+
+@inproceedings{crampton_dance_2007,
+	title = {Dance, {Dance} {Evolution}: {Accelerometer} {Sensor} {Networks} as {Input} to {Video} {Games}},
+	booktitle = {2007 {IEEE} {International} {Workshop} on {Haptic}, {Audio} and {Visual} {Environments} and {Games}},
+	author = {Crampton, N. K. and Fox, H. and Johnston, A.Whitehead},
+	year = {2007},
+	pages = {107--112}
+}
+
+
+@book{cronkite_mediating_2000,
+	title = {Mediating {Gesture}: {An} {Interactive} {Approach} to {Computer}-{Assisted} {Music}},
+	publisher = {Musicworks: Explorations in Sound, 78: 20},
+	author = {Cronkite, D.},
+	year = {2000}
+}
+
+
+@article{cseres_between_2009,
+	title = {In {Between} as a {Permanent} {Status}: {Milan} {Adamciak}'s {Version} of {Intermedia}},
+	volume = {19},
+	journal = {Leonardo Music Journal},
+	author = {Cseres, J.},
+	year = {2009},
+	pages = {31--34}
+}
+
+
+@incollection{cunningham_digital_1998,
+	address = {London},
+	title = {Digital {Culture} – the {View} from the {Dance} {Floor}},
+	booktitle = {Digital {Diversions}},
+	publisher = {UCL Press Ltd},
+	author = {Cunningham, H.},
+	editor = {Sefton-Green, J.},
+	year = {1998}
+}
+
+
+@inproceedings{dahl_sound_2010,
+	title = {Sound {Bounce}: {Physical} {Metaphors} in {Designing} {Mobile} {Music} {Performance}},
+	booktitle = {Proceedings of the 2010 {Conference} on {New} {Interfaces} for {Musical} {Expression} pp. 178},
+	author = {Dahl, L. and Wang, G.},
+	year = {2010}
+}
+
+
+@inproceedings{dahlstedt_dynamic_2008,
+	title = {Dynamic {Mapping} {Strategies} for {Expressive} {Synthesis} {Performance} and {Improvisation}},
+	booktitle = {Proceedings of the 2008 {Computer} {Music} {Modeling} and {Retrieval} conference - {CMMR08}},
+	author = {Dahlstedt, P.},
+	year = {2008}
+}
+
+
+@incollection{dannenberg_computer_1993,
+	title = {Computer music at {Carnegie} {Mellon} {University}},
+	booktitle = {Wisconsin)},
+	author = {Dannenberg, R.},
+	editor = {Processing, Music and Goffredo Haus, ed and Madison, A.-R. Editions},
+	year = {1993},
+	pages = {303--333}
+}
+
+
+@inproceedings{davcev_augmented_2003,
+	title = {Augmented {Reality} {Environment} for {Dance} {Learning}},
+	booktitle = {Proc. {Int}'l {Conf}. {Information} {Technology}},
+	author = {Davcev, D. V. and Trajkovic, S. and Kalajdziski, S.Celakoski},
+	year = {2003},
+	pages = {189--193}
+}
+
+
+@article{davidson_haptic_nodate,
+	title = {Haptic {Perception}},
+	volume = {1},
+	number = {3},
+	journal = {Journal of Pediatric Psychology},
+	author = {Davidson, P. W.},
+	pages = {21--25}
+}
+
+
+@book{davies_electronic_1984,
+	address = {ed. London},
+	title = {Electronic musical instruments. {Various} entries in {The} {New} {Grove} {Dictionary} of {Musical} {Instruments}, {Stanly} {Sadie}},
+	publisher = {Macmillan Press},
+	author = {Davies, H.},
+	year = {1984}
+}
+
+
+@book{de_arte_2002,
+	address = {Brasilia},
+	title = {Arte e tecnologia na cultura contemporânea},
+	publisher = {Universidadede Brasilia},
+	editor = {De, M. and Beatriz, M.},
+	year = {2002}
+}
+
+
+@article{noauthor_real-time_2011,
+	title = {Real-time mocap dance recognition for an interactive dancing game},
+	volume = {22},
+	number = {2-3},
+	journal = {COMPUTER ANIMATION AND VIRTUAL WORLDS},
+	year = {2011},
+	pages = {229--237}
+}
+
+
+@book{dinkla_pioniereinteraktiver_1997,
+	address = {Ostfildern},
+	title = {Pioniereinteraktiver {Kunst}},
+	publisher = {Cantz Verlag},
+	author = {Dinkla, S.},
+	year = {1997}
+}
+
+
+@book{dinkla_dance_2003,
+	address = {Berlin},
+	title = {Dance and {Technology}/ {Tanz} und {Technologie}: {Moving} towards {Media} {Productions} - {Auf} dem {Weg} zu medialen {Inszenierungen}},
+	publisher = {Alexander Verlag},
+	author = {Dinkla, S. and Leeker, M.},
+	year = {2003}
+}
+
+
+@article{dipper_interactive_2009,
+	title = {Interactive {Interfaces}: {Installations} produced at the {ZKM} vertical bar {IMA}},
+	volume = {14},
+	journal = {Organised Sound},
+	author = {Dipper, G.},
+	month = {dec},
+	year = {2009},
+	pages = {286--298}
+}
+
+
+@book{dixon_digital_2007,
+	title = {Digital {Performance} – {A} {History} of {New} {Media} in {Theater}, {Dance}, {Performance}, {Art}, and {Installation}},
+	publisher = {The MIT Press},
+	author = {Dixon, S.},
+	editor = {Press, The Mit},
+	year = {2007}
+}
+
+
+@book{domingues_arte_1997,
+	address = {São Paulo},
+	title = {Arte no {Séc}},
+	publisher = {XXI: A Humanização das Tecnologias. : Ed. da Unesp},
+	author = {Domingues, D.},
+	year = {1997}
+}
+
+
+@article{doornbusch_composers_2002,
+	title = {Composers' {Views} on {Mapping} in {Algorithmic} {Composition}},
+	volume = {7},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Doornbusch, P.},
+	year = {2002},
+	pages = {145--156}
+}
+
+
+@inproceedings{downes_motion_1987,
+	address = {New York, NY},
+	title = {Motion {Sensing} in {Music} and {Dance} {Performance}},
+	booktitle = {Proceedings of the 5th {Audio} {Engineering} {Society} {Conference}},
+	publisher = {Audio Engineering Society},
+	author = {Downes, P.},
+	year = {1987},
+	pages = {165--172}
+}
+
+
+@book{dreyfus_onthe_2001,
+	address = {London/New York},
+	title = {Onthe {Internet}},
+	publisher = {Routledge},
+	author = {Dreyfus, H.},
+	year = {2001}
+}
+
+
+@article{drummond_understanding_2009,
+	title = {Understanding {Interactive} {Systems}},
+	volume = {14},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Drummond, J.},
+	year = {2009},
+	pages = {124--133}
+}
+
+
+@mastersthesis{dubost_technologies_1993,
+	title = {Technologies de capteurs et leurs applications musicales},
+	school = {UniversitéParis Sud Orsay},
+	author = {Dubost, G.},
+	year = {1993}
+}
+
+
+@book{dunn_measurement_2010,
+	address = {Taylor \& Francis Group},
+	title = {Measurement and {Data} {Analysis} for {Engineering} and {Science}},
+	publisher = {CRC Press},
+	author = {Dunn, P. F.},
+	year = {2010}
+}
+
+
+@article{eaton_this_1999,
+	title = {This is an instrument!},
+	volume = {18},
+	number = {3},
+	journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+	author = {Eaton, J.},
+	year = {1999},
+	pages = {21--24}
+}
+
+
+@article{ebeweuter_dance_2005,
+	title = {Dance movement: a focus on the technology},
+	volume = {25},
+	number = {6},
+	journal = {Computer Graphics and Applications, IEEE},
+	author = {Ebeweuter, N.},
+	year = {2005},
+	pages = {80--83}
+}
+
+
+@mastersthesis{egozy_deriving_1995,
+	title = {Deriving {Musical} {Control} {Features} from a {Real}-{Time} {Timbre} {Analysis} of the {Clarinet}},
+	school = {Massachusetts Institute of Technology},
+	author = {Egozy, E. B.},
+	year = {1995}
+}
+
+
+@article{eigenfeldt_real-time_2011,
+	title = {Real-time {Composition} as {Performance} {Ecosystem}},
+	volume = {16},
+	journal = {Organised Sound},
+	author = {Eigenfeldt, A.},
+	month = {aug},
+	year = {2011},
+	pages = {145--153}
+}
+
+
+@incollection{ellis_nature_1991,
+	address = {J. Grudin, W. A. S. Buxton, and S. Greenberg},
+	title = {Nature and {Origins} of {Virtual} {Environments}: {A} {Bibliographical} {Essay}},
+	booktitle = {Excerpt reprinted in {R}},
+	publisher = {Baecker},
+	author = {Ellis, S. R.},
+	editor = {Interaction, Human-Computer},
+	year = {1991},
+	pages = {913--932}
+}
+
+
+@article{englert_c_1980,
+	title = {Ç {Musique}: composition automatique - automation composée È, {Mathématiques} et {Sciences} {Humaines} (45)},
+	journal = {Paris: Sorbonne, juin},
+	author = {Englert, G. G.},
+	year = {1980},
+	pages = {37--50}
+}
+
+
+@mastersthesis{enke_dansense_2006,
+	title = {{DanSense}: {Rhythmic} {Analysis} of {Dance} {Movements} {Using} {Acceleration}-{Onset} {Times}},
+	school = {RWTH Aachen University},
+	author = {Enke, U.},
+	year = {2006}
+}
+
+
+@inproceedings{essa_modeling_1996,
+	title = {Modeling, tracking and interactive animation of faces and heads using input from video},
+	booktitle = {Proceedings of {Computer} {Animation} '96 {Conference}, {Geneva}, {Switzerland}},
+	author = {Essa, I. and Basu, S. and Darrell, T. and Pentland, A.},
+	year = {1996}
+}
+
+
+@article{essl_interactivity_2009,
+	title = {Interactivity for {Mobile} {Music}-{Making}},
+	volume = {14},
+	journal = {Organised Sound},
+	author = {Essl, G. and Rohs, M.},
+	month = {aug},
+	year = {2009},
+	pages = {197--207}
+}
+
+
+@book{evers_art_2002,
+	address = {Amsterdam},
+	title = {The {Art} of {Programming} ({Sonic} {Acts} 2001 conference on digital art)},
+	publisher = {Sonic Arts},
+	author = {Evers, F. L. and der Velden, J. P. and derWenden, van},
+	year = {2002}
+}
+
+
+@incollection{fadon_stilllifealive_1991,
+	address = {Leonardo},
+	title = {{StillLife}/{Alive}},
+	booktitle = {Connectivity},
+	publisher = {2(24},
+	author = {Fadon, C.},
+	editor = {Ascott, Roy and Loeffler, Carl Eugene},
+	year = {1991}
+}
+
+
+@book{fassler_mediale_1996,
+	address = {München},
+	title = {Mediale {Interaktion}},
+	publisher = {Fink Verlag},
+	author = {Fassler, M.},
+	year = {1996}
+}
+
+
+@inproceedings{favilla_real-time_1997,
+	address = {New Zealand},
+	title = {Real-time {Control} of {Synthesis} {Parameters} for {LightHarp} {MIDI} {Controller}},
+	booktitle = {Proceedings of the 1997 {ACMA} {Conference}},
+	publisher = {Auckland},
+	author = {Favilla, S.},
+	year = {1997}
+}
+
+
+@inproceedings{feldmeier_giveaway_2004,
+	title = {Giveaway wireless sensors for large-group interaction},
+	booktitle = {Proceedings of {CHI} 2004, {CHI} {Extended} {Abstracts}},
+	author = {Feldmeier, M. and {J.Paradiso}},
+	year = {2004},
+	pages = {1291--1292}
+}
+
+
+@phdthesis{fels_glove-talk_1994,
+	type = {{PhD} {Thesis}},
+	title = {Glove-{Talk} {II}: {Mapping} {Hand} {Gestures} to {Speech} {Using} {Neural} {Networks} - {An} {Approach} to {Building} {Adaptive} {Interfaces}},
+	school = {University of Toronto, Canada},
+	author = {Fels, S.},
+	year = {1994}
+}
+
+
+@article{fels_mapping_2002,
+	title = {Mapping {Transparency} through {Metaphor}: towards more expressive musical instruments},
+	volume = {7},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Fels, S. and Gadd, A. and Mulder, A.},
+	year = {2002},
+	pages = {109--126}
+}
+
+
+@article{fels_musikalscopegraphical_1998,
+	title = {{MusiKalscope}:{A} {Graphical} {Musical} {Instrument}},
+	volume = {5},
+	number = {3},
+	journal = {IEEE Multimedia},
+	author = {Fels, S. and Nishimoto, K. and Mase, K.},
+	year = {1998},
+	pages = {26--35}
+}
+
+
+@unpublished{ferguson_mcgill_2009,
+	title = {The {McGill} {Digital} {Orchestra}: {Interdisciplinarity} in {Digital} musical {Instrument} {Design}},
+	author = {Ferguson, S. and Wanderley, M. M.},
+	year = {2009}
+}
+
+
+@inproceedings{fitzmaurice_empirical_1997,
+	title = {An {Empirical} {Evaluation} of {Graspable} {User} {Interfaces}:towards specialized, space-multiplexed input},
+	booktitle = {Proceedings of the {CHI}'97 {Conference} on {Human} factors in {Computing} {Systems}, {Association} of {Computer} {Machinery}},
+	author = {Fitzmaurice, G. W. and Buxton, W.},
+	year = {1997},
+	pages = {43--50}
+}
+
+
+@article{fletcher_applying_1996,
+	title = {Applying {Transduction} {Materials} for {Human}-{Technology} {Interfaces}},
+	volume = {35},
+	number = {3/4},
+	journal = {IBM Systems Journal},
+	author = {Fletcher, R.},
+	year = {1996},
+	pages = {630--638}
+}
+
+
+@article{fletcher_force_1996,
+	title = {Force {Transduction} {Materials} for {Human}-{Technology} {Interfaces}},
+	volume = {35},
+	number = {3},
+	journal = {IBM Systems Journal},
+	author = {Fletcher, R.},
+	year = {1996},
+	pages = {630--638}
+}
+
+
+@unpublished{flety_sonars_1997,
+	title = {Sonars à ultrasons},
+	author = {Fléty, E.},
+	year = {1997}
+}
+
+
+@article{flety_3d_2000,
+	title = {{3D} {Gesture} {Acquisition} {Using} {Ultrasonic} {Sensors}},
+	journal = {Trends in Gestural Control of Music},
+	author = {Fléty, E.},
+	year = {2000},
+	pages = {193--208}
+}
+
+
+@inproceedings{flety_utilisations_1998,
+	title = {Utilisations récentes de capteurs gestuels encréation musicale à l'{Ircam}},
+	booktitle = {Proceedings of the {Journées} d'{Informatique} {Musicale}, pp. {D3}-1-},
+	author = {Fléty, E. and Serra, M.-H.},
+	year = {1998},
+	pages = {D3--4}
+}
+
+
+@phdthesis{florens_coupleur_1978,
+	type = {{PhD} {Thesis}},
+	title = {Coupleur gestuel rétroactif pour la commande et le contrôle de sons de synthèse},
+	school = {PhD. Institut National Polytechnique de Grenoble},
+	author = {Florens, J.-L.},
+	year = {1978}
+}
+
+
+@inproceedings{florens_bowed_2001,
+	address = {San Francisco},
+	title = {Bowed {String} {Synthesis} with {Force} {Feedback} {Gesture} {Interaction}},
+	booktitle = {Proceedings of the 2001 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Florens, J.-L. and Henry, C.},
+	year = {2001}
+}
+
+
+@unpublished{noauthor_dokumentation_1992,
+	title = {Dokumentation {Elektroakustischer} {Musik} in {Europ}. {Produced} by: {Technische} {Universitaet} {Berlin}, {Elektronisches} {Studio}, {Deutsche} {Sektion} der internationalen {Gesellschaft} fuer {Elektroakustische} {Musik} ({DecimE}); published by: {InventionenU92}},
+	year = {1992}
+}
+
+
+@incollection{forest_communication_nodate,
+	address = {University of Illinois, Chicago},
+	title = {Communication {Esthetics}, {Interactive} {Participation} and {Artistic} {Systems} of {Communication} and {Expression}},
+	booktitle = {Designing the {Immaterial} {Society}. {Design} {Issues} special issue},
+	publisher = {4(1,2},
+	author = {Forest, F.},
+	editor = {Diani, Marco},
+	pages = {97--115}
+}
+
+
+@book{fraden_handbook_2004,
+	address = {London},
+	edition = {3rd},
+	title = {Handbook of {Modern} {Sensors}. {Physics}, {Design} and {Applications}},
+	publisher = {Springer-Verlag},
+	author = {Fraden, J.},
+	year = {2004}
+}
+
+
+@inproceedings{frank_flexible_2010,
+	address = {New York},
+	title = {Flexible and {Intuitive} {Pointing} {Method} for {3D} {Auditory} {Localization} {Experiments}},
+	booktitle = {Proceedings of the 130th {Audio} {Engineering} {Society} {Conference}},
+	publisher = {Audio Engineering Society},
+	author = {Frank, M. and Mehr, L. and Sontacchi, A. and Zotter, F.},
+	year = {2010}
+}
+
+
+@article{frengel_multidimensional_2010,
+	title = {A {Multidimensional} {Approach} to {Relationships} between {Live} and {Non}-live {Sound} {Sources} in {Mixed} {Works}},
+	volume = {15},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Frengel, M.},
+	year = {2010},
+	pages = {96--106}
+}
+
+
+@book{friberg_generative_1991,
+	address = {Computer Music Journal},
+	title = {Generative rules for music performance: {A} formal description of a rule system},
+	publisher = {56-71},
+	author = {Friberg, A.},
+	year = {1991}
+}
+
+
+@article{friberg_performance_1991,
+	title = {{PERFORMANCE} {RULES} {FOR} {COMPUTER}-{CONTROLLED} {CONTEMPORARY} {KEYBOARD} {MUSIC}},
+	volume = {15},
+	number = {2},
+	journal = {Computer Music Journal},
+	author = {Friberg, A. and {others}},
+	year = {1991},
+	pages = {49--55}
+}
+
+
+@inproceedings{fujimoto_motion_2009,
+	title = {A {Motion} {Recognition} {Method} for a {Wearable} {Dancing} {Musical} {Instrument}},
+	booktitle = {2009 {Inter}- national {Symposium} on {Wearable} {Computers}},
+	publisher = {IEEE},
+	author = {Fujimoto, M. and N. Fujita, Y. and Takegawa, T. and Terada, M.Tsukamoto},
+	year = {2009}
+}
+
+
+@article{fujimoto_musical_2008,
+	title = {Musical {B}-boying: {A} {Wearable} {Musi}- cal {Instrument} by {Dancing}},
+	volume = {5309},
+	journal = {Lecture Notes In Computer Science},
+	author = {Fujimoto, M. N. and Fujita, Y. and Takegawa, T. and Terada, M.Tsukamoto},
+	year = {2008}
+}
+
+
+@article{garnett_aesthetics_2001,
+	title = {The {Aesthetics} of {Interactive} {Computer} {Music}},
+	volume = {25},
+	number = {1},
+	journal = {Computer Music Journal},
+	author = {Garnett, G. E.},
+	year = {2001},
+	pages = {21--33}
+}
+
+
+@book{garrett_advanced_1994,
+	address = {Los Alamitos, USA},
+	title = {Advanced {Instrumentation} and {Computer} {I}/{O} {Design}: {Real}-time {System} {Computer} {Interface} {Engineering}},
+	publisher = {IEEE Press},
+	author = {Garrett, P. H.},
+	year = {1994}
+}
+
+
+@inproceedings{gavrilla_3-d_1995,
+	title = {3-{D} model based tracking of human upper body movement: a multi-view approach},
+	booktitle = {Proc. of the {IEEE}-{PAMI} {International} {Symposium} on {Computer} {Vision}. {Coral} {Gables}, {Florida}},
+	author = {Gavrilla, D. M. and Davis, L. S.},
+	year = {1995},
+	pages = {253--258}
+}
+
+
+@book{gendolla_formen_2001,
+	address = {Frankfurt},
+	title = {Formen interaktiver {Medienkunst}},
+	publisher = {Suhrkamp},
+	author = {Gendolla, P. N. and Schmitz, I. and Schneider, P.Spangenberg, (eds)},
+	year = {2001}
+}
+
+
+@incollection{genevois_geste_1999,
+	address = {Marseille},
+	title = {Geste et pensée musicale: de l'outil à l'instrument},
+	booktitle = {{InH}. {Genevois} and {R}. de {Vivo}},
+	publisher = {Editions Parenthèses},
+	author = {Genevois, H.},
+	editor = {{Les}},
+	year = {1999},
+	pages = {35--45}
+}
+
+
+@book{genevois_nouveaux_1999,
+	address = {Marseille},
+	title = {Les nouveaux gestes de la musique},
+	publisher = {Editions Parenthèses},
+	editor = {Genevois, H. and Vivo, R. de},
+	year = {1999}
+}
+
+
+@inproceedings{gibet_gestural_1990,
+	title = {Gestural control of sound synthesis},
+	booktitle = {Proceedings {International} {Computer} {Music} {Conference}, {Glasgow}, {UK}, {San} {Francisco} {CA}, {USA}},
+	author = {Gibet, S. and Marteau, P.-F.},
+	year = {1990},
+	pages = {387--391}
+}
+
+
+@book{gidney_artists_1983,
+	address = {Leonardo. 16(4)},
+	title = {The {Artist}'s use of telecommunications: a review},
+	publisher = {pp 311-315},
+	author = {Gidney, E.},
+	year = {1983}
+}
+
+
+@inproceedings{gillett_maddm_1985,
+	address = {San Francisco},
+	title = {Maddm - {Dance} {Directed} {Music}},
+	booktitle = {Proceedings of the 1985 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Gillett, K. and Pritchard, R.},
+	year = {1985},
+	pages = {329--330}
+}
+
+
+@inproceedings{giordano_learning_2011,
+	title = {A {Learning} {Interface} for {Novice} {Guitar} {Players} using {Vibrotactile} {Stimulation}},
+	booktitle = {Proceedings of the {Sound} and {Music} {Computing} {Conference} ({SMC}-2011)},
+	author = {Giordano, M. and Wanderley, M. M.},
+	year = {2011}
+}
+
+
+@mastersthesis{giraudon_controparametres_1994,
+	title = {Contrôle de paramètres de synthèse issus d},
+	school = {une analyse par une interface gestuelle.” Centre National de la Recherche Scientifique},
+	author = {Giraudon, F.},
+	year = {1994}
+}
+
+
+@incollection{glesner_web_2002,
+	address = {Hamburg},
+	title = {Web {Dance}: {Konvergenzen} zwischen {Tanz} und {Internet}?},
+	booktitle = {Christa {Zipprich} and {GabrieleKlein}},
+	publisher = {LIT Verlag},
+	author = {Glesner, J.},
+	editor = {Tanz, Theorie and Tanzforschung, Text Jahrbuch der Gesellschaft für},
+	year = {2002},
+	pages = {509--2}
+}
+
+
+@article{gluck_sounds_2005,
+	title = {Sounds of a community: {Cultural} identity and interactive art},
+	volume = {15},
+	journal = {Leonardo Music Journal},
+	author = {Gluck, R. J.},
+	year = {2005},
+	pages = {37--43}
+}
+
+
+@book{goldberg_robot_2000,
+	address = {Cambridge, MA},
+	title = {The {Robot} in the {Garden}: {Telerobotics} and {Telepistemology} in the {Age} of the {Internet}},
+	publisher = {MIT Press},
+	editor = {Goldberg, K.},
+	year = {2000}
+}
+
+
+@inproceedings{goldstein_gestural_1998,
+	title = {Gestural {Coherence} and {Musical} {Interaction} {Design}},
+	booktitle = {Proceedings of {IEEE} {Systems}, {Man} and {Cybernetics} {Conference}, {San} {Diego}, {CA}},
+	author = {Goldstein, M.},
+	year = {1998}
+}
+
+
+@phdthesis{goudeseune_composing_2001,
+	type = {{PhD} {Thesis}},
+	title = {Composing with {Parameters} for {Synthetic} {Instruments}},
+	school = {University of Illinois at Urbana-Champaign},
+	author = {Goudeseune, C.},
+	year = {2001}
+}
+
+
+@article{goudeseune_interpolated_2002,
+	title = {Interpolated {Mappings} for {Musical} {Instruments}},
+	volume = {7},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Goudeseune, C.},
+	year = {2002},
+	pages = {85--96}
+}
+
+
+@incollection{grau_history_1999,
+	address = {Cambridge, MA},
+	title = {The history of telepresence: automata, illusion, and the rejection of the body},
+	booktitle = {{TheRobot} in the {Garden}},
+	publisher = {The MIT Press},
+	author = {Grau, O.},
+	editor = {Goldberg, Ken},
+	year = {1999},
+	pages = {94--99}
+}
+
+
+@book{grau_virtual_2003,
+	address = {Cambridge},
+	title = {Virtual {Art}: {From} {Illusion} to {Immersion}},
+	publisher = {MIT Press},
+	author = {{Grau}},
+	year = {2003}
+}
+
+
+@book{gray_dance_1989,
+	title = {Dance {Technology}: {Current} {Applications} and {Future} {Trends}},
+	publisher = {National Dance Association},
+	editor = {Gray, J.},
+	year = {1989}
+}
+
+
+@incollection{gray_evolution_1989,
+	title = {The {Evolution} of {Dance} {Technology}},
+	booktitle = {Dance {Technology}},
+	publisher = {National Dance Association},
+	author = {Gray, J.},
+	year = {1989},
+	pages = {1--5}
+}
+
+
+@article{green_agility_2011,
+	title = {Agility and {Playfulness}: {Technology} and skill in the performance ecosystem},
+	volume = {16},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Green, O.},
+	year = {2011},
+	pages = {134--144}
+}
+
+
+@inproceedings{griffith_litefoot_1998,
+	address = {Ann Arbor},
+	title = {{LiteFoot}: {A} floor space for recording dance and controlling media},
+	booktitle = {Proceedings of the 1998 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Griffith, N. and Fernstro ̈m, M.},
+	year = {1998},
+	pages = {475--481}
+}
+
+
+@inproceedings{grollmisch_songs_2011,
+	address = {New York},
+	title = {Songs 2 {See}: {Learn} to {Play} by {Playing}},
+	booktitle = {Proceedings of the 131st {Audio} {Engineering} {Society} {Convention}},
+	publisher = {Audio Engineering Society},
+	author = {Grollmisch, S. E. Cano Ceron and Dittmar, C.},
+	year = {2011},
+	pages = {2--3}
+}
+
+
+@article{grossmann_tip_2008,
+	title = {The tip of the iceberg: laptop music and the information-technological transformation of music},
+	volume = {13},
+	number = {1},
+	journal = {Organised Sound},
+	author = {Grossmann, R.},
+	year = {2008},
+	pages = {5--11}
+}
+
+
+@book{grumwald_human_nodate,
+	title = {Human {Haptic} {Perception}: {Basics} and {Applications}},
+	publisher = {Birkhauser (Basel},
+	author = {Grumwald, M.}
+}
+
+
+@book{grzinic_stelarc_2002,
+	address = {Ljubljana},
+	title = {Stelarc: {Political} {Prosthesis} and {Knowledge} of the {Body}},
+	publisher = {Maska/MKC},
+	editor = {Grzinic, M.},
+	year = {2002}
+}
+
+
+@book{guedes_mapping_1999,
+	address = {PhD Proposal},
+	title = {Mapping {Dance} to {Musical} {Rhythm}: {The} {Creation} of a {Computational} {Algorithm} for {Musical} {Gesture}},
+	publisher = {School of Education, New York University},
+	author = {Guedes, C.},
+	year = {1999}
+}
+
+
+@inproceedings{guedes_extracting_2006,
+	title = {Extracting {Musically}-{Relevant} {Rhythmic} {Information} from {Dance} {Movement} by {Applying} {Pitch} {Tracking} {Techniques} to a {Video} {Signal}},
+	booktitle = {Proceedings of the 2006 {Sound} and {Music} {Computing} {Conference}, {Marseille}, {France}},
+	author = {Guedes, C.},
+	year = {2006}
+}
+
+
+@inproceedings{guiard_disentangling_2001,
+	address = {New York, NY},
+	title = {Disentangling {Relative} from {Absolute} {Amplitude} in {Fitts}' {Law} {Experiments}},
+	booktitle = {Proceedings of the 2001 {ACM} {Conference} on {Human} {Factors} in {Computing} {Systems}},
+	publisher = {ACM Press},
+	author = {Guiard, Y.},
+	year = {2001},
+	pages = {315--316}
+}
+
+
+@inproceedings{guiard_navigation_1999,
+	address = {New York, NY},
+	title = {Navigation as a {Multiscale} {Pointing}: {Extending} {Fitts}'{Model} to very high {Precision} {Tasks}},
+	booktitle = {Proceedings of the 1999 {ACM} {Conference} on {Human} {Factors} in {Computing} {Systems}},
+	publisher = {ACM Press},
+	author = {Guiard, Y. and Beaudouin-Lafon, M. and Mottet, D.},
+	year = {1999},
+	pages = {450--457}
+}
+
+
+@article{gurevich_digital_2011,
+	title = {Digital {Musical} {Interactions}: {Performer}-system relationships and their perception by spectators},
+	volume = {16},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Gurevich, M. and Fyans, A. C.},
+	year = {2011},
+	pages = {166--175}
+}
+
+
+@inproceedings{gurevich_accordiatron_2001,
+	address = {San Francisco},
+	title = {The {Accordiatron}: {A} {Gestural} {Interface} for {Interactive} {Music}},
+	booktitle = {Proceedings of the 2001 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Gurevich, M. and Muehlen, S. von},
+	year = {2001}
+}
+
+
+@article{gutknecht_advances_2008,
+	title = {Advances in {Expressive} {Animation} in the {Interactive} {Performance} of a {Butoh} {Dance}},
+	journal = {pp},
+	author = {Gutknecht, J. I. and Kulka, P. and Lukowicz, T.Strieker},
+	year = {2008},
+	pages = {418--433}
+}
+
+
+@inproceedings{hachimura_prototype_2004,
+	title = {A {Prototype} {Dance} {Training} {Support} {System} with {Motion} {Capture} and {Mixed} {Reality} {Technologies}},
+	booktitle = {Proc. {IEEE} {Int}'l {Workshop} {Robot} and {Human} {Interactive} {Comm}},
+	author = {Hachimura, K. H. Kato,  and Tamura, H.},
+	year = {2004},
+	pages = {217--222}
+}
+
+
+@inproceedings{hachimura_analysis_2005,
+	title = {Analysis and {Evaluation} of {Dancing} {Movement} {Based} on {LMA}},
+	booktitle = {Proc. {IEEE} {Int}'l {Workshop} {Robots} and {Human} {Interactive} {Comm}},
+	author = {Hachimura, K. K. Takashina,  and {M.Yoshimura}},
+	year = {2005},
+	pages = {294--299}
+}
+
+
+@inproceedings{haflich_following_1983,
+	address = {San Francisco},
+	title = {Following a {Conductor}: the {Engineering} of an {Input} {Device}},
+	booktitle = {Proceedings of the 1983 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Haflich, S. and Burns, M.},
+	year = {1983}
+}
+
+
+@inproceedings{hahnel_mozart_2010,
+	title = {From {Mozart} to {MIDI}: {A} {Rule} {System} for {Expressive} {Articulation}},
+	booktitle = {Proceedings of the 2010 {Conference} on {New} {Interfaces} for {Musical} {Expression} pp. 72},
+	author = {Hahnel, T.},
+	year = {2010}
+}
+
+
+@unpublished{hand_survey_1993,
+	title = {A {Survey} of 3-{D} {Input} {Devices}},
+	author = {Hand, C.},
+	year = {1993}
+}
+
+
+@book{hansen_new_2004,
+	address = {Cambridge},
+	title = {New {Philosophy} for {New} {Media}},
+	publisher = {MIT Press},
+	author = {Hansen, M.},
+	year = {2004}
+}
+
+
+@inproceedings{harrison_squeeze_1998,
+	title = {Squeeze {Me}, {Hold} {Me}, {Tilt} {Me}! {An} {Exploration} of {Manipulative} {User} {Interfaces}},
+	booktitle = {Proceedings of the {CHI}'98 {Conference} on {Human} {Factors} in {Computing} {Systems}},
+	publisher = {Association for Computer Machinery},
+	author = {Harrison, B. L. and Fishkin, K. P. and Gujar, A. and Mochon, C. and Want, R.},
+	year = {1998},
+	pages = {17--24}
+}
+
+
+@article{harvey_metaphysics_1999,
+	title = {The metaphysics of live electronics},
+	volume = {18},
+	number = {3},
+	journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+	author = {Harvey, J.},
+	year = {1999},
+	pages = {79--82}
+}
+
+
+@incollection{hashimoto_musical_1998,
+	address = {Schriften Musikpsychologie und Musikäesthetik 12. Frankfurt am Main},
+	title = {Musical {Performance} {Control} {Using} {Gesture}: {Toward} {Kansei} {Technology} for {Art}},
+	booktitle = {Kopiez and {Auhagen}},
+	publisher = {Peter Lang Verlag},
+	author = {Hashimoto, S. and Sawada, H.},
+	editor = {Music, Controlling Creative Processes in},
+	year = {1998},
+	pages = {93--106}
+}
+
+
+@article{hashimoto_grasping_2005,
+	title = {A {Grasping} {Device} to {Sense} {Hand} {Gesture} for {Expressive} {Sound} {Generation}},
+	volume = {34},
+	number = {1},
+	journal = {Journal of New Music Research},
+	author = {Hashimoto, S. and Sawada, H.},
+	year = {2005},
+	pages = {115}
+}
+
+
+@inproceedings{havryliv_composing_2010,
+	title = {Composing {For} {Improvisation} with {Chaotic} {Oscillators}},
+	booktitle = {Proceedings of the 2010 {Conference} on {New} {Interfaces} for {Musical} {Expression} pp. 94},
+	author = {Havryliv, M.},
+	year = {2010}
+}
+
+
+@inproceedings{hayward_toward_1995,
+	title = {Toward a {Seven} {Axis} {Haptic} {Interface}},
+	booktitle = {Proceedings of the {IROS}'95, {Int}. {Workshop} on {Intelligent} {Robots} and {Systems}. vol. 2. {Piscataway}, {NJ}},
+	author = {Hayward, V.},
+	year = {1995},
+	pages = {133--139}
+}
+
+
+@unpublished{hayward_it_2007,
+	title = {Do it yourself haptics: {Part} {I}. {IEEE} {Robotics} \& {Automation} {Magazine}},
+	author = {Hayward, V. and MacLean, K. E.},
+	year = {2007}
+}
+
+
+@book{hayward_it_2008,
+	title = {Do it yourself haptics: {Part} {II} [{Tutorial}]},
+	publisher = {IEEE Robotics \& Automation Magazine},
+	author = {Hayward, V. and MacLean, K. E.},
+	year = {2008}
+}
+
+
+@book{held_telepresence_1992,
+	address = {Presence, 1(1)},
+	title = {Telepresence},
+	publisher = {pp 109-112},
+	author = {Held, R. and Durlach, N.},
+	year = {1992}
+}
+
+
+@mastersthesis{henning_motion_2010,
+	title = {Motion {Pattern} {Recognition} {For} {Interactive} {Dance}},
+	school = {Darmstadt, Germany},
+	author = {Henning, Pohl},
+	year = {2010}
+}
+
+
+@article{herbison-evans_dance_1988,
+	title = {Dance, {Video}, {Notation} and {Computers}},
+	volume = {21},
+	number = {1},
+	journal = {Leonardo},
+	author = {Herbison-Evans, D.},
+	year = {1988},
+	pages = {45--50}
+}
+
+
+@book{herbison-evans_publications_1999,
+	title = {Publications},
+	publisher = {Several articles relating to computers and dance/ dance notation and computer animation},
+	author = {Herbison-Evans, D.},
+	year = {1999}
+}
+
+
+@inproceedings{hinckley_interaction_1998,
+	title = {Interaction and {Modeling} {Techniques} for {Desktop} {Two}-{Handed} {Input}},
+	booktitle = {Proceedings of the {UIST}'98},
+	publisher = {Association for Computer Machinery},
+	author = {Hinckley, K. and Czerwinski, M. and Sinclair, M.},
+	year = {1998},
+	pages = {49--58}
+}
+
+
+@article{hinckley_two-handed_1998,
+	title = {Two-{Handed} {Virtual} {Manipulation}},
+	volume = {5},
+	number = {3},
+	journal = {ACM Transactions on Computer-Human Interaction},
+	author = {Hinckley, K. and Pausch, R. and Proffitt, D. and Kassell, N.},
+	year = {1998},
+	pages = {260--302}
+}
+
+
+@inproceedings{hinckley_cooperative_1997,
+	title = {Cooperative {Bimanual} {Action}},
+	booktitle = {Proceedings of the {CHI}”97 {Conference} on {Human} {Factors} in {Computing} {Systems}},
+	publisher = {Association for Computer Machinery},
+	author = {Hinckley, K. and Pausch, R. and Proffitt, D. and Patten, J. and Kassell, N.},
+	year = {1997},
+	pages = {27--34}
+}
+
+
+@inproceedings{hoadley_implementation_2010,
+	address = {New York},
+	title = {Implementation and {Developments} of {Interfaces} for {Music} {Performance} {Through} {Analysis} of {Improvised} {Dance} {Movements}},
+	booktitle = {Proceedings of the 128th {Audio} {Engineering} {Society} {Convention}},
+	publisher = {Audio Engineering Society},
+	author = {Hoadley, R.},
+	year = {2010}
+}
+
+
+@inproceedings{hochenbaum_multimodal_2010,
+	title = {Multimodal {Musician} {Recognition}},
+	booktitle = {Proceedings of the 2010 {Conference} on {New} {Interfaces} for {Musical} {Expression} pp. 233},
+	author = {Hochenbaum, J. and Kapur, A. and Wright, M.},
+	year = {2010}
+}
+
+
+@article{hodges_computers_1995,
+	title = {Computers and dance},
+	volume = {98},
+	number = {1},
+	journal = {Technology Review},
+	author = {Hodges, M.},
+	year = {1995},
+	pages = {20--21}
+}
+
+
+@inproceedings{hromin_codeblue_2003,
+	address = {San Francisco, CA, IEEE},
+	title = {{CodeBLUE}: a bluetooth interactive dance club system},
+	booktitle = {{GLOBE}- {COM} '03},
+	publisher = {IEEE Global Telecommunications Conference. 5},
+	author = {Hromin, D. and Chladil, M. and Vanatta, N. and Naumann, D. and Wetzel, S. and Anjum, F. and Jain, R.},
+	year = {2003}
+}
+
+
+@inproceedings{hummels_intuitive_1998,
+	address = {Heildeberg},
+	title = {An {Intuitive} {Two}-{Handed} {Gestural} interface for {Computer} {Supported} {Product} {Design}},
+	booktitle = {Gesture and {Sign} {Language} in {Human}-{Computer} {Interaction}, {Proceedings} of the {II} {Gesture} {Workshop}},
+	publisher = {Springer-Verlag},
+	author = {Hummels, C. and Smets, G. and Overbeeke, K.},
+	editor = {Wachsmuth, I. and Fröhlich, M.},
+	year = {1998},
+	pages = {197--208}
+}
+
+
+@inproceedings{humphrey_epi-thet_2010,
+	title = {Epi-thet: {A} {Musical} performance installation and a choreography of stillness},
+	booktitle = {Proceedings of the 2010 {Conference} on {New} {Interfaces} for {Musical} {Expression} pp. 69},
+	author = {Humphrey, T. and Flynn, M. and Stevens, J.},
+	year = {2010}
+}
+
+
+@book{hunnekens_derbewegte_1997,
+	address = {Köln},
+	title = {Derbewegte {Betrachter}. {Theorien} der {Interaktiven} {Medienkunst}},
+	publisher = {Wienand},
+	author = {Hünnekens, A.},
+	year = {1997}
+}
+
+
+@phdthesis{hunt_radical_1999,
+	type = {{PhD} {Thesis}},
+	title = {Radical {User} {Interfaces} for {Real}-time {Musical} {Control}},
+	school = {University of York UK},
+	author = {Hunt, A.},
+	year = {1999}
+}
+
+
+@incollection{hunt_mapping_2000,
+	address = {Centre Pompidou},
+	title = {Mapping {Strategies} for {Musical} {Performance}},
+	booktitle = {Trends in {Gestural} {Control} of {Music}},
+	publisher = {Ircam},
+	author = {Hunt, A. and Kirk, R.},
+	editor = {Wanderley, M. and Battier, M.},
+	year = {2000}
+}
+
+
+@article{hunt_mapping_2002,
+	title = {Mapping {Performer} {Parameters} to {Synthesis} {Engines}},
+	volume = {7},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Hunt, A. and Wanderley, M. M.},
+	year = {2002},
+	pages = {97--108}
+}
+
+
+@inproceedings{hunt_radical_1999-1,
+	title = {Radical {User} {Interfaces} for {Real}-time {Control}},
+	booktitle = {Proceedings of the {Euromicro} {Conference}},
+	publisher = {Milan},
+	author = {Hunt, A. and Kirk, R.},
+	year = {1999}
+}
+
+
+@inproceedings{hunt_towards_2000,
+	address = {San Francisco, CA},
+	title = {Towards a {Model} for {Instrumental} {Mapping} for {Expert} {Musical} {Performance}},
+	booktitle = {Proceedings of the 2000 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Hunt, A. and Wanderley, M. M. and Kirk, R.},
+	year = {2000},
+	pages = {209--212}
+}
+
+
+@inproceedings{hunt_importance_2002,
+	address = {Singapore},
+	title = {The {Importance} of {Parameter} {Mapping} in {Electronic} {Instrument} {Design}},
+	booktitle = {Proceedings of the 2002 conference on {New} {Interfaces} for {Musical} {Expression}},
+	publisher = {National University of Singapore},
+	author = {Hunt, A. and Wanderley, M. and Paradis, M.},
+	year = {2002},
+	pages = {1--6}
+}
+
+
+@inproceedings{hunt_towards_2000-1,
+	address = {San Francisco},
+	title = {Towards a {Model} for {Instrumental} {Mapping} in {Expert} {Musical} {Interaction}},
+	booktitle = {Proceedings of the 2000 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Hunt, A. and Wanderley, M. and Kirk, R.},
+	year = {2000},
+	pages = {209--212}
+}
+
+
+@unpublished{hurbain_demystifying_2004,
+	title = {Demystifying the {Sharp} {IR} {Ranger}, {Acroname} {Articles} {Online}},
+	author = {Hurbain, P.},
+	year = {2004}
+}
+
+
+@misc{hurney_synthophone_nodate,
+	title = {Synthophone. {The} {MIDI} sax},
+	url = {http://www.softwind.c},
+	author = {Hurney, M.}
+}
+
+
+@inproceedings{iaird_development_2011,
+	address = {New York},
+	title = {Development of a {Virtual} {Performance} {Studio} with {Application} of {Virtual} {Acoustic} {Recording} {Methods}},
+	booktitle = {Proceedings of the 130th {Audio} {Engineering} {Society} {Convention}},
+	publisher = {Audio Engineering Society},
+	author = {Iaird, I. and Murphy, D. and Capman, R. and Jouan, S.},
+	year = {2011}
+}
+
+
+@phdthesis{isaacs_evaluating_2003,
+	type = {{PhD} {Thesis}},
+	title = {Evaluating input devices for musical expression},
+	school = {Bachelor's thesis in Information Technology, University of Queensland},
+	author = {Isaacs, D.},
+	year = {2003}
+}
+
+
+@article{jacob_integrality_1994,
+	title = {Integrality and {Separability} of {Input} {Devices}},
+	volume = {1},
+	number = {1},
+	journal = {ACM Transactions on Human-Computer Interaction},
+	author = {Jacob, R. J. K. and Sibert, L. and McFarlane, D. and Jr, M. Mullen},
+	year = {1994},
+	pages = {3--26}
+}
+
+
+@article{jacob_human-computer_1996,
+	title = {Human-{Computer} {Interaction}: {Input} {Devices}},
+	volume = {28},
+	number = {1},
+	journal = {ACM Computing Surveys},
+	author = {Jacob, R. J. K.},
+	year = {1996},
+	pages = {177--179}
+}
+
+
+@book{janocha_actuators_2004,
+	title = {Actuators: basics and applications},
+	publisher = {Springe},
+	author = {Janocha, H.},
+	year = {2004}
+}
+
+
+@article{jean_visual_2008,
+	title = {The {Visual} {Keyboard}: {Real}-{Time} {Feet} {Tracking} for the {Control} of {Musical} {Meta}-{Instruments}},
+	volume = {23},
+	number = {7},
+	journal = {Signal Processing: Image Communication},
+	author = {Jean, F. and Albu, A. B.},
+	year = {2008},
+	pages = {505--515}
+}
+
+
+@article{johnston_designing_2008,
+	title = {Designing and evaluating virtual musical instruments: facilitating conversational user interaction},
+	volume = {29},
+	number = {6},
+	journal = {Design Studies},
+	author = {Johnston, A. and Candy, L. and Edmonds, E.},
+	year = {2008},
+	pages = {556--571}
+}
+
+
+@inproceedings{johnstone_midi_1991,
+	address = {San Francisco, CA},
+	title = {A {MIDI} {Foot} {Controller} - {The} {PodoBoard}},
+	booktitle = {International {Computer} {Music} {Conference}},
+	author = {Johnstone, E.},
+	year = {1991}
+}
+
+
+@inproceedings{jorda_improvising_2001,
+	address = {San Francisco},
+	title = {Improvising with {Computers}: {A} {Personal} {Survey} (1989-2001)},
+	booktitle = {Proceedings of the 2001 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Jorda, S.},
+	year = {2001}
+}
+
+
+@article{jordanous_investigating_2009,
+	title = {Investigating the {Role} of {Score} {Following} in {Automatic} {Musical} {Accompaniment}},
+	volume = {38},
+	number = {2},
+	journal = {Journal of New Music Research},
+	author = {Jordanous, A. and Smaill, A.},
+	year = {2009},
+	pages = {197--209}
+}
+
+
+@inproceedings{kabbash_human_1993,
+	title = {Human {Performance} {Using} {Computer} {Input} {Devices} in the 2001 {International} {Preferred} and {Non}-{Preferred} {Hands}},
+	booktitle = {Proceedings of the {ACM} {INTERCHI}},
+	author = {Kabbash, P. and MacKenzie, I. S. and Buxton, W.},
+	year = {1993},
+	pages = {474--481}
+}
+
+
+@incollection{kac_ornitorrinco_1991,
+	address = {24(2},
+	title = {Ornitorrinco: {Exploring} {Telepresence} and {Remote} {Sensing}},
+	booktitle = {Connectivity},
+	publisher = {Leonardo},
+	author = {Kac, E.},
+	year = {1991}
+}
+
+
+@incollection{kac_aspects_1992,
+	address = {New York},
+	title = {Aspects of the {Aesthetics} of {Telecomommunications}},
+	booktitle = {originally published in {Siggraph} {Visual} {Proceedings}},
+	publisher = {ACM},
+	author = {Kac, E.},
+	editor = {Grimes, John and Lorig, Gray},
+	year = {1992}
+}
+
+
+@article{kahlich_dance_1992,
+	title = {Dance {Technology} – {Moving} into the {Future}},
+	volume = {24},
+	number = {2},
+	journal = {Dance Research Journal},
+	author = {Kahlich, L.},
+	year = {1992},
+	pages = {63--64}
+}
+
+
+@book{kalawasky_science_1993,
+	address = {Wokingham},
+	title = {The science of virtual reality and virtual environments},
+	publisher = {Addison-Wesley},
+	author = {Kalawasky, R. S.},
+	year = {1993}
+}
+
+
+@inproceedings{kaltenbrunner_reactivision_2007,
+	address = {New York, NY, USA},
+	title = {{reacTIVision}: a computer-vision framework for table-based tangible interaction},
+	booktitle = {Proceedings of the 1st {International} {Conference} on {Tangible} and {Embedded} {Interaction} ({TEI} '07)},
+	publisher = {ACM},
+	author = {Kaltenbrunner, M. and Bencina, R.},
+	year = {2007},
+	pages = {69--74}
+}
+
+
+@inproceedings{kapur_wearable_2005,
+	title = {Wearable sensors for real-time musical signal processing},
+	booktitle = {2005 {Ieee} {Pacific} {Rim} {Conference} on {Communications}, {Computers} and {Signal} {Processing}},
+	author = {Kapur, A. and {others}},
+	year = {2005}
+}
+
+
+@article{karjalainen_virtual_2006,
+	title = {Virtual {Air} {Guitar}},
+	volume = {54},
+	number = {10},
+	journal = {Journal of Audio Engineering Society},
+	author = {Karjalainen, M. and Maki-patola, T. and Kanerva, A. and Huovilainen, A.},
+	year = {2006},
+	pages = {964--980}
+}
+
+
+@article{katayose_learning_1993,
+	title = {Learning {Performance} {Rules} in a {Music} {Interpretation} {System}},
+	volume = {27},
+	number = {1},
+	journal = {Computers and the Humanities},
+	author = {Katayose, H. and Inokuchi, S.},
+	year = {1993},
+	pages = {31--40}
+}
+
+
+@article{katayose_ifp_2004,
+	title = {{iFP}: {A} {Music} {Interface} {Using} an {Expressive} {Performance} {Template}},
+	volume = {2004},
+	number = {3166},
+	journal = {Entertainment Computing - Icec},
+	author = {Katayose, H. and Okudaira, K.},
+	year = {2004},
+	pages = {529--540}
+}
+
+
+@phdthesis{keyson_touch_1996,
+	type = {{PhD} {Thesis}},
+	title = {Touch in {User} {Interface} {Navigation}},
+	school = {Technische Universiteit Eindhoven},
+	author = {Keyson, D. V.},
+	year = {1996}
+}
+
+
+@incollection{kieslinger_aspects_1997,
+	address = {Singapore},
+	title = {Aspects of {Visualizing} {Information} for a {Realtime} {Hypermedia} {Musical} {Environment}},
+	booktitle = {Technology and {Applications}},
+	publisher = {Springer-Publications},
+	author = {Kieslinger, M. and Ungvary, T.},
+	editor = {Chow, Multimedia},
+	year = {1997}
+}
+
+
+@article{kim-boyle_network_2009,
+	title = {Network {Musics}: {Play}, {Engagement} and the {Democratization} of {Performance}},
+	volume = {28},
+	number = {4-5},
+	journal = {Contemporary Music Review},
+	author = {Kim-Boyle, D.},
+	year = {2009},
+	pages = {363--375}
+}
+
+
+@inproceedings{kim_shadow_2008,
+	address = {Hangzhou, China},
+	title = {The {Shadow} {Dancer}: {A} {New} {Dance} {Interface} with {Interactive} {Shoes}},
+	booktitle = {International {Conference} on {Cyberworlds}},
+	publisher = {IEEE Computer Society},
+	author = {Kim, Y. D. and Jung, S. and Park, J. and Chi, T. Kim and Lee, S.},
+	year = {2008}
+}
+
+
+@article{kirlik_human-technology_2004,
+	title = {Human-technology {Interaction} and {Music} {Perception} and {Performance}: {Toward} the {Robust} {Design} of {Sociotechnical} {Systems}},
+	volume = {92},
+	number = {4},
+	journal = {Proceedings of the IEEE},
+	author = {Kirlik, A. and Maruyama, S.},
+	year = {2004},
+	pages = {616--631}
+}
+
+
+@inproceedings{kramer_mapping_1996,
+	title = {Mapping a single data stream to multiple auditory variables: {A} subjective approach to creating a compelling design},
+	booktitle = {Proceedings of {International} {Conference} on {Auditory} {Display} - {ICAD}'96},
+	author = {Kramer, G.},
+	year = {1996}
+}
+
+
+@book{kristiansen_digital_1996,
+	address = {Aarhus Teknikum, Aarhus, Denmark},
+	title = {Digital {Dance}-{A} {Wireless} {Microprocessor}-{BasedSystem} for {Interactive} {Dance} and {Music}},
+	publisher = {Examination project},
+	author = {Kristiansen, K. and Aaberg, A.},
+	year = {1996}
+}
+
+
+@inproceedings{kuivila_forests_2000,
+	address = {San Francisco},
+	title = {Forests and {Trees}: {Distinguishing} {Many} from {Few} with a {Video} {Camera}},
+	booktitle = {Proceedings of the 2000 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Kuivila, R.},
+	year = {2000},
+	pages = {281--283}
+}
+
+
+@inproceedings{kwon_combining_2005,
+	title = {Combining {Body} {Sensors} and {Visual} {Sensors} for {Motion} {Training}},
+	booktitle = {Proc. {ACM} {SIGCHI}},
+	author = {Kwon, D. Y. and Cross, M.},
+	year = {2005},
+	pages = {94--101}
+}
+
+
+@book{labelle_writing_2001,
+	address = {Los Angeles},
+	title = {Writing {Aloud}: {The} {Sonics} of {Language}},
+	publisher = {Errant Bodies Press},
+	editor = {LaBelle, B. and Migone, C.},
+	year = {2001}
+}
+
+
+@inproceedings{latulipe_dance_2008,
+	title = {Dance. {Draw}: exquisite interaction},
+	booktitle = {Proceedings of the 22nd {British} {CHI} {Group} {Annual} {Conferenc} on {HCI} 2008: {People} and {Computers} {XXII}: {Culture}, {Creativity}, {Interaction} {UK}: vol},
+	author = {Latulipe, C. and {S.Huskey}},
+	year = {2008},
+	pages = {47--51}
+}
+
+
+@incollection{laubier_meta-instrument_1999,
+	address = {Marseille},
+	title = {Le {Méta}-{Instrument} a-t-il un son? {Emergence} de lois ou de constantes dans le développement d'instruments virtuels},
+	booktitle = {Les nouveaux gestes de la musique},
+	publisher = {Editions Parenthèses},
+	author = {Laubier, S. de.},
+	editor = {Genevois, H. and Vivo, R. de},
+	year = {1999},
+	pages = {151--156}
+}
+
+
+@book{laurel_computers_1993,
+	address = {Reading, Mass.},
+	title = {Computers as {Theatre}},
+	publisher = {Addison-Wesley},
+	author = {Laurel, B.},
+	year = {1993}
+}
+
+
+@inproceedings{lee_real-time_1991,
+	address = {San Francisco},
+	title = {Real-{Time} {Neural} {Network} {Processing} of {Gestural} and {Acoustic} {Signals}},
+	booktitle = {Proceedings of the 1991 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Lee, M. and Freed, A. and Wessel, D.},
+	year = {1991},
+	pages = {277--280}
+}
+
+
+@book{leeker_medien_2001,
+	address = {Berlin},
+	title = {Medien, {Maschinen}, {Performances}. {Theater} an der {Schnittstelle} zu digitalen {Welten}. with {CD}-{ROM} by {Irina} {Kaldrack} and {Martina} {Leeker}},
+	publisher = {Alexander Verlag},
+	editor = {Leeker, M.},
+	year = {2001}
+}
+
+
+@inproceedings{lehrman_wii_2009,
+	address = {New York},
+	title = {The {Wii} {Remote} as a {Musical} {Instrument}: {Technology} and {Case} {Studies}},
+	booktitle = {Proceedings of the 127th {Audio} {Engineering} {Society} {Convention}},
+	publisher = {Audio Engineering Society},
+	author = {Lehrman, P. D.},
+	year = {2009}
+}
+
+
+@article{leman_understanding_2005,
+	title = {Understanding {Musical} {Expressiveness} using {Interactive} {Multimedia} {Platforms}},
+	journal = {Journal of Musicae Scientiae},
+	author = {Leman, M. and Camurri, A.},
+	year = {2005},
+	pages = {209--233}
+}
+
+
+@article{levitin_control_2002,
+	title = {Control {Parameters} for {Musical} {Instruments}: a foundation for new mappings of gesture to sound},
+	volume = {7},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Levitin, D. and McAdams, S. and Adams, R.},
+	year = {2002},
+	pages = {171--189}
+}
+
+
+@book{levy_cyberculture_1997,
+	address = {Odile Jacob (ed)},
+	title = {Cyberculture: {Rapport} au {Conseil} de l'{Europe} dans le cadre du projet {Nouvelles} technologies: cooperation culturelle et communication},
+	publisher = {Paris},
+	author = {Levy, P.},
+	year = {1997}
+}
+
+
+@article{lewis_interacting_1999,
+	title = {Interacting with latter-day musical},
+	volume = {18},
+	number = {3},
+	journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+	author = {Lewis, G.},
+	year = {1999},
+	pages = {99--112}
+}
+
+
+@article{liang_performance-driven_2009,
+	title = {Performance-driven motion choreographing with accelerometers},
+	volume = {2},
+	number = {3},
+	journal = {Computer Animation and Virtual Worlds},
+	author = {Liang, X. and X, Q. Li and Zhang, S. Zhang and {W.Geng}},
+	year = {2009},
+	pages = {89--99}
+}
+
+
+@book{liestol_digital_2003,
+	address = {Cambridge},
+	title = {Digital {Media} {Revisited}},
+	publisher = {MIT Press},
+	editor = {Liestøl, G. and A. Morrison, T. Rasmussen},
+	year = {2003}
+}
+
+
+@inproceedings{lima_dance-music_1996,
+	title = {Dance-{Music} {Interface} based on {Ultrasound} {Sensors} and {Computers}},
+	booktitle = {Proceedings of the 3rd {Brazilian} {Symposium} on {Computer} {Music}},
+	author = {Lima, G. H. T. and Maes, M. and Bonfim, M. and Lamar, M. V. and Wanderley, M. M.},
+	year = {1996},
+	pages = {12--16}
+}
+
+
+@article{linz_towards_1996,
+	title = {Towards the {Design} of a {Real}-{Time} {Interactive} {Performance} {Sound} {System}},
+	volume = {6},
+	journal = {Leonardo Music Journal},
+	author = {Linz, R.},
+	year = {1996},
+	pages = {99--107}
+}
+
+
+@techreport{liu_detecting_nodate,
+	title = {Detecting and {Segmenting} {Periodic} {Motion}},
+	author = {Liu, F. and Picard, R.}
+}
+
+
+@unpublished{loveless_live_nodate,
+	title = {Live and {Media} {Performance}: {The} {Next} {Frontier}.“ {Performance} {Research} 4(2): 74-79},
+	author = {Loveless, Richard and Goodman, Lizbeth}
+}
+
+
+@inproceedings{lovell_using_1995,
+	title = {Using {Human} {Movement} to {Control} {Activities} in {Theatrical} {Environments}},
+	booktitle = {Proc. of {Third} {International} {Conference} on {Dance} and {Technology}},
+	author = {Lovell, R. and Mitchell, J.},
+	year = {1995}
+}
+
+
+@book{lovink_darkfibre_2002,
+	address = {Cambridge MA},
+	title = {{DarkFibre}: {Tracking} {Critical} {Internet} {Culture}},
+	publisher = {MIT Press},
+	author = {Lovink, G.},
+	year = {2002}
+}
+
+
+@book{lovink_uncanny_2002,
+	address = {Cambridge, MA},
+	title = {Uncanny {Networks}: {Dialogues} with the {Virtual} {Intelligentsia}},
+	publisher = {MITPress},
+	author = {Lovink, G.},
+	year = {2002}
+}
+
+
+@inproceedings{lovischach_music_2009,
+	address = {New York},
+	title = {Music at {Your} {Fingertips}: {An} {Electrotactile} {Fader}},
+	booktitle = {Proceedings of the 123rd {Audio} {Engineering} {Society} {Convention}},
+	publisher = {Audio Engineering Society},
+	author = {Lovischach, J.},
+	year = {2009}
+}
+
+
+@book{lunenfeld_digital_1999,
+	address = {Cambridge, Mass},
+	title = {The {Digital} {Dialectic}: {New} {Essays} on {New} {Media}},
+	publisher = {MIT Press},
+	editor = {Lunenfeld, P.},
+	year = {1999}
+}
+
+
+@article{lusted_controlling_1996,
+	title = {Controlling {Computers} with {Neural} {Signals}},
+	journal = {Scientific American},
+	author = {Lusted, H. S. and Knapp, R. B.},
+	month = {oct},
+	year = {1996},
+	pages = {58--63}
+}
+
+
+@inproceedings{lyons_facing_2001,
+	address = {New York, NY},
+	title = {Facing the {Music}. {A} {Facial} {Action} {Controlled} {Musical} {Interface}},
+	booktitle = {Proceedings of the 2001 {ACM} {Conference} on {Human} {Factors} in {Computing} {Systems}},
+	publisher = {ACM Press},
+	author = {Lyons, M. J. and Tetsutani, N.},
+	year = {2001},
+	pages = {309--310}
+}
+
+
+@incollection{machover_hyperinstruments_1992,
+	address = {San Francisco},
+	title = {Hyperinstruments - a {Composer}'s {Approach} to the {Evolution} of {Intelligent} {Musical} {Instruments}},
+	booktitle = {Cyberarts},
+	publisher = {Miller Freeman Inc},
+	author = {Machover, T.},
+	editor = {Jacobson, L.},
+	year = {1992},
+	pages = {67--76}
+}
+
+
+@unpublished{machover_hyperinstruments_1992-1,
+	title = {Hyperinstruments - a {Progress} {Report} 1987 - 1991},
+	author = {Machover, T.},
+	year = {1992}
+}
+
+
+@unpublished{machover_hyperinstruments_1989-1,
+	title = {Hyperinstruments: {Musically} {Intelligent} and {Interactive} {Performance} 1992. “{Hyperinstruments} and {Creativity} {Systems}.” {In} {Proceedings} of the 1989 {International} {Computer} {Music} {Conference}. {San} {Francisco}, {International} {Computer} {Music} {Association}, pp. 186-190},
+	author = {Machover, T. and Performance, J. and {Chung}},
+	year = {1989}
+}
+
+
+@book{mackenzie_transductions_2002,
+	address = {London},
+	title = {Transductions: {Bodies} and {Machines} at {Speed}},
+	publisher = {Continuum},
+	author = {Mackenzie, A.},
+	year = {2002}
+}
+
+
+@incollection{mackenzie_movement_1992,
+	address = {CA},
+	title = {Movement {Time} {Prediction} in {Human}-{Computer} {Interfaces}},
+	booktitle = {Readings in {Human}-{Computer} {Interaction}},
+	publisher = {Morgan-Kaufmann},
+	author = {MacKenzie, I. S.},
+	editor = {Interface, Proceedings Graphics},
+	year = {1992},
+	pages = {483--493}
+}
+
+
+@inproceedings{mackenzie_extending_1992,
+	address = {New York, NY},
+	title = {Extending {Fitts}' {Law} to {Two} {Dimensional} {Tasks}},
+	booktitle = {Proceedings of the 1992 {ACM} {Conference} on {Human} {Factors} in {Computing} {Systems}},
+	publisher = {ACM Press},
+	author = {MacKenzie, I. S. and Buxton, W.},
+	year = {1992},
+	pages = {219--226}
+}
+
+
+@article{mackinlay_semantic_1990,
+	title = {A {Semantic} {Analysis} of the {Design} {Space} of {Input} {Devices}},
+	volume = {5},
+	journal = {Human-Computer Interaction},
+	author = {Mackinlay, J. D. and Card, S. K. and Robertson, G. G.},
+	year = {1990},
+	pages = {145--190}
+}
+
+
+@inproceedings{maes_alive_1995,
+	title = {The {ALIVE} system: {Full}-body interaction with autonomous agents},
+	booktitle = {Proc. of the {Computer} {Animation} '95 {Conference}, {Geneva}, {Switzerland}},
+	author = {Maes, P. T. and Darrell, B. and Blumberg, A.Pentland},
+	year = {1995}
+}
+
+
+@inproceedings{maestre_acquisition_2007,
+	address = {Copenhagen},
+	title = {Acquisition of {Violin} {Instrumental} {Gestures} {Using} a {Commercial} {EMF} {Tracking} {Device}},
+	booktitle = {Proceedings of the 2007 {International} {Computer} {Music} {Conference}},
+	publisher = {Denmark},
+	author = {Maestre, E. and {others}},
+	year = {2007},
+	pages = {386--393}
+}
+
+
+@inproceedings{magnenat-thalmann_learning_2007,
+	title = {Learning {How} to {Dance} on the {Internet}},
+	booktitle = {Proc. {Sixth} {Int}'l {Conf}. {Web}-{Based} {Learning} ({ICWL} '07)},
+	author = {Magnenat-Thalmann, N. and Joslin, C.},
+	year = {2007}
+}
+
+
+@inproceedings{magnenat-thalmann_learn-_2007,
+	title = {Learn- ing {How} to {Dance} {Using} a {Web} {3D} {Platform}},
+	booktitle = {Proc. {Sixth} {Int}'l {Conf}. {Web}-{Based} {Learning}},
+	author = {Magnenat-Thalmann, N. D. Protopsaltou,  and {E.Kavakli}},
+	year = {2007},
+	pages = {1--12}
+}
+
+
+@inproceedings{magnusson_ixi_2005,
+	address = {Barcelona},
+	title = {ixi software: {Open} {Controllers} for {Open} {Source} {Audio} {Software}},
+	booktitle = {Proceedings of the {International} {Computer} {Music} {Conference} ({ICMC} 2005)},
+	publisher = {Pompeu Fabra University},
+	author = {Magnusson, T.},
+	year = {2005}
+}
+
+
+@article{magnusson_epistemic_2009,
+	title = {Of {Epistemic} {Tools}: {Musical} {Instruments} as {Cognitive} {Extensions}},
+	volume = {14},
+	number = {2},
+	journal = {Jounal of Organised Sound},
+	author = {Magnusson, T.},
+	year = {2009},
+	pages = {168--176}
+}
+
+
+@inproceedings{majoe_towards_2009,
+	address = {Malaysia},
+	title = {Towards {An} {Interactive} {Multimedia} {Experience} {For} {Club} {Music} {And} {Dance}},
+	booktitle = {Proceedings, {International} {Conference} on {Mobile} {Computing} and {Multimedia} {MOMM}},
+	publisher = {Kuala Lumpur},
+	author = {Majoe, D. and Kulka, I. and Schacher, J. C.},
+	year = {2009}
+}
+
+
+@inproceedings{malloch_towards_2006,
+	address = {Canada},
+	title = {Towards a {New} {Conceptual} {Framework} for {Digital} {Musical} {Instruments}},
+	booktitle = {Proceedings of the 9th {International} {Conference} on {Digital} {Audio} {Effects}},
+	publisher = {Montreal},
+	author = {Malloch, J. and Birnbaum, D. and Sinyor, E. and Wanerley, M. M.},
+	year = {2006},
+	pages = {49--52}
+}
+
+
+@inproceedings{malloch_controller_2007,
+	address = {Denmark},
+	title = {From controller to sound: {Tools} for collaborative development of digital musical instruments},
+	booktitle = {Proceedings of the {International} {Computer} {Music} {Conference} ({ICMC} 2007)},
+	publisher = {Copenhagen},
+	author = {Malloch, J. and Sinclair, S. and Wanderley, M. M.},
+	year = {2007},
+	pages = {65--72}
+}
+
+
+@inproceedings{malloch_network-based_2008,
+	address = {Berlin Heidelberg},
+	title = {A {Network}-based {Framework} for {Collaborative} {Development} and {Performance} of {Digital} {Musical} {Instruments}},
+	booktitle = {Proceedings of the {Computer} {Music} {Modeling} and {Retrieval} {Conference} ({CMMR} 2008), {LNCS} 4969},
+	publisher = {Springer-Verlag},
+	author = {Malloch, J. and Sinclair, S. and Wanderley, M. M.},
+	year = {2008},
+	pages = {401--425}
+}
+
+
+@book{malloy_women_2003,
+	address = {Cambridge, MA},
+	title = {Women, {Art} \& {Technology}},
+	publisher = {MIT Press},
+	editor = {Malloy, J.},
+	year = {2003}
+}
+
+
+@book{manovich_language_2001,
+	address = {Cambridge, MA},
+	title = {The {Language} of {New} {Media}},
+	publisher = {MIT Press},
+	author = {Manovich, L.},
+	year = {2001}
+}
+
+
+@phdthesis{marrin-nakra_inside_2000,
+	type = {{PhD} {Thesis}},
+	title = {Inside the {Conductor}'s {Jacket}: {Analysis}, {Interpretation} and {Musical} {Synthesis} of {Expressive} {Gestures}},
+	school = {MIT Media Lab},
+	author = {Marrin-Nakra, T.},
+	year = {2000}
+}
+
+
+@phdthesis{marrin_inside_2000,
+	type = {{PhD} {Thesis}},
+	title = {Inside the {Conductor}'s {Jacket}: {Analysis}, {Interpretation} and {Musical} {Synthesis} of {Expressive} {Gesture}},
+	school = {Massachusetts Institute of Technology},
+	author = {Marrin, T. A. Nakra},
+	year = {2000}
+}
+
+
+@mastersthesis{marrin_toward_1996,
+	title = {Toward an {Understanding} of {Musical} {Gesture}: {Mapping} {Expressive} {Intention} with the {Digital} {Baton}},
+	school = {Massachusetts Institute of Technology},
+	author = {Marrin, T. A.},
+	year = {1996}
+}
+
+
+@unpublished{marrin_possibilities_1997,
+	title = {Possibilities for the {Digital} {Baton} as a {General}-{Purpose} {Gestural} {Interface}.“, {In} {Proceedings} of the {CHI}'97 {Conference} on {Human} factors in {Computing} {Systems}, {Association} of {Computer} {Machinery}, pp. 311-312},
+	author = {Marrin, T. A.},
+	year = {1997}
+}
+
+
+@inproceedings{marrin_conductors_1998-1,
+	address = {Italy},
+	title = {The {Conductor}'s {Jacket}: a {Testbed} for {Research} on {Gestural} and {Affective} {Expression}},
+	booktitle = {Proceedings of the {XII} {Colloquium} for {Musical} {Informatics}},
+	publisher = {Gorizia},
+	author = {Marrin, T. A. and Picard, R.},
+	year = {1998}
+}
+
+
+@article{marshall_sensor_2009,
+	title = {Sensor {Choice} for {Parameter} {Modulations} in {Digital} {Musical} {Instruments}: {Empirical} {Evidence} from {Pitch} {Modulation}},
+	volume = {38},
+	number = {3},
+	journal = {Journal of New Music Research},
+	author = {Marshall, M. T. and Hartshorn, M. and Wanderley, M. M. and Levitin, D. J.},
+	year = {2009},
+	pages = {241--253}
+}
+
+
+@phdthesis{marshall_physical_2008,
+	type = {{PhD} {Thesis}},
+	title = {Physical {Interface} {Design} for {Digital} {Musical} {Instruments}},
+	school = {in Music Technology, McGill University},
+	author = {Marshall, M. T.},
+	year = {2008}
+}
+
+
+@incollection{marshall_evaluation_2006,
+	address = {Heidelberg},
+	title = {Evaluation of {Sensors} as {Input} {Devices} for {Computer} {Music} {Interfaces}. {Chapter} in {Computer} {Music} {Modeling} and {Retrieval} ({Richard} {Kronland}-{Martinet}, {Thierry} {Voinier}, {Sølvi} {Ystad}, eds.)},
+	volume = {3902},
+	booktitle = {Berlin /},
+	publisher = {Springer},
+	author = {Marshall, M. T. and Wanderley, M. M.},
+	year = {2006},
+	pages = {130--139}
+}
+
+
+@book{martin_theremin_1995,
+	address = {Los Angeles},
+	title = {Theremin. {An} {Electronic} {Odyssey}},
+	publisher = {Orion Home Video 5080, VHS video tape, 84 minutes},
+	author = {Martin, S.},
+	year = {1995}
+}
+
+
+@article{mathews_groove_1970,
+	title = {{GROOVE} - a {Program} to {Compose}, {Store}, and {Edit} {Functions} of {Time}},
+	volume = {13},
+	number = {12},
+	journal = {Communications of the ACM},
+	author = {Mathews, M. and Moore, F. R. d},
+	year = {1970},
+	pages = {715--721}
+}
+
+
+@inproceedings{mathews_groove_1969,
+	title = {{GROOVE}, a {Program} for {Realtime} {Control} of a {Sound} {Synthesizer} by a {Computer}},
+	booktitle = {Proceedings of the 4th {Annual} {Conference} of the {American} {Society} of {University} {Composers}, {New} {York}},
+	author = {Mathews, M. V. and Moore, R.},
+	year = {1969},
+	pages = {22--31}
+}
+
+
+@incollection{mathews_conductor_1989,
+	address = {Cambridge},
+	title = {The {Conductor} {Program} and the {Mechanical} {Baton}},
+	booktitle = {Current {Directions} in {Computer} {Music} {Research}. , {Mass}},
+	publisher = {The MIT Press},
+	author = {Mathews, M. V.},
+	editor = {Mathews, M. and Pierce, J.},
+	year = {1989},
+	pages = {263--282}
+}
+
+
+@techreport{mathews_real-time_1978,
+	title = {Real-{Time} {Synthesizer} {Control}},
+	author = {Mathews, M. V. and Bennet, G.},
+	year = {1978}
+}
+
+
+@book{mathews_current_1989,
+	address = {Cambridge, Mass.},
+	series = {System development foundation benchmark series: {The} {MIT2}},
+	title = {Current {Directions} in {Computer} {Music} {Research}},
+	publisher = {The MIT Press},
+	editor = {Mathews, M. V. and Pierce, J. R.},
+	year = {1989}
+}
+
+
+@article{mathews_program_1969,
+	title = {A {Program} to {Compose}, {Store}, and {Edit} {Functions} of {Time}},
+	volume = {13},
+	number = {12},
+	journal = {Communications of the ACM},
+	author = {Mathews, M. V. and Moore, R.},
+	year = {1969},
+	pages = {715--721}
+}
+
+
+@article{mathews_computers_1974,
+	title = {Computers and {Future} music},
+	volume = {183},
+	journal = {Science},
+	author = {Mathews, M. and Moore, F. R. and Risset, J.-C.},
+	year = {1974},
+	pages = {263--268}
+}
+
+
+@mastersthesis{matsumoto_using_1993,
+	title = {Using {Simple} {Controls} to {Manipulate} {Complex} {Objects}: {Application} to the {Drum}-{Boy} {Interactive} {Percussion} {System}},
+	school = {Massachusetts Institute of Technology},
+	author = {Matsumoto, F.},
+	year = {1993}
+}
+
+
+@book{matuck_tele-transmissaono_1996,
+	address = {“Telemáticae interatividade.”, “Crítica ao futuro iminente.” in O potencial dialógicoda televisão - Comunicação e arte na perspectiva do receptor. São Paulo, Anna Blume e Eca-USP},
+	title = {Tele-transmissãono contexto artístico},
+	publisher = {“Perspectivas da televisão interativa.”},
+	author = {Matuck, A.},
+	year = {1996}
+}
+
+
+@unpublished{maxwell_graphical_1986,
+	title = {Graphical marionette.“ in {Motion}:{Representation} and {Perception}, {Proceedings} {ACM} {SIGGRAPH}/{SIGART} {Interdisciplinary} {Workshop} on {Motion}, pp. 303-310},
+	author = {Maxwell, D. and Ginsberg, C.},
+	year = {1986}
+}
+
+
+@inproceedings{mcalpine_approaches_2009,
+	address = {New York},
+	title = {Approaches to {Creating} {Real}-{Time} {Adaptive} {Music} in {Interactive} {Entertainment}: {A} {Musical} {Perspective}},
+	booktitle = {Proceedings of the 128th {Audio} {Engineering} {Society} {Conference}},
+	publisher = {Audio Engineering Society},
+	author = {McAlpine, K. and Bett, M. and Scanlan, J.},
+	year = {2009}
+}
+
+
+@inproceedings{mcglynn_towards_2011,
+	title = {Towards for {Effective} {Mapping} {Strategies} for {Digital} {Musical} {Instruments}},
+	booktitle = {Proceedings from the 2011 {Linux} {Audio} {Conference} - {LAC11}},
+	author = {McGlynn, P.},
+	year = {2011}
+}
+
+
+@inproceedings{mcpherson_augmenting_2010,
+	title = {Augmenting the {Acoustic} {Piano} with {Electromagnetic} {String} {Actuation} and {Continuous} {Key} {Position} {Sensing}},
+	booktitle = {Proceedings of the 2010 {Conference} on {New} {Interfaces} for {Musical} {Expression} pp. 217 `},
+	author = {McPherson, A. and Kim, Y.},
+	year = {2010}
+}
+
+
+@book{menache_understanding_2000,
+	address = {San Diego},
+	title = {Understanding {Motion} {Capture} for {Computer} {Animation} and {Video} {Games}},
+	publisher = {Academic Press},
+	author = {Menache, A.},
+	year = {2000}
+}
+
+
+@book{menicacci_scena_2001,
+	address = {Bolzano},
+	title = {La scena digital: {Nuovi} media per la danza},
+	publisher = {Marsilio},
+	editor = {Menicacci, A. and Quinz, E.},
+	year = {2001}
+}
+
+
+@phdthesis{menzies_new_1999,
+	type = {{PhD} {Thesis}},
+	title = {New {Performance} {Instruments} for {Electroacoustic} {Music}},
+	school = {University of York UK},
+	author = {Menzies, D.},
+	year = {1999}
+}
+
+
+@inproceedings{menzies_cyberwhistle_1998,
+	address = {Italy},
+	title = {The {CyberWhistle}: {An} {Instrument} {For} {Live} {Performance}},
+	booktitle = {Proceedings of the {XII} {Colloquium} for {Musical} {Informatics}},
+	publisher = {Gorizia},
+	author = {Menzies, D. and Howard, D.},
+	year = {1998}
+}
+
+
+@inproceedings{merrill_sound_2008,
+	address = {Italy},
+	title = {The {Sound} of {Touch}: {Physical} {Manipulation} of {Digital} {Sound}},
+	booktitle = {Proceedings of {CHI}(2008)},
+	publisher = {Florence},
+	author = {Merrill, D. and Raffle, H. and Aimi, R.},
+	year = {2008},
+	pages = {739--742}
+}
+
+
+@phdthesis{metois_musical_1996,
+	type = {{PhD} {Thesis}},
+	title = {Musical {Sound} {Information}: {Musical} {Gestures} and {Embedding} {Systems}},
+	school = {MIT Media Lab},
+	author = {Metois, E.},
+	year = {1996}
+}
+
+
+@inproceedings{mihalic_pedalophone_1998,
+	title = {Pédalophone},
+	booktitle = {Proceedings of the {Journées} d'{Informatique} {Musicale}, pp. {D4}-1-},
+	author = {Mihalic, A.},
+	year = {1998},
+	pages = {D4--13}
+}
+
+
+@inproceedings{minnick_graphical_1990,
+	address = {UK},
+	title = {A {Graphical} {Editor} for {Building} {Unit} {Generator} {Patches}},
+	booktitle = {Proceedings of the {International} {Computer} {Music} {Conference} ({ICMC} 1990)},
+	publisher = {Glasgow},
+	author = {Minnick, M.},
+	year = {1990},
+	pages = {253--255}
+}
+
+
+@article{mion_modeling_2010,
+	title = {Modeling {Expression} with {Perceptual} {Audio} {Features} to {Enhance} {User} {Interaction}},
+	volume = {34},
+	number = {1},
+	journal = {Computer Music Journal},
+	author = {Mion, L. and D'Inca, G. and de Gotzen, A. and Rapana, E.},
+	year = {2010},
+	pages = {65--79}
+}
+
+
+@book{miranda_new_2006,
+	title = {New digital musical instruments: control and interaction beyond the keyboard},
+	publisher = {A-R Editions Inc},
+	author = {Miranda, E. R. and Wanderley, M. M.},
+	year = {2006}
+}
+
+
+@inproceedings{misdariis_radiation_2001,
+	address = {San Francisco},
+	title = {Radiation {Control} on {Multi}-{Loudspeaker} {Device}: {La} {Timee}},
+	booktitle = {Proceedings of the 2001 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Misdariis, N. and Nicolas, F. and Warusfel, O. and {RCausse}},
+	year = {2001}
+}
+
+
+@inproceedings{mitchell_environment_1995,
+	address = {Canada},
+	title = {Environment for the {Interactive} {Design} of {Emergent} {Art}},
+	booktitle = {International {Symposium} on {Electronic} {Art}},
+	publisher = {Montreal},
+	author = {Mitchell, J. D. and Lovell, R.},
+	year = {1995}
+}
+
+
+@book{mitchell_r_2004,
+	address = {New York},
+	title = {R., and {T}., {Phillip}},
+	publisher = {Routledge},
+	author = {{Mitchell}},
+	year = {2004}
+}
+
+
+@inproceedings{modler_interactive_1998,
+	title = {Interactive {Control} of {Musical} {Structures} by {Hand} {Gestures}},
+	booktitle = {Proceedings of the {Fifth} {Brazilian} {Symposium} on {Computer} {Music}},
+	author = {Modler, P.},
+	year = {1998},
+	pages = {143--150}
+}
+
+
+@incollection{modler_neural_2000,
+	address = {Centre Pompidou},
+	title = {Neural {Networks} for {Mapping} {Gestures} to {Sound} {Synthesis}},
+	booktitle = {Trends in {Gestural} {Control} of {Music}},
+	publisher = {Ircam},
+	author = {Modler, P.},
+	editor = {Wanderley, M. and Battier, M.},
+	year = {2000}
+}
+
+
+@inproceedings{modler_proceedings_1997,
+	title = {Proceedings {Zannos}},
+	booktitle = {Emotional {Aspects} of {Gesture} {Recognition} by a {Neural} {Network}, using {Dedicated} {Input} {Devices}.},
+	author = {Modler, P. and Emotion, I.},
+	editor = {Kansei, In},
+	year = {1997},
+	pages = {3--4}
+}
+
+
+@inproceedings{moog_position_1987,
+	title = {Position and {Force} {Sensors} and their {Application} to {Keyboards} and {Related} {Controllers}},
+	booktitle = {{AES} 5 th {International} {Conference}. {New} {York}, {NY}},
+	author = {Moog, R.},
+	year = {1987}
+}
+
+
+@article{moog_controller_1993,
+	title = {Controller oddities},
+	volume = {19},
+	number = {3},
+	journal = {Keyboard},
+	author = {Moog, R.},
+	year = {1993},
+	pages = {44--49}
+}
+
+
+@inproceedings{moore_disfunctions_1987,
+	address = {San Francisco},
+	title = {The {Disfunctions} of {MIDI}},
+	booktitle = {Proceedings of the 1987 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Moore, F. R.},
+	year = {1987},
+	pages = {256--262}
+}
+
+
+@book{morse_hardware_1997,
+	address = {Karlsruhe},
+	title = {Hardware, {Software}, {Artware}: {Confluence} of {Art} and {Technology}–{Art} {Practice} at the {ZKM} {Institute} for {Visual} {Media}},
+	publisher = {ZKM},
+	editor = {Morse, M.},
+	year = {1997}
+}
+
+
+@book{moser_immersed_1996,
+	address = {Cambridge},
+	title = {Immersed in {Technology}: {Art} and {Virtual} {Environments}},
+	publisher = {MIT Press},
+	editor = {Moser, M. and MacLeod, D.},
+	year = {1996}
+}
+
+
+@book{mulder_viewing_1991,
+	address = {Columbus, Ohio, USA},
+	title = {Viewing dance as instrumental to music. {Interface} 4 (2), 15-17},
+	publisher = {ACCAD, Ohio state university},
+	author = {Mulder, A.},
+	year = {1991}
+}
+
+
+@article{mulder_toward_2000,
+	title = {Toward a choice of gestural constraints for instrumental performers},
+	journal = {Trends in Gestural Control of Music},
+	author = {Mulder, A.},
+	year = {2000},
+	pages = {315--335}
+}
+
+
+@article{mulder_how_1994,
+	title = {How to {Build} an {Instrumented} {Glove} based on the {Powerglove} {Flex} {Sensors}},
+	volume = {16},
+	journal = {PCVR Magazine},
+	author = {Mulder, A.},
+	year = {1994},
+	pages = {10--14}
+}
+
+
+@unpublished{mulder_human_1994,
+	title = {Human {Movement} {Tracking} {Technology}},
+	author = {Mulder, A.},
+	year = {1994}
+}
+
+
+@inproceedings{mulder_virtual_1994,
+	address = {Caxambu, Minas Gerais},
+	title = {Virtual {Musical} {Instruments}: {Accessing} the {Sound} {Synthesis} {Universe} as a {Performer}},
+	booktitle = {Proceedings of the {First} {Brazilian} {Symposium} on {Computer} {Music}},
+	author = {Mulder, A.},
+	year = {1994},
+	pages = {243--250}
+}
+
+
+@techreport{mulder_human_1995,
+	title = {Human {Movement} {Tracking} {Technology}: {Resources}},
+	author = {Mulder, A.},
+	year = {1995}
+}
+
+
+@article{mulder_getting_1996,
+	title = {Getting a {Grip} on {Alternate} {Controllers}: {Addressing} the {Variability} of {Gestural} {Expression} in {Musical} {Instrument} {Design}},
+	volume = {6},
+	journal = {Leonardo Music Journal},
+	author = {Mulder, A.},
+	year = {1996},
+	pages = {33--40}
+}
+
+
+@techreport{mulder_hand_1996,
+	type = {Technical {Report}},
+	title = {Hand {Gestures} for {HCI}},
+	number = {96-1},
+	institution = {Simon Fraser University},
+	author = {Mulder, A.},
+	year = {1996}
+}
+
+
+@book{mulder_design_1998,
+	address = {PhD. thesis. Burnaby, BC, Canada},
+	title = {Design of {Virtual} {Three}-{Dimensional} {Instruments} for {Sound} {Control}},
+	publisher = {Simon Fraser University},
+	author = {Mulder, A.},
+	year = {1998}
+}
+
+
+@inproceedings{mulder_sound_1998,
+	title = {Sound {Sculpting}: {Manipulating} {Sound} through {Virtual} {Sculpting}},
+	booktitle = {Proceedings of the 1998 {Western} {Computer} {Graphics} {Symposium}},
+	author = {Mulder, A. and Fels, S.},
+	year = {1998},
+	pages = {15--23}
+}
+
+
+@inproceedings{mulder_sound_1998-1,
+	title = {Sound {Sculpting}: {Performing} with {Virtual} {Musical} {Instruments}},
+	booktitle = {Proceedings of the {Fifth} {Brazilian} {Symposium} on {Computer} {Music}},
+	author = {Mulder, A. and Fels, S.},
+	year = {1998},
+	pages = {151--164}
+}
+
+
+@incollection{mulder_mapping_1997,
+	title = {Mapping {Virtual} {Object} {Manipulation} to {Sound} {Variation}},
+	booktitle = {{IPSJSIG} notes 97(122):63-68},
+	author = {Mulder, A. and Fels, S. and Mase, K.},
+	editor = {Rai, T. and Basset, R.},
+	year = {1997}
+}
+
+
+@inproceedings{mulder_empty-handed_1997,
+	title = {Empty-{Handed} {Gesture} {Analysis} in {Max}/{FTS}},
+	booktitle = {Genoa:{Associazione} di {Informatica} {Musicale} {Italiana}},
+	publisher = {October 3-4},
+	author = {Mulder, A. and Fels, S. and Mase, K.},
+	editor = {Kansei, The},
+	year = {1997},
+	pages = {87--91}
+}
+
+
+@inproceedings{murray-browne_serendiptichord_2010,
+	address = {New York},
+	title = {The {Serendiptichord}: {A} {Wearable} {Instrument} for {Contemporary} {Dance} {Performance}},
+	booktitle = {Proceedings of the 128th {Audio} {Engineering} {Society} {Convention}},
+	publisher = {Audio Engineering Society},
+	author = {Murray-Browne, T. and {others}},
+	year = {2010}
+}
+
+
+@article{murray_digital_1998,
+	title = {Digital {Incompossibility}: {The} {Aesthetics} of {Interactivity}},
+	journal = {distributed on disk in theform of an electronic catalogue to participants of “La Sensibilitat multimedia: il journades sobre ar I multimedia.” Fundacio “la Caixa, ” Barcelona},
+	author = {Murray, T.},
+	year = {1998}
+}
+
+
+@article{myatt_strategies_2002,
+	title = {Strategies for {Interaction} in {Construction} 3},
+	volume = {7},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Myatt, T.},
+	year = {2002},
+	pages = {157--169}
+}
+
+
+@inproceedings{nagashima_its_1999,
+	address = {San Francisco},
+	title = {It's {SHO} time - {An} {Interactive} {Environment} for {SHO}({Sheng}) {Performance}},
+	booktitle = {Proceedings of the 1999 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Nagashima, Y. and Tanami, T.-I.},
+	year = {1999},
+	pages = {32--35}
+}
+
+
+@article{nakamura_dance_2005,
+	title = {Dance {Training} {System} with {Active} {Vibro}-{Devices} and a {Mobile} {Image} {Display}},
+	volume = {05)},
+	journal = {Proc. IEEE/RSJ Int'l Conf. Intelligent Robots and Systems (IROS},
+	author = {Nakamura, A. S. and Tabata, T. and Ueda, S. Kiyofuji and {Y.Kuno}},
+	year = {2005},
+	pages = {3075--3080}
+}
+
+
+@article{naugle_digital_1998,
+	title = {Digital {Dancing}},
+	volume = {5},
+	number = {4},
+	journal = {IEEE Multimedia},
+	author = {Naugle, L.},
+	year = {1998},
+	pages = {8--12}
+}
+
+
+@article{naugle_digitaldancing_1998,
+	title = {{DigitalDancing}},
+	volume = {5},
+	number = {4},
+	journal = {IEEE Multimedia. IEEE Computer Society},
+	author = {Naugle, L.},
+	month = {dec},
+	year = {1998}
+}
+
+
+@inproceedings{naugle_internetperformance_1998,
+	title = {{InternetPerformance}: {Reflections} on {Dancing} in {Cyberspace}},
+	booktitle = {Proceedings of the {MultimediaTechnology} and {Applications} {Conference}},
+	author = {Naugle, L.},
+	year = {1998},
+	pages = {14--18}
+}
+
+
+@inproceedings{naugle_cassandraproject_1998,
+	title = {The {CassandraProject}: {In} the {Mediascape} of the {Internet}},
+	booktitle = {Proceedings of the 31st {AnnualConference} {Congress} on {Research} in {Dance}},
+	author = {Naugle, L.},
+	year = {1998},
+	pages = {101--108}
+}
+
+
+@article{naugle_distributedchoreography_2002,
+	title = {{DistributedChoreography} in a {Video}-{Conference} {Environment}},
+	volume = {71},
+	journal = {Performance Art Journal},
+	author = {Naugle, L.},
+	year = {2002},
+	pages = {56--61}
+}
+
+
+@book{naugle_probing_2003,
+	address = {October, Toronto, Canada},
+	title = {Probing the {Barriers} to {Dance} and {Other} {Worlds}: {Separation} and {Connection} through {Internet}},
+	publisher = {Association for Internet Researchers},
+	author = {Naugle, L.},
+	year = {2003}
+}
+
+
+@phdthesis{naugle_studyof_2002,
+	type = {{PhD} {Thesis}},
+	title = {A {Studyof} {On}-line {Collaborative} {Choreography} {Using} {Life} {Forms} and {Internet} {Communication}},
+	school = {New York University, Department of Music and Performing Arts Professions, Dance Education Program},
+	author = {Naugle, L.},
+	year = {2002}
+}
+
+
+@inproceedings{naugle_reconstructing_1999,
+	title = {Reconstructing a {Late} {Work} of {Hanya} {Holm}: {Stage} {Success} and {ElectronicHeartache}},
+	booktitle = {Proceedings of the {Society} of {Dance} {History} {Scholars}},
+	author = {Naugle, L. and {G.Claudia}},
+	year = {1999},
+	pages = {63--67}
+}
+
+
+@article{naugle_university_1997,
+	title = {A {University} {Dance} {Course} in {Cyberspace}: {The} {Telelearning} {Experience}},
+	volume = {12},
+	number = {1},
+	journal = {Journal of Distance Education},
+	author = {Naugle, L. and {G.Iris}},
+	year = {1997}
+}
+
+
+@inproceedings{naveda_representation_2008,
+	address = {Pisa, Italy},
+	title = {Representation of {Samba} dance gestures, using a multi-modal analysis approach},
+	booktitle = {5th {International} {Conference} on {Enactive} {Interfaces}},
+	publisher = {Edizione ETS},
+	author = {Naveda, L. and Leman, M.},
+	year = {2008}
+}
+
+
+@book{newman_videogames_2004,
+	address = {London},
+	title = {Videogames},
+	publisher = {Routledge},
+	author = {Newman, J.},
+	year = {2004}
+}
+
+
+@inproceedings{newton_augmentalist_2011,
+	title = {The {Augmentalist}: {Enabling} {Musicians} to {Develop} {Augmented} {Musical} {Instruments}},
+	booktitle = {Proceedings of the 5th {International} {Conference} on {Tangible}, {Embedded} and {Embodied} {Interaction}},
+	author = {Newton, D. and Marshall, M. T.},
+	year = {2011},
+	pages = {249--252}
+}
+
+
+@article{ng_sensing_2002,
+	title = {Sensing and {Mapping} for {Interactive} {Performance}},
+	volume = {7},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Ng, K.},
+	year = {2002},
+	pages = {191--200}
+}
+
+
+@inproceedings{ng_music_2004,
+	title = {Music via {Motion}: {Transdomain} {Mapping} of {Motion} and {Sound} for {Interactive} {Performances}},
+	volume = {92},
+	booktitle = {Proceedings of the {IEEE}},
+	author = {Ng, K. C.},
+	year = {2004},
+	pages = {645--655}
+}
+
+
+@article{nichols_vbow_2002,
+	title = {The {vBow}: a virtual violin bow controller for mapping gesture to synthesis with haptic feedback},
+	volume = {7},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Nichols, C.},
+	year = {2002},
+	pages = {215--220}
+}
+
+
+@book{nyce_linear_2004,
+	address = {Hoboken, USA},
+	title = {Linear {Position} {Sensors}: {Theory} and {Application}},
+	publisher = {John Wiley and Sons},
+	author = {Nyce, D. S.},
+	year = {2004}
+}
+
+
+@book{osullivan_physical_2004,
+	address = {Boston},
+	title = {Physical computing: sensing and controlling the physical world with computers},
+	publisher = {Thomson Course Technology},
+	author = {O'Sullivan, D. and Igoe, T.},
+	year = {2004}
+}
+
+
+@inproceedings{osullivan_visualizing_2011,
+	address = {New York},
+	title = {Visualizing and {Controlling} {Sound} with {Graphical} {Interfaces}},
+	booktitle = {Proceedings of the 131st {Audio} {Engineering} {Society} {Convention}},
+	publisher = {Audio Engineering Society},
+	author = {O'Sullivan, L. and Boland, F.},
+	year = {2011},
+	pages = {2--4}
+}
+
+
+@inproceedings{obrenovic_flexible_2005,
+	address = {New York, NY},
+	title = {A flexible system for creating music while interacting with the computer},
+	booktitle = {13th {Annual} {ACM} {International} {Conference} on {Multimedia}},
+	publisher = {USA},
+	author = {Obrenovic, Z.},
+	year = {2005},
+	pages = {996--1004}
+}
+
+
+@article{oosterling_hypo-critical_2001,
+	title = {Hypo-critical {Theatre}: {Holandia}'s {Intermedial} {Multiverse}},
+	volume = {6},
+	number = {3},
+	journal = {Performance},
+	author = {Oosterling, H.},
+	year = {2001},
+	pages = {61--67}
+}
+
+
+@inproceedings{orio_model_1999,
+	title = {A {Model} for {Human}-{Computer} {Interaction} {Based} on the {Recognition} of {Musical} {Gestures}},
+	booktitle = {Proceedings of the 1999 {IEEE} {International} {Conference} on {Systems}, {Man} and {Cybernetics}, pp. 333?338},
+	author = {Orio, N.},
+	year = {1999}
+}
+
+
+@article{orio_progetto_1998,
+	title = {Progetto di un controllore gestuale azionato dal cavo orale. {Tesi} {diLaurea}},
+	volume = {1998},
+	journal = {Universita di Padova, Italy},
+	author = {Orio, N.},
+	year = {1998}
+}
+
+
+@inproceedings{overholt_matrix_2001,
+	address = {San Francisco},
+	title = {The {MATRIX}: {A} {New} {Musical} {Instrument} for {Interactive} {Performance}},
+	booktitle = {Proceedings of the 2001 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Overholt, D.},
+	year = {2001}
+}
+
+
+@article{overholt_musical_2009,
+	title = {The {Musical} {Interface} {Technology} {Design} {Space}},
+	volume = {14},
+	number = {2},
+	journal = {Organised Sound},
+	author = {Overholt, D.},
+	year = {2009},
+	pages = {217--226}
+}
+
+
+@article{overholt_multimodal_2009,
+	title = {A {Multimodal} {System} for {Gesture} {Recognition} in {Interactive} {Music} {Performance}},
+	volume = {33},
+	number = {4},
+	journal = {Computer Music Journal},
+	author = {Overholt, D. Thompson and Putnam, J. and Bell, L. and Kleban, B. and J. Sturm, B. and Kuchera-Morin, J.},
+	year = {2009},
+	pages = {69--82}
+}
+
+
+@article{overholt_multimodal_2009-1,
+	title = {A {Multimodal} {System} for {Gesture} {Recognition} in {Interactive} {Music} {Performance}“, {Computer} {Music} {Journal}, 33:4, pp},
+	journal = {69–82},
+	author = {Overholt, D. and Thompson, J. and Putnam, L. and Bell, B. and Kleban, J. and Sturm, B. and Kuchera-Morin, J.},
+	year = {2009}
+}
+
+
+@article{overholt_advancements_2011,
+	title = {Advancements in {Actuated} {Musical} {Instruments}},
+	volume = {16},
+	number = {2},
+	journal = {Journal of Organised Sound},
+	author = {Overholt, D. Berdahl E. and Hamilton, R.},
+	year = {2011},
+	pages = {154--165}
+}
+
+
+@incollection{paine_gesture_2009,
+	address = {Oxford},
+	title = {Gesture and {Morphology} in {Laptop} {Music} {Performance}},
+	booktitle = {The {Oxford} {Handbook} of {Computer} {Music} and {Digital} {Sound} {Culture}},
+	publisher = {Oxford University Press},
+	author = {Paine, G.},
+	editor = {Dean, R. T.},
+	year = {2009},
+	pages = {299--329}
+}
+
+
+@article{paine_towards_2009,
+	title = {Towards {Unified} {Design} {Guidelines} for {New} {Interfaces} for {Musical} {Expression}},
+	volume = {14},
+	number = {2},
+	journal = {Journal of Organised Sound},
+	author = {Paine, G.},
+	year = {2009},
+	pages = {142--155}
+}
+
+
+@book{pallas-areny_sensors_2001,
+	address = {New York, USA},
+	edition = {2nd},
+	title = {Sensors and {Signal} {Conditioning}},
+	publisher = {Wiley Interscience},
+	author = {Pallàs-Areny, R. and Webster, J. G.},
+	year = {2001}
+}
+
+
+@article{paradiso_electronic_1997,
+	title = {Electronic {Music}: {New} {Ways} to play},
+	volume = {34},
+	number = {12},
+	journal = {IEEE Spectrum},
+	author = {Paradiso, J.},
+	year = {1997},
+	pages = {18--30}
+}
+
+
+@article{paradiso_brain_1999,
+	title = {The {Brain} {Opera} {Technology}: {New} {Instruments} and {Gestural} {Sensors} for {Musical} {Interaction} and {Performance}},
+	volume = {28},
+	number = {2},
+	journal = {Journal of New Music Research},
+	author = {Paradiso, J.},
+	year = {1999},
+	pages = {130}
+}
+
+
+@article{paradiso_interactive_1996,
+	title = {The {Interactive} {Ballon}: {Sensing}, {Actuation}, and {Behavior} in a {Common} {Object}},
+	volume = {35},
+	number = {3/4},
+	journal = {IBM Systems Journal},
+	author = {Paradiso, J. A.},
+	year = {1996},
+	pages = {473--487}
+}
+
+
+@unpublished{paradiso_interactive_1999,
+	title = {Interactive {Music} for {Instrumented} {Dancing} {Shoes}.“ {In} {Proceedings} of the 1999 {International} {Computer} {Music} {Conference}. {San} {Francisco}, {International} {Computer} {Music} {Association}, pp. 453-456},
+	author = {Paradiso, J. A. and Chu, E. and Hsiao, K.-Y.},
+	year = {1999}
+}
+
+
+@article{paradiso_magic_1997,
+	title = {The {Magic} {Carpet}: {Physical} {Sensing} for {Immersive} {Environments}},
+	journal = {CHI97 Electronic Publications: Late-Breaking/Short Demonstrations},
+	author = {Paradiso, J. and Abler, C. and Hsiao, K. and Reynolds, M.},
+	year = {1997}
+}
+
+
+@inproceedings{paradiso_expressive_1997,
+	title = {Expressive {Footwear} for {Computer}-{Augmented} {Dance} {Performance}},
+	booktitle = {Proc. of the {Int}. {Symp}. on {WearableComputers}. {Cambridge}, {MA}, {IEEE} {Comp}. {Soc}. {Pr}},
+	author = {Paradiso, J. and Hu, E.},
+	year = {1997},
+	pages = {165--166}
+}
+
+
+@article{paradiso_current_2003,
+	title = {Current {Trends} in {Electronic} {Music} {Interfaces}},
+	volume = {32},
+	number = {4},
+	journal = {Journal of New Music Research},
+	author = {Paradiso, J. and Modhrain, M. Ó},
+	year = {2003},
+	pages = {345}
+}
+
+
+@inproceedings{paradiso_magic_1997-1,
+	title = {The {Magic} {Carpet}: {Physical} {Sensing} for {Immersive} {En}- vironments},
+	booktitle = {Conference on {Human} {Factors} in {Computing} {Systems}, {New} {York}, {NY}},
+	publisher = {ACM Press},
+	author = {Paradiso, J. and Abler, C. and Hsiao, K. and Reynolds, M.},
+	year = {1997}
+}
+
+
+@inproceedings{paradiso_cybershoe_1999,
+	title = {The {CyberShoe}: {A} {Wireless} {Multisensor} {Interface} for a {Dancer}'s {Feet}},
+	booktitle = {Proc. {Intl}. {Dance} and {Technology} 99. {Tempe} {AZ}},
+	author = {Paradiso, J. and E., Hu K.Hsiao},
+	year = {1999}
+}
+
+
+@unpublished{paradiso_design_2000,
+	title = {Design and {Implementation} of {Expressive} {Footwear}, “{IBM} {Systems} {Journal}. 39(3,4): pp. 511-529},
+	author = {Paradiso, J. and {others}},
+	year = {2000}
+}
+
+
+@inproceedings{paradiso_instrumented_1998,
+	title = {Instrumented {Footwear} for {Interactive} {Dance}},
+	booktitle = {Proc. {Of} the {International} {Dance} and {Technology} 99 ({IDAT99}). {Tempe} {AZ}},
+	author = {Paradiso, J. and Hu, E. and Hsiao, K.},
+	year = {1998}
+}
+
+
+@inproceedings{paradiso_passive_2002,
+	title = {Passive {Acoustic} {Knock} {Tracking} for {Interactive} {Windows}},
+	booktitle = {Proceedings of the {CHI}'02 {Conference} on {Human} {Factors} in {Computing} {Systems}, {Minneapolis}, {USA}},
+	author = {Paradiso, J. and Leo, C. K. and Checka, N. and Hsiao, K.},
+	year = {2002},
+	pages = {732--733}
+}
+
+
+@article{paraguai_artistic_2001,
+	title = {Artistic {Environments} of {Telepresence} on the {World} {WideWeb}},
+	volume = {34},
+	number = {5},
+	journal = {Leonardo},
+	author = {Paraguai, D. and Prado, L. Gilberto},
+	year = {2001},
+	pages = {437--442}
+}
+
+
+@inproceedings{pendharkar_parameterized_2006,
+	title = {Parameterized {Morphing} as a {Mapping} {Technique} for {Sound} {Synthesis}},
+	booktitle = {Proceedings of the 9th {International} {Conference} on {Digital} {Audio} {Effects} - {DA}},
+	author = {Pendharkar, C. and Gurevich, M. and Wyse, L.},
+	year = {2006},
+	pages = {Fx--06}
+}
+
+
+@article{pennycook_computer_1985,
+	title = {Computer {Music} {Intrerfaces}: {A} {Survey}},
+	volume = {17},
+	number = {2},
+	journal = {ACM Computing Survey, Association for Computing Machinery, Special},
+	author = {Pennycook, B.},
+	year = {1985},
+	pages = {267--289}
+}
+
+
+@article{pennycook_computer-music_1985,
+	title = {Computer-{Music} {Interfaces}: {A} {Survey}},
+	volume = {17},
+	number = {2},
+	journal = {ACM Computing Surveys},
+	author = {Pennycook, B. W.},
+	year = {1985},
+	pages = {267--289}
+}
+
+
+@inproceedings{petersen_development_2008,
+	title = {Development of a {Real}-{Time} {Instrument} {Tracking} {System} for {Enabling} the {Musical} {Interaction} with the {Waseda} {Flutist} {Robot}},
+	booktitle = {{IEEE}/{RSJ} {International} {Conference} on {Intelligent} {Robots} and {Systems}},
+	publisher = {Nice},
+	author = {Petersen, K. Solis J. and Takanishi, A.},
+	year = {2008},
+	pages = {313--318}
+}
+
+
+@inproceedings{petersen_development_2009,
+	address = {MO},
+	title = {Development of a {Aural} {Real}-{Time} {Rhythmical} and {Harmonic} {Tracking} to {Enable} the {Musical} {Interaction} with the {Waseda} {Flutist} {Robot}},
+	booktitle = {{IEEE}/{RSJ} {International} {Conference} on {Intelligent} {Robots} and {Systems}},
+	publisher = {St. Louis},
+	author = {Petersen, K. Solis J. and Takanishi, A.},
+	year = {2009},
+	pages = {2303--2308}
+}
+
+
+@article{petersen_musical-based_2010,
+	title = {Musical-based interaction system for the {Waseda} {Flutist} {Robot}},
+	volume = {28},
+	number = {4},
+	journal = {Autonomous Robots},
+	author = {Petersen, K. Solis J. and Takanishi, A.},
+	year = {2010},
+	pages = {471--488}
+}
+
+
+@book{pimentel_science_1993,
+	address = {London},
+	title = {The science of virtual reality: through the new looking glass},
+	publisher = {McGraw-Hill},
+	author = {Pimentel, K. and Teixeira, K.},
+	year = {1993}
+}
+
+
+@unpublished{piringer_elektronische_2001,
+	title = {Elektronische {Musik} un {Interaktivität}. {Prinzipien}, {Konzepte}, {Anwendungen}.“, {MSc} {Thesis}. {Wien}, {Austria}: {Technischen} {Universität} {Wien}},
+	author = {Piringer, J.},
+	year = {2001}
+}
+
+
+@inproceedings{polana_low_1994,
+	title = {Low level recognition of human motion},
+	booktitle = {Proc. of {IEEE} {Workshop} on {Motion} of {Non}-{Rigid} and {Articulated} {Objects}, {Austin}, {Texas}},
+	author = {Polana, R. and Nelson, R.},
+	year = {1994},
+	pages = {77--82}
+}
+
+
+@inproceedings{polfreman_human_1995,
+	address = {San Francisco},
+	title = {A {Human} {Factors} {Approach} to {Computer} {Music} {Systems} {User}-{Interface} {Design}},
+	booktitle = {Proceedings of the 1995 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Polfreman, R. and Sapsford-Francis, J.},
+	year = {1995},
+	pages = {381--384}
+}
+
+
+@techreport{politis_survey_1990,
+	title = {A survey of {Computers} in {Dance}},
+	author = {Politis, G.},
+	year = {1990}
+}
+
+
+@article{politis_computers_nodate,
+	title = {Computers and dance : {A} bibliography},
+	volume = {23},
+	number = {1},
+	journal = {Leonardo},
+	author = {Politis, G.},
+	pages = {87--90}
+}
+
+
+@article{popat_dance-making_2002,
+	title = {Dance-{Making} on the {Internet}: {Can} {Online} {Choreographic} {Projects} {Foster} {Creativity} in the {User}-{Participant}?},
+	volume = {35},
+	number = {1},
+	journal = {Leonardo},
+	author = {Popat, S. and Smith-Autard, J.},
+	year = {2002},
+	pages = {31--36}
+}
+
+
+@article{pope_real-time_1993,
+	title = {Real-{Time} {Performance} via {User} {Interfaces} to {Musical} {Structures}},
+	volume = {22},
+	number = {3},
+	journal = {Journal of Interface},
+	author = {Pope, S. T.},
+	year = {1993},
+	pages = {195--212}
+}
+
+
+@incollection{pottier_controinteractif_1999,
+	address = {Marseille},
+	title = {Contrôle interactif d'une voix chantée de synthèse},
+	booktitle = {Les nouveaux gestes de la musique},
+	publisher = {Editions Parenthèses},
+	author = {Pottier, L.},
+	editor = {Genevois, H. and Vivo, R. de},
+	year = {1999},
+	pages = {175--180}
+}
+
+
+@book{pousset_flute-midi_1992,
+	address = {Mémoire de Maîtrise},
+	title = {La flûte-{MIDI}, l'histoire et quelques applications},
+	publisher = {Université Paris-Sorbonne},
+	author = {Pousset, D.},
+	year = {1992}
+}
+
+
+@article{prado_cronologiasde_1997,
+	title = {Cronologiasde experiências artísticas nas redes de telecomunicações},
+	journal = {Trilhas, Campinas, SP, Unicamp},
+	author = {Prado, G.},
+	year = {1997},
+	pages = {77--103}
+}
+
+
+@book{preece_interaction_2002,
+	address = {Hoboken, NJ.},
+	title = {Interaction {Design}: {Beyond} {Human}-{Computer} {Interaction}},
+	publisher = {John Wiley \& Sons, Inc},
+	author = {Preece, J. Y. and Rogers, H.Sharp},
+	year = {2002}
+}
+
+
+@book{pressing_synthesizer_1992,
+	address = {Madison, Wisconsin},
+	title = {Synthesizer {Performance} and {Real}-{Time} {Techniques}},
+	publisher = {A-R Editions},
+	author = {Pressing, J.},
+	year = {1992}
+}
+
+
+@inproceedings{puckette_pure_1996,
+	address = {Japan},
+	title = {Pure {Data}: {Another} {Integrated} {Computer} {Music} {Environment}},
+	booktitle = {Proceedings of the {Second} {Intercollege} {Computer} {Music} {Concerts}},
+	publisher = {Tachikawa},
+	author = {Puckette, M.},
+	year = {1996},
+	pages = {37--41}
+}
+
+
+@article{pulfer_man-machine_1995,
+	title = {Man-{Machine} {Communication} in {Creative} {Applications}},
+	volume = {1971},
+	journal = {International Journal of Man-Machine Studies},
+	author = {Pulfer, J. K.},
+	year = {1995},
+	pages = {3}
+}
+
+
+@mastersthesis{putnam_use_1993,
+	title = {The {Use} of the {Electromyogram} for the {Control} of {Musical} {Performance}},
+	school = {San Jose State University, CA},
+	author = {Putnam, W.},
+	year = {1993}
+}
+
+
+@unpublished{putnam_inputdata_nodate,
+	title = {Input/{Data} {Acquisition} {System} {Design} for {Human} {Computer} {Interfacing}.“},
+	author = {Putnam, W. and Knapp, B.}
+}
+
+
+@inproceedings{qian_gesture-driven_2004,
+	title = {A {Gesture}-{Driven} {Multimodal} {Interactive} {Dance} {System}},
+	booktitle = {Proc. {IEEE} {Int}'l {Conf}. {Multimedia} and {Expo} ({ICME} '04)},
+	author = {Qian, G. F. and Guo, T. and Ingalls, L. and Olson, J. James and {T.Rikakis}},
+	year = {2004},
+	pages = {1579--1582}
+}
+
+
+@phdthesis{ramstein_analyse_1991,
+	type = {{PhD} {Thesis}},
+	title = {Analyse, représentation et traitement du geste instrumental},
+	school = {Institut National Polytechnique de Grenoble},
+	author = {Ramstein, C.},
+	year = {1991}
+}
+
+
+@inproceedings{ramstein_pantograph_1994,
+	title = {The {Pantograph}: a {Large} {Workspace} {Haptic} {Device} for a {Multi}-{Modal} {Human}-{Computer} {Interaction}},
+	booktitle = {Proceedings of the {CHI}'94 {Conference} on {Human} factors in {Computing} {Systems}, {Association} of {Computer} {Machinery}},
+	author = {Ramstein, C. and Hayward, V.},
+	year = {1994}
+}
+
+
+@inproceedings{rasamimanana_modular_2011,
+	title = {Modular {Musical} {Objects} {Towards} {Embodied} {Control} of {Digital} {Music}},
+	booktitle = {Proceedings of {Tangible} and {Embedded} {Interaction}},
+	author = {Rasamimanana, N. and {others}},
+	year = {2011},
+	pages = {9--12}
+}
+
+
+@article{reaney_virtual_1996,
+	title = {Virtual scenography: {The} actor, audience, computer interface},
+	volume = {32},
+	number = {1},
+	journal = {Theatre Design and Technology},
+	author = {Reaney, M.},
+	year = {1996},
+	pages = {36--43}
+}
+
+
+@article{richards_getting_2008,
+	title = {Getting the {Hands} {Dirty}},
+	volume = {18},
+	journal = {Leonardo Music Journal},
+	author = {Richards, J.},
+	year = {2008},
+	pages = {25--31}
+}
+
+
+@book{rieser_new_2002,
+	address = {London},
+	title = {New {Screen} {Media}/{Cinema}/{Art}/{Narrative}},
+	publisher = {BFI},
+	editor = {Rieser, M. and Andrea, Z.},
+	year = {2002}
+}
+
+
+@article{risset_real-time_1996,
+	title = {Real-time performance interaction with a computer-controlled acoustic piano},
+	volume = {20},
+	number = {1},
+	journal = {Computer Music Journal},
+	author = {Risset, J. and van Duyne, S.},
+	year = {1996},
+	pages = {62--75}
+}
+
+
+@incollection{risset_nouveaux_1999,
+	title = {Nouveaux gestes musicaux: quelques points de repére historiques},
+	booktitle = {Les nouveaux gestes de la musique, {Hugues} {Genevoix} and {Rapha}`l de {Vivo}},
+	publisher = {Editions Parenthéses and GMEM},
+	author = {Risset, J.-C.},
+	editor = {{Marseille:}},
+	year = {1999},
+	pages = {19--33}
+}
+
+
+@article{risset_composing_1999,
+	title = {Composing in real-time?},
+	volume = {18},
+	number = {3},
+	journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+	author = {Risset, J. C.},
+	year = {1999},
+	pages = {31--39}
+}
+
+
+@book{roads_computer_1996,
+	address = {Cambridge, MA},
+	title = {The {Computer} {Music} {Tutorial}},
+	publisher = {The MIT Press},
+	author = {Roads, C.},
+	year = {1996}
+}
+
+
+@inproceedings{roberts_dynamic_2010,
+	title = {Dynamic {Interactivity} {Inside} the {AlloSphere}},
+	booktitle = {Proceedings of the 2010 {Conference} on {New} {Interfaces} for {Musical} {Expression} pp. 57},
+	author = {Roberts, C. and Wright, M. and Kuchera-Morin, J. and Putnam, L. and Wakefield, G.},
+	year = {2010}
+}
+
+
+@incollection{rogala_lovers_nodate,
+	title = {Lovers {Leap}},
+	booktitle = {Artintact},
+	publisher = {Ostfildern: Cantz Verlag/ Karlsruhe: ZKM},
+	author = {Rogala, Miroslaw}
+}
+
+
+@article{rohr_towards_1994,
+	title = {Towards model-based recognition of human movements in image sequences},
+	volume = {59},
+	number = {1},
+	journal = {CGVIP: Image Understanding},
+	author = {Rohr, K.},
+	year = {1994},
+	pages = {94--115}
+}
+
+
+@unpublished{rondon_e-evento-pensamento_nodate,
+	title = {℡{E}-{EVENTO}-{PENSAMENTO}: a imagem mediada na videoconferência e na telepresença},
+	author = {Rondon, Y.}
+}
+
+
+@unpublished{rosenboom_extended_1990,
+	title = {Extended {Musical} {Interface} with the {Human} {Nervous} {System}. {Berkeley}, {Calif}.: {International} {Society} for the {Arts}, {Sciences}, and {Technology}},
+	author = {Rosenboom, D.},
+	year = {1990}
+}
+
+
+@unpublished{rovan_multi-dimensional_2000,
+	title = {The multi-dimensional mapping of movement-to-sound within an integrated {Eyecon} and {Max} {Environment}. {Performance} of “{Seine} {Hohle} {Form}.” 10e {Symposium} {International} des {Arts} Électroniques, {Paris}},
+	author = {Rovan, B. and Wechsler, R.},
+	year = {2000}
+}
+
+
+@inproceedings{rovan_gestural_1998,
+	address = {N. H},
+	title = {Gestural {Controllers}: {Strategies} for {Expressive} {Application}},
+	booktitle = {Abstract presented at the {SEAMUS} {Conference}},
+	publisher = {Hanover},
+	author = {Rovan, J. and Wanderley, M.},
+	year = {1998}
+}
+
+
+@unpublished{rovan_multi-dimensional_2000-1,
+	title = {The {Multi}-{Dimensional} {Mapping} of {Movement}-to-{Sound} within an {Integrated} {Eyecon} and {Max} {Environment}. {Performance} of “{Seine} {Hohle} {Form}…” {In} {Proc}. of the 10e {Symposium} {International} des {Arts} {Electroniques}, {ISEA} 2000. {Paris}},
+	author = {Rovan, J. and Wechsler, R.},
+	year = {2000}
+}
+
+
+@inproceedings{rovan_instrumental_1997,
+	title = {Instrumental {Gestural} {Mapping} {Strategies} as {Expressivity} {Determinants} in {Computer} {Music} {Performance}},
+	booktitle = {Genoa},
+	author = {Rovan, J. and Wanderley, M. and Dubnov, S. and Depalle, P.},
+	editor = {Kansei, The},
+	year = {1997},
+	pages = {68--73}
+}
+
+
+@inproceedings{rovan_instrumental_1997-1,
+	address = {Ital},
+	title = {Instrumental gesture mapping strategies as expressivity determinants in computer music performance},
+	booktitle = {Presented at {Kansei} {Technology} of {Emotion} {Workshop}},
+	publisher = {Genova},
+	author = {Rovan, J. and Wanderley, M. M. and Dubnov, S. and Depalle, P.},
+	year = {1997}
+}
+
+
+@book{rowe_interactive_1993,
+	address = {Cambridge, Mass.},
+	title = {Interactive {Music} {Systems}: {Machine} {Listening} and {Composing}},
+	publisher = {The MIT Press},
+	author = {Rowe, R.},
+	year = {1993}
+}
+
+
+@article{rowe_aesthetics_1999,
+	title = {The aesthetics of interactive music systems},
+	volume = {18},
+	number = {3},
+	journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+	author = {Rowe, R.},
+	year = {1999},
+	pages = {83--87}
+}
+
+
+@book{rowe_machine_2001,
+	address = {Cambridge, Mass},
+	title = {Machine {Musicianship}},
+	publisher = {MIT Press},
+	author = {Rowe, R.},
+	year = {2001}
+}
+
+
+@article{ryan_remarks_1991,
+	title = {Some {Remarks} on {Musical} {Instrument} {Design} at {STEIM}},
+	volume = {6},
+	number = {1},
+	journal = {Contemporary Music Review},
+	author = {Ryan, J.},
+	year = {1991},
+	pages = {3--17}
+}
+
+
+@article{saltz_collaborative_2001,
+	title = {The {Collaborative} {Subject}: {Telerobotic} {Performance} and {Identity}},
+	volume = {6},
+	number = {3},
+	journal = {PerformanceResearch},
+	author = {Saltz, D.},
+	year = {2001},
+	pages = {70--83}
+}
+
+
+@inproceedings{sanchez_spieldose_2007,
+	address = {Berlin, Heidelberg},
+	title = {Spieldose: {An} {Interactive} {Genetic} {Software} for {Assisting} to {Music} {Composition} {Tasks}},
+	booktitle = {Proceedings of the 2nd {International} work-conference on {The} {Interplay} {Between} {Natural} and {Artificial} {Computation} ({IWINAC}-2007)},
+	publisher = {Springer-Verlag},
+	author = {Sànchez, A. and Pantrigo, J. J. and Virseda, J. and Pérez, G.},
+	year = {2007},
+	pages = {617--626}
+}
+
+
+@book{santana_corpo_2002,
+	address = {São Paulo},
+	title = {Corpo {Aberto}: {Cunningham}, dança e novas tecnologias},
+	publisher = {EDUC/FAPESC},
+	author = {Santana, I.},
+	year = {2002}
+}
+
+
+@article{sapir_gestural_2002,
+	title = {Gestural {Control} of {Digital} {Audio} {Environments}},
+	volume = {31},
+	number = {2},
+	journal = {Journal of New Music Research},
+	author = {Sapir, S.},
+	year = {2002},
+	pages = {119}
+}
+
+
+@inproceedings{sawada_sounds_1997,
+	address = {San Francisco},
+	title = {Sounds in {Hands} - a {Sound} {Modifier} using {Datagloves} and {Twiddle} {Interface}},
+	booktitle = {Proceedings of the 1997 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Sawada, H. and Onoe, N. and Hashimoto, S.},
+	year = {1997},
+	pages = {309--312}
+}
+
+
+@unpublished{schloss_recent_1990-1,
+	title = {Recent {Advances} in the {Coupling} of the {Language} {MAX} with the {Mathews}/{Boie} {Radio} {Drum}. {In} {Proceedings} of the {International} {Computer} {Music} {Conference}. {San} {Francisco}: {International} {Computer} {Music} {Association}, pp. 398-400},
+	author = {Schloss, W. A.},
+	year = {1990}
+}
+
+
+@inproceedings{schloss_towards_2001,
+	address = {San Francisco},
+	title = {Towards a {Virtual} {Membrane}: {New} {Algorithms} and {Technology} for {Analyzing} {Gestural} {Data}},
+	booktitle = {Proceedings of the 2001 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Schloss, W. A. and Driessen, P.},
+	year = {2001}
+}
+
+
+@inproceedings{schmeder_mapping_2004,
+	title = {Mapping {Spectral} {Frames} to {Pitch} with {Support} {Vector} {Machine}},
+	booktitle = {Proceedings from the 2004 {International} {Computer} {Music} {Conference} - {ICMC04}},
+	author = {Schmeder, A.},
+	year = {2004}
+}
+
+
+@book{scholder_interaction_2001,
+	address = {New York},
+	title = {Interaction: {Artistic} {Practice} in the {Network}},
+	publisher = {D. A. P},
+	editor = {Scholder, A. and Crandall, J.},
+	year = {2001}
+}
+
+
+@inproceedings{schumacher_compositional_2010,
+	address = {Paris},
+	title = {Compositional {Control} of {Periphonic} {Sound} {Spatialization}},
+	booktitle = {Proceedings of the 2nd {International} {Symposium} on {Ambisonics} and {Spherical} {Acoustics}},
+	publisher = {France},
+	author = {Schumacher, M. and Bresson, J.},
+	year = {2010}
+}
+
+
+@incollection{seaman_recombinant_2002,
+	address = {London},
+	title = {Recombinant {Poetics}: {Emergent} {Explorations} of {Digital} {Video} in {Virtual} {Space}},
+	booktitle = {New {Screen} {Media}/{Cinema}/{Art}/{Narrative}},
+	publisher = {BFI},
+	author = {Seaman, B.},
+	editor = {Zapp, Martin Rieser/Andrea},
+	year = {2002},
+	pages = {237--55}
+}
+
+
+@inproceedings{selfridge_interactive_2011,
+	address = {New York},
+	title = {Interactive {Mixing} {Using} {Wii} {Controller}},
+	booktitle = {Proceedings of the 130th {Audio} {Engineering} {Society} {Convention}},
+	publisher = {Audio Engineering Society},
+	author = {Selfridge, R. and Reiss, J. D.},
+	year = {2011}
+}
+
+
+@article{shedel_generative_2009,
+	title = {Generative {Techniques} in {Hypermedia} {Performance}},
+	volume = {28},
+	number = {1},
+	journal = {Contemporary Music Review},
+	author = {Shedel, M. and Rootberg, A.},
+	year = {2009},
+	pages = {57--73}
+}
+
+
+@article{shiratori_dancing--music_2006,
+	title = {Dancing-{To}-{Music} {Character} {Animation}},
+	volume = {25},
+	number = {3},
+	journal = {Computer Graphics Forum},
+	author = {Shiratori, T. A. Nakazawa,  and {K.Ikeuchi}},
+	year = {2006},
+	pages = {449--458}
+}
+
+
+@inproceedings{siegel_digital_1999,
+	address = {China},
+	title = {The {Digital} {Dance} {Interface}},
+	booktitle = {Proceedings of the {Interantional} {Music} {Conference}},
+	publisher = {Bejing},
+	author = {Siegel, W.},
+	year = {1999}
+}
+
+
+@incollection{siegel_dancing_2009,
+	address = {New York},
+	title = {Dancing the {Music}: {Interactive} {Dance} and {Music}},
+	booktitle = {The {Oxford} {Handbook} of {Computer} {Music}},
+	publisher = {Oxford University Press},
+	author = {Siegel, W.},
+	editor = {Dean, Roger},
+	year = {2009},
+	pages = {191--213}
+}
+
+
+@article{siegel_two_1999,
+	title = {Two {Compositions} for {Interactive} {Dance}},
+	volume = {DK-8000 C, Aarhus, Den k},
+	journal = {The Danish Institute of Electroacoustic Music DIEM. Musikhuset},
+	author = {Siegel, W.},
+	month = {mar},
+	year = {1999}
+}
+
+
+@inproceedings{sinclair_extending_2007,
+	address = {France},
+	title = {Extending {DIMPLE}: a {Rigid} {Body} {Simulator} for {Interactive} {Control} of {Sound}},
+	booktitle = {Proceedings of the the 4th {International} {Conference} on {Enactive} {Interfaces} ({ENACTIVE}'07)},
+	publisher = {Grenoble},
+	author = {Sinclair, S. and Wanderley, M.},
+	year = {2007}
+}
+
+
+@article{sinclair_using_2007,
+	title = {Using {PureData} to {Control} a {Haptically}-enabled {Virtual} {Environment}},
+	volume = {2007. Montreal, Canada},
+	journal = {PureData Convention},
+	author = {Sinclair, S. and Wanderley, M.},
+	year = {2007}
+}
+
+
+@phdthesis{sinnott_mapping_2008,
+	type = {{PhD} {Thesis}},
+	title = {Mapping {Strategies} for the {Augmented} {Tango} {Shoe}},
+	school = {MM New York University, USA},
+	author = {Sinnott, Laura},
+	year = {2008}
+}
+
+
+@article{slater_depth_1994,
+	title = {Depth of presence in virtual environment},
+	volume = {3},
+	number = {2},
+	journal = {Presence},
+	author = {Slater, M. and Usoh, M. and Steed, A.},
+	year = {1994},
+	pages = {130--144}
+}
+
+
+@inproceedings{smith_dance_1992,
+	address = {Madison, WI},
+	title = {Dance and {Technology} {I}: {Moving} {Toward} the {Future}},
+	booktitle = {Proceedings of the {First} {Annual} {Conference}},
+	publisher = {University of Wisconsin},
+	editor = {Smith, A.},
+	year = {1992}
+}
+
+
+@inproceedings{smith_dance_1995,
+	address = {Toronto, CA},
+	title = {Dance and {Technology} {III}: {Transcending} {Boundaries}},
+	booktitle = {Proceedings of the {Third} {Annual} {Conference}},
+	publisher = {York University},
+	editor = {Smith, A.},
+	year = {1995},
+	pages = {18--25}
+}
+
+
+@inproceedings{smith_dance_1999,
+	address = {Tempe},
+	title = {Dance and {Technology} {IV}},
+	booktitle = {Proceedings of the {Fourth} {Annual} {Conference}},
+	publisher = {Arizona State University},
+	editor = {Smith, A.},
+	year = {1999}
+}
+
+
+@article{smith_i_2004,
+	title = {I {Can} {See} {Tomorrow} {In} {Your} {Dance}: {A} {Study} of {Dance} {Dance} {Revolution} and {Music} {Video} {Games}},
+	volume = {16},
+	number = {1},
+	journal = {Journal of Popular Music Studies},
+	author = {Smith, J.},
+	year = {2004},
+	pages = {58--84}
+}
+
+
+@article{smith_field_1996,
+	title = {Field {Mice}: {Extracting} {Hand} {Geometry} from {Electric} {Field} {Measurements}},
+	volume = {35},
+	number = {3/4},
+	journal = {IBM Systems Journal},
+	author = {Smith, J. R.},
+	year = {1996},
+	pages = {587--608}
+}
+
+
+@incollection{smith_sensors_1993,
+	address = {London, UK},
+	title = {Sensors},
+	booktitle = {The {Electrical} {Engineering} {Handbook}},
+	publisher = {CRC Press},
+	author = {Smith, R. L.},
+	editor = {Dorf, R. C.},
+	year = {1993}
+}
+
+
+@inproceedings{soga_automatic_2009,
+	title = {Automatic {Composition} for {Contemporary} {Dance} {Using} {3D} {Motion} {Clips}: {Experiment} on {Dance} {Training} and {System} {Evaluation}},
+	booktitle = {Proc. {Int}'l {Conf}. {Cyber}- {Worlds}},
+	author = {Soga, A. B. and Umino, M.Hirayama},
+	year = {2009},
+	pages = {171--176}
+}
+
+
+@inproceedings{sorensen_impromptu_2005,
+	address = {Brisbane, Australia},
+	title = {Impromptu: {An} {Interactive} {Programming} {Environment} for {Composition} and {Performance}},
+	booktitle = {Proceedings of the {Australasian} {Computer} {Music} {Conference}},
+	publisher = {Queensland University of Technology},
+	author = {Sorensen, A.},
+	year = {2005},
+	pages = {149--153}
+}
+
+
+@article{spasov_music_2011,
+	title = {Music {Composition} as an {Act} of {Cognition}: {ENACTIV} -{Interactive} {Multi}-modal {Composing} {System}},
+	volume = {16},
+	number = {1},
+	journal = {Journal of Organised Sound},
+	author = {Spasov, M.},
+	year = {2011},
+	pages = {69--86}
+}
+
+
+@inproceedings{srinivasan_pressure_2005,
+	address = {Valencia, Spain},
+	title = {A pressure sensing floor for interactive media appli- cations},
+	booktitle = {{ACE} '05},
+	publisher = {ACM, 265},
+	author = {Srinivasan, P. D. and Birchfield, G. and Qian, A.Kidane},
+	year = {2005}
+}
+
+
+@article{stroppa_live_1999,
+	title = {Live electronics or… live music? {Towards} a critique of interaction},
+	volume = {18},
+	number = {3},
+	journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+	author = {Stroppa, M.},
+	year = {1999},
+	pages = {41--77}
+}
+
+
+@article{subotnick_use_1999,
+	title = {The use of computer technology in an interactive or 'real-time' performance environment},
+	volume = {18},
+	number = {3},
+	journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+	author = {Subotnick, M.},
+	year = {1999},
+	pages = {113--117}
+}
+
+
+@book{sunden_material_2003,
+	address = {New York},
+	title = {Material {Virtualities}: {Approaching} {Online} {Textual} {Embodiment}},
+	publisher = {Peter Lang},
+	author = {Sundén, J.},
+	year = {2003}
+}
+
+
+@inproceedings{suzuki_robotic_2004,
+	title = {Robotic {Interface} for {Embodied} {Interaction} {Via} {Dance} and {Musical} {Performance}},
+	booktitle = {Proceedings of the {IEEE}},
+	publisher = {92(4},
+	author = {Suzuki, K. and Hashimoto, S.},
+	year = {2004},
+	pages = {656--671}
+}
+
+
+@inproceedings{suzuki_midas_2000,
+	title = {{MIDAS}: {MIC} {Interactive} {Dance} {System}},
+	booktitle = {Proc. {IEEE} {Int}'l {Conf}. {Systems}, {Man}, and {Cybernetics}},
+	author = {Suzuki, R. Y. and Iwadate, M. Inoue and Woo, W.},
+	year = {2000},
+	pages = {751--756}
+}
+
+
+@inproceedings{tanaka_mapping_2010,
+	title = {Mapping {Out} {Instruments}, {Affordances}, and {Mobiles}},
+	booktitle = {Proceedings of the 2010 {Conference} on {New} {Interfaces} for {Musical} {Expression} pp. 88},
+	author = {Tanaka, A.},
+	year = {2010}
+}
+
+
+@article{tanaka_musical_2000,
+	title = {Musical {Performance} {Practice} on {Sensor}-{Based} {Instruments}},
+	journal = {Trends in Gestural Control of Music},
+	author = {Tanaka, A.},
+	year = {2000},
+	pages = {389--406}
+}
+
+
+@book{tanzi_time_nodate,
+	address = {CTHEORY},
+	title = {Time, {Proximity} {And} {Meaning} {On} {The} {Net}},
+	publisher = {online essay},
+	author = {Tanzi, D.}
+}
+
+
+@inproceedings{tarabella_studio_1997,
+	address = {San Francisco},
+	title = {Studio {Report} of the {Computer} {Music} {Lab} of {CNUCE}/{C}. {N}. {R}},
+	booktitle = {Proceedings of the 1997 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Tarabella, L.},
+	year = {1997},
+	pages = {86--88}
+}
+
+
+@inproceedings{tarabella_original_1997,
+	title = {Original {Gesture} {Interfaces} for {Live} {Interactive} {Multimedia} {Performances}},
+	booktitle = {Proceedings of the {Journées} d'{Informatique} {Musicale}},
+	author = {Tarabella, L. and Bertini, G.},
+	year = {1997},
+	pages = {41--45}
+}
+
+
+@article{theremin_recollections_1999,
+	title = {Recollections},
+	volume = {18},
+	number = {3},
+	journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+	author = {Theremin, L.},
+	year = {1999},
+	pages = {15--19}
+}
+
+
+@article{tholen_between_2001,
+	title = {In {Between}: {Time}, {Space} and {Image} in {Cross}-{Media} {Performance}},
+	volume = {6},
+	number = {3},
+	journal = {Performance},
+	author = {Tholen, G.},
+	year = {2001},
+	pages = {52--60}
+}
+
+
+@inproceedings{tindale_indirect_2005,
+	address = {Montreal},
+	title = {Indirect {Acquisition} of {Percussion} {Gestures} {Using} {Timbre} {Recognition}},
+	booktitle = {Proceedings of the {Conference} on {Interdisciplinary} {Musicology}},
+	publisher = {Canada},
+	author = {Tindale, A. R. and Kapur, A. and Tzanetakis, G. and Schloss, W. A.},
+	year = {2005}
+}
+
+
+@inproceedings{tobey_ensemble_1995,
+	address = {San Francisco},
+	title = {The {Ensemble} {Member} and the {Conducted} {Computer}},
+	booktitle = {Proceedings of the 1995 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Tobey, F.},
+	year = {1995},
+	pages = {529--530}
+}
+
+
+@incollection{toulemonde_nouvelles_1999,
+	address = {Marseille},
+	title = {Des nouvelles lutheries informatiques},
+	booktitle = {Les nouveaux gestes de la musique},
+	publisher = {Editions Parenthèses},
+	author = {Toulemonde, O. and Möenne-Loccoz, P. and Donzel-Gargand, B.},
+	editor = {Genevois, H. and Vivo, R. de},
+	year = {1999},
+	pages = {169--174}
+}
+
+
+@inproceedings{ulyate_interactive_1998,
+	address = {ACM Press},
+	title = {Interactive {Dance} {Club}},
+	booktitle = {{SIGGRAPH98} {Conference} {Abstracts} and {Applications}},
+	publisher = {New York},
+	author = {Ulyate, R.},
+	year = {1998},
+	pages = {230--235}
+}
+
+
+@article{ungvary_waters_1992,
+	title = {Waters, {S}., and {Rajka}},
+	volume = {25},
+	number = {1},
+	journal = {P. “Nuntius – A Computer System for the Interactive Composition and Analysis of Music and Dance.” Leonardo},
+	author = {Ungvary, T.},
+	year = {1992},
+	pages = {59--68}
+}
+
+
+@article{ungvary_designing_2000,
+	title = {Designing {Musical} {Cyberinstruments} with body and soul in mind},
+	volume = {29},
+	number = {3},
+	journal = {Journal of New Music Research},
+	author = {Ungvary, T. and Vertegaal, R.},
+	year = {2000},
+	pages = {245--255}
+}
+
+
+@incollection{ungvary_creative_1998,
+	title = {Creative and {Interpretative} {Process} milieu for {Live}-{Computer} music with the {Sentograph}},
+	booktitle = {Controlling {Creative} {Processes} in {Music}. {Schriften} {Musikpsychologie} und {Musikästhetik} 12},
+	publisher = {Peter Lang Verlag},
+	author = {Ungvary, T. and Kieslinger, M.},
+	editor = {and, Kopiez},
+	year = {1998},
+	pages = {173--227}
+}
+
+
+@inproceedings{ungvary_sensorg_1998,
+	title = {The {SensOrg}: {A} {Musical} {Cyberinstrument} with a {Cognitive} {Ergonomical} {Touch}},
+	booktitle = {Proceedings of the 1998 {IEEE} {International} {Conference} on {Systems}, {Man} and {Cybernetics} ({SMC}'98)},
+	author = {Ungvary, T. and Vertegaal, R.},
+	year = {1998},
+	pages = {1066--1071}
+}
+
+
+@inproceedings{ungvary_sensorg_1999,
+	address = {San Francisco},
+	title = {The {SensOrg}: {Time}-complexity and the {Design} of a {Musical} {Cyberinstrument}},
+	booktitle = {Proceedings of the 1999 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Ungvary, T. and Vertegaal, R.},
+	year = {1999},
+	pages = {363--366}
+}
+
+
+@book{valverde_embodied_2001,
+	title = {Embodied {Shifts}: {Towards} an experiential approach to dance- technology interfaces},
+	publisher = {MTAC Proceeding},
+	author = {Valverde, I. L. and Naugle, F.Bevilacqua},
+	year = {2001}
+}
+
+
+@inproceedings{vecchi_experimental_2000,
+	title = {Experimental {Evaluation} of {Two} {Commercial} {Force} {Sensors} for {Applications} in {Biomechanics} and {Motor} {Control}},
+	booktitle = {Proceedings of the 5th {Annual} {Conference} of the {International} {Functional} {Electrical} {Stimulation} {Society}, {Aalborg}, {Danemark}},
+	author = {Vecchi, F. and Freschi, C. and Micera, S. and Sabatini, A. M. and Dario, P. and Sacchetti, R.},
+	year = {2000}
+}
+
+
+@phdthesis{vergez_trompette_2000,
+	type = {{PhD} {Thesis}},
+	title = {Trompette et trompettiste: un systeme dynamique non lineaire analyse, modelise et simule dans un contexte musical},
+	school = {Université de Paris VI},
+	author = {Vergez, C.},
+	year = {2000}
+}
+
+
+@inproceedings{vergez_trumpet_2001,
+	address = {San Francisco},
+	title = {Trumpet and {Trumpet} {Player}: {Model} and {Simulation} in a {Musical} {Context}},
+	booktitle = {Proceedings of the 2001 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Vergez, C. and Rodet, X.},
+	year = {2001}
+}
+
+
+@article{verplaetse_inertial_1996,
+	title = {Inertial {Proprioceptive} {Devices}: {Self}-{Motion}-{Sensing} {Toys} and {Tools}},
+	volume = {35},
+	number = {3},
+	journal = {IBM Systems Journal},
+	author = {Verplaetse, C.},
+	year = {1996},
+	pages = {639--650}
+}
+
+
+@mastersthesis{vertegaal_evaluation_1994,
+	title = {An {Evaluation} of {Input} {Devices} for {Timbre} {Space} {Navigation}},
+	school = {Department of Computing - University of Bradford},
+	author = {Vertegaal, R.},
+	year = {1994}
+}
+
+
+@article{vertegaal_comparison_1996,
+	title = {Comparison of {Input} {Devices} in an {ISEE} {Direct} {Timbre} {Manipulation} {Task}},
+	volume = {8},
+	number = {1},
+	journal = {Interacting with Computers},
+	author = {Vertegaal, R. and Eaglestone, B.},
+	year = {1996},
+	pages = {113--30}
+}
+
+
+@article{vertegaal_isee_1994,
+	title = {{ISEE}: {An} {Intuitive} {Sound} {Editing} {Environment}},
+	volume = {18},
+	number = {2},
+	journal = {Computer Music Journal},
+	author = {Vertegaal, R. and Bonis, E.},
+	year = {1994},
+	pages = {21--29}
+}
+
+
+@book{vigier_etude_1999,
+	address = {Centre Pompidou/ENSEA},
+	title = {Etude et réalisation de dispositifs de captation du jeu instrumental},
+	publisher = {Rapport de Stage. Ircam},
+	author = {Vigier, F.},
+	year = {1999}
+}
+
+
+@book{vinet_interfaces_1999,
+	address = {Paris},
+	title = {Interfaces homme-machine et création musicale},
+	publisher = {Hermès Science Publications},
+	editor = {Vinet, H. and Delalande, F.},
+	year = {1999}
+}
+
+
+@book{viollet_etude_1999,
+	address = {Rapport de Stage-Ingénieur},
+	title = {Etude de {Dispositifs} de {Contrôle} {Gestuel} de la {Synthèse} {Sonore}},
+	publisher = {Ecole Nationale Supérieure des Télécommunications de Paris},
+	author = {Viollet, J. P.},
+	year = {1999}
+}
+
+
+@inproceedings{vlasic_practical_2007,
+	title = {Practical {Motion} {Capture} in {Everyday} {Surroundings}},
+	booktitle = {Proceedings of the {International} {Conference} and {Exhibition} on {Computer} {Graphics} and {Interactive} {Technologies} ({SIGGRAPH}), 2007},
+	author = {Vlasic, D. and Adelsberger, R. and Vannucci, G. and Barnwell, J. and Markus, G.},
+	year = {2007}
+}
+
+
+@article{waisvisz_riding_1999,
+	title = {Riding the {Sphinx} - lines about 'live'},
+	volume = {18},
+	number = {3},
+	journal = {Aesthetics of Live Electronic Music. Ed. Marc Battier. Contemporary Music Review},
+	author = {Waisvisz, M.},
+	year = {1999},
+	pages = {119--126}
+}
+
+
+@book{waisvisz_steim_1993,
+	address = {chief editor},
+	title = {{STEIM} - de zoetgevooisde {Bliksem}},
+	publisher = {S. Sjollema), STEIM},
+	author = {Waisvisz, M. and Ryan, J. and Collins, N.},
+	year = {1993}
+}
+
+
+@article{wanderley_evaluation_2002,
+	title = {Evaluation of {Input} {Devices} for {Musical} {Expression}: {Borrowing} {Tools} from {HCI}},
+	volume = {26},
+	number = {3},
+	journal = {Computer Music Journal},
+	author = {Wanderley, M. M. and Orio, N.},
+	year = {2002},
+	pages = {62--76}
+}
+
+
+@phdthesis{wanderley_performer-instrument_2001,
+	type = {{PhD} {Thesis}},
+	title = {Performer-{Instrument} {Interaction}: {Applications} to {Gestural} {Control} of {Music}},
+	school = {University Pierre et Marie Curie - Paris VI},
+	author = {Wanderley, M.},
+	year = {2001}
+}
+
+
+@phdthesis{wanderley_performer-instrument_2001-1,
+	type = {{PhD} {Thesis}},
+	title = {Performer-instrument interaction: {Applications} to gestural control of sound synthesis},
+	school = {Ph. D. Université Pierre et Marie Curie—Paris VI, Paris, France},
+	author = {Wanderley, M. M.},
+	year = {2001}
+}
+
+
+@phdthesis{noauthor_trends_2000,
+	type = {{PhD} {Thesis}},
+	title = {Trends in {Gestural} {Control} of {Music}},
+	school = {Paris Ircam - Centre Pompidou},
+	year = {2000}
+}
+
+
+@incollection{wanderley_controgestuel_1999,
+	address = {Paris},
+	title = {Contrôle {Gestuel} de la {Synthèse} {Sonore}},
+	booktitle = {Interfaces {Homme}-{Machine} et {Création} {Musicale}},
+	publisher = {Hermès Science Publishing},
+	author = {Wanderley, M. M. and Depalle, P.},
+	editor = {Vinet, H. and Delalande, F.},
+	year = {1999},
+	pages = {145--163}
+}
+
+
+@inproceedings{wanderley_gestural_2004,
+	title = {Gestural {Control} of {Sound} {Synthesis}},
+	booktitle = {04, {In} {Proceedings} of the {IEEE} {Conference} {Vol}. 92, {No}},
+	author = {Wanderley, M. and Depalle, P.},
+	year = {2004}
+}
+
+
+@unpublished{wanderley_escher-_1998,
+	title = {Escher- {Modeling} and {Performing} {Composed} {Instruments} in {Real}-{Time}. {In} {Proceedings} of the 1998 {IEEE} {International} {Conference} on {Systems}, {Man} and {Cybernetics}({SMC}'98), pp. 1080-1084},
+	author = {Wanderley, M. and Schnell, N. and Rovan, J. B.},
+	year = {1998}
+}
+
+
+@book{wardrip-fruin_new_2003,
+	address = {Cambridge, MA},
+	title = {The {New} {Media} {Reader}},
+	publisher = {MIT Press},
+	editor = {Wardrip-Fruin, N. and Montfort, N.},
+	year = {2003}
+}
+
+
+@inproceedings{wasserman_roboser-_2000,
+	address = {San Francisco},
+	title = {Roboser- {An} {Autonomous} {Interactive} {Musical} {Composition} {System}},
+	booktitle = {Proceedings of the 2000 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Wasserman, K. C. and Blanchard, M. and Bernardet, U. and Manzolli, J. and Verschure, P.},
+	year = {2000},
+	pages = {535--538}
+}
+
+
+@book{webster_measurement_1989,
+	title = {The {Measurement}, {Instrumentation} and {Sensors} {Handbook}},
+	publisher = {CRC Press},
+	editor = {Webster, J.},
+	year = {1989}
+}
+
+
+@book{wechsler_symmetry_1985,
+	title = {Symmetry in {Dance}},
+	publisher = {Contact Quarterly},
+	author = {Wechsler, R.},
+	year = {1985}
+}
+
+
+@inproceedings{wechsler_analysis_1995,
+	address = {Vancouver, Canada},
+	title = {Analysis of “reversals” in the {Cunningham} {Dance} {Technique}. {Issues} concerning the perception of symmetry in dance},
+	booktitle = {Proceedings of the first {International} {Dance} and {Technology} {Conference}},
+	author = {Wechsler, R.},
+	year = {1995}
+}
+
+
+@book{wechsler_computer_1997,
+	title = {Computer im {Tanz}: {Medium} oder {Werkzeug}?},
+	publisher = {Ballett International},
+	author = {Wechsler, R.},
+	year = {1997}
+}
+
+
+@book{wechsler_computers_1997,
+	title = {Computers and {Art}: a {Dancer}'s {Perspective}},
+	publisher = {IEEE Technology and Society Magazine},
+	author = {Wechsler, R.},
+	year = {1997}
+}
+
+
+@book{wechsler_o_1997,
+	title = {O {Body} {Swayed} to {Music}… (and vise versa)},
+	publisher = {published in Leonardo Magazine},
+	author = {Wechsler, R.},
+	year = {1997}
+}
+
+
+@book{wechsler_symmetrie_1998,
+	address = {Berlin},
+	title = {Symmetrie und {Tanz}},
+	publisher = {Tanz Aktuell},
+	author = {Wechsler, R.},
+	year = {1998}
+}
+
+
+@book{wechsler_meaning_2000,
+	title = {The {Meaning} of {Interaction} in {Dance}},
+	publisher = {publication pending},
+	author = {Wechsler, R.},
+	year = {2000}
+}
+
+
+@article{wechsler_computer_1998,
+	title = {Computer und {Tanz}},
+	volume = {41},
+	journal = {Der Tanz der Dinge},
+	author = {Wechsler, R. and Zwiauer, H.},
+	year = {1998}
+}
+
+
+@article{wechsler_ordinateurs_1999,
+	title = {Les ordinateurs et la danse: retour vers l'avenier?},
+	journal = {Nouvelles de Danse},
+	author = {Wechsler, R. and Zwiauer, H.},
+	year = {1999},
+	pages = {40--41}
+}
+
+
+@article{wechsler_computers_1998,
+	title = {Computers and {Dance}: {Back} to the {Future}?},
+	journal = {Dance Research Journal},
+	author = {Wechsler, R. and Zwiauer, H.},
+	year = {1998}
+}
+
+
+@book{wechsler_motion_2010,
+	title = {Motion {Tracking}: a {Music} and {Dance} {Tool} for {People} with {Cerebral} {Palsy}},
+	publisher = {publication pending},
+	author = {Wechsler, R. and P.Acitores, A.},
+	year = {2010}
+}
+
+
+@book{wechsler_motion_2004,
+	address = {Mobile and Ubiquitous Systems},
+	title = {Motion {Sensing} for {Interactive} {Dance}},
+	publisher = {IEEE-Pervasive Computing},
+	author = {Wechsler, R. F.Weiss},
+	year = {2004}
+}
+
+
+@article{weinberg_voice_2005,
+	title = {Voice {Networks}: {The} {Human} {Voice} as a {Creative} {Medium} for {Musical} {Collaboration}},
+	volume = {15},
+	journal = {Leonardo Music Journal},
+	author = {Weinberg, G.},
+	year = {2005},
+	pages = {23--26}
+}
+
+
+@article{weinberg_interactive_2006,
+	title = {Interactive {Sonification}: {Aesthetics}, {Functionality} and {Performance}},
+	volume = {16},
+	journal = {Leonardo Music Journal},
+	author = {Weinberg, G. and Thatcher, T.},
+	year = {2006},
+	pages = {9--12}
+}
+
+
+@inproceedings{weschler_eyecon_2004,
+	title = {{EyeCon} – {A} motion sensing tool for creating interactive dance, music and video projections},
+	booktitle = {Mappings – applying the lessons of motion tracking. {An} open letter to musical collaborators.},
+	author = {Weschler, R. F. and Weiß, P.Dowling},
+	editor = {Intelligence, Proceedings of the Society for the Study of Artificial and Motion, the Simulation of Behavior (SSAISB)'s convention:},
+	year = {2004}
+}
+
+
+@article{wessel_timbre_1979,
+	title = {Timbre {Space} as a {Musical} {Control} {Structure}},
+	volume = {3},
+	number = {2},
+	journal = {Computer Music Journal},
+	author = {Wessel, D.},
+	year = {1979},
+	pages = {45--52}
+}
+
+
+@article{whalley_software_2009,
+	title = {Software {Agents} in {Music} and {Sound} {Art} {Research}/{Creative} {Work}: {Current} {State} adn a {Possible} {Direction}},
+	volume = {14},
+	number = {2},
+	journal = {Journal of Organised Sound},
+	author = {Whalley, I.},
+	year = {2009},
+	pages = {156--167}
+}
+
+
+@book{whitelaw_metacreation_2004,
+	address = {Cambridge},
+	title = {Metacreation: {Art} and {Artificial} {Life}},
+	publisher = {MIT Press},
+	author = {Whitelaw, M.},
+	year = {2004}
+}
+
+
+@book{wilson_sensor_2005,
+	address = {Newnes (},
+	title = {Sensor {Technology} {Handbook}},
+	publisher = {Elsevier},
+	author = {Wilson, J. S.},
+	year = {2005}
+}
+
+
+@book{wilson_information_2002,
+	address = {Cambridge, MA},
+	title = {Information {Arts}: {A} {Survey} of {Art} and {Research} at the {Intersection} of {Art}, {Science}, and {Technology}},
+	publisher = {MIT Press},
+	author = {Wilson, S.},
+	year = {2002}
+}
+
+
+@unpublished{winkler_making_1995-1,
+	title = {Making {Motion} {Musical}: {Gesture} {Mapping} {Strategies} for {Interactive} {Computer} {Music}. “{From} the {Proceedings} of the 1995 {International} {Computer} {Music} {Conference}, {Banff}, {Canada}},
+	author = {Winkler, T.},
+	year = {1995}
+}
+
+
+@inproceedings{winkler_creating_1997,
+	title = {Creating {Interactive} {Dance} with the {Very} {Nervous} {System}},
+	booktitle = {From the {Proceedings} of the 1997 {Connecticut} {College} {Symposium} on {Art} and {Technology}},
+	author = {Winkler, T.},
+	year = {1997}
+}
+
+
+@book{winkler_composing_1998,
+	address = {Cambridge, Mass},
+	title = {Composing {Interactive} {Music}. {Techniques} and ideas using {MAX}},
+	publisher = {MIT Press},
+	author = {Winkler, T.},
+	year = {1998}
+}
+
+
+@book{wood_virtual_1998,
+	address = {London},
+	title = {The {Virtual} {Embodied}: {Presence}, {Practice}, {Technology}},
+	publisher = {Routledge},
+	editor = {Wood, J.},
+	year = {1998}
+}
+
+
+@inproceedings{wright_managing_2001,
+	address = {San Francisco},
+	title = {Managing {Complexity} with {Explicit} {Mapping} of {Gestures} to {Sound} {Control} in {OSC}},
+	booktitle = {Proceedings of the 2001 {International} {Computer} {Music} {Conference}},
+	publisher = {International Computer Music Association},
+	author = {Wright, M. and Freed, A. and Lee, A. and Madden, T. and Momeni, A.},
+	year = {2001}
+}
+
+
+@inproceedings{yamaguchi_grasping_2009,
+	address = {Part II},
+	title = {Grasping {Interface} with {Photo} {Sensor} for a {Musical} {Instrument}},
+	booktitle = {Proceedings of the 13th {International} {Conference} on {Human}-{Computer} {Interaction}},
+	publisher = {Novel Interaction Methods and Techniques},
+	author = {Yamaguchi, T. and Hashimoto, S.},
+	year = {2009},
+	pages = {542--547}
+}
+
+
+@inproceedings{yamaguchi_twinkleball_2010,
+	title = {{TwinkleBall}: {A} {Wireless} {Musical} {Interface} for {Embodied} {Sound} {Media}},
+	booktitle = {Proceedings of the 2010 {Conference} on {New} {Interfaces} for {Musical} {Expression} pp. 116},
+	author = {Yamaguchi, T. and Kobayashi, T. and Ariga, A. and Hashimoto, S.},
+	year = {2010}
+}
+
+
+@inproceedings{yang_collaborative_2006,
+	title = {Collaborative {Dancing} in {Tele}-{Immersive} {Environment}},
+	booktitle = {Proc. {Ann}. {ACM} {Int}'l {Conf}. {Multimedia}},
+	author = {Yang, Z. B. and R, Yu and Diankov, W. and Wu, R.Bajscy},
+	year = {2006},
+	pages = {723--726}
+}
+
+
+@inproceedings{yokono_center_1998,
+	title = {Center of {Gravity} {Sensing} for {Motion} {Interface}},
+	booktitle = {Proceedings of the 1998 {IEEE} {International} {Conference} on {Systems}, {Man} and {Cybernetics}({SMC}'98)},
+	author = {Yokono, J. and Hashimoto, S.},
+	year = {1998},
+	pages = {1113--1118}
+}
+
+
+@inproceedings{zadel_laptop_2006,
+	address = {USA},
+	title = {Laptop {Performance}: {Techniques}, {Tools}, and a {New} {Interface} {Design}},
+	booktitle = {Proceedings of the {International} {Computer} {Music} {Conference} ({ICMC}-2006)},
+	publisher = {New Orleans},
+	author = {Zadel, M. and Scavone, G.},
+	year = {2006},
+	pages = {643--648}
+}
+
+
+@inproceedings{zannos_gesture_1997,
+	title = {Gesture {Controlled} {Music} {Performance} in a {Real}-{Time} {Network}},
+	booktitle = {Proceedings of {KANSEI} - {The} {Technology} of {Emotion} {Workshop}},
+	author = {Zannos, I. and Modler, P. and Naoi, K.},
+	year = {1997},
+	pages = {60--63}
+}
+
+
+@inproceedings{zhai_influence_1996,
+	title = {The {Influence} of {Muscle} {Groups} on {Performance} of {Multiple} {Degree}-of-{Freedom} {Input}},
+	booktitle = {Proceedings of the {CHI}'96 {Conference} on {Human} factors in {Computing} {Systems}, {Association} of {Computer} {Machinery}},
+	author = {Zhai, S. and Milgram, P. and Buxton, W.},
+	year = {1996},
+	pages = {308--315}
+}

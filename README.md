@@ -23,10 +23,10 @@ All of the raw .bib files can be found in `./bibs`, grouped by year.  There are 
 
 ❌ **ISIDM .bib files:** In progress. Currently dealing with data correction, duplicate removal, and normalization. (See `bibs/ISIDM/citations-[x].txt`.)
 
-❌ **Dataset tabs** In progress.
+❌ **Dataset tabs:** In progress.
 
 ## Acknowledgements
 
-This project was created at McGill University's Input Devices and Music Interaction Laboratory (IDMIL) under the supervision of Marcelo Wanderley. 
+This project was created at [McGill University's Input Devices and Music Interaction Laboratory (IDMIL)](https://idmil.org) under the supervision of Marcelo Wanderley. 
 
 The initial contributors to this repo include João Tragtenberg and Kasey Pocius (see their work [here](https://github.com/IDMIL/off-nime/commit/9f644ab6e21e8bcea87916c635c7d87ff06a5939)). The latest changes, including the website and repo revamp, were headed by Wanderley and [Ian Doherty](mailto:ian.doherty@mail.mcgill.ca).

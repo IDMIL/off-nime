@@ -5,6 +5,7 @@ from difflib import SequenceMatcher
 from enum import Enum
 import numpy as np
 from pydoll.browser.chromium import Chrome
+import re
 
 class GetUrlCode(Enum):
     START=0             # initial state
@@ -100,9 +101,29 @@ def parseAuthors(authorString):
 
     return authors
 
+generatedKeys = set()
+
 # Converts a Python dictionary of BibTeX data to a BibTeX string that can be put in a .bib file
 def toBibtexString(data):
-    citationName = data["authors"][0].split(" ")[-1].replace("\'", "-") + data["year"]
+    # Citations follow the format: first author last name + longest word in title + year
+    # So, for example, if John Smith made a paper titled "Example" in 2000, it'd be "SmithExample2000"
+    citationNameBase = (
+        data["authors"][0].split()[-1].replace("\'", "-") + 
+        sorted(re.split(r"\W+", data["title"]), reverse=True, key=(lambda s: len(s)))[0].title() + 
+        data["year"]
+    )
+
+    # In the case of duplicate keys, we resort to just iteratively adding "-1", "-2", etc. to the end of the key/
+    # There's probably a better way to do this.
+    i = 1
+    citationName = citationNameBase
+    global generatedKeys
+
+    while citationName in generatedKeys:
+        citationName = f"{citationNameBase}-{i}"
+        i += 1
+
+    generatedKeys.add(citationName)
 
     return f'''{f"% {data["comment"]}" if data.get("comment") else ""}
 @inproceedings{{{citationName},
@@ -115,7 +136,8 @@ def toBibtexString(data):
     address = {{{data["address"]}}}{f''',
     url = {{{data["url"]}}}''' if data.get("url") else ""}
 }}
-    '''
+
+'''
 
 ################
 # BEGIN SCRIPT #
