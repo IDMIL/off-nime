@@ -14,10 +14,15 @@ All of the raw .bib files can be found in `./bibs`, grouped by year.  There are 
 *Disclaimer:* This project is still a work-in-progress. Please excuse any bugs on the website, incomplete entries, or missing data.
 
 ✅ **Website:** Created using Jekyll and GitHub Actions
+
 ✅ **Table:** Created using [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) and [sorttable](www.kryogenix.org/code/browser/sorttable/)
+
 ✅ **CMJ .bib files:** Carried over from previous repo (see commit [here](https://github.com/IDMIL/off-nime/commit/9f644ab6e21e8bcea87916c635c7d87ff06a5939))
+
 ✅ **ICMC .bib files:** Carried over and supplemented from previous repo (see `bibs/ICMC/parser.py`)
+
 ❌ **ISIDM .bib files:** In progress. Currently dealing with data correction, duplicate removal, and normalization. (See `bibs/ISIDM/citations-[x].txt`.)
+
 ❌ **Dataset tabs** In progress.
 
 ## Acknowledgements
