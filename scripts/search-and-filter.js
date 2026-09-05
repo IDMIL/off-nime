@@ -1,81 +1,104 @@
-// Code borrowed from: https://www.w3schools.com/howto/howto_js_filter_table.asp
-function tableSearch() {
-    var input, filter, table, tr, td, i, j, txtValue, found;
-    input = document.getElementById("table-search");
-    filter = input.value.toUpperCase();
-    table = document.getElementById("bibliography-table");
-    tr = table.getElementsByTagName("tr");
+let filterVisibleRows = [];
 
-    for (i = 1; i < tr.length; i++) {
-        td = tr[i].getElementsByTagName("td");
+/**
+ * Filters the bibliography table by a specific journal name
+ * @param {string} filter A journal name to filter by
+ */
+function filterTable(filter) {
+    const trs = document
+        .getElementById("bibliography-table")
+        .getElementsByTagName("tbody")[0]
+        .getElementsByTagName("tr");
+    
+    // Resets the list of the visible rows from the filter
+    filterVisibleRows = [];
 
-        for (j = 0; j < td.length; j++) {
-            if (td[1]) {
-                txtValue = td[1].textContent || td[1].innerText;
-                if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                    tr[i].style.display = "";
-                    found = true;
-                    break;
-                } 
-            }
+    // Filters have priority over searches, so we check all rows of the table
+    for (const tr of trs) {
+        const journal = tr.getElementsByTagName("td")[1].innerText.toUpperCase(); // index 1 => journal name
+
+        if (journal.indexOf(filter.toUpperCase()) == -1) {
+            tr.style.display = "none";
         }
-        if (!found) {
-            tr[i].style.display = "none";
+        else {
+            tr.style.display = "";
+            filterVisibleRows.push(tr);
         }
-        found = false;
+    }
+
+    // If there's also an active search, re-initiate that
+    if (document.getElementById("table-search").value != "") {
+        searchTable();
     }
 }
 
-// Similar to tableSearch, but uses a passed value instead of reading from HTML
-function tableFilter(dataset) {
-    var filter, table, tr, td, i, txtValue, found;
-    filter = dataset.toUpperCase()
-    table = document.getElementById("bibliography-table");
-    tr = table.getElementsByTagName("tr");
+/**
+ * Filters the bibliography table by a list of journals that should *not* match
+ * @param {string[]} notFilters A list of journals to filter by
+ */
+function notFilterTable(notFilters) {
+    const trs = document
+        .getElementById("bibliography-table")
+        .getElementsByTagName("tbody")[0]
+        .getElementsByTagName("tr");
+    
+    // Resets the list of the visible rows from the filter
+    filterVisibleRows = [];
 
-    for (i = 1; i < tr.length; i++) {
-        td = tr[i].getElementsByTagName("td");
+    // Filters have priority over searches, so we check all rows of the table
+    for (const tr of trs) {
+        const journal = tr.getElementsByTagName("td")[1].innerText.toUpperCase(); // index 1 => journal name
+        let found = false;
 
-        if (td[1]) {
-            txtValue = td[1].textContent || td[1].innerText;
-            if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                tr[i].style.display = "";
+        for (const notFilter of notFilters) {
+            if (journal.indexOf(notFilter.toUpperCase()) > -1) {
                 found = true;
-            } 
+                break;
+            }
         }
 
+        // Show all rows that don't have any matches
         if (!found) {
-            tr[i].style.display = "none";
+            tr.style.display = "";
+            filterVisibleRows.push(tr);
         }
-        found = false;
+        // Hide rows that do
+        else {
+            tr.style.display = "none";
+        }
+    }
+
+    // If there's also an active search, re-initiate that
+    if (document.getElementById("table-search").value != "") {
+        searchTable();
     }
 }
 
-// Similar to tableFilter, but searches for entries that *do not* match the input list of filters. Used for inhomogenous datasets (i.e. ISIDM)
-function tableNotFilter(datasets) {
-    var filters, table, tr, td, i, txtValue, found;
-    filters = datasets.map((dataset) => {return dataset.toUpperCase()})
-    table = document.getElementById("bibliography-table");
-    tr = table.getElementsByTagName("tr");
+/**
+ * Searches all cells of the bibliography table for a string
+ */
+function searchTable() {
+    const searchTerm = document.getElementById("table-search").value.toUpperCase();
 
-    for (i = 1; i < tr.length; i++) {
-        td = tr[i].getElementsByTagName("td");
+    // We are only searching the subset of trs given to us from the active filter
+    for (const tr of filterVisibleRows) {
+        const tds = tr.getElementsByTagName("td");
+        let found = false;
 
-        if (td[1]) {
-            txtValue = td[1].textContent || td[1].innerText;
-            
-            for (var filter of filters) {
-                if (txtValue.toUpperCase().indexOf(filter) != -1) { // hide items that match any of the filters
-                    tr[i].style.display = "none";
-                    found = true;
-                    break;
-                } 
+        for (const td of tds) {
+            if (td.innerText.toUpperCase().indexOf(searchTerm) > -1) {
+                found = true;
+                break;
             }
         }
 
         if (!found) {
-            tr[i].style.display = "";
+            tr.style.display = "none";
         }
-        found = false;
+        else {
+            tr.style.display = "";
+        }
     }
 }
+
+filterTable('');

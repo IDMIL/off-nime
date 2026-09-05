@@ -21,14 +21,14 @@ You can search for specific items using the search box, and you can also sort th
     <script src="scripts/copy-bibtex.js" async></script>
 </head>
 
-<input type="text" id="table-search" onkeyup="tableSearch(); setNumEntries();" placeholder="Search...">
+<input type="text" id="table-search" onkeyup="searchTable(); setNumEntries();" placeholder="Search...">
 
 <div id="table-tabs">
     <p>Datasets:</p>
-    <input type="radio" id="html" name="table-tab" checked="checked" onclick="tableFilter(''); setNumEntries();"><label for="html">All</label>
-    <input type="radio" id="html" name="table-tab" onclick="tableFilter('Computer Music Journal'); setNumEntries();"><label for="html">CMJ</label>
-    <input type="radio" id="html" name="table-tab" onclick="tableFilter('Proceedings of the International Computer Music Conference'); setNumEntries();"><label for="html">ICMC</label>
-    <input type="radio" id="html" name="table-tab" onclick="tableNotFilter(['Computer Music Journal', 'Proceedings of the International Computer Music Conference']); setNumEntries();"><label for="html">ISIDM</label>
+    <input type="radio" id="html" name="table-tab" checked="checked" onclick="filterTable(''); setNumEntries();"><label for="html">All</label>
+    <input type="radio" id="html" name="table-tab" onclick="filterTable('Computer Music Journal'); setNumEntries();"><label for="html">CMJ</label>
+    <input type="radio" id="html" name="table-tab" onclick="filterTable('Proceedings of the International Computer Music Conference'); setNumEntries();"><label for="html">ICMC</label>
+    <input type="radio" id="html" name="table-tab" onclick="notFilterTable(['Computer Music Journal', 'Proceedings of the International Computer Music Conference']); setNumEntries();"><label for="html">ISIDM</label>
 </div>
 
 <div class="scrollableTable">

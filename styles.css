@@ -17,6 +17,10 @@
     cursor: pointer;
 }
 
+#bibliography-table tbody tr {
+    background-color: white;
+}
+
 #num-entries {
     width: 100%;
 }
