@@ -27,8 +27,8 @@ You can search for specific items using the search box, and you can also sort th
     <p>Datasets:</p>
     <input type="radio" id="html" name="table-tab" checked="checked" onclick="filterTable(''); setNumEntries();"><label for="html">All</label>
     <input type="radio" id="html" name="table-tab" onclick="filterTable('Computer Music Journal'); setNumEntries();"><label for="html">CMJ</label>
-    <input type="radio" id="html" name="table-tab" onclick="filterTable('Proceedings of the International Computer Music Conference'); setNumEntries();"><label for="html">ICMC</label>
-    <input type="radio" id="html" name="table-tab" onclick="notFilterTable(['Computer Music Journal', 'Proceedings of the International Computer Music Conference']); setNumEntries();"><label for="html">ISIDM</label>
+    <input type="radio" id="html" name="table-tab" onclick="filterTable('International Computer Music Conference'); setNumEntries();"><label for="html">ICMC</label>
+    <input type="radio" id="html" name="table-tab" onclick="notFilterTable(['Computer Music Journal', 'International Computer Music Conference']); setNumEntries();"><label for="html">ISIDM</label>
 </div>
 
 <div class="scrollableTable">

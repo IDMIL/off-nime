@@ -15,14 +15,21 @@ function filterTable(filter) {
 
     // Filters have priority over searches, so we check all rows of the table
     for (const tr of trs) {
-        const journal = tr.getElementsByTagName("td")[1].innerText.toUpperCase(); // index 1 => journal name
+        let found = false;
 
-        if (journal.indexOf(filter.toUpperCase()) == -1) {
-            tr.style.display = "none";
+        for (const td of tr.getElementsByTagName("td")) {
+            if (td.innerText.toUpperCase().indexOf(filter.toUpperCase()) != -1) {
+                found = true;
+                break;
+            }
         }
-        else {
+
+        if (found) {
             tr.style.display = "";
             filterVisibleRows.push(tr);
+        }
+        else {
+            tr.style.display = "none";
         }
     }
 
@@ -47,24 +54,27 @@ function notFilterTable(notFilters) {
 
     // Filters have priority over searches, so we check all rows of the table
     for (const tr of trs) {
-        const journal = tr.getElementsByTagName("td")[1].innerText.toUpperCase(); // index 1 => journal name
         let found = false;
 
-        for (const notFilter of notFilters) {
-            if (journal.indexOf(notFilter.toUpperCase()) > -1) {
-                found = true;
+        for (const td of tr.getElementsByTagName("td")) {
+            for (const notFilter of notFilters) {
+                if (td.innerText.toUpperCase().indexOf(notFilter.toUpperCase()) != -1) {
+                    found = true;
+                    break;
+                }
+            }
+
+            if (found) {
                 break;
             }
         }
 
-        // Show all rows that don't have any matches
-        if (!found) {
+        if (found) {
+            tr.style.display = "none";
+        }
+        else {
             tr.style.display = "";
             filterVisibleRows.push(tr);
-        }
-        // Hide rows that do
-        else {
-            tr.style.display = "none";
         }
     }
 
@@ -82,22 +92,16 @@ function searchTable() {
 
     // We are only searching the subset of trs given to us from the active filter
     for (const tr of filterVisibleRows) {
-        const tds = tr.getElementsByTagName("td");
         let found = false;
 
-        for (const td of tds) {
+        for (const td of tr.getElementsByTagName("td")) {
             if (td.innerText.toUpperCase().indexOf(searchTerm) > -1) {
                 found = true;
                 break;
             }
         }
 
-        if (!found) {
-            tr.style.display = "none";
-        }
-        else {
-            tr.style.display = "";
-        }
+        tr.style.display = (found ? "" : "none");
     }
 }
 
