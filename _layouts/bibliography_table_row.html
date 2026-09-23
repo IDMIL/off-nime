@@ -1,19 +1,11 @@
 <td>{{ entry.year }}</td>
-<td>{{ entry.journal | default: entry.booktitle }}</td>
 <td>{{ entry.author }}</td>
 <td>{{ entry.title }}</td>
-<td>
-    {% if entry.pages %}
-        {{ entry.pages }}
-    {% else %}
-        <i style="color:grey">No pages</i>
-    {% endif %}
-</td>
+<td>{{ entry.journal | default: entry.booktitle }}</td>
+<td>{{ entry.pages }}</td>
 <td>
     {% if entry.url %}
         <a href="{{ entry.url }}">Link</a>
-    {% else %}
-        <i style="color:grey">No link</i>
     {% endif %}
 </td>
 <td><button onclick="copyBibtex(`{{ entry.bibtex | escape }}`)">Copy BibTeX to Clipboard</button></td>

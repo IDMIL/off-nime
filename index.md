@@ -35,9 +35,9 @@ You can search for specific items using the search box, and you can also sort th
 <table id="bibliography-table" class="sortable">
     <thead>
         <th>Year</th>
-        <th>Journal</th>
         <th>Author(s)</th>
         <th>Title</th>
+        <th>Publication</th>
         <th>Pages</th>
         <th>URL</th>
         <th>BibTeX</th>
