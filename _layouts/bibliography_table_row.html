@@ -1,7 +1,15 @@
 <td>{{ entry.year }}</td>
-<td>{{ entry.author }}</td>
+<td>{{ entry.author | default: entry.editor }}</td>
 <td>{{ entry.title }}</td>
-<td>{{ entry.journal | default: entry.booktitle }}</td>
+<td>
+    {% if entry.journal %}
+        {{ entry.journal }}
+    {% elsif entry.booktitle %}
+        {{ entry.booktitle }}
+    {% else %}
+        {{ entry.publisher }}
+    {% endif %}
+</td>
 <td>{{ entry.pages }}</td>
 <td>
     {% if entry.url %}

@@ -145,13 +145,6 @@
   note         = {Special issue: Aesthetics of Live Electronic Music, ed. Marc Battier. With audio excerpts on the accompanying CD}
 }
 
-@misc{clara1998rockmore,
-  title        = {Clara Rockmore},
-  howpublished = {VHS video tape, 58 minutes. Asheville: Big Briar},
-  year         = {1998},
-  key          = {Clara Rockmore}
-}
-
 @incollection{dannenberg1993computer,
   author       = {Dannenberg, R.},
   editor       = {Haus, Goffredo},
