@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import bibtexparser
-import bibtexparser.library
 
 lib = bibtexparser.parse_file("from-claude.bib")
 

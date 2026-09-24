@@ -147,6 +147,18 @@
 }
 
 
+@incollection{davies1984electronic,
+	author = {Davies, H.},
+	editor = {Sadie, Stanly},
+	title = {Electronic musical instruments},
+	booktitle = {The New Grove Dictionary of Musical Instruments},
+	publisher = {Macmillan Press},
+	address = {London},
+	year = {1984},
+	note = {Various entries}
+}
+
+
 @article{eaton1999this,
 	author = {Eaton, J.},
 	title = {This is an instrument!},
@@ -201,6 +213,17 @@
 	pages = {99--112},
 	year = {1999},
 	note = {Special issue: Aesthetics of Live Electronic Music, ed. Marc Battier. Title appears truncated in the source. With audio excerpts on the accompanying CD}
+}
+
+
+@inproceedings{lippe1996look,
+	author = {Lippe, C.},
+	title = {A Look at Performer/Machine Interaction using Real-Time Systems},
+	booktitle = {Proceedings of the 1996 International Computer Music Conference},
+	pages = {116--117},
+	publisher = {International Computer Music Association},
+	address = {Hong Kong},
+	year = {1996}
 }
 
 
@@ -357,6 +380,17 @@
 }
 
 
+@article{wessel1991instruments,
+	author = {Wessel, D.},
+	title = {Instruments that Learn, Refined Controllers, and Source Model Loudspeakers},
+	journal = {Computer Music Journal},
+	volume = {15},
+	number = {4},
+	pages = {82--86},
+	year = {1991}
+}
+
+
 @book{winkler1998composing,
 	author = {Winkler, T.},
 	title = {Composing Interactive Music. Techniques and ideas using {MAX}},
@@ -439,6 +473,17 @@
 }
 
 
+@inproceedings{bertini1992light,
+	author = {Bertini, G. and Carosi, P.},
+	title = {The light baton: a system for conducting computer music performance},
+	booktitle = {Proceedings of the 1992 International Computer Music Conference},
+	pages = {73--76},
+	publisher = {International Computer Music Association},
+	address = {San Jose, CA, USA},
+	year = {1992}
+}
+
+
 @inproceedings{black2010foley,
 	author = {Black, D. and Gohlke, K. and Lovischach, J.},
 	title = {Foley Sonic: Placing Sounds on a Timeline Through Gestures},
@@ -458,6 +503,17 @@
 	pages = {43--59},
 	month = {sep},
 	year = {2009}
+}
+
+
+@article{bongers1998interview,
+	author = {Bongers, B.},
+	title = {An Interview with Sensorband},
+	journal = {Computer Music Journal},
+	volume = {22},
+	number = {1},
+	pages = {13--24},
+	year = {1998}
 }
 
 
@@ -789,6 +845,17 @@
 }
 
 
+@inproceedings{harada1992real,
+	author = {Harada, T. and Sato, A. and Hashimoto, S. and Ohteru, S.},
+	title = {Real Time Control of {3D} Sound Space by Gesture},
+	booktitle = {Proceedings of the 1992 International Computer Music Conference},
+	pages = {85--88},
+	publisher = {MPublishing, University of Michigan Library},
+	address = {San Jose, CA, USA},
+	year = {1992}
+}
+
+
 @article{hashimoto2005grasping,
 	author = {Hashimoto, S. and Sawada, H.},
 	title = {A Grasping Device to Sense Hand Gesture for Expressive Sound Generation},
@@ -931,6 +998,17 @@
 }
 
 
+@article{krefeld1990hand,
+	author = {Krefeld, V.},
+	title = {The Hand in the Web: An interview with Michel Waisvisz},
+	journal = {Computer Music Journal},
+	volume = {14},
+	number = {2},
+	pages = {28--33},
+	year = {1990}
+}
+
+
 @inproceedings{lehrman2009wii,
 	author = {Lehrman, P. D.},
 	title = {The Wii Remote as a Musical Instrument: Technology and Case Studies},
@@ -950,6 +1028,17 @@
 	address = {New York, NY, USA},
 	year = {2007},
 	note = {Paper no. 7306}
+}
+
+
+@inproceedings{lee1992connectionist,
+	author = {Lee, M. and Wessel, D.},
+	title = {Connectionist models for real-time control of synthesis and compositional algorithms},
+	booktitle = {Proceedings of the 1992 International Computer Music Conference},
+	pages = {277--280},
+	publisher = {International Computer Music Association},
+	address = {San Jose, CA, USA},
+	year = {1992}
 }
 
 
@@ -1078,6 +1167,17 @@
 	address = {London, UK},
 	year = {2010},
 	note = {Paper no. 8139}
+}
+
+
+@inproceedings{nagashima1998biosensorfusion,
+	author = {Nagashima, Y.},
+	title = {Biosensorfusion: New Interfaces For Interactive Multimedia Art},
+	booktitle = {Proceedings of the 1998 International Computer Music Conference},
+	pages = {129--132},
+	publisher = {International Computer Music Association},
+	address = {Ann Arbor, MI, USA},
+	year = {1998}
 }
 
 
@@ -1221,6 +1321,17 @@
 }
 
 
+@article{pressing1990cybernetic,
+	author = {Pressing, J.},
+	title = {Cybernetic issues in interactive performance systems},
+	journal = {Computer Music Journal},
+	volume = {14},
+	number = {1},
+	pages = {12--25},
+	year = {1990}
+}
+
+
 @inproceedings{rasamimanana2011modular,
 	author = {Rasamimanana, N. and others},
 	title = {Modular Musical Objects Towards Embodied Control of Digital Music},
@@ -1249,6 +1360,17 @@
 	number = {1},
 	pages = {62--75},
 	year = {1996}
+}
+
+
+@article{rubine1990programmable,
+	author = {Rubine, D. and McAvinney, P.},
+	title = {Programmable finger tracking instrument controllers},
+	journal = {Computer Music Journal},
+	volume = {14},
+	number = {1},
+	pages = {26--41},
+	year = {1990}
 }
 
 
@@ -1617,6 +1739,17 @@
 }
 
 
+@article{paradiso1997musical,
+	author = {Paradiso, J. and Gershenfeld, N.},
+	title = {Musical Applications of Electric Field Sensing},
+	journal = {Computer Music Journal},
+	volume = {21},
+	number = {2},
+	pages = {69--89},
+	year = {1997}
+}
+
+
 @article{paradiso1997electronic,
 	author = {Paradiso, J.},
 	title = {Electronic Music: New Ways to play},
@@ -1636,6 +1769,16 @@
 	publisher = {CRC Press},
 	address = {London, UK},
 	year = {1993}
+}
+
+
+@inproceedings{snell1983sensors,
+	author = {Snell, J.},
+	title = {Sensors for Playing Computer Music with Expression},
+	booktitle = {Proceedings of the 1983 International Computer Music Conference (ICMC83)},
+	pages = {113--126},
+	address = {Rochester, NY, USA},
+	year = {1983}
 }
 
 
@@ -1681,6 +1824,17 @@
 	title = {Sensor Technology Handbook},
 	publisher = {Newnes (Elsevier)},
 	year = {2005}
+}
+
+
+@inproceedings{abbott1982remembering,
+	author = {Abbott, C.},
+	title = {Remembering Performance Gestures},
+	booktitle = {Proceedings of the 1982 International Computer Music Conference},
+	pages = {188--193},
+	publisher = {International Computer Music Association},
+	address = {Venice, Italy},
+	year = {1982}
 }
 
 
@@ -1747,6 +1901,17 @@
 }
 
 
+@inproceedings{anderson1994using,
+	author = {Anderson, T. and Hearn, D.},
+	title = {Using Hyperinstruments for the Redistribution of the Performance Control Interface},
+	booktitle = {Proceedings of the 1994 International Computer Music Conference},
+	pages = {183--184},
+	publisher = {International Computer Music Association},
+	address = {Aarhus, Denmark},
+	year = {1994}
+}
+
+
 @article{anderton1994steim,
 	author = {Anderton, C.},
 	title = {{STEIM}: In the Land of Alternate Controllers},
@@ -1786,6 +1951,17 @@
 	pages = {505--509},
 	address = {Boston, MA, USA},
 	year = {1996}
+}
+
+
+@inproceedings{azzolini1984score,
+	author = {Azzolini, F. and Sapir, S.},
+	title = {Score and/or Gesture - The System {RTI4I} for Real Time Control of the Digital Processor {4I}},
+	booktitle = {Proceedings of the 1984 International Computer Music Conference},
+	pages = {25--34},
+	publisher = {International Computer Music Association},
+	address = {Paris, France},
+	year = {1984}
 }
 
 
@@ -1838,6 +2014,17 @@
 }
 
 
+@article{bauer1992gams,
+	author = {Bauer, W. and Foss, B.},
+	title = {{GAMS}: An Integrated Media Controller System},
+	journal = {Computer Music Journal},
+	volume = {16},
+	number = {1},
+	pages = {19--24},
+	year = {1992}
+}
+
+
 @inproceedings{blaine2000jam,
 	author = {Blaine, T. and Perkis, T.},
 	title = {The Jam-O-Drum Interactive Music System: A Study in Interaction Design},
@@ -1857,6 +2044,28 @@
 	publisher = {International Computer Music Association},
 	address = {Columbus, OH, USA},
 	year = {1989}
+}
+
+
+@inproceedings{bolas1992virtual,
+	author = {Bolas, M. and Stone, P.},
+	title = {Virtual Mutant Theremin},
+	booktitle = {Proceedings of the 1992 International Computer Music Conference},
+	pages = {360--361},
+	publisher = {International Computer Music Association},
+	address = {San Jose, CA, USA},
+	year = {1992}
+}
+
+
+@inproceedings{bongers1994use,
+	author = {Bongers, B.},
+	title = {The Use of Active Tactile and Force Feedback in Timbre Controlling Electronic Instruments},
+	booktitle = {Proceedings of the 1994 International Computer Music Conference},
+	pages = {171--174},
+	publisher = {International Computer Music Association},
+	address = {Aarhus, Denmark},
+	year = {1994}
 }
 
 
@@ -1892,6 +2101,17 @@
 }
 
 
+@inproceedings{boulanger19971997,
+	author = {Boulanger, R. and Mathews, M. V.},
+	title = {The 1997 Mathews' Radio Baton and Improvisation Modes},
+	booktitle = {Proceedings of the 1997 International Computer Music Conference},
+	pages = {395--398},
+	publisher = {International Computer Music Association},
+	address = {Thessaloniki, Greece},
+	year = {1997}
+}
+
+
 @inproceedings{boulanger2000developing,
 	author = {Boulanger, R. and Choi, Y. J. and Castelli, L.},
 	title = {Developing a Windows and Macintosh Graphical User Interface for the Mathews Radio-Baton System},
@@ -1900,6 +2120,39 @@
 	publisher = {International Computer Music Association},
 	address = {Berlin, Germany},
 	year = {2000}
+}
+
+
+@inproceedings{brecht1995conductor,
+	author = {Brecht, B. and Garnett, G.},
+	title = {Conductor follower},
+	booktitle = {Proceedings of the 1995 International Computer Music Conference},
+	pages = {185--186},
+	publisher = {International Computer Music Association},
+	address = {Banff, AB, Canada},
+	year = {1995}
+}
+
+
+@inproceedings{bromwich1997metabone,
+	author = {Bromwich, M. A.},
+	title = {The Metabone: An Interactive Sensory Control Mechanism for Virtuoso Trombone},
+	booktitle = {Proceedings of the 1997 International Computer Music Conference},
+	pages = {473--475},
+	publisher = {International Computer Music Association},
+	address = {Thessaloniki, Greece},
+	year = {1997}
+}
+
+
+@inproceedings{bromwich1998bodycoder,
+	author = {Bromwich, M. A. and Wilson, J.},
+	title = {Bodycoder: A Sensor Suit and Vocal Performance Mechanism for Real-Time Performance},
+	booktitle = {Proceedings of the 1998 International Computer Music Conference},
+	pages = {292--295},
+	publisher = {International Computer Music Association},
+	address = {Ann Arbor, MI, USA},
+	year = {1998}
 }
 
 
@@ -1973,12 +2226,89 @@
 }
 
 
+@article{cadoz1984responsive,
+	author = {Cadoz, C. and Luciani, A. and Florens, J. L.},
+	title = {Responsive Input Devices and Sound Synthesis by Simulation of Instrumental Mechanisms: The Cordis System},
+	journal = {Computer Music Journal},
+	volume = {8},
+	number = {3},
+	pages = {60--73},
+	year = {1984},
+	note = {Reprinted in C. Roads, ed., The Music Machine. Cambridge, Mass.: The MIT Press, pp. 495-508}
+}
+
+
+@inproceedings{cadoz1990capture,
+	author = {Cadoz, C. and Ramstein, C.},
+	title = {Capture, Representation and Composition of the Instrumental Gesture},
+	booktitle = {Proceedings of the 1990 International Computer Music Conference},
+	pages = {53--56},
+	publisher = {International Computer Music Association},
+	address = {Glasgow, UK},
+	year = {1990}
+}
+
+
+@article{cadoz1990modulara,
+	author = {Cadoz, C. and Lisowski, L. and Florens, J. L.},
+	title = {A Modular Feedback Keyboard Design},
+	journal = {Computer Music Journal},
+	volume = {14},
+	number = {2},
+	pages = {47--51},
+	year = {1990}
+}
+
+
+@inproceedings{cadoz1990modularb,
+	author = {Cadoz, C. and Lisowsky, L. and Florens, J. L.},
+	title = {Modular Feedback Keyboard},
+	booktitle = {Proceedings of the 1990 International Computer Music Conference},
+	pages = {379--382},
+	publisher = {International Computer Music Association},
+	address = {Glasgow, UK},
+	year = {1990}
+}
+
+
+@inproceedings{camurri1995interactive,
+	author = {Camurri, A.},
+	title = {Interactive Dance/Music Systems},
+	booktitle = {Proceedings of the 1995 International Computer Music Conference},
+	pages = {245--252},
+	publisher = {International Computer Music Association},
+	address = {Banff, AB, Canada},
+	year = {1995}
+}
+
+
 @incollection{camurri1997network,
 	author = {Camurri, A.},
 	title = {Network Models for Music and Motor Control},
 	booktitle = {Self-Organization, Computational Maps and Motor Control},
 	publisher = {Elsevier},
 	year = {1997}
+}
+
+
+@inproceedings{camurri1998eyesweb,
+	author = {Camurri, A. and Ricchetti, M. and Di Stefano, M. and Stroscio, A.},
+	title = {{EyesWeb} - Toward Gesture and Affect Recognition in Dance/Music Interactive Systems},
+	booktitle = {Proceedings of the Colloquio di Informatica Musicale CIM'98},
+	publisher = {AIMI},
+	address = {Gorizia, Italy},
+	year = {1998}
+}
+
+
+@inproceedings{camurri2000real,
+	author = {Camurri, A. and Coletta, P. and Peri, M. and Ricchetti, M. and Ricci, A. and Trocca, R. and Volpe, G.},
+	title = {A Real-time Platform for Interactive Dance and Music Systems},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {262--265},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
 }
 
 
@@ -2002,6 +2332,50 @@
 	number = {2},
 	pages = {99--122},
 	year = {1991}
+}
+
+
+@inproceedings{cariou1992design,
+	author = {Cariou, B.},
+	title = {Design of an Alternate Controller from an Industrial Design Perspective},
+	booktitle = {Proceedings of the 1992 International Computer Music Conference},
+	pages = {366--367},
+	publisher = {International Computer Music Association},
+	address = {San Jose, CA, USA},
+	year = {1992}
+}
+
+
+@inproceedings{cariou1994axi0,
+	author = {Cariou, B.},
+	title = {The {aXi0} {MIDI} Controller},
+	booktitle = {Proceedings of the 1994 International Computer Music Conference},
+	pages = {163--166},
+	publisher = {International Computer Music Association},
+	address = {Aarhus, Denmark},
+	year = {1994}
+}
+
+
+@inproceedings{chabot1989performance,
+	author = {Chabot, X.},
+	title = {Performance with Electronics: Gesture Interfaces and Software Toolkit},
+	booktitle = {Proceedings of the 1989 International Computer Music Conference},
+	pages = {65--68},
+	publisher = {International Computer Music Association},
+	address = {Columbus, OH, USA},
+	year = {1989}
+}
+
+
+@article{chabot1990gesture,
+	author = {Chabot, X.},
+	title = {Gesture Interfaces and a Software Toolkit for Performance with Electronics},
+	journal = {Computer Music Journal},
+	volume = {14},
+	number = {2},
+	pages = {15--27},
+	year = {1990}
 }
 
 
@@ -2038,6 +2412,17 @@
 }
 
 
+@inproceedings{chafe1993tactile,
+	author = {Chafe, C.},
+	title = {Tactile Audio Feedback},
+	booktitle = {Proceedings of the 1993 International Computer Music Conference},
+	pages = {76--79},
+	publisher = {International Computer Music Association},
+	address = {Tokyo, Japan},
+	year = {1993}
+}
+
+
 @inproceedings{choi1995manifold,
 	author = {Choi, I. and Bargar, R. and Goudeseune, C.},
 	title = {A Manifold Interface for a High Dimensional Control Space},
@@ -2058,6 +2443,39 @@
 }
 
 
+@inproceedings{choi2000embedding,
+	author = {Choi, I. and Zheng, G. and Chen, K.},
+	title = {Embedding a Sensory Data Retrieval System in a Movement-Sensitive Space and a Surround Sound System},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {141--144},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
+}
+
+
+@inproceedings{chu1996haptic,
+	author = {Chu, L.},
+	title = {Haptic Feedback in Computer Music Performance},
+	booktitle = {Proceedings of the 1996 International Computer Music Conference},
+	pages = {57--58},
+	publisher = {International Computer Music Association},
+	address = {Hong Kong},
+	year = {1996}
+}
+
+
+@inproceedings{chu1999musicloth,
+	author = {Chu, L.},
+	title = {{MusiCloth}: A Design Methodology for the Development of a Performance Interface},
+	booktitle = {Proceedings of the 1999 International Computer Music Conference},
+	pages = {449--452},
+	publisher = {International Computer Music Association},
+	address = {Beijing, China},
+	year = {1999}
+}
+
+
 @article{collins1991low,
 	author = {Collins, N.},
 	title = {Low Brass: the Evolution of the Trombone Propelled Electronics},
@@ -2069,12 +2487,56 @@
 }
 
 
+@inproceedings{cook1992meta,
+	author = {Cook, P. R.},
+	title = {A Meta-Wind-Instrument Physical Model, and a Meta-Controller for Real Time Performance Control},
+	booktitle = {Proceedings of the 1992 International Computer Music Conference},
+	pages = {273--276},
+	publisher = {International Computer Music Association},
+	address = {San Jose, CA, USA},
+	year = {1992}
+}
+
+
 @inproceedings{cook1992automatic,
 	author = {Cook, P. R. and Morrill, D. and Smith, J. O.},
 	title = {An Automatic Pitch Detection and {MIDI} Control System for Brass Instruments},
 	booktitle = {Acoustical Society of America Conference},
 	address = {New Orleans, LA, USA},
 	year = {1992}
+}
+
+
+@inproceedings{cook1993midi,
+	author = {Cook, P. R. and Morrill, D. and Smith, J. O.},
+	title = {A {MIDI} Control and Performance System for Brass Instruments},
+	booktitle = {Proceedings of the 1993 International Computer Music Conference},
+	pages = {130--133},
+	publisher = {International Computer Music Association},
+	address = {Tokyo, Japan},
+	year = {1993}
+}
+
+
+@inproceedings{cook1998nbody,
+	author = {Cook, P. R. and Trueman, D.},
+	title = {{NBody}: Interactive Multidirectional Musical Instrument Body Radiation Simulations, and a Database of Measured Impulse Responses},
+	booktitle = {Proceedings of the 1998 International Computer Music Conference},
+	pages = {353--356},
+	publisher = {International Computer Music Association},
+	address = {Ann Arbor, MI, USA},
+	year = {1998}
+}
+
+
+@inproceedings{cook2000squeezevox,
+	author = {Cook, P. and Leider, C. N.},
+	title = {{SqueezeVox}: A New Controller for Vocal Synthesis Models},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {519--522},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
 }
 
 
@@ -2099,6 +2561,27 @@
 	address = {San Mateo, Calif.},
 	year = {1991},
 	note = {Excerpt reprinted}
+}
+
+
+@inproceedings{favilla1994ldr,
+	author = {Favilla, S.},
+	title = {The {LDR} Controller},
+	booktitle = {Proceedings of the 1994 International Computer Music Conference},
+	publisher = {International Computer Music Association},
+	address = {Aarhus, Denmark},
+	year = {1994}
+}
+
+
+@inproceedings{favilla1996non,
+	author = {Favilla, S.},
+	title = {Non-Linear Controller Mapping for Gestural Control of the Gamaka},
+	booktitle = {Proceedings of the 1996 International Computer Music Conference},
+	pages = {89--92},
+	publisher = {International Computer Music Association},
+	address = {Hong Kong},
+	year = {1996}
 }
 
 
@@ -2143,6 +2626,17 @@
 }
 
 
+@inproceedings{florens1998real,
+	author = {Florens, J.-L. and Cadoz, C. and Luciani, A.},
+	title = {A Real-Time Workstation for Physical Model of Multi-Sensorial and Gesturally Controlled Instrument},
+	booktitle = {Proceedings of the 1998 International Computer Music Conference},
+	pages = {518--525},
+	publisher = {International Computer Music Association},
+	address = {Ann Arbor, MI, USA},
+	year = {1998}
+}
+
+
 @inproceedings{florens2001bowed,
 	author = {Florens, J.-L. and Henry, C.},
 	title = {Bowed String Synthesis with Force Feedback Gesture Interaction},
@@ -2150,6 +2644,50 @@
 	publisher = {International Computer Music Association},
 	address = {Havana, Cuba},
 	year = {2001}
+}
+
+
+@inproceedings{freed2000new,
+	author = {Freed, A. and Avizienis, R.},
+	title = {A New Music Keyboard with Continuous Key-Position Sensing and High-Speed Communication},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {515--518},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
+}
+
+
+@inproceedings{freed2000musical,
+	author = {Freed, A. and Isvan, O.},
+	title = {Musical Applications of New, Multi-Axis Guitar String Sensors},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {543--546},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
+}
+
+
+@inproceedings{garnett1999performance,
+	author = {Garnett, G. and Goudeseune, C.},
+	title = {Performance Factors in Control of High-Dimensional Spaces},
+	booktitle = {Proceedings of the 1999 International Computer Music Conference},
+	pages = {268--271},
+	publisher = {International Computer Music Association},
+	address = {Beijing, China},
+	year = {1999}
+}
+
+
+@inproceedings{garnett1999virtual,
+	author = {Garnett, G. and Malvar-Ruiz, F. and Stoltzfus, F.},
+	title = {Virtual Conducting Practice Environment},
+	booktitle = {Proceedings of the 1999 International Computer Music Conference},
+	pages = {371--374},
+	publisher = {International Computer Music Association},
+	address = {Beijing, China},
+	year = {1999}
 }
 
 
@@ -2171,6 +2709,17 @@
 	publisher = {Editions Parenthèses},
 	address = {Marseille},
 	year = {1999}
+}
+
+
+@inproceedings{gillespie1992touchback,
+	author = {Gillespie, B.},
+	title = {The Touchback Keyboard},
+	booktitle = {Proceedings of the 1992 International Computer Music Conference},
+	pages = {447--448},
+	publisher = {International Computer Music Association},
+	address = {San Jose, CA, USA},
+	year = {1992}
 }
 
 
@@ -2238,6 +2787,39 @@
 }
 
 
+@inproceedings{haken1992continuum,
+	author = {Haken, L. and Abdullah, R. and Smart, M.},
+	title = {The Continuum: A Continuous Music Keyboard},
+	booktitle = {Proceedings of the 1992 International Computer Music Conference},
+	pages = {81--84},
+	publisher = {International Computer Music Association},
+	address = {San Jose, CA, USA},
+	year = {1992}
+}
+
+
+@inproceedings{haken1997continuous,
+	author = {Haken, L. and Fritz, K. and Tellmann, E. and Wolfe, P. and Christensen, P.},
+	title = {A Continuous Music Keyboard Controlling Polyphonic Morphing using Bandwidth Enhanced Oscillators},
+	booktitle = {Proceedings of the 1997 International Computer Music Conference},
+	pages = {375--378},
+	publisher = {International Computer Music Association},
+	address = {Thessaloniki, Greece},
+	year = {1997}
+}
+
+
+@article{haken1998indiscrete,
+	author = {Haken, L. and Tellman, E. and Wolfe, P.},
+	title = {An Indiscrete Music Keyboard},
+	journal = {Computer Music Journal},
+	volume = {22},
+	number = {1},
+	pages = {31--48},
+	year = {1998}
+}
+
+
 @inproceedings{harrison1998squeeze,
 	author = {Harrison, B. L. and Fishkin, K. P. and Gujar, A. and Mochon, C. and Want, R.},
 	title = {Squeeze Me, Hold Me, Tilt Me! An Exploration of Manipulative User Interfaces},
@@ -2246,6 +2828,17 @@
 	publisher = {Association for Computer Machinery},
 	address = {Los Angeles, CA, USA},
 	year = {1998}
+}
+
+
+@inproceedings{hartono1994adaptative,
+	author = {Hartono, P. and Asano, K. and Inoue, W. and Hashimoto, S.},
+	title = {Adaptative Timbre Control using Gesture},
+	booktitle = {Proceedings of the 1994 International Computer Music Conference},
+	pages = {151--158},
+	publisher = {International Computer Music Association},
+	address = {Aarhus, Denmark},
+	year = {1994}
 }
 
 
@@ -2308,6 +2901,28 @@
 }
 
 
+@inproceedings{hirai1998software,
+	author = {Hirai, S. and Katayose, H. and Kanamori, T. and Inokuchi, S.},
+	title = {Software Sensors for Interactive Digital Art},
+	booktitle = {Proceedings of the 1998 International Computer Music Conference},
+	pages = {514--517},
+	publisher = {International Computer Music Association},
+	address = {Ann Arbor, MI, USA},
+	year = {1998}
+}
+
+
+@inproceedings{hsiao1999new,
+	author = {Hsiao, K. Y. and Paradiso, J.},
+	title = {A New Multimodal Musical Controller Using Wireless Magnetic Tags},
+	booktitle = {Proceedings of the 1999 International Computer Music Conference},
+	pages = {24--27},
+	publisher = {International Computer Music Association},
+	address = {Beijing, China},
+	year = {1999}
+}
+
+
 @inproceedings{hummels1998intuitive,
 	author = {Hummels, C. and Smets, G. and Overbeeke, K.},
 	editor = {Wachsmuth, I. and Fröhlich, M.},
@@ -2317,6 +2932,17 @@
 	publisher = {Springer-Verlag},
 	address = {Bielefeld, Germany},
 	year = {1998}
+}
+
+
+@inproceedings{hunt1990midigrid,
+	author = {Hunt, A. and Kirk, R. and Orton, R.},
+	title = {{MIDIGRID}: An Innovative Computer-Based Performance and Composition System},
+	booktitle = {Proceedings of the 1990 International Computer Music Conference},
+	pages = {392--394},
+	publisher = {International Computer Music Association},
+	address = {Glasgow, UK},
+	year = {1990}
 }
 
 
@@ -2348,6 +2974,28 @@
 	publisher = {International Computer Music Association},
 	address = {Berlin, Germany},
 	year = {2000}
+}
+
+
+@inproceedings{ilmonene1999conductor,
+	author = {Ilmonene, T. and Takala, T.},
+	title = {Conductor Following with Artificial Neural Networks},
+	booktitle = {Proceedings of the 1999 International Computer Music Conference},
+	pages = {367--370},
+	publisher = {International Computer Music Association},
+	address = {Beijing, China},
+	year = {1999}
+}
+
+
+@inproceedings{impett1994meta,
+	author = {Impett, J.},
+	title = {A Meta-Trumpet(er)},
+	booktitle = {Proceedings of the 1994 International Computer Music Conference},
+	pages = {147--150},
+	publisher = {International Computer Music Association},
+	address = {Aarhus, Denmark},
+	year = {1994}
 }
 
 
@@ -2393,6 +3041,115 @@
 }
 
 
+@inproceedings{kanamori1993gesture,
+	author = {Kanamori, T. and Katayose, H. and Simura, S. and Inokuchi, S.},
+	title = {Gesture Sensor in Virtual Performer},
+	booktitle = {Proceedings of the 1993 International Computer Music Conference},
+	pages = {127--129},
+	publisher = {International Computer Music Association},
+	address = {Tokyo, Japan},
+	year = {1993}
+}
+
+
+@inproceedings{kanamori1995sensor,
+	author = {Kanamori, T. and Katayose, H. and Aono, Y. and Inokuchi, S. and Sakaguchi, T.},
+	title = {Sensor Integration for Interactive Digital Art},
+	booktitle = {Proceedings of the 1995 International Computer Music Conference},
+	pages = {265--268},
+	publisher = {International Computer Music Association},
+	address = {Banff, AB, Canada},
+	year = {1995}
+}
+
+
+@inproceedings{katayose1993virtual,
+	author = {Katayose, H. and Kanamori, T. and Kamei, K. and Nagashima, Y. and Sato, K. and Inokuchi, S. and Simura, S.},
+	title = {Virtual Performer},
+	booktitle = {Proceedings of the 1993 International Computer Music Conference},
+	pages = {138--145},
+	publisher = {International Computer Music Association},
+	address = {Tokyo, Japan},
+	year = {1993}
+}
+
+
+@inproceedings{katayose1994demonstration,
+	author = {Katayose, H. and Kanamori, T. and Simura, S. and Inokuchi, S.},
+	title = {Demonstration of Gesture Sensors for the Shakuhachi},
+	booktitle = {Proceedings of the 1994 International Computer Music Conference},
+	pages = {196--199},
+	publisher = {International Computer Music Association},
+	address = {Aarhus, Denmark},
+	year = {1994}
+}
+
+
+@inproceedings{katayose1996environment,
+	author = {Katayose, H. and Kanamori, T. and Inokuchi, S.},
+	title = {An Environment for Interactive Art - sensor integration and applications},
+	booktitle = {Proceedings of the 1996 International Computer Music Conference},
+	pages = {173--176},
+	publisher = {International Computer Music Association},
+	address = {Hong Kong},
+	year = {1996}
+}
+
+
+@inproceedings{katayose1997toolkit,
+	author = {Katayose, H. and Shirakabe, H. and Kanamori, T. and Inokuchi, S.},
+	title = {A Toolkit for Interactive Digital Art},
+	booktitle = {Proceedings of the 1997 International Computer Music Conference},
+	pages = {476--478},
+	publisher = {International Computer Music Association},
+	address = {Thessaloniki, Greece},
+	year = {1997}
+}
+
+
+@inproceedings{katayose1998physiological,
+	author = {Katayose, H. and Hirai, S. and Kanamori, T. and Kato, H. and Inokuchi, S.},
+	title = {Physiological Measurement of Performers' Tension and its Utilisation for Media Control},
+	booktitle = {Proceedings of the 1998 International Computer Music Conference},
+	pages = {211--214},
+	publisher = {International Computer Music Association},
+	address = {Ann Arbor, MI, USA},
+	year = {1998}
+}
+
+
+@inproceedings{keane1989midi,
+	author = {Keane, D. and Gross, P.},
+	title = {The {MIDI} Baton},
+	booktitle = {Proceedings of the 1989 International Computer Music Conference},
+	pages = {151--154},
+	publisher = {International Computer Music Association},
+	address = {Columbus, OH, USA},
+	year = {1989}
+}
+
+
+@inproceedings{keane1990midi,
+	author = {Keane, D. and Smecca, G. and Wood, K.},
+	title = {The {MIDI} Baton {II}},
+	booktitle = {Proceedings of the 1990 International Computer Music Conference},
+	publisher = {International Computer Music Association},
+	address = {Glasgow, UK},
+	year = {1990}
+}
+
+
+@article{knapp1990bioelectric,
+	author = {Knapp, R. B. and Lusted, H. S.},
+	title = {A Bioelectric Controller for Computer Music Applications},
+	journal = {Computer Music Journal},
+	volume = {14},
+	number = {1},
+	pages = {42--47},
+	year = {1990}
+}
+
+
 @inproceedings{kuivila2000forests,
 	author = {Kuivila, R.},
 	title = {Forests and Trees: Distinguishing Many from Few with a Video Camera},
@@ -2401,6 +3158,28 @@
 	publisher = {International Computer Music Association},
 	address = {Berlin, Germany},
 	year = {2000}
+}
+
+
+@article{laske1977toward,
+	author = {Laske, O.},
+	title = {Toward a Theory of Interfaces for Computer Music Systems},
+	journal = {Computer Music Journal},
+	volume = {1},
+	number = {4},
+	pages = {53--60},
+	year = {1977}
+}
+
+
+@article{delaubier1998meta,
+	author = {de Laubier, S.},
+	title = {The Meta-Instrument},
+	journal = {Computer Music Journal},
+	volume = {22},
+	number = {1},
+	pages = {25--29},
+	year = {1998}
 }
 
 
@@ -2413,6 +3192,17 @@
 	publisher = {Editions Parenthèses},
 	address = {Marseille},
 	year = {1999}
+}
+
+
+@inproceedings{lee1992adaptative,
+	author = {Lee, M. and Garnet, G. and Wessel, D.},
+	title = {An Adaptative Conductor Follower},
+	booktitle = {Proceedings of the 1992 International Computer Music Conference},
+	pages = {454--455},
+	publisher = {International Computer Music Association},
+	address = {San Jose, CA, USA},
+	year = {1992}
 }
 
 
@@ -2444,6 +3234,28 @@
 }
 
 
+@inproceedings{lopezlezcano1995padmaster,
+	author = {Lopez-Lezcano, F.},
+	title = {Padmaster: An Improvisation Environment for Real-Time Performance},
+	booktitle = {Proceedings of the 1995 International Computer Music Conference},
+	pages = {104--105},
+	publisher = {International Computer Music Association},
+	address = {Banff, AB, Canada},
+	year = {1995}
+}
+
+
+@inproceedings{lopezlezcano1996padmaster,
+	author = {Lopez-Lezcano, F.},
+	title = {Padmaster: Banging on Algorithms with Alternate Controllers},
+	booktitle = {Proceedings of the 1996 International Computer Music Conference},
+	pages = {425--427},
+	publisher = {International Computer Music Association},
+	address = {Hong Kong},
+	year = {1996}
+}
+
+
 @inproceedings{lyons2001facing,
 	author = {Lyons, M. J. and Tetsutani, N.},
 	title = {Facing the Music. A Facial Action Controlled Musical Interface},
@@ -2452,6 +3264,17 @@
 	publisher = {ACM Press},
 	address = {Seattle, WA, USA},
 	year = {2001}
+}
+
+
+@inproceedings{machover1989hyperinstruments,
+	author = {Machover, T. and Chung, J.},
+	title = {Hyperinstruments: Musically Intelligent and Interactive Performance and Creativity Systems},
+	booktitle = {Proceedings of the 1989 International Computer Music Conference},
+	pages = {186--190},
+	publisher = {International Computer Music Association},
+	address = {Columbus, OH, USA},
+	year = {1989}
 }
 
 
@@ -2510,11 +3333,33 @@
 }
 
 
+@inproceedings{marrin1997digital,
+	author = {Marrin, T. A. and Paradiso, J.},
+	title = {The Digital Baton: A Versatile Performance Instrument},
+	booktitle = {Proceedings of the 1997 International Computer Music Conference},
+	pages = {313--316},
+	publisher = {International Computer Music Association},
+	address = {Thessaloniki, Greece},
+	year = {1997}
+}
+
+
 @inproceedings{marrin1998conductorsa,
 	author = {Marrin, T. A. and Picard, R.},
 	title = {The Conductor's Jacket: a Testbed for Research on Gestural and Affective Expression},
 	booktitle = {Proceedings of the XII Colloquium for Musical Informatics},
 	address = {Gorizia, Italy},
+	year = {1998}
+}
+
+
+@inproceedings{marrin1998conductorsb,
+	author = {Marrin, T. A. and Picard, R.},
+	title = {The ``Conductor's Jacquet'': A device for recording expressive musical gestures},
+	booktitle = {Proceedings of the 1998 International Computer Music Conference},
+	pages = {215--219},
+	publisher = {International Computer Music Association},
+	address = {Ann Arbor, MI, USA},
 	year = {1998}
 }
 
@@ -2527,6 +3372,17 @@
 	publisher = {ASUC, Columbia University},
 	address = {New York},
 	year = {1969}
+}
+
+
+@article{mathews1980sequential,
+	author = {Mathews, M. V. and Abbott, C.},
+	title = {The Sequential Drum},
+	journal = {Computer Music Journal},
+	volume = {4},
+	number = {4},
+	pages = {45--59},
+	year = {1980}
 }
 
 
@@ -2549,6 +3405,17 @@
 	publisher = {The MIT Press},
 	address = {Cambridge, Mass.},
 	year = {1989}
+}
+
+
+@article{mathews1991radio,
+	author = {Mathews, M. V.},
+	title = {The Radio Baton and the Conductor Program, or: Pitch, the Most Important and Least Expressive Part of Music},
+	journal = {Computer Music Journal},
+	volume = {15},
+	number = {4},
+	pages = {37--46},
+	year = {1991}
 }
 
 
@@ -2592,6 +3459,17 @@
 }
 
 
+@article{moog1990evolution,
+	author = {Moog, R. and Rea, T.},
+	title = {Evolution of the Keyboard Interface: The Bosendorfer {290SE} Recording Piano and the Moog Multiply-Touch-Sensitive Keyboards},
+	journal = {Computer Music Journal},
+	volume = {14},
+	number = {2},
+	pages = {52--60},
+	year = {1990}
+}
+
+
 @article{moog1993controller,
 	author = {Moog, R.},
 	title = {Controller oddities},
@@ -2600,6 +3478,39 @@
 	number = {3},
 	pages = {44--49},
 	year = {1993}
+}
+
+
+@inproceedings{morita1989computer,
+	author = {Morita, H. and Otheru, S. and Hashimoto, S.},
+	title = {Computer Music System that Follows a Human Conductor},
+	booktitle = {Proceedings of the 1989 International Computer Music Conference},
+	pages = {207--210},
+	publisher = {International Computer Music Association},
+	address = {Columbus, OH, USA},
+	year = {1989}
+}
+
+
+@inproceedings{morita1990knowledge,
+	author = {Morita, H. and Watanabe, H. and Harada, T. and Otheru, S. and Hashimoto, S.},
+	title = {Knowledge Information Processing in Conducting Computer Music Performance},
+	booktitle = {Proceedings of the 1990 International Computer Music Conference},
+	pages = {332--334},
+	publisher = {International Computer Music Association},
+	address = {Glasgow, UK},
+	year = {1990}
+}
+
+
+@inproceedings{morrill1989hardware,
+	author = {Morrill, D. and Cook, P. R.},
+	title = {Hardware, Software, and Compositional Tools for a Real-Time Improvised Solo Trumpet Work},
+	booktitle = {Proceedings of the 1989 International Computer Music Conference},
+	pages = {211--214},
+	publisher = {International Computer Music Association},
+	address = {Columbus, OH, USA},
+	year = {1989}
 }
 
 
@@ -2689,6 +3600,83 @@
 }
 
 
+@inproceedings{ng2000trans,
+	author = {Ng, K. and Popat, S. and Ong, B. and Stefani, E. and Popat, K. and Cooper, D.},
+	title = {Trans-Domain Mapping: A Real-Time Interactive System for Motion Acquisition and Musical Mapping},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {485--488},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
+}
+
+
+@inproceedings{nichols2000vbow,
+	author = {Nichols, C.},
+	title = {The {vBow}: A Haptic Musical Controller Human-Computer Interface},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {274--276},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
+}
+
+
+@inproceedings{nottoli1998new,
+	author = {Nottoli, G. and Salerno, M. and Constantini, G.},
+	title = {A New Interactive Performance System for Real-Time Sound Synthesis},
+	booktitle = {Proceedings of the 1998 International Computer Music Conference},
+	pages = {33--36},
+	publisher = {International Computer Music Association},
+	address = {Ann Arbor, MI, USA},
+	year = {1998}
+}
+
+
+@inproceedings{omodhrain1997feel,
+	author = {O'Modhrain, M.-S.},
+	title = {Feel the Music: Narration in Touch and Sound},
+	booktitle = {Proceedings of the 1997 International Computer Music Conference},
+	pages = {321--324},
+	publisher = {International Computer Music Association},
+	address = {Thessaloniki, Greece},
+	year = {1997}
+}
+
+
+@inproceedings{omodhrain2000qualitative,
+	author = {O'Modhrain, M.-S. and Serafin, S. and Chafe, C. and Smith, J. O.},
+	title = {Qualitative and Quantitative Assesment of a Virtual Bowed String Instrument},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {66--69},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
+}
+
+
+@inproceedings{omodhrain2000performer,
+	author = {O'Modhrain, M.-S. and Chafe, C.},
+	title = {The Performer-Instrument Interaction: A Sensory Motor Perspective},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {145--148},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
+}
+
+
+@inproceedings{orio1997gestural,
+	author = {Orio, N.},
+	title = {A Gestural Interface Controlled by the Oral Cavity},
+	booktitle = {Proceedings of the 1997 International Computer Music Conference},
+	pages = {141--144},
+	publisher = {International Computer Music Association},
+	address = {Thessaloniki, Greece},
+	year = {1997}
+}
+
+
 @inproceedings{orio1999model,
 	author = {Orio, N.},
 	title = {A Model for Human-Computer Interaction Based on the Recognition of Musical Gestures},
@@ -2731,6 +3719,28 @@
 }
 
 
+@inproceedings{paradiso1999interactive,
+	author = {Paradiso, J. A. and Chu, E. and Hsiao, K.-Y.},
+	title = {Interactive Music for Instrumented Dancing Shoes},
+	booktitle = {Proceedings of the 1999 International Computer Music Conference},
+	pages = {453--456},
+	publisher = {International Computer Music Association},
+	address = {Beijing, China},
+	year = {1999}
+}
+
+
+@inproceedings{paradiso2000new,
+	author = {Paradiso, J. and Hsiao, K.-Y. and Strickon, J. and Rice, P.},
+	title = {New Sensor and Music Systems for Large Interactive Surfaces},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {277--280},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
+}
+
+
 @inproceedings{paradiso2002passive,
 	author = {Paradiso, J. and Leo, C. K. and Checka, N. and Hsiao, K.},
 	title = {Passive Acoustic Knock Tracking for Interactive Windows},
@@ -2749,6 +3759,17 @@
 	number = {2},
 	pages = {267--289},
 	year = {1985}
+}
+
+
+@inproceedings{pinkston1995touch,
+	author = {Pinkston, R. and Kerkhoff, J. and McQuilken, M.},
+	title = {A Touch Sensitive Dance Floor/{MIDI} Controller},
+	booktitle = {Proceedings of the 1995 International Computer Music Conference},
+	pages = {224--225},
+	publisher = {International Computer Music Association},
+	address = {Banff, AB, Canada},
+	year = {1995}
 }
 
 
@@ -2794,6 +3815,26 @@
 }
 
 
+@inproceedings{raczinski1988real,
+	author = {Raczinski, J.-M. and Marino, G.},
+	title = {A Real-Time Synthesis Unit},
+	booktitle = {Proceedings of the 1988 International Computer Music Conference},
+	pages = {90--100},
+	publisher = {International Computer Music Association},
+	address = {Cologne, Germany},
+	year = {1988}
+}
+
+
+@article{roads1986second,
+	author = {Roads, C.},
+	title = {The Second {STEIM} Symposium on Interactive Composition in Live Electronic Music},
+	journal = {Computer Music Journal},
+	pages = {44--50},
+	year = {1986}
+}
+
+
 @book{roads1996computer,
 	author = {Roads, C.},
 	title = {The Computer Music Tutorial},
@@ -2816,6 +3857,17 @@
 }
 
 
+@inproceedings{rubine1988videoharp,
+	author = {Rubine, D. and McAvinney, P.},
+	title = {The Videoharp},
+	booktitle = {Proceedings of the 1988 International Computer Music Conference},
+	pages = {49--55},
+	publisher = {International Computer Music Association},
+	address = {Cologne, Germany},
+	year = {1988}
+}
+
+
 @article{ryan1991some,
 	author = {Ryan, J.},
 	title = {Some Remarks on Musical Instrument Design at {STEIM}},
@@ -2824,6 +3876,28 @@
 	number = {1},
 	pages = {3--17},
 	year = {1991}
+}
+
+
+@inproceedings{sawada1995gesture,
+	author = {Sawada, H. and Ohkura, S. and Hashimoto, S.},
+	title = {Gesture Analysis Using {3D} Acceleration Sensor for Music Control},
+	booktitle = {Proceedings of the 1995 International Computer Music Conference},
+	pages = {257--260},
+	publisher = {International Computer Music Association},
+	address = {Banff, AB, Canada},
+	year = {1995}
+}
+
+
+@inproceedings{sawada1996acceleration,
+	author = {Sawada, H. and Onoe, N. and Hashimoto, S.},
+	title = {Acceleration Sensor as an Input Device for Musical Environment},
+	booktitle = {Proceedings of the 1996 International Computer Music Conference},
+	pages = {421--424},
+	publisher = {International Computer Music Association},
+	address = {Hong Kong},
+	year = {1996}
 }
 
 
@@ -2838,6 +3912,28 @@
 }
 
 
+@inproceedings{smirnov2000music,
+	author = {Smirnov, A.},
+	title = {Music and Gesture: Sensor Technologies in Interactive Music and the Theremin Based Space Control System},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {511--514},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
+}
+
+
+@inproceedings{schloss1990recent,
+	author = {Schloss, W. A.},
+	title = {Recent Advances in the Coupling of the Language {MAX} with the Mathews/Boie Radio Drum},
+	booktitle = {Proceedings of the International Computer Music Conference},
+	pages = {398--400},
+	publisher = {International Computer Music Association},
+	address = {Glasgow, UK},
+	year = {1990}
+}
+
+
 @inproceedings{schloss2001towards,
 	author = {Schloss, W. A. and Driessen, P.},
 	title = {Towards a Virtual Membrane: New Algorithms and Technology for Analyzing Gestural Data},
@@ -2845,6 +3941,39 @@
 	publisher = {International Computer Music Association},
 	address = {Havana, Cuba},
 	year = {2001}
+}
+
+
+@inproceedings{serafin1999gestural,
+	author = {Serafin, S. and Dudas, R. and Wanderley, M. and Rodet, X.},
+	title = {Gestural Control of a Real-Time Physical Model of a Bowed String Instrument},
+	booktitle = {Proceedings of the 1999 International Computer Music Conference},
+	pages = {375--378},
+	publisher = {International Computer Music Association},
+	address = {Beijing, China},
+	year = {1999}
+}
+
+
+@article{siegel1998challenges,
+	author = {Siegel, W. and Jacobsen, J.},
+	title = {The Challenges of Interactive Dance: An Overview and Case Study},
+	journal = {Computer Music Journal},
+	volume = {22},
+	number = {4},
+	pages = {29--43},
+	year = {1998}
+}
+
+
+@inproceedings{siegel1999composing,
+	author = {Siegel, W. and Jacobsen, J.},
+	title = {Composing for the Digital Dance Interface},
+	booktitle = {Proceedings of the 1999 International Computer Music Conference},
+	pages = {276--277},
+	publisher = {International Computer Music Association},
+	address = {Beijing, China},
+	year = {1999}
 }
 
 
@@ -2856,6 +3985,50 @@
 	number = {3/4},
 	pages = {587--608},
 	year = {1996}
+}
+
+
+@inproceedings{starkier1986real,
+	author = {Starkier, M. and Prevot, P.},
+	title = {Real-Time Gestural Control},
+	booktitle = {Proceedings of the 1986 International Computer Music Conference},
+	pages = {423--426},
+	publisher = {International Computer Music Association},
+	address = {The Hague, The Netherlands},
+	year = {1986}
+}
+
+
+@inproceedings{suzuki2000mobile,
+	author = {Suzuki, K. and Tabe, K. and Hashimoto, S.},
+	title = {A Mobile Robot Platform for Music and Dance Performance},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {539--542},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
+}
+
+
+@inproceedings{takanishi1998development,
+	author = {Takanishi, A. and Maeda, M.},
+	title = {Development of an Anthropomorphic Flutist Robot {WF}-{3RIV}},
+	booktitle = {Proceedings of the 1998 International Computer Music Conference},
+	pages = {328--331},
+	publisher = {International Computer Music Association},
+	address = {Ann Arbor, MI, USA},
+	year = {1998}
+}
+
+
+@inproceedings{tanaka1993musical,
+	author = {Tanaka, A.},
+	title = {Musical Technical Issues in Using Interactive Instrument Technology with Application to the Biomuse},
+	booktitle = {Proceedings of the 1993 International Computer Music Conference},
+	pages = {124--126},
+	publisher = {International Computer Music Association},
+	address = {Tokyo, Japan},
+	year = {1993}
 }
 
 
@@ -2880,6 +4053,17 @@
 }
 
 
+@inproceedings{tobenfeld1992system,
+	author = {Tobenfeld, E.},
+	title = {A System for Computer Assisted Gestural Improvisation},
+	booktitle = {Proceedings of the 1992 International Computer Music Conference},
+	pages = {93--96},
+	publisher = {International Computer Music Association},
+	address = {San Jose, CA, USA},
+	year = {1992}
+}
+
+
 @inproceedings{tobey1995ensemble,
 	author = {Tobey, F.},
 	title = {The Ensemble Member and the Conducted Computer},
@@ -2888,6 +4072,17 @@
 	publisher = {International Computer Music Association},
 	address = {Banff, AB, Canada},
 	year = {1995}
+}
+
+
+@inproceedings{tobey1996extraction,
+	author = {Tobey, F.},
+	title = {Extraction of Conducting Gestures in {3D} Space},
+	booktitle = {Proceedings of the 1996 International Computer Music Conference},
+	pages = {305--307},
+	publisher = {International Computer Music Association},
+	address = {Hong Kong},
+	year = {1996}
 }
 
 
@@ -2900,6 +4095,28 @@
 	publisher = {Editions Parenthèses},
 	address = {Marseille},
 	year = {1999}
+}
+
+
+@inproceedings{trueman1999bossa,
+	author = {Trueman, D. and Cook, P.},
+	title = {{BoSSA}: The Deconstructed Violin Reconstructed},
+	booktitle = {Proceedings of the 1999 International Computer Music Conference},
+	pages = {232--239},
+	publisher = {International Computer Music Association},
+	address = {Beijing, China},
+	year = {1999}
+}
+
+
+@inproceedings{trueman2000alternative,
+	author = {Trueman, D. and Bahn, C. and Cook, P.},
+	title = {Alternative Voices for Electronic Sound: Spherical Speakers and Sensor-Speaker Arrays ({SenSAs})},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {248--251},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
 }
 
 
@@ -2924,6 +4141,17 @@
 }
 
 
+@inproceedings{usa1998multi,
+	author = {Usa, S. and Mochida, Y.},
+	title = {A Multi-Modal Conducting Simulator},
+	booktitle = {Proceedings of the 1998 International Computer Music Conference},
+	pages = {25--32},
+	publisher = {International Computer Music Association},
+	address = {Ann Arbor, MI, USA},
+	year = {1998}
+}
+
+
 @inproceedings{vergez2001trumpet,
 	author = {Vergez, C. and Rodet, X.},
 	title = {Trumpet and Trumpet Player: Model and Simulation in a Musical Context},
@@ -2931,6 +4159,17 @@
 	publisher = {International Computer Music Association},
 	address = {Havana, Cuba},
 	year = {2001}
+}
+
+
+@inproceedings{vertegaal1995sentograph,
+	author = {Vertegaal, R. and Ungvary, T.},
+	title = {The Sentograph: Input Devices and the Communication of Bodily Expression},
+	booktitle = {Proceedings of the 1995 International Computer Music Conference},
+	pages = {253--256},
+	publisher = {International Computer Music Association},
+	address = {Banff, AB, Canada},
+	year = {1995}
 }
 
 
@@ -2942,6 +4181,28 @@
 	number = {1},
 	pages = {113--30},
 	year = {1996}
+}
+
+
+@inproceedings{vertegaal1996towards,
+	author = {Vertegaal, R. and Ungvary, T. and Kieslinger, M.},
+	title = {Towards a Musician's Cockpit: Transducer, Feedback and Musical Function},
+	booktitle = {Proceedings of the 1996 International Computer Music Conference},
+	pages = {308--311},
+	publisher = {International Computer Music Association},
+	address = {Hong Kong},
+	year = {1996}
+}
+
+
+@inproceedings{waisvisz1985hands,
+	author = {Waisvisz, M.},
+	title = {The Hands, a Set of Remote {MIDI}-Controllers},
+	booktitle = {Proceedings of the 1985 International Computer Music Conference},
+	pages = {313--318},
+	publisher = {International Computer Music Association},
+	address = {Burnaby, BC, Canada},
+	year = {1985}
 }
 
 
@@ -2963,6 +4224,17 @@
 	publisher = {Hermès Science Publishing},
 	address = {Paris},
 	year = {1999}
+}
+
+
+@inproceedings{wanderley2000choice,
+	author = {Wanderley, M. M. and Viollet, J.-P. and Isart, F. and Rodet, X.},
+	title = {On the Choice of Transducer Technologies for Specific Musical Functions},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {244--247},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
 }
 
 
@@ -2996,6 +4268,17 @@
 }
 
 
+@inproceedings{wright1997new,
+	author = {Wright, M. and Wessel, D. and Freed, A.},
+	title = {New Musical Control Structures from Standard Gestural Controllers},
+	booktitle = {Proceedings of the 1997 International Computer Music Conference},
+	pages = {387--390},
+	publisher = {International Computer Music Association},
+	address = {Thessaloniki, Greece},
+	year = {1997}
+}
+
+
 @inproceedings{wright2001managing,
 	author = {Wright, M. and Freed, A. and Lee, A. and Madden, T. and Momeni, A.},
 	title = {Managing Complexity with Explicit Mapping of Gestures to Sound Control in {OSC}},
@@ -3013,6 +4296,39 @@
 	pages = {1113--1118},
 	address = {San Diego, CA, USA},
 	year = {1998}
+}
+
+
+@inproceedings{yonezawa2000tangible,
+	author = {Yonezawa, T. and Mase, K.},
+	title = {Tangible Sound: Musical Instrument Using Fluid Media},
+	booktitle = {Proceedings of the 2000 International Computer Music Conference},
+	pages = {551--554},
+	publisher = {International Computer Music Association},
+	address = {Berlin, Germany},
+	year = {2000}
+}
+
+
+@inproceedings{ystad1999design,
+	author = {Ystad, S. and Voinier, T.},
+	title = {Design of a Flute Interface to Control Synthesis Models},
+	booktitle = {Proceedings of the 1999 International Computer Music Conference},
+	pages = {228--231},
+	publisher = {International Computer Music Association},
+	address = {Beijing, China},
+	year = {1999}
+}
+
+
+@article{yunik1985digital,
+	author = {Yunik, M. and Borys, M. and Swift, G. W.},
+	title = {A Digital Flute},
+	journal = {Computer Music Journal},
+	volume = {9},
+	number = {2},
+	pages = {49--52},
+	year = {1985}
 }
 
 
@@ -3281,6 +4597,17 @@
 }
 
 
+@article{wanderley2002mapping,
+	author = {Wanderley, M.},
+	title = {Mapping Strategies in Interactive Computer Music},
+	journal = {Organised Sound},
+	volume = {7},
+	number = {2},
+	pages = {83--84},
+	year = {2002}
+}
+
+
 @article{wessel1979timbre,
 	author = {Wessel, D.},
 	title = {Timbre Space as a Musical Control Structure},
@@ -3289,6 +4616,17 @@
 	number = {2},
 	pages = {45--52},
 	year = {1979}
+}
+
+
+@inproceedings{winkler1995making,
+	author = {Winkler, T.},
+	title = {Making Motion Musical: Gestural Mapping Strategies for Interactive Computer Music},
+	booktitle = {Proceedings of the 1995 International Computer Music Conference},
+	pages = {261--264},
+	publisher = {International Computer Music Association},
+	address = {Banff, AB, Canada},
+	year = {1995}
 }
 
 
@@ -4003,6 +5341,16 @@
 }
 
 
+@inproceedings{bromwich1995single,
+	author = {Bromwich, M.},
+	title = {A Single Performer Controlled Interface for Electronic Dance/Music Theatre},
+	booktitle = {Proceedings of the 1995 International Computer Music Conference},
+	address = {Banff, AB, Canada},
+	year = {1995},
+	note = {Poster presented at 1995 International Computer Music Conference 'Digital Playgrounds', Banff Centre, Canada. Paper published in ICMC proceedings}
+}
+
+
 @article{bromberg2004adapt,
 	author = {Bromberg, E. and Birringer, J.},
 	title = {{ADaPT}: Telepresent Artistic Collaborations},
@@ -4041,6 +5389,17 @@
 	publisher = {North Holland},
 	address = {Amsterdam},
 	year = {1986}
+}
+
+
+@article{camurri2000eyesweb,
+	author = {Camurri, A. and Hashimoto, S. and Ricchetti, M. and Ricci, A. and Suzuki, K. and Trocca, R. and Volpe, G.},
+	title = {{EyesWeb}: Toward Gesture and Affect Recognition in Interactive Dance and Music Systems},
+	journal = {Computer Music Journal},
+	volume = {24},
+	number = {1},
+	pages = {57},
+	year = {2000}
 }
 
 
@@ -4224,6 +5583,17 @@
 	pages = {1291--1292},
 	address = {Vienna, Austria},
 	year = {2004}
+}
+
+
+@incollection{fisher1990virtual,
+	author = {Fisher, S.},
+	editor = {Laurel, B.},
+	title = {Virtual interface environments},
+	booktitle = {The Art of Computer Interface Design},
+	publisher = {Addison Wesley},
+	address = {Massachusetts},
+	year = {1990}
 }
 
 
@@ -4657,6 +6027,15 @@
 	pages = {1--12},
 	address = {Edinburgh, UK},
 	year = {2007}
+}
+
+
+@article{mair1996virtual,
+	author = {Mair, G.},
+	title = {Virtual performance},
+	journal = {Global international},
+	pages = {18--21},
+	year = {1996}
 }
 
 
@@ -5219,6 +6598,17 @@
 	number = {3},
 	pages = {52--60},
 	year = {2001}
+}
+
+
+@inproceedings{ulyate1998interactive,
+	author = {Ulyate, R.},
+	title = {Interactive Dance Club},
+	booktitle = {SIGGRAPH98 Conference Abstracts and Applications},
+	pages = {230--235},
+	publisher = {ACM Press},
+	address = {Orlando, FL, USA},
+	year = {1998}
 }
 
 

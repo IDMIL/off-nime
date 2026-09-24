@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # Build settings
 theme: minima
-plugins: ['jekyll/scholar']
+plugins: ['jekyll/scholar', 'jekyll-seo-tag']
 
 scholar:
   source: "./bibs"

@@ -7,11 +7,13 @@ layout: page
 
 # Off-NIME: NIME papers, chapters and books published outside of the NIME Conference Proceedings
 
-## How to use this resource
+## What is this resource?
 
-A table of Off-NIME materials has been provided below. The URL column links to a stable host of the material, and the BibTeX column allows you to copy the citation as a BibTeX .bib file. 
+This website contains a table of over 750 vetted off-NIME references deemed to be relevant to the NIME community. This includes materials from conferences that predated NIME (CMJ, ICMC; so-called ["prehistoric NIME"](https://nime.org/proceedings/2023/nime2023_8.pdf)) as well as concurrent conferences, publications, and books from 1969 to 2011. 
 
-You can search for specific items using the search box, and you can also sort the table by clicking on any of the headers.
+There are three primary datasets, represented by the radio buttons just above the table: CMJ, ICMC, and ISIDM ([the Interactive Systems and Instrument Design in Music Working Group](https://www.sensorwiki.org/isidm)). Of the datasets, ISIDM is the most incomplete. Almost all of the references do not have links, and there are ~60 citations (omitted from the table) that have no identifiable publication. If you would like to get involved with cleaning these references, or with adding new datasets/features, feel free to [submit a PR on the GitHub repo](https://github.com/IDMIL/off-nime/pulls).
+
+Other features of this table include the search bar and column sorting (click the header to sort).
 
 <head>
     <link rel="stylesheet" href="styles.css">

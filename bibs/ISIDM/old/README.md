@@ -1,3 +1,5 @@
+# THIS IS AN OLD FOLDER OF POORLY CLEANED ISIDM REFERENCES. DO NOT USE UNLESS YOU KNOW WHAT YOU ARE DOING.
+
 ## ISIDM Citations
 
 This folder contains a dataset of citations for the [Interactive Systems and Instrument Design in Music Working Group (ISIDM)](https://www.sensorwiki.org/isidm). These citations were acquired from the Bibliography section of each Main Topic page.
