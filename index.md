@@ -9,7 +9,7 @@ layout: page
 
 ## What is this resource?
 
-This website contains a table of over 750 vetted off-NIME references deemed to be relevant to the NIME community. This includes materials from conferences that predated NIME (CMJ, ICMC; so-called ["prehistoric NIME"](https://nime.org/proceedings/2023/nime2023_8.pdf)) as well as concurrent conferences, publications, and books from 1969 to 2011. 
+This website contains a table of over 800 vetted off-NIME references deemed to be relevant to the NIME community. This includes materials from conferences that predated NIME (CMJ, ICMC; so-called ["prehistoric NIME"](https://nime.org/proceedings/2023/nime2023_8.pdf)) as well as concurrent conferences, publications, and books from 1969 to 2011. 
 
 There are three primary datasets, represented by the radio buttons just above the table: CMJ, ICMC, and ISIDM ([the Interactive Systems and Instrument Design in Music Working Group](https://www.sensorwiki.org/isidm)). Of the datasets, ISIDM is the most incomplete. Almost all of the references do not have links, and there are ~60 citations (omitted from the table) that have no identifiable publication. If you would like to get involved with cleaning these references, or with adding new datasets/features, feel free to [submit a PR on the GitHub repo](https://github.com/IDMIL/off-nime/pulls).
 

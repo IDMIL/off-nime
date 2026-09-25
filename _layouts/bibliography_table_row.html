@@ -6,8 +6,12 @@
         {{ entry.journal }}
     {% elsif entry.booktitle %}
         {{ entry.booktitle }}
-    {% else %}
+    {% elsif entry.publisher %}
         {{ entry.publisher }}
+    {% elsif entry.institution %}
+        {{ entry.institution }}
+    {% elsif entry.school %}
+        {{ entry.school }}
     {% endif %}
 </td>
 <td>{{ entry.pages }}</td>
