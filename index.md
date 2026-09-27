@@ -15,6 +15,8 @@ There are three primary datasets, represented by the radio buttons just above th
 
 Other features of this table include the search bar and column sorting (click the header to sort).
 
+<button id="download-all-button" onclick="downloadAll()">Click here to download all entries as a single BibTeX file</button>
+
 <head>
     <link rel="stylesheet" href="styles.css">
     <script src="scripts/num-entries.js" async></script>

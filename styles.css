@@ -1,3 +1,8 @@
+#download-all-button {
+    margin: auto;
+    display: block;
+}
+
 #table-tabs p {
     display: inline;
 }
