@@ -38,13 +38,13 @@ Other features of this table include the search bar and column sorting (click th
 <div class="scrollableTable">
 <table id="bibliography-table" class="sortable">
     <thead>
-        <th class="shortColumn">Year</th>
+        <th>Year</th>
         <th>Author(s)</th>
-        <th class="longColumn">Title</th>
+        <th>Title</th>
         <th>Type</th>
-        <th class="longColumn">Publication</th>
-        <th class="shortColumn">Pages</th>
-        <th class="shortColumn">URL</th>
+        <th>Publication</th>
+        <th>Pages</th>
+        <th>URL</th>
         <th>BibTeX</th>
     </thead>
     {% bibliography %}

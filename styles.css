@@ -17,7 +17,6 @@
 }
 
 #bibliography-table {
-    table-layout: fixed;
     width: 100%;
 }
 
@@ -25,15 +24,6 @@
     position: sticky;
     top: 0;
     cursor: pointer;
-    width: 12.5%;
-}
-
-#bibliography-table thead th.longColumn {
-    width: 20%;
-}
-
-#bibliography-table thead th.shortColumn {
-    width: 7.5%;
 }
 
 #bibliography-table tbody tr {
