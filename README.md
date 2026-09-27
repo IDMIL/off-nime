@@ -9,7 +9,7 @@ This repo contains BibTeX bibliography entries for New Interfaces for Musical Ex
 
 All of the raw .bib files can be found in `./bibs`.  There are three main datasets: (1) [Computer Music Journal (CMJ)](https://www.computermusicjournal.org/), (2) [International Computer Music Conference (ICMC)](https://quod.lib.umich.edu/i/icmc/), and (3) [Interactive Systems and Instrument Design in Music Working Group (ISIDM)](https://www.sensorwiki.org/isidm). All of the entries were deemed relevant to researchers in music interface design across a plurality of areas.
 
-Of the datasets, ISIDM is the most incomplete. Almost all of the references do not have links, and there are ~60 citations (omitted from the table) that have no identifiable publication. If you would like to get involved with cleaning these references, or with adding new datasets/features, feel free to [submit a PR on the GitHub repo](https://github.com/IDMIL/off-nime/pulls).
+Of the datasets, ISIDM is the most incomplete. If you would like to get involved with cleaning these references (mainly adding links or fixing grammatical errors), or with adding new datasets/features, feel free to [submit a PR on the GitHub repo](https://github.com/IDMIL/off-nime/pulls).
 
 ## Acknowledgements
 

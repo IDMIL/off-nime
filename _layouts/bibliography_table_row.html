@@ -2,6 +2,22 @@
 <td>{{ entry.author | default: entry.editor }}</td>
 <td>{{ entry.title }}</td>
 <td>
+    {% if entry.type == "inproceedings" %}
+        Conference Proceedings
+    {% elsif entry.type == "incollection" %}
+        Book Section/Chapter
+    {% elsif entry.type == "mastersthesis" %}
+        Master's Thesis
+    {% elsif entry.type == "phdthesis" %}
+        PhD Thesis
+    {% elsif entry.type == "techreport" %}
+        Technical Report
+    {% else %}
+        {% assign sz = entry.type | size %}
+        {{ entry.type | slice: 0 | upcase }}{{ entry.type | slice: 1, sz - 1 }}
+    {% endif %}
+</td>
+<td>
     {% if entry.journal %}
         {{ entry.journal }}
     {% elsif entry.booktitle %}
@@ -18,6 +34,8 @@
 <td>
     {% if entry.url %}
         <a href="{{ entry.url }}">Link</a>
+    {% elsif entry.doi %}
+        <a href="https://doi.org/{{ entry.doi }}">Link</a>
     {% endif %}
 </td>
 <td><button onclick="copyBibtex(`{{ entry.bibtex | escape }}`)">Copy BibTeX to Clipboard</button></td>

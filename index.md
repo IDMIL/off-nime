@@ -9,7 +9,7 @@ layout: page
 
 ## What is this resource?
 
-This website contains a table of over 800 vetted off-NIME references deemed to be relevant to the NIME community. This includes materials from conferences that predated NIME (CMJ, ICMC; so-called ["prehistoric NIME"](https://nime.org/proceedings/2023/nime2023_8.pdf)) as well as concurrent conferences, publications, and books from 1969 to 2011. 
+This website contains a table of over 850 vetted off-NIME references deemed to be relevant to the NIME community. This includes materials from conferences that predated NIME (CMJ, ICMC; so-called ["prehistoric NIME"](https://nime.org/proceedings/2023/nime2023_8.pdf)) as well as concurrent conferences, publications, and books from 1969 to 2011. 
 
 There are three primary datasets, represented by the radio buttons just above the table: CMJ, ICMC, and ISIDM ([the Interactive Systems and Instrument Design in Music Working Group](https://www.sensorwiki.org/isidm)). If you would like to get involved with cleaning any references, or with adding new datasets/features, feel free to [submit a PR on the GitHub repo](https://github.com/IDMIL/off-nime/pulls).
 
@@ -36,12 +36,13 @@ Other features of this table include the search bar and column sorting (click th
 <div class="scrollableTable">
 <table id="bibliography-table" class="sortable">
     <thead>
-        <th>Year</th>
+        <th class="shortColumn">Year</th>
         <th>Author(s)</th>
-        <th>Title</th>
-        <th>Publication</th>
-        <th>Pages</th>
-        <th>URL</th>
+        <th class="longColumn">Title</th>
+        <th>Type</th>
+        <th class="longColumn">Publication</th>
+        <th class="shortColumn">Pages</th>
+        <th class="shortColumn">URL</th>
         <th>BibTeX</th>
     </thead>
     {% bibliography %}
