@@ -11,7 +11,7 @@ layout: page
 
 This website contains a table of <span id="blurb-count"></span> vetted off-NIME references deemed to be relevant to the NIME community. This includes materials from conferences that predated NIME (CMJ, ICMC; so-called ["prehistoric NIME"](https://nime.org/proceedings/2023/nime2023_8.pdf)) as well as concurrent conferences, publications, and books, currently from around 1955 to 2012. 
 
-There are three primary datasets, represented by the radio buttons just above the table: CMJ, ICMC, and ISIDM ([the Interactive Systems and Instrument Design in Music Working Group](https://www.sensorwiki.org/isidm)). If you would like to get involved with cleaning any references, or with adding new datasets/features, feel free to [submit a PR on the GitHub repo](https://github.com/IDMIL/off-nime/pulls).
+There are three primary datasets, represented by the radio buttons just above the table: CMJ, ICMC, and ISIDM ([the Interactive Systems and Instrument Design in Music Working Group](https://www.sensorwiki.org/isidm)). If you would like to get involved with cleaning any references, or with adding new datasets/features, check out [README.md in the GitHub repo](https://github.com/IDMIL/off-nime).
 
 Other features of this table include the search bar, column sorting (click the header to sort), and the download all button below.
 
