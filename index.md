@@ -44,7 +44,6 @@ Other features of this table include the search bar, column sorting (click the h
         <th>Title</th>
         <th>Type</th>
         <th>Publication</th>
-        <th>Pages</th>
         <th>URL</th>
         <th>BibTeX</th>
     </thead>
