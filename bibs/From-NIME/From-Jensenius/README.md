@@ -1,0 +1,1 @@
+This folder contains citations from Alexander Jensenius' [NIME citation atlas](https://alexarje.github.io/off-nime/atlas/). It specifically pulls from the "Missing Works" tab, under the section "NIME-related articles in journals and proceedings".

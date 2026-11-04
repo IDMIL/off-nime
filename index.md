@@ -31,9 +31,11 @@ Other features of this table include the search bar, column sorting (click the h
 <div id="table-tabs">
     <p>Datasets:</p>
     <input type="radio" id="html" name="table-tab" checked="checked" onclick="filterTable(''); setNumEntries();"><label for="html">All</label>
-    <input type="radio" id="html" name="table-tab" onclick="filterTable('Computer Music Journal'); setNumEntries();"><label for="html">CMJ</label>
-    <input type="radio" id="html" name="table-tab" onclick="filterTable('International Computer Music Conference'); setNumEntries();"><label for="html">ICMC</label>
-    <input type="radio" id="html" name="table-tab" onclick="notFilterTable(['Computer Music Journal', 'International Computer Music Conference']); setNumEntries();"><label for="html">ISIDM + Extras</label>
+    <input type="radio" id="html" name="table-tab" onclick="filterTable('CMJ'); setNumEntries();"><label for="html">CMJ</label>
+    <input type="radio" id="html" name="table-tab" onclick="filterTable('ICMC'); setNumEntries();"><label for="html">ICMC</label>
+    <input type="radio" id="html" name="table-tab" onclick="filterTable('ISIDM'); setNumEntries();"><label for="html">ISIDM</label>
+    <input type="radio" id="html" name="table-tab" onclick="filterTable('From-NIME'); setNumEntries();"><label for="html">From-NIME</label>
+    <input type="radio" id="html" name="table-tab" onclick="filterTable('Extras'); setNumEntries();"><label for="html">Extras</label>    
 </div>
 
 <div class="scrollableTable">
