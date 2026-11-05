@@ -13,6 +13,11 @@ function getNumEntries() {
     return numVisibleEntries;
 }
 
+function updateNumEntries() {
+    const numEntries = getNumEntries();
+    document.getElementById("num-entries").innerHTML = `<p>Number of visible entries: ${numEntries}</p>`;
+}
+
 function initNumEntries() {
     const numEntries = getNumEntries();
     document.getElementById("num-entries").innerHTML = `<p>Number of visible entries: ${numEntries}</p>`;
