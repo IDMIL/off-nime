@@ -13,10 +13,10 @@ function getNumEntries() {
     return numVisibleEntries;
 }
 
-function setNumEntries() {
+function initNumEntries() {
     const numEntries = getNumEntries();
     document.getElementById("num-entries").innerHTML = `<p>Number of visible entries: ${numEntries}</p>`;
+    document.getElementById("blurb-count").innerHTML = `${numEntries}`;
 }
 
-document.getElementById("blurb-count").innerHTML = `${getNumEntries()}`;
-window.onload = setNumEntries();
+window.onload = initNumEntries();

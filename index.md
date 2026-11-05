@@ -9,14 +9,17 @@ layout: page
 
 ## What is this resource?
 
-This website contains a table of <span id="blurb-count"></span> vetted off-NIME references deemed to be relevant to the NIME community. This includes materials from conferences that predated NIME (CMJ, ICMC; so-called ["prehistoric NIME"](https://nime.org/proceedings/2023/nime2023_8.pdf)) as well as concurrent conferences, publications, and books, currently from around 1955 to 2012. 
+This website contains a table of <span id="blurb-count"></span> vetted Off-NIME references deemed to be relevant to the NIME community. This includes materials from conferences that predated NIME (CMJ, ICMC; so-called ["prehistoric NIME"](https://nime.org/proceedings/2023/nime2023_8.pdf)) as well as concurrent conferences, publications, and books, currently from around <span id="min-year"></span> to <span id="max-year"></span>. 
 
-There are three primary datasets, represented by the radio buttons just above the table: CMJ, ICMC, and ISIDM ([the Interactive Systems and Instrument Design in Music Working Group](https://www.sensorwiki.org/isidm)). If you would like to get involved with cleaning any references, or with adding new datasets/features, check out [README.md in the GitHub repo](https://github.com/IDMIL/off-nime).
+There are three primary datasets, represented by the radio buttons just above the table: CMJ, ICMC, and ISIDM ([the Interactive Systems and Instrument Design in Music Working Group](https://www.sensorwiki.org/isidm)). There is also the From-NIME dataset, which was created by performing a recursive NIME and Off-NIME paper citation search. This was headed by [Alexander Jensenius](https://www.arj.no/) in his [Off-NIME Atlas](https://alexarje.github.io/off-nime/atlas/). 
+
+If you would like to get involved with cleaning any references, or with adding new datasets/features, check out [README.md in the GitHub repo](https://github.com/IDMIL/off-nime).
 
 Other features of this table include the search bar, column sorting (click the header to sort), and the download all button below.
 
 <head>
     <link rel="stylesheet" href="styles.css">
+    <script src="scripts/min-max-year.js" async></script>
     <script src="scripts/num-entries.js" async></script>
     <script src="scripts/search-and-filter.js" async></script>
     <script src="scripts/sorttable.js" async></script>
