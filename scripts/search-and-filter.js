@@ -19,17 +19,16 @@ function filterTable(query) {
         const tds = tr.getElementsByTagName("td");
 
         // Checking the hidden dataset td (see _layouts/bibliography_table_row.html)
-        if (query == "" || tds[tds.length - 1].innerText.toUpperCase() == query.toUpperCase()) {
+        if (query == "" || tds[tds.length - 1].textContent == query) {
             tr.style.display = "";
-            const tds = tr.getElementsByTagName("td");
 
             filterVisibleRows.push({
                 id: i,
-                year: tds[0].innerText,
-                authors: tds[2].innerText,
-                title: tds[1].innerText,
-                type: tds[3].innerText,
-                publication: tds[4].innerText,
+                year: tds[0].textContent,
+                authors: tds[2].textContent,
+                title: tds[1].textContent,
+                type: tds[3].textContent,
+                publication: tds[4].textContent,
                 htmlObject: tr
             });
 
@@ -58,7 +57,7 @@ function searchTable() {
     //     let found = false;
 
     //     for (const td of tr.getElementsByTagName("td")) {
-    //         if (td.innerText.toUpperCase().indexOf(searchTerm) > -1) {
+    //         if (td.textContent.toUpperCase().indexOf(searchTerm) > -1) {
     //             found = true;
     //             break;
     //         }
@@ -82,14 +81,14 @@ function searchTable() {
 
     const miniSearch = new MiniSearch({
         fields: ['year', 'authors', 'title', 'type', 'publication'], 
-        storeFields: ['id']
+        storeFields: ['htmlObject']
     });
 
     miniSearch.addAll(filterVisibleRows);
     let results = miniSearch.search(searchTerm);
 
     for (const result of results) {
-        filterVisibleRows[result.id].htmlObject.style.display = "";
+        result.htmlObject.style.display = "";
     }
 }
 

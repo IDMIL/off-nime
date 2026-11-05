@@ -22,7 +22,7 @@ function downloadAll() {
     for (const tr of tbody.getElementsByTagName("tr"))  {
         const tds = tr.getElementsByTagName("td");
 
-        let button = tds[tds.length - 1].getElementsByTagName("button")[0];
+        let button = tds[tds.length - 2].getElementsByTagName("button")[0];
         try {
             button.click();
         }
