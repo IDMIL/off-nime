@@ -1,0 +1,2905 @@
+% BibTeX file generated from the supplied publication list.
+% Titles are wrapped in double braces to preserve capitalization.
+
+@proceedings{holland2019new,
+  editor    = {Holland, Simon and Mudd, Tom and Wilkie-McKenna, Katie and McPherson, Andrew and Wanderley, Marcelo M.},
+  title     = {{New Directions in Music and Human-Computer Interaction}},
+  publisher = {Springer International Publishing AG},
+  address   = {Cham, Switzerland},
+  year      = {2019},
+  isbn      = {978-3-319-92069-6},
+  url       = {http://www.springer.com/us/book/9783319920689}
+}
+
+@proceedings{dias2009gesture,
+  editor    = {Dias, Miguel S. and Gibet, Sylvie and Wanderley, Marcelo M. and Bastos, Rafael},
+  title     = {{Gesture-Based Human-Computer Interaction and Simulation: 7th International Gesture Workshop, GW 2007, Lisbon, Portugal, May 23--25, 2007, Revised Selected Papers}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {5085},
+  publisher = {Springer Verlag},
+  year      = {2009}
+}
+
+@book{miranda2006new,
+  author    = {Miranda, Eduardo Reck and Wanderley, Marcelo M.},
+  title     = {{New Digital Musical Instruments: Control and Interaction beyond the Keyboard}},
+  publisher = {A-R Editions},
+  address   = {Middleton, WI},
+  year      = {2006}
+}
+
+@proceedings{wanderley2000trends,
+  editor    = {Wanderley, Marcelo M. and Battier, Marc},
+  title     = {{Trends in Gestural Control of Music}},
+  publisher = {IRCAM -- Centre Pompidou},
+  address   = {Paris},
+  year      = {2000}
+}
+
+@proceedings{paterson2023feelingissue,
+  editor    = {Paterson, Justin and Wanderley, Marcelo M.},
+  title     = {{Feeling the Future---Haptic Audio}},
+  publisher = {MDPI},
+  year      = {2023},
+  month     = jul,
+  note      = {Special issue of \emph{Arts}; guest editors}
+}
+
+@proceedings{pietrzak2020hapticissue,
+  editor    = {Pietrzak, Thomas and Wanderley, Marcelo M.},
+  title     = {{Haptic and Audio Interface Design}},
+  year      = {2020},
+  month     = sep,
+  note      = {Special issue of \emph{Journal on Multimodal User Interfaces}, 14(3); guest editors}
+}
+
+@proceedings{wanderley2014advances,
+  editor    = {Wanderley, Marcelo M. and Malloch, Joseph},
+  title     = {{Advances in the Design of Mapping for Computer Music}},
+  year      = {2014},
+  note      = {Special issue of \emph{Computer Music Journal}, 38(3):4--5; guest editors}
+}
+
+@proceedings{wanderley2002mapping,
+  editor    = {Wanderley, Marcelo M.},
+  title     = {{Mapping Strategies in Real-time Computer Music}},
+  year      = {2002},
+  month     = aug,
+  note      = {Special issue of \emph{Organised Sound}, 7(2); guest editor}
+}
+
+@article{fraisse2026composing,
+  author      = {Fraisse, Val{\'e}rian and Sch{\"u}tz, Nadine and Vincent, Coralie and Wanderley, Marcelo M. and Guastavino, Catherine and Misadriis, Nicolas},
+  title       = {{Composing with Acoustic Niches: A Laboratory Soundscape Evaluation of Sound Installation Reactivity}},
+  journal     = {npj Acoustics},
+  year        = {2026},
+  month       = sep,
+  doi         = {10.1038/s44384-026-00066-5}
+}
+
+@article{azevedocostaneto2026transdisciplinary,
+  author      = {Azevedo Costa Neto, An{\'e}sio and Schaub, St{\'e}phan and Wanderley, Marcelo M.},
+  title       = {{Transdisciplinary Artistic Strategies in Environmental Sound Art (and the Politics of Listening) in Contemporary Latin America}},
+  journal     = {Organised Sound},
+  year        = {2026},
+  month       = mar,
+  doi         = {10.1017/S1355771825100691}
+}
+
+@article{vankerrebroeck2026cross,
+  author      = {van Kerrebroeck, Bavo and Spiech, Connor and Penhune, Virginia and Wanderley, Marcelo M.},
+  title       = {{Cross-modal Synchrony Between Music and Visual Motion Modulates Vection, Urge to Move, and Comfort in VR}},
+  journal     = {Virtual Reality},
+  year        = {2026},
+  doi         = {10.1007/s10055-026-01356-9}
+}
+
+@article{fraisse2025bringing,
+  author      = {Fraisse, Val{\'e}rian and Montambault, Charles and Wanderley, Marcelo M. and Guastavino, Catherine},
+  title       = {{Bringing the Coastline to the City: Laboratory Evaluation of Urban Soundscapes in the Presence of Ambient Sound Art}},
+  journal     = {Music \& Science},
+  year        = {2025},
+  month       = oct,
+  doi         = {10.1177/20592043251384052}
+}
+
+@article{tomasetti2025sonospatia,
+  author      = {Tomasetti, Matteo and van Kerrebroeck, Bavo and Wanderley, Marcelo M. and Stefani, Domenico and Turchet, Luca},
+  title       = {{SonoSpatia: a Virtual Reality Interface for the Creation of 3D Spatial Audio Trajectories}},
+  journal     = {Journal of the Audio Engineering Society},
+  volume      = {73},
+  number      = {7/8},
+  pages       = {481--492},
+  year        = {2025},
+  doi         = {10.17743/jaes.2022.0215}
+}
+
+@article{uro2025behavioral,
+  author      = {Uro, Pierrick and Berthaut, Florent and Pietrzak, Thomas and Wanderley, Marcelo M.},
+  title       = {{Behavioral Measures of Copresence in Co-located Mixed Reality}},
+  journal     = {IEEE Transactions on Visualization and Computer Graphics},
+  volume      = {31},
+  number      = {5},
+  pages       = {2848--2858},
+  year        = {2025},
+  doi         = {10.1109/TVCG.2025.3549135}
+}
+
+@article{vankerrebroeck2025virtual,
+  author      = {Van Kerrebroeck, Bavo and Wanderley, Marcelo M. and Demos, Alexander P. and Palmer, Caroline},
+  title       = {{Virtual Partners Improve Synchronization in Human-Machine Trios}},
+  journal     = {Cognitive Science},
+  volume      = {49},
+  number      = {2},
+  year        = {2025},
+  month       = feb,
+  doi         = {10.1111/cogs.70040}
+}
+
+@article{mcpherson2025mapping,
+  author      = {McPherson, Andrew and Morrison, Landon and Davison, Matthew and Wanderley, Marcelo M.},
+  title       = {{On Mapping as a Technoscientific Practice in Digital Musical Instruments}},
+  journal     = {Journal of New Music Research},
+  volume      = {53},
+  number      = {1--2},
+  pages       = {110--125},
+  year        = {2025},
+  doi         = {10.1080/09298215.2024.2442356}
+}
+
+@article{reimer2024user,
+  author      = {Reimer, P. J. Charles and Gupta, Atishi and Guastavino, Catherine and Wanderley, Marcelo M.},
+  title       = {{User Experience with Digital Musical Instruments: A Transferable Method for Longitudinal Evaluation}},
+  journal     = {Journal of New Music Research},
+  volume      = {53},
+  number      = {5},
+  pages       = {344--368},
+  year        = {2024},
+  doi         = {10.1080/09298215.2025.2540433}
+}
+
+@article{piao2024assessing,
+  author      = {Piao, Ziyue and Frisson, Christian and Van Kerrebroeck, Bavo and Wanderley, Marcelo M.},
+  title       = {{Assessing the Impact of Force Feedback in Musical Knobs on Performance and User Experience}},
+  journal     = {Actuators},
+  volume      = {13},
+  number      = {11},
+  year        = {2024},
+  doi         = {10.3390/act13110462}
+}
+
+@article{fraisse2024using,
+  author      = {Fraisse, Val{\'e}rian and Sch{\"u}tz, Nadine and Wanderley, Marcelo M. and Guastavino, Catherine and Misdariis, Nicolas},
+  title       = {{Using Soundscape Simulation to Evaluate Compositions for a Public Space Sound Installation}},
+  journal     = {Journal of the Acoustical Society of America},
+  pages       = {1183--1201},
+  year        = {2024},
+  doi         = {10.1121/10.0028184}
+}
+
+@article{duarte2023analysis,
+  author      = {Duarte, Erivan Gon{\c c}alves and Cossette, Isabelle and Wanderley, Marcelo M.},
+  title       = {{Analysis of Accessible Digital Musical Instruments through the Lens of Disability Models: A Case Study with Instruments Targeting d/Deaf People}},
+  journal     = {Frontiers in Computer Science},
+  volume      = {5},
+  year        = {2023},
+  doi         = {10.3389/fcomp.2023.1158476}
+}
+
+@article{bacon2023sticking,
+  author      = {Bacon, Benjamin and Jackson, Stuart and Marci, Ian and Marandola, Fabrice and Wanderley, Marcelo M.},
+  title       = {{Sticking Choices in Timpani Sight-Reading Performance}},
+  journal     = {Frontiers in Psychology},
+  volume      = {14},
+  year        = {2023},
+  doi         = {10.3389/fpsyg.2023.1188773}
+}
+
+@article{wanderley2023force,
+  author      = {Wanderley, Marcelo M. and Frisson, Christian},
+  title       = {{Force-Feedback and Music: Five Decades of Research and Development at ACROE: An Interview with Claude Cadoz (ACROE, Grenoble, France)}},
+  journal     = {Arts},
+  year        = {2023},
+  month       = jul,
+  doi         = {10.3390/arts12040159}
+}
+
+@article{paterson2023feeling,
+  author      = {Paterson, Justin and Wanderley, Marcelo M.},
+  title       = {{Feeling the Future -- Haptic Audio. Editorial}},
+  journal     = {Arts},
+  year        = {2023},
+  month       = jul,
+  doi         = {10.3390/arts12040141}
+}
+
+@article{frisson2023challenges,
+  author      = {Frisson, Christian and Wanderley, Marcelo M.},
+  title       = {{Challenges and Opportunities of Force Feedback in Music}},
+  journal     = {Arts},
+  year        = {2023},
+  month       = jul,
+  doi         = {10.3390/arts12040147}
+}
+
+@article{sullivan2022fiction,
+  author      = {Sullivan, John and Wanderley, Marcelo M. and Guastavino, Catherine},
+  title       = {{From Fiction to Function: Imagining New Instruments Through Design Workshops}},
+  journal     = {Computer Music Journal},
+  volume      = {46},
+  number      = {3},
+  pages       = {1--22},
+  year        = {2022},
+  doi         = {10.1162/COMJ_a_00644}
+}
+
+@article{santos2022multi,
+  author      = {Santos, Geise and Wanderley, Marcelo and Tavares, Tiago and Rocha, Anderson},
+  title       = {{A Multi-sensor Human Gait Dataset Captured Through an Optical System and Inertial Measurement Units}},
+  journal     = {Scientific Data},
+  volume      = {9},
+  year        = {2022},
+  doi         = {10.1038/s41597-022-01638-2}
+}
+
+@article{sullivan2022surveying,
+  author      = {Sullivan, John and Guastavino, Catherine and Wanderley, Marcelo M.},
+  title       = {{Surveying Digital Musical Instrument Use in Active Practice}},
+  journal     = {Journal of New Music Research},
+  year        = {2022},
+  doi         = {10.1080/09298215.2022.2029912}
+}
+
+@article{verdugo2022proximal,
+  author      = {Verdugo, Felipe and Begon, Micka{\"e}l and Gibet, Sylvie and Wanderley, Marcelo M.},
+  title       = {{Proximal-to-distal Sequences of Attack and Release Movements of Expert Pianists during Pressed-Staccato Keystrokes}},
+  journal     = {Journal of Motor Behavior},
+  volume      = {54},
+  number      = {3},
+  pages       = {316--326},
+  year        = {2022},
+  doi         = {10.1080/00222895.2021.1962237}
+}
+
+@article{pras2021connecting,
+  author      = {Pras, Amandine and Rodrigues, Mailis G and Grupp, Victoria and Wanderley, Marcelo M.},
+  title       = {{Connecting Free Improvisation Performance and Drumming Gestures through Digital Wearables}},
+  journal     = {Frontiers in Psychology},
+  year        = {2021},
+  month       = apr,
+  doi         = {10.3389/fpsyg.2021.576810}
+}
+
+@article{fraisse2021comprehensive,
+  author      = {Fraisse, Val{\'e}rian and Wanderley, Marcelo M. and Guastavino, Catherine},
+  title       = {{Comprehensive Framework for Describing Interactive Sound Installations: Highlighting Trends through a Systematic Review}},
+  journal     = {Multimodal Technologies and Interaction},
+  year        = {2021},
+  month       = apr,
+  doi         = {10.3390/mti5040019}
+}
+
+@article{costalonga2020ubimus,
+  author      = {Costalonga, Leandro and Pimenta, Marcelo and Wanderley, Marcelo M.},
+  title       = {{Can Ubimus Technologies Affect our Musicality?}},
+  journal     = {PerMusi Scholarly Music Journal},
+  number      = {40},
+  year        = {2020},
+  doi         = {10.35699/2317-6377.2020.25941}
+}
+
+@article{freire2020evaluation,
+  author      = {Freire, S{\'e}rgio and Santos, Geise and Armondes, Augusto and Meneses, Eduardo A. L. and Wanderley, Marcelo M.},
+  title       = {{Evaluation of Inertial Sensor Data by a Comparison with Optical Motion Capture Data of Guitar Strumming Gestures}},
+  journal     = {Sensors},
+  year        = {2020},
+  month       = oct,
+  doi         = {10.3390/s20195722}
+}
+
+@article{pietrzak2020haptic,
+  author      = {Pietrzak, Thomas and Wanderley, Marcelo M.},
+  title       = {{Haptic and Audio Interaction Design}},
+  journal     = {Journal on Multimodal User Interfaces},
+  volume      = {14},
+  pages       = {231--233},
+  year        = {2020},
+  doi         = {10.1007/s12193-020-00344-w}
+}
+
+@article{tirumalabukkapatnam2020defining,
+  author      = {Tirumala Bukkapatnam, Aditya and Depalle, Philippe and Wanderley, Marcelo M.},
+  title       = {{Defining a Vibrotactile Toolkit for Digital Musical Instruments: Characterizing voice coil actuators, effects of loading, and equalization of the frequency response}},
+  journal     = {Journal on Multimodal User Interfaces},
+  volume      = {14},
+  pages       = {285--301},
+  year        = {2020},
+  doi         = {10.1007/s12193-020-00340-0}
+}
+
+@article{turchet2020touching,
+  author      = {Turchet, Luca and West, Travis and Wanderley, Marcelo M.},
+  title       = {{Touching the Audience: Musical Haptic Wearables for augmented and participatory live music performances}},
+  journal     = {Personal and Ubiquitous Computing},
+  year        = {2020},
+  month       = mar,
+  doi         = {10.1007/s00779-020-01395-2}
+}
+
+@article{demos2019staying,
+  author      = {Demos, Alexander P. and Layeghi, Hamed and Wanderley, Marcelo M. and Palmer, Caroline},
+  title       = {{Staying together: A bidirectional delay-coupled approach to joint action}},
+  journal     = {Cognitive Science},
+  volume      = {43},
+  number      = {8},
+  year        = {2019},
+  doi         = {10.1111/cogs.12766}
+}
+
+@article{massielaberge2019expressive,
+  author      = {Massie-Laberge, Catherine and Cossette, Isabelle and Wanderley, Marcelo M.},
+  title       = {{Expressive Performances of Romantic Excerpts: Applications for Enhanced Pedagogical Approaches}},
+  journal     = {Frontiers in Psychology},
+  year        = {2019},
+  month       = jan,
+  doi         = {10.3389/fpsyg.2018.02725}
+}
+
+@article{caramiaux2018dissociable,
+  author      = {Caramiaux, Baptiste and Bevilacqua, Frederic and Wanderley, Marcelo M. and Palmer, Caroline},
+  title       = {{Dissociable Effects of Practice Variability on Learning Motor and Timing Skills}},
+  journal     = {PLOS ONE},
+  year        = {2018},
+  month       = mar,
+  doi         = {10.1371/journal.pone.0193580}
+}
+
+@article{malloch2018generalized,
+  author      = {Malloch, Joseph and Sinclair, Stephen and Wanderley, Marcelo M.},
+  title       = {{Generalized Multi-Instance Control Mapping for Interactive Media Systems}},
+  journal     = {IEEE MultiMedia},
+  volume      = {25},
+  number      = {1},
+  pages       = {39--50},
+  year        = {2018},
+  month       = mar,
+  doi         = {10.1109/MMUL.2018.112140028}
+}
+
+@article{demos2017unresponsive,
+  author      = {Demos, Alexander P and Carter, Daniel J. and Wanderley, Marcelo M and Palmer, Caroline},
+  title       = {{The Unresponsive Partner: Roles of Social Status, Auditory Feedback, and Animacy in Coordination of Joint Music Performance}},
+  journal     = {Frontiers in Psychology},
+  year        = {2017},
+  month       = feb,
+  doi         = {10.3389/fpsyg.2017.00149}
+}
+
+@article{calegario2017method,
+  author      = {Calegario, Filipe and Wanderley, Marcelo M. and Huot, St{\'e}phane and Cabral, Giordano and Ramalho, Geber},
+  title       = {{Method and Toolkit for Generating Ideas and Prototyping Digital Musical Instruments}},
+  journal     = {IEEE MultiMedia},
+  volume      = {24},
+  number      = {1},
+  pages       = {63--71},
+  year        = {2017},
+  month       = mar,
+  doi         = {10.1109/MMUL.2017.18}
+}
+
+@article{maestre2017enriched,
+  author      = {Maestre, Esteban and Papiotis, Panos and Marchini, Marco and Llimona, Quim and Mayor, Oscar and Perez, Alfonso and Wanderley, Marcelo M.},
+  title       = {{Enriched Multimodal Representations of Music Performances: Online access and visualization}},
+  journal     = {IEEE MultiMedia},
+  volume      = {24},
+  number      = {1},
+  pages       = {24--34},
+  year        = {2017},
+  month       = mar,
+  doi         = {10.1109/MMUL.2017.3}
+}
+
+@article{schumacher2016integrating,
+  author      = {Schumacher, Marlon and Wanderley, Marcelo M.},
+  title       = {{Integrating Gesture Data in Computer-Aided Composition: A Framework for Representation, Processing and Mapping}},
+  journal     = {Journal of New Music Research},
+  year        = {2016},
+  month       = dec,
+  doi         = {10.1080/09298215.2016.1254662}
+}
+
+@article{hollinger2015design,
+  author      = {Hollinger, Avrum and Wanderley, Marcelo M.},
+  title       = {{The Design, Implementation, and Testing of a Sensorized MRI-Compatible Cello}},
+  journal     = {IEEE Sensors Journal},
+  volume      = {15},
+  number      = {11},
+  pages       = {6125--6134},
+  year        = {2015},
+  doi         = {10.1109/JSEN.2015.2449876}
+}
+
+@article{perezcarrillo2015indirect,
+  author      = {Perez Carrillo, Alfonso and Wanderley, Marcelo M.},
+  title       = {{Indirect Acquisition of Violin Instrumental Controls from Audio Signal with Hidden Markov Models}},
+  journal     = {IEEE Transactions on Audio, Speech, and Language Processing},
+  volume      = {23},
+  number      = {5},
+  pages       = {932--940},
+  year        = {2015},
+  month       = mar,
+  doi         = {10.1109/TASLP.2015.2410140}
+}
+
+@article{malloch2015distributed,
+  author      = {Malloch, Joseph and Sinclair, Stephen and Wanderley, Marcelo M.},
+  title       = {{Distributed Tools for Interactive Design of Heterogeneous Signal Networks}},
+  journal     = {Multimedia Tools and Applications},
+  volume      = {74},
+  number      = {15},
+  pages       = {5683--5707},
+  year        = {2015},
+  doi         = {10.1007/s11042-014-1878-5}
+}
+
+@article{teixeira2015motion,
+  author      = {Teixeira, Euler and Loureiro, Maur{\'i}cio A. and Wanderley, Marcelo M. and Yehia, Hani C.},
+  title       = {{Motion Analysis of Clarinet Performers}},
+  journal     = {Journal of New Music Research},
+  volume      = {44},
+  number      = {2},
+  pages       = {97--111},
+  year        = {2015},
+  doi         = {10.1080/09298215.2014.925939}
+}
+
+@article{maes2015role,
+  author      = {Maes, Pieter-Jan and Palmer, Caroline and Wanderley, Marcelo M.},
+  title       = {{The Role of Working Memory in the Temporal Control of Discrete and Continuous Movements}},
+  journal     = {Experimental Brain Research},
+  volume      = {233},
+  number      = {1},
+  pages       = {263--273},
+  year        = {2015},
+  month       = jan,
+  doi         = {10.1007/s00221-014-4108-5}
+}
+
+@article{livingstone2015common,
+  author      = {Livingstone, Steven R. and Thompson, William F. and Wanderley, Marcelo M. and Palmer, Caroline},
+  title       = {{Common Cues to Emotion in the Dynamic Facial Expressions of Speech and Song}},
+  journal     = {Quarterly Journal of Experimental Psychology},
+  year        = {2015},
+  doi         = {10.1080/17470218.2014.971034}
+}
+
+@article{sinclair2014velocity,
+  author      = {Sinclair, Stephen and Wanderley, Marcelo M. and Hayward, Vincent},
+  title       = {{Velocity estimation algorithms for audio-haptic simulations involving stick-slip}},
+  journal     = {IEEE Transactions on Haptics},
+  volume      = {7},
+  number      = {4},
+  pages       = {533--544},
+  year        = {2014},
+  doi         = {10.1109/TOH.2014.2346505}
+}
+
+@article{medeiros2014comprehensive,
+  author      = {Medeiros, Carolina B. and Wanderley, Marcelo M.},
+  title       = {{A Comprehensive Review of Sensors and Instrumentation Methods Used in Musical Expression}},
+  journal     = {Sensors},
+  volume      = {14},
+  number      = {8},
+  pages       = {13556--13591},
+  year        = {2014},
+  doi         = {10.3390/s140813556}
+}
+
+@article{vannort2014mapping,
+  author      = {Van Nort, Doug and Wanderley, Marcelo M. and Depalle, Philippe},
+  title       = {{Mapping Control Structures for Sound Synthesis: Functional and Topological Perspectives}},
+  journal     = {Computer Music Journal},
+  volume      = {38},
+  number      = {3},
+  pages       = {6--22},
+  year        = {2014},
+  doi         = {10.1162/COMJ_a_00253}
+}
+
+@article{koehly2014house,
+  author      = {Koehly, Rodolphe and Wanderley, Marcelo M. and van de Ven, Theodorus and Curtil, Denis},
+  title       = {{In-House Development of Paper Force Sensors for Musical Applications}},
+  journal     = {Computer Music Journal},
+  volume      = {38},
+  number      = {2},
+  pages       = {22--35},
+  year        = {2014},
+  doi         = {10.1162/COMJ_a_00237}
+}
+
+@article{medeiros2014multiple,
+  author      = {Medeiros, Carolina B. and Wanderley, Marcelo M.},
+  title       = {{Multiple-model Linear Kalman Filter Framework for Unpredictable Signals}},
+  journal     = {IEEE Sensors Journal},
+  volume      = {14},
+  number      = {4},
+  pages       = {979--991},
+  year        = {2014},
+  month       = apr,
+  doi         = {10.1109/JSEN.2013.2291683}
+}
+
+@article{winters2014when,
+  author      = {Winters, R. Michael and Wanderley, Marcelo M.},
+  title       = {{When the Data is Emotion: Strategies and Results from the Intersection of Sonification and Music}},
+  journal     = {Organised Sound},
+  volume      = {19},
+  number      = {1},
+  pages       = {60--69},
+  year        = {2014},
+  doi         = {10.1017/S1355771813000411}
+}
+
+@article{seger2014automatic,
+  author      = {Seger, Rodrigo A. and Wanderley, Marcelo M. and Koerich, Alessandro L.},
+  title       = {{Automatic Detection of Musicians' Ancillary Gestures based on Video Analysis}},
+  journal     = {Expert Systems with Applications},
+  volume      = {41},
+  number      = {4},
+  pages       = {2098--2106},
+  year        = {2014},
+  month       = mar,
+  doi         = {10.1016/j.eswa.2013.09.009}
+}
+
+@article{maes2014action,
+  author      = {Maes, Pieter-Jan and Leman, Marc and Palmer, Caroline and Wanderley, Marcelo M.},
+  title       = {{Action-based Effect on Music Perception}},
+  journal     = {Frontiers in Psychology},
+  year        = {2014},
+  month       = jan,
+  doi         = {10.3389/fpsyg.2013.01008}
+}
+
+@article{chadefaux2013gestural,
+  author      = {Chadefaux, Delphine and Le Carrou, Jean-Lo{\"i}c and Fabre, Beno{\^i}t and Wanderley, Marcelo M. and Daudet, Laurent},
+  title       = {{Gestural Strategies in the Harp Performance}},
+  journal     = {Acta Acustica united with Acustica},
+  volume      = {99},
+  pages       = {986--996},
+  year        = {2013},
+  doi         = {10.3813/AAA.918677}
+}
+
+@article{thibodeau2013trumpet,
+  author      = {Thibodeau, Joseph and Wanderley, Marcelo M.},
+  title       = {{Trumpet Augmentation and Technological Symbiosis}},
+  journal     = {Computer Music Journal},
+  volume      = {37},
+  number      = {3},
+  pages       = {12--25},
+  year        = {2013},
+  doi         = {10.1162/COMJ_a_00185}
+}
+
+@article{winters2012sonification,
+  author      = {Winters, R. Michael and Savard, Alexandre and Verfaille, Vincent and Wanderley, Marcelo M.},
+  title       = {{A Sonification Tool for the Analysis of Large Databases of Expressive Gesture}},
+  journal     = {The International Journal of Multimedia \& Its Applications (IJMA)},
+  volume      = {4},
+  number      = {6},
+  year        = {2012},
+  month       = dec,
+  doi         = {10.5121/ijma.2012.4602}
+}
+
+@article{caramiaux2012segmenting,
+  author      = {Caramiaux, Baptiste and Wanderley, Marcelo M. and Bevilacqua, Fr{\'e}d{\'e}ric},
+  title       = {{Segmenting and Parsing Instrumentalist's Gestures}},
+  journal     = {Journal of New Music Research},
+  volume      = {41},
+  number      = {1},
+  pages       = {13--29},
+  year        = {2012},
+  doi         = {10.1080/09298215.2011.643314}
+}
+
+@article{bouenard2012hybrid,
+  author      = {Bou{\"e}nard, Alexandre and Gibet, Sylvie and Wanderley, Marcelo M.},
+  title       = {{Hybrid Inverse Motion Control for Virtual Characters Interacting with Sound Synthesis - Application to Percussion Motion}},
+  journal     = {The Visual Computer},
+  volume      = {28},
+  number      = {4},
+  pages       = {357--370},
+  year        = {2012},
+  doi         = {10.1007/s00371-011-0620-9}
+}
+
+@article{bouenard2011virtual,
+  author      = {Bou{\"e}nard, Alexandre and Wanderley, Marcelo M. and Gibet, Sylvie and Marandola, Fabrice},
+  title       = {{Virtual Gesture Control and Synthesis of Music Performances: Qualitative Evaluation of Synthesized Timpani Exercises}},
+  journal     = {Computer Music Journal},
+  volume      = {35},
+  number      = {3},
+  pages       = {57--72},
+  year        = {2011},
+  doi         = {10.1162/COMJ_a_00069}
+}
+
+@article{vines2011music,
+  author      = {Vines, Bradley W. and Krumhansl, Carol L. and Wanderley, Marcelo M. and Dalca, Ioana M. and Levitin, Daniel J.},
+  title       = {{Music to my eyes: Cross-modal interactions in the perception of emotions in musical performance}},
+  journal     = {Cognition},
+  pages       = {157--170},
+  year        = {2011},
+  doi         = {10.1016/j.cognition.2010.11.010}
+}
+
+@article{ferguson2010mcgill,
+  author      = {Ferguson, Sean and Wanderley, Marcelo M.},
+  title       = {{The McGill Digital Orchestra: An Interdisciplinary Project on Digital Musical Instruments}},
+  journal     = {Journal of Interdisciplinary Music Studies},
+  volume      = {4},
+  number      = {2},
+  pages       = {17--35},
+  year        = {2010},
+  doi         = {10.4407/jims.2010.11.002}
+}
+
+@article{bouenard2010gesture,
+  author      = {Bou{\"e}nard, Alexandre and Wanderley, Marcelo M. and Gibet, Sylvie},
+  title       = {{Gesture Control of Sound Synthesis: Analysis and Classification of Percussion Gestures}},
+  journal     = {Acta Acustica united with Acustica},
+  volume      = {96},
+  number      = {4},
+  pages       = {668--677},
+  year        = {2010},
+  doi         = {10.3813/AAA.918321}
+}
+
+@article{verfaille2010detecting,
+  author      = {Verfaille, Vincent and Depalle, Philippe and Wanderley, Marcelo},
+  title       = {{Detecting Overblown Flute Fingerings from the Residual Noise Spectrum}},
+  journal     = {Journal of the Acoustical Society of America},
+  volume      = {127},
+  number      = {1},
+  pages       = {534--541},
+  year        = {2010},
+  doi         = {10.1121/1.3257205}
+}
+
+@article{marshall2009sensor,
+  author      = {Marshall, Mark T. and Hartshorn, Max and Wanderley, Marcelo M. and Levitin, Daniel J.},
+  title       = {{Sensor Choice for Parameter Modulations in Digital Musical Instruments: Empirical Evidence from Pitch Modulation}},
+  journal     = {Journal of New Music Research},
+  volume      = {38},
+  number      = {3},
+  pages       = {241--253},
+  year        = {2009},
+  doi         = {10.1080/09298210903085865}
+}
+
+@article{nussek2009music,
+  author      = {Nussek, Manfred and Wanderley, Marcelo M.},
+  title       = {{Music and Motion -- How Music-related Ancillary Body Movements Contribute to the Experience of Music}},
+  journal     = {Music Perception},
+  volume      = {26},
+  number      = {4},
+  pages       = {335--353},
+  year        = {2009},
+  doi         = {10.1525/mp.2009.26.4.335}
+}
+
+@article{sinclair2009run,
+  author      = {Sinclair, Stephen and Wanderley, Marcelo M.},
+  title       = {{A Run-time Programmable Simulator to Enable Multimodal Interaction with Rigid Body Systems}},
+  journal     = {Interacting with Computers},
+  volume      = {21},
+  number      = {1--2},
+  pages       = {54--63},
+  year        = {2009},
+  doi         = {10.1016/j.intcom.2008.10.012}
+}
+
+@article{verfaille2006mapping,
+  author      = {Verfaille, Vincent and Wanderley, Marcelo M. and Depalle, Philippe},
+  title       = {{Mapping Strategies for Gestural and Adaptive Control of Digital Audio Effects}},
+  journal     = {Journal of New Music Research},
+  volume      = {35},
+  number      = {1},
+  pages       = {71--93},
+  year        = {2006},
+  doi         = {10.1080/09298210600696881}
+}
+
+@article{vines2006cross,
+  author      = {Vines, Bradley W. and Krumhansl, Carol L. and Wanderley, Marcelo M. and Levitin, Daniel J.},
+  title       = {{Cross-modal Interactions in the Perception of Musical Performance}},
+  journal     = {Cognition},
+  volume      = {101},
+  pages       = {80--113},
+  year        = {2006},
+  doi         = {10.1016/j.cognition.2005.09.003}
+}
+
+@article{wanderley2005musical,
+  author      = {Wanderley, Marcelo M. and Vines, Bradley and Middleton, Neil and McKay, Cory and Hatch, Wesley},
+  title       = {{The Musical Significance of Clarinetists' Ancillary Gestures: An Exploration of the Field}},
+  journal     = {Journal of New Music Research},
+  volume      = {34},
+  number      = {1},
+  pages       = {97--113},
+  year        = {2005},
+  doi         = {10.1080/09298210500124208}
+}
+
+@article{wanderley2004gestural,
+  author      = {Wanderley, Marcelo M. and Depalle, Philippe},
+  title       = {{Gestural Control of Sound Synthesis}},
+  journal     = {Proceedings of the IEEE},
+  volume      = {92},
+  number      = {4},
+  pages       = {632--644},
+  year        = {2004},
+  doi         = {10.1109/JPROC.2004.825882}
+}
+
+@article{hunt2003importance,
+  author      = {Hunt, Andy and Wanderley, Marcelo M. and Paradis, Matt},
+  title       = {{The Importance of Parameter Mapping in Electronic Instrument Design}},
+  journal     = {Journal of New Music Research},
+  volume      = {32},
+  number      = {4},
+  pages       = {429--440},
+  year        = {2003}
+}
+
+@article{wanderley2002evaluation,
+  author      = {Wanderley, Marcelo M. and Orio, Nicola},
+  title       = {{Evaluation of Input Devices for Musical Expression: Borrowing Tools from HCI}},
+  journal     = {Computer Music Journal},
+  volume      = {26},
+  number      = {3},
+  pages       = {62--76},
+  year        = {2002},
+  doi         = {10.1162/014892602320582981}
+}
+
+@article{hunt2002mapping,
+  author      = {Hunt, Andy and Wanderley, Marcelo M.},
+  title       = {{Mapping Performer Parameters to Synthesis Engines}},
+  journal     = {Organised Sound},
+  volume      = {7},
+  number      = {2},
+  pages       = {97--108},
+  year        = {2002},
+  month       = aug,
+  doi         = {10.1017/S1355771802002030}
+}
+
+@incollection{yanaky2024sound,
+  author      = {Yanaky, Richard and Reimer, P.J. Charles and Fraisse, Val{\'e}rian and Wanderley, Marcelo M. and Guastavino, Catherine},
+  editor      = {Stephanidis, C. and Salvendy, G.},
+  title       = {{Sound-Based Interaction}},
+  booktitle   = {Interaction Techniques and Technologies in Human-Computer Interaction},
+  publisher   = {CRC Press},
+  year        = {2024},
+  month       = aug
+}
+
+@incollection{wanderley2022motion,
+  author      = {Wanderley, Marcelo M.},
+  editor      = {McPherson, Gary},
+  title       = {{Motion Capture of Music Performances}},
+  booktitle   = {The Oxford Handbook of Music Performance},
+  pages       = {465--494},
+  publisher   = {Oxford University Press},
+  year        = {2022},
+  month       = jan
+}
+
+@incollection{wanderley2022recherche,
+  author    = {Wanderley, Marcelo M.},
+  title     = {{Recherche interdisciplinaire: Voie royale ou voie sans issue?}},
+  editor    = {Allaire, S. and Deschenaux, F.},
+  booktitle = {R{\'e}cits de professeurs d'universit{\'e} {\`a} mi carri{\`e}re. Si c'{\'e}tait {\`a} refaire\ldots},
+  series    = {Collection Enseignement Sup{\'e}rieur},
+  publisher = {Presses de l'Universit{\'e} du Qu{\'e}bec},
+  pages     = {29--40},
+  year      = {2022},
+  month     = apr
+}
+
+@incollection{wanderley2019hci,
+  author    = {Wanderley, Marcelo M. and Mackay, Wendy},
+  title     = {{HCI, Music and Art: An Interview with Wendy Mackay}},
+  editor    = {Holland, Simon and Mudd, Tom and Wilkie-McKenna, Katie and McPherson, Andrew and Wanderley, Marcelo M.},
+  booktitle = {New Directions in Music and Human-Computer Interaction},
+  series    = {Springer Series on Cultural Computing},
+  publisher = {Springer},
+  address   = {Cham},
+  pages     = {115--120},
+  year      = {2019}
+}
+
+@incollection{malloch2019design,
+  author    = {Malloch, Joseph and Garcia, J{\'e}r{\'e}mie and Wanderley, Marcelo M. and Mackay, Wendy and Beaudouin-Lafon, Michel and Huot, St{\'e}phane},
+  title     = {{A Design Workbench for Interactive Music Systems}},
+  editor    = {Holland, Simon and Mudd, Tom and Wilkie-McKenna, Katie and McPherson, Andrew and Wanderley, Marcelo M.},
+  booktitle = {New Directions in Music and Human-Computer Interaction},
+  series    = {Springer Series on Cultural Computing},
+  publisher = {Springer},
+  address   = {Cham},
+  pages     = {23--40},
+  year      = {2019}
+}
+
+@incollection{giordano2018design,
+  author      = {Giordano, Marcello and Sullivan, John and Wanderley, Marcelo M.},
+  editor      = {Papetti, S. and Saitis, C.},
+  title       = {{Design of Vibrotactile Feedback and Stimulation for Music Performance}},
+  booktitle   = {Musical Haptics},
+  publisher   = {Springer International Publishing AG},
+  year        = {2018}
+}
+
+@incollection{nusseck2018body,
+  author      = {Nusseck, Manfred and Wanderley, Marcelo M. and Spahn, Claudia},
+  editor      = {M{\"u}ller, Bertram and Wolf, Sebastian},
+  title       = {{Body Movements in Music Performances: The Example of Clarinet Players}},
+  booktitle   = {Handbook of Human Motion},
+  publisher   = {Springer},
+  address     = {Cham},
+  year        = {2018}
+}
+
+@incollection{malloch2017embodied,
+  author      = {Malloch, Joseph and Wanderley, Marcelo M.},
+  editor      = {Lesaffre, Micheline and Maes, Pieter-Jan and Leman, Marc},
+  title       = {{Embodied Cognition and Digital Musical Instruments: Design and performance}},
+  booktitle   = {The Routledge Companion to Embodied Music Interaction},
+  pages       = {440--449},
+  publisher   = {Routledge},
+  year        = {2017}
+}
+
+@incollection{wanderley2013mapping,
+  author      = {Wanderley, Marcelo M.},
+  editor      = {Luciani, Annie and Tache, Olivier and Castagn{\'e}, Nicholas},
+  title       = {{Mapping Strategies in Digital Musical Instruments: Concepts and tools}},
+  booktitle   = {Cr{\'e}ativit{\'e} Instrumentale, Cr{\'e}ativit{\'e} Ambiente: Colloque Art-Science Technologie 2011},
+  pages       = {183--190},
+  publisher   = {Enactive System Books},
+  year        = {2013}
+}
+
+@incollection{tache2013qualites,
+  author      = {Tache, Olivier and Sinclair, Steve and Florens, Jean-Loup and Wanderley, Marcelo M.},
+  editor      = {Luciani, Annie and Tache, Olivier and Castagn{\'e}, Nicholas},
+  title       = {{Qualit{\'e}s Tactiles et Sonores dans le Jeu Instrumental de Cordes Frott{\'e}es: Exploration par la simulation}},
+  booktitle   = {Cr{\'e}ativit{\'e} Instrumentale, Cr{\'e}ativit{\'e} Ambiente: Colloque Art-Science Technologie 2011},
+  pages       = {225--242},
+  publisher   = {Enactive System Books},
+  year        = {2013}
+}
+
+@incollection{malloch2011input,
+  author      = {Malloch, Joseph and Sinclair, Stephen and Hollinger, Avrum and Wanderley, Marcelo M.},
+  editor      = {Solis, Jorge and Ng, Kia},
+  title       = {{Input Devices and Music Interaction}},
+  booktitle   = {Musical Robots and Interactive Music Systems},
+  publisher   = {Springer Verlag},
+  year        = {2011}
+}
+
+@incollection{wanderley2010projeto,
+  author    = {Wanderley, Marcelo M.},
+  title     = {{Projeto e Utiliza{\c c}{\~a}o de Instrumentos Musicais Digitais}},
+  editor    = {Keller, Damian},
+  booktitle = {Cria{\c c}{\~a}o Musical e Tecnologias: Teoria e Pr{\'a}tica Interdisciplinar 1},
+  publisher = {ANPOM},
+  year      = {2010},
+  language  = {portuguese}
+}
+
+@incollection{jensenius2010musical,
+  author      = {Jensenius, Alexander Refsum and Wanderley, Marcelo M. and God{\o}y, Rolf Inge and Leman, Marc},
+  editor      = {God{\o}y, Rolf Inge and Leman, Marc},
+  title       = {{Musical Gesture: Concepts and Methods in Research}},
+  booktitle   = {Musical Gestures: Sound, Movement and Meaning},
+  publisher   = {Routledge},
+  address     = {New York},
+  year        = {2010}
+}
+
+@incollection{wanderley2006origins,
+  author      = {Wanderley, Marcelo M. and Vines, Bradley},
+  editor      = {Gritten, A. and King, E.},
+  title       = {{Origins and Function of Clarinettists' Ancillary Gestures}},
+  booktitle   = {Music and Gesture: New Perspectives on Theory and Contemporary Practice},
+  publisher   = {Ashgate Publishing},
+  address     = {on Theory and Contemporary Practice},
+  year        = {2006}
+}
+
+@incollection{wanderley2006instrumentos,
+  author      = {Wanderley, Marcelo M.},
+  editor      = {Ilari, B.},
+  title       = {{Instrumentos Musicais Digitais - Gestos, Sensores e Interfaces}},
+  booktitle   = {Em Busca da Mente Musical},
+  publisher   = {Editora da Universidade Federal do Paran{\'a}},
+  address     = {Curitiba, Brazil (In Portuguese)},
+  year        = {2006}
+}
+
+@incollection{cadoz2000gesture,
+  author      = {Cadoz, Claude and Wanderley, Marcelo M.},
+  editor      = {Wanderley, M. and Battier, M.},
+  title       = {{Gesture-Music}},
+  booktitle   = {Trends in Gestural Control of Music},
+  address     = {Paris: IRCAM - Centre Pompidou},
+  year        = {2000}
+}
+
+@incollection{wanderley1999controle,
+  author      = {Wanderley, Marcelo M. and Depalle, Philippe},
+  editor      = {Vinet, H. and Delalande, F.},
+  title       = {{Contr{\^o}le Gestuel de la Synth{\`e}se Sonore}},
+  booktitle   = {Interfaces Homme-Machine et Creation Musicale},
+  publisher   = {Paris: Herm{\`e}s Science Publishing},
+  year        = {1999}
+}
+
+@inproceedings{cowden2026gridsonics,
+  author      = {Cowden, Patrick and Dosiek, Luke and Wanderley, Marcelo M.},
+  title       = {{GridSonics: A Real-Time Interactive AC Power Systems Sonification Platform}},
+  booktitle   = {Proceedings of the 31st International Conference on Auditory Display (ICAD)},
+  year        = {2026}
+}
+
+@inproceedings{nunes2026hypercuica,
+  author      = {Nunes, Luam G. C. and Wanderley, Marcelo M. and Lopes, Filipe},
+  title       = {{Hypercu{\'i}ca: Augmenting and Performing with an Afro-Brazilian Friction Drum}},
+  booktitle   = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year        = {2026}
+}
+
+@inproceedings{piao2026exploring,
+  author      = {Piao, Ziyue and Wada, Yohei and Cossette, Isabelle and Wanderley, Marcelo M. and Maezawa, Akira},
+  title       = {{Exploring Breathing-Music Coupling: Using the Breathing Mirror for Somatic Reflection in Piano Performance}},
+  booktitle   = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year        = {2026}
+}
+
+@inproceedings{piao2026reconciling,
+  author      = {Piao, Ziyue and Cossette, Isabelle and Wanderley, Marcelo M.},
+  title       = {{Reconciling Kinesthetic Mismatches: A Somatic Alignment Mindset for Musical Body Transformation}},
+  booktitle   = {2026 CHI Conference on Human Factors in Computing Systems Workshop (Body Transformation Experiences: A workshop on How to Elicit, Assess and Support them through Multisensory Technology)},
+  year        = {2026}
+}
+
+@inproceedings{monteiro2025practice,
+  author      = {Monteiro, Paloma F. and Gentili-Morin, Maxwell and Gatti, Giordano and Casarotti, Jo{\~a}o Paulo and Loss, Jefferson F. and Wanderley, Marcelo M. and dos Santos, Regina A. T.},
+  title       = {{Practice with Diversified Repetition and Its Influence on Bimanual Synchronization in Pianists}},
+  booktitle   = {Proceedings of 13th Congress of the Brazilian Association for Musical Performance (Performus'25)},
+  pages       = {17--26},
+  year        = {2025}
+}
+
+@inproceedings{monteiro2025impacts,
+  author      = {Monteiro, Paloma F. and Gentili-Morin, Maxwell and Gatti, Giordano and Casarotti, Jo{\~a}o Paulo and Loss, Jefferson F. and Wanderley, Marcelo M. and dos Santos, Regina A. T.},
+  title       = {{Impacts of Diversified Repetition on Multilevel Motor Organization During Piano Performance}},
+  booktitle   = {Proceedings of the 35th Congress of the National Association for Music Research and Graduate Studies (ANPPOM)},
+  year        = {2025}
+}
+
+@inproceedings{ronen2025augmenting,
+  author      = {Ronen, Oren and Wanderley, Marcelo M.},
+  title       = {{Augmenting IoMusT Devices with Haptic Feedback: Design Tools and Strategies from Expert T-Stick Performers}},
+  booktitle   = {Proceedings IEEE International Symposium on the Internet of Sounds},
+  year        = {2025}
+}
+
+@inproceedings{silva2025melody,
+  author      = {Silva, Nishal and Wanderley, Marcelo M. and Turchet, Luca},
+  title       = {{Melody and Motion: Integrating Guitar Gesture Detection with Musical Patterns for Extended Control in Live Performance and Metaverse Applications}},
+  booktitle   = {Proceedings IEEE International Symposium on the Internet of Sounds},
+  year        = {2025}
+}
+
+@inproceedings{uro2025decoupling,
+  author      = {Uro, Pierrick and Berthaut, Florent and Pietrzak, Thomas and Wanderley, Marcelo},
+  title       = {{Decoupling Physical and Virtual Spaces for New Collaboration Strategies in Co-Located Mixed Reality Instruments}},
+  booktitle   = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year        = {2025}
+}
+
+@inproceedings{kirby2025creating,
+  author      = {Kirby, Linnea and Rose, Christiana and Cooperstock, Jeremy and Wanderley, Marcelo},
+  title       = {{Creating a Real-Time Responsive Handbalancing Interface with HAND★CS}},
+  booktitle   = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year        = {2025}
+}
+
+@inproceedings{west2025continuous,
+  author      = {West, Travis and Puranik, Ninad and Scavone, Gary and Wanderley, Marcelo},
+  title       = {{Towards the Continuous Harmonium: Replicating the Continuous Keyboard}},
+  booktitle   = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year        = {2025}
+}
+
+@inproceedings{fraisse2025exploring,
+  author      = {Fraisse, Val{\'e}rian and Sch{\"u}tz, Nadine and Vincent, Coralie and Wanderley, Marcelo M. and Guastavino, Catherine and Misdariis, Nicolas},
+  title       = {{Exploring Sound Installation Reactivity: Acoustic Niches in Public Space}},
+  booktitle   = {Proceedings of the 2025 International Symposium on Musical and Room Acoustics (ISMRA)},
+  year        = {2025}
+}
+
+@inproceedings{uro2025strategies,
+  author      = {Uro, Pierrick and Berthaut, Florent and Pietrzak, Thomas and Grisoni, Laurent and Wanderley, Marcelo M.},
+  title       = {{Strategies for the Reconciliation of Artistic Intent and Technical Constraints in Mixed Reality Performances}},
+  booktitle   = {ACM Designing Interactive Systems (DIS) 2025 Conference},
+  pages       = {1603--1614},
+  year        = {2025}
+}
+
+@inproceedings{puranik2025thoughts,
+  author      = {Puranik, Ninad and West, Travis and Wanderley, Marcelo and Scavone, Gary},
+  title       = {{Thoughts on Mapping and Interface Design of a Keyboard to Perform Continuous Pitch Ornamentations in Hindustani Music}},
+  booktitle   = {Workshop on Indian Music Analysis and Generative Applications (WIMAGA)},
+  pages       = {1--5},
+  year        = {2025}
+}
+
+@incollection{lavastre2024studying,
+  author      = {Lavastre, Benjamin and Wanderley, Marcelo M.},
+  editor      = {Jensenius, A.R.},
+  title       = {{Studying Performances with Digital Musical Instruments: A Case Study of Ritual, a Piece for Solo Karlax}},
+  booktitle   = {Sonic Design: Explorations Between Art and Science},
+  pages       = {138--154},
+  publisher   = {Springer},
+  year        = {2024}
+}
+
+@inproceedings{niyonsenga2024take,
+  author      = {Niyonsenga, Albert-Ngabo and Wanderley, Marcelo M.},
+  title       = {{Take Five: Improving Maintainability and Reliability of the T-Stick}},
+  booktitle   = {Proceedings of the 2024 International Conference on New Interfaces for Musical Expression (NIME2024)},
+  pages       = {5--11},
+  address     = {Utrecht, the Netherlands},
+  year        = {2024}
+}
+
+@inproceedings{moriceau2024obstacle,
+  author      = {Moriceau, Ga{\"e}l and Yan, Yulin and Thibault, Dominic and Wanderley, Marcelo M.},
+  title       = {{The Obstacle Course of DMI Performance: Two Case Studies with T-Stick and Karlax}},
+  booktitle   = {Proceedings of the 2024 International Conference on New Interfaces for Musical Expression (NIME2024)},
+  pages       = {324--332},
+  address     = {Utrecht, the Netherlands},
+  year        = {2024}
+}
+
+@inproceedings{gentilimorin2024r,
+  author      = {Gentili-Morin, Maxwell and Wanderley, Marcelo M.},
+  title       = {{R-FF: A Single Reed Haptic Library for the TorqueTuner}},
+  booktitle   = {Proceedings of the 2024 International Conference on New Interfaces for Musical Expression (NIME2024)},
+  address     = {Utrecht, the Netherlands},
+  year        = {2024}
+}
+
+@inproceedings{ronen2024sonic,
+  author      = {Ronen, Oren and Wanderley, Marcelo M.},
+  title       = {{Sonic Touch: A Haptic Toolkit for Fast Vibrotactile Prototyping}},
+  booktitle   = {Proceedings of the 2024 International Conference on New Interfaces for Musical Expression (NIME2024)},
+  address     = {Utrecht, the Netherlands},
+  year        = {2024}
+}
+
+@inproceedings{tragtenberg2024designing,
+  author      = {Tragtenberg, Jo{\~a}o and Calegario, Filipe and Wanderley, Marcelo M. and Cavalcanti, Virg{\'i}nia},
+  title       = {{Designing DMIs with(in) a Music Culture: A Participatory Design Process with the Xambá Quilombola Community}},
+  booktitle   = {Proceedings of the 2024 International Conference on New Interfaces for Musical Expression (NIME2024)},
+  pages       = {367--376},
+  address     = {Utrecht, the Netherlands},
+  year        = {2024}
+}
+
+@inproceedings{west2024sygaldry,
+  author      = {West, Travis and Huot, St{\'e}phane and Wanderley, Marcelo M.},
+  title       = {{Sygaldry: DMI Components First and Foremost}},
+  booktitle   = {Proceedings of the 2024 International Conference on New Interfaces for Musical Expression (NIME2024)},
+  address     = {Utrecht, the Netherlands},
+  year        = {2024}
+}
+
+@inproceedings{fraisse2024designing,
+  author      = {Fraisse, Valérian and Wanderley, Marcelo M. and Misdariis, Nicolas and Guastavino, Catherine},
+  title       = {{Designing Sound for Public Spaces Through a Research-Creation Collaboration Framework}},
+  booktitle   = {Proceedings of the 2024 Design Research Society (DRS) Conference},
+  address     = {Boston, MA, USA},
+  year        = {2024}
+}
+
+@inproceedings{vankerrebroeck2024human,
+  author      = {Van Kerrebroeck, Bavo and Demos, Alexander P. and Wanderley, Marcelo M. and Palmer, Caroline},
+  title       = {{Human-Machine Trios Show Different Tempo Changes in Musical Tasks}},
+  booktitle   = {Proceedings of the Cognitive Science Conference},
+  address     = {Rotterdam, NL},
+  year        = {2024},
+  month       = jul
+}
+
+@inproceedings{piao2023mappemg,
+  author      = {Piao, Ziyue and Wanderley, Marcelo M. and Verdugo, Felipe},
+  title       = {{MappEMG: Enhancing Music Pedagogy by Mapping Electromyography to Multimodal Feedback}},
+  booktitle   = {Proceedings of the 2023 International Conference on ArtsIT, Interactivity and Game Creation (ArtsIT 2023)},
+  address     = {Campinas, Brazil},
+  year        = {2023}
+}
+
+@inproceedings{wanderley2023prehistoric,
+  author      = {Wanderley, Marcelo M.},
+  title       = {{Prehistoric NIME: Revisiting Research on New Musical Interfaces in the Computer Music Community Before NIME}},
+  booktitle   = {Proceedings of the 2023 International Conference on New Interfaces for Musical Expression (NIME2023)},
+  address     = {Mexico City, MX},
+  year        = {2023}
+}
+
+@inproceedings{niyonsenga2023tools,
+  author      = {Niyonsenga, Albert-Ngabo and Wanderley, Marcelo M.},
+  title       = {{Tools and Techniques for the Maintenance and Support of Digital Musical Instruments}},
+  booktitle   = {Proceedings of the 2023 International Conference on New Interfaces for Musical Expression (NIME2023)},
+  pages       = {212--218},
+  address     = {Mexico City, MX},
+  year        = {2023}
+}
+
+@inproceedings{davis2023etu,
+  author      = {Davis, Tommy and Pocius, Kasey and Cusson, Vincent and Wanderley, Marcelo M. and Pasquier, Philippe},
+  title       = {{eTu{d,b}e: Case studies in playing with musical agents}},
+  booktitle   = {Proceedings of the 2023 International Conference on New Interfaces for Musical Expression (NIME2023)},
+  address     = {Mexico City, MX},
+  year        = {2023}
+}
+
+@inproceedings{fukuda2023t,
+  author      = {Fukuda, Takuto and Wanderley, Marcelo M.},
+  title       = {{T-Patch: a software application for T-Stick Digital Musical Instruments}},
+  booktitle   = {Proceedings of the 2023 International Conference on New Interfaces for Musical Expression (NIME2023)},
+  address     = {Mexico City, MX},
+  year        = {2023}
+}
+
+@inproceedings{buser2023t,
+  author      = {Buser, Paul and Pocius, Kasey and Kirby, Linnea and Wanderley, Marcelo M.},
+  title       = {{Towards the T-Tree 2.0: Lessons Learned from Performance with a Novel DMI and Instrument Hub}},
+  booktitle   = {Proceedings of the 2023 International Conference on New Interfaces for Musical Expression (NIME2023)},
+  address     = {Mexico City, MX},
+  year        = {2023}
+}
+
+@inproceedings{boettcher2023addressing,
+  author      = {Boettcher, Brady and Meneses, Eduardo and Frisson, Christian and Wanderley, Marcelo M. and Malloch, Joseph},
+  title       = {{Addressing Barriers for Entry and Operation of a Distributed Signal Mapping Framework}},
+  booktitle   = {Proceedings of the 2023 International Conference on New Interfaces for Musical Expression (NIME2023)},
+  address     = {Mexico City, MX},
+  year        = {2023}
+}
+
+@inproceedings{meneses2023puara,
+  author      = {Meneses, Eduardo and Piquet, Thomas and Noble, Jason and Wanderley, Marcelo M.},
+  title       = {{The Puara Framework: Hiding complexity and modularity for reproducibility and usability in NIMEs}},
+  booktitle   = {Proceedings of the 2023 International Conference on New Interfaces for Musical Expression (NIME2023)},
+  address     = {Mexico City, MX},
+  year        = {2023}
+}
+
+@inproceedings{frisson2022forcehost,
+  author      = {Frisson, Christian and Kirkegaard, Mathias and Pietrzak, Thomas and Wanderley, Marcelo M.},
+  title       = {{ForceHost: An Open-source Toolchain for Generating Firmware Embedding the Authoring and Rendering of Audio and Force-feedback Haptics}},
+  booktitle   = {Proceedings of the 2022 International Conference on New Interfaces for Musical Expression (NIME2022)},
+  address     = {Auckland, NZ},
+  year        = {2022}
+}
+
+@inproceedings{boettcher2022slapbox,
+  author      = {Boettcher, Brady and Sullivan, John and Wanderley, Marcelo M.},
+  title       = {{Slapbox: Redesign of a Digital Musical Instrument Towards Reliable Long-Term Practice}},
+  booktitle   = {Proceedings of the 2022 International Conference on New Interfaces for Musical Expression (NIME2022)},
+  address     = {Auckland, NZ},
+  year        = {2022}
+}
+
+@inproceedings{verdugo2022feeling,
+  author      = {Verdugo, Felipe and Ceglia, Amedeo and Frisson, Christian and Burton, Alexandre and Begon, Mickael and Gibet, Sylvie and Wanderley, Marcelo M.},
+  title       = {{Feeling the Effort of Classical Musicians - A Pipeline from Electromyography to Smartphone Vibration for Live Music Performance}},
+  booktitle   = {Proceedings of the 2022 International Conference on New Interfaces for Musical Expression (NIME2022)},
+  address     = {Auckland, NZ},
+  year        = {2022}
+}
+
+@inproceedings{kirby2022introducing,
+  author      = {Kirby, Linnea and Buser, Paul and Wanderley, Marcelo M.},
+  title       = {{Introducing the t-Tree: A t-Stick-Based DMI and Hub for Performance and Installation}},
+  booktitle   = {Proceedings of the 2022 International Conference on New Interfaces for Musical Expression (NIME2022)},
+  address     = {Auckland, NZ},
+  year        = {2022}
+}
+
+@inproceedings{boettcher2022mapper4live,
+  author      = {Boettcher, Brady and Wang, Johnty and Malloch, Joseph and Wanderley, Marcelo M.},
+  title       = {{Mapper4Live: Using Control Structures to Embed Complex Mapping Tools into Music Production Environments}},
+  booktitle   = {Proceedings of the 2022 International Conference on New Interfaces for Musical Expression (NIME2022)},
+  address     = {Auckland, NZ},
+  year        = {2022}
+}
+
+@inproceedings{lavastre2021mixed,
+  author    = {Lavastre, Benjamin and Wanderley, Marcelo M.},
+  title     = {{Mixed Writing with Karlax and Acoustic Instruments: Interaction Strategies from Computer Music}},
+  booktitle = {Proceedings of the 15th International Symposium on Computer Music Multidisciplinary Research (CMMR)},
+  address   = {Tokyo, Japan},
+  year      = {2021}
+}
+
+@incollection{lavastre2023interaction,
+  author    = {Lavastre, Benjamin and Wanderley, Marcelo M.},
+  title     = {{Interaction Strategies in Composition for Karlax and Acoustic Instruments}},
+  editor    = {Aramaki, M. and others},
+  booktitle = {Proceedings of CMMR 2021},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {13770},
+  publisher = {Springer Nature Switzerland},
+  pages     = {163--179},
+  year      = {2023}
+}
+
+@inproceedings{wanderley2021idmil,
+  author      = {Wanderley, Marcelo M. and West, Travis and Rohs, Josh and Meneses, Eduardo and Frisson, Christian},
+  title       = {{The IDMIL Digital Audio Workbench: An interactive online application for teaching digital audio concepts}},
+  booktitle   = {Proceedings of the Audio Mostly 2021 Conference},
+  address     = {Trento, Italy},
+  year        = {2021},
+  doi         = {10.1145/}
+}
+
+@inproceedings{costalonga2021ragpicking,
+  author      = {Costalonga, Leandro and Hora, Daniel and Pimenta, Marcelo and Wanderley, Marcelo M.},
+  title       = {{The Ragpicking DMI Design: The Case for Green Computer Music}},
+  booktitle   = {Proceedings of the 10th International Conference on Digital and Interactive Arts (ARTECH 2021)},
+  address     = {Aveiro, Portugal},
+  year        = {2021}
+}
+
+@inproceedings{azevedocostaneto2021projeto,
+  author      = {Azevedo Costa Neto, An{\'e}sio and Assun{\c c}{\=a}o de Ara{\'u}jo, Nivalda and Wanderley, Marcelo M.},
+  title       = {{Projeto: Cerrado: Unfolding Spaces}},
+  booktitle   = {Proceedings of the 10th International Conference on Digital and Interactive Arts (ARTECH 2021)},
+  address     = {Aveiro, Portugal},
+  year        = {2021}
+}
+
+@inproceedings{west2021making,
+  author      = {West, Travis and Caramiaux, Baptiste and Huot, St{\'e}phane and Wanderley, Marcelo M.},
+  title       = {{Making Mappings: Design Criteria for Live Performance}},
+  booktitle   = {Proceedings of the 2021 International Conference on New Interfaces for Musical Expression (NIME2021)},
+  address     = {Shanghai, China},
+  year        = {2021}
+}
+
+@inproceedings{calegario2021documentation,
+  author      = {Calegario, Felipe and Tragtenberg, Jo{\~a}o and Frisson, Christian and Meneses, Eduardo and Malloch, Joseph and Cusson, Vincent and Wanderley, Marcelo M.},
+  title       = {{Documentation and Replicability in the NIME Community}},
+  booktitle   = {Proceedings of the 2021 International Conference on New Interfaces for Musical Expression (NIME2021)},
+  address     = {Shanghai, China},
+  year        = {2021}
+}
+
+@inproceedings{reimer2021embracing,
+  author      = {Reimer, Charles and Wanderley, Marcelo M.},
+  title       = {{Embracing Less Common Evaluation Strategies for Studying User Experience in NIME}},
+  booktitle   = {Proceedings of the 2021 International Conference on New Interfaces for Musical Expression (NIME2021)},
+  address     = {Shanghai, China},
+  year        = {2021}
+}
+
+@inproceedings{skarha2021le,
+  author      = {Skarha, Matthew and Cusson, Vincent and Frisson, Christian and Wanderley, Marcelo M.},
+  title       = {{Le B{\^a}ton: A Digital Musical Instrument Based on the Chaotic Triple Pendulum}},
+  booktitle   = {Proceedings of the 2021 International Conference on New Interfaces for Musical Expression (NIME2021)},
+  address     = {Shanghai, China},
+  year        = {2021}
+}
+
+@inproceedings{frisson2021maplooper,
+  author      = {Frisson, Christian and Bredholt, Mathias and Malloch, Joseph and Wanderley, Marcelo M.},
+  title       = {{MapLooper: Live-looping of distributed gesture-to-sound mappings}},
+  booktitle   = {Proceedings of the 2021 International Conference on New Interfaces for Musical Expression (NIME 2021)},
+  address     = {Shanghai, China},
+  year        = {2021}
+}
+
+@inproceedings{santos2021comparative,
+  author      = {Santos, Geise and Wang, Johnty and Medeiros, Carolina and Wanderley, Marcelo M. and Tavares, Tiago and Rocha, Anderson},
+  title       = {{Comparative Latency Analysis of Optical and Inertial Motion Capture Systems for Gestural Analysis and Performance}},
+  booktitle   = {Proceedings of the 2021 International Conference on New Interfaces for Musical Expression (NIME2021)},
+  address     = {Shanghai, China},
+  year        = {2021}
+}
+
+@inproceedings{fraisse2021visualization,
+  author      = {Fraisse, Val{\'e}rian and Wanderley, Marcelo M. and Guastavino, Catherine},
+  title       = {{A Visualization Tool to Explore Interactive Sound Installations}},
+  booktitle   = {Proceedings of the 2021 International Conference on New Interfaces for Musical Expression (NIME2021)},
+  address     = {Shanghai, China},
+  year        = {2021}
+}
+
+@inproceedings{regimbal2021interpolating,
+  author      = {Regimbal, Juliette and Wanderley, Marcelo M.},
+  title       = {{Interpolating Audio and Haptic Control Spaces: Using Radial Basis Function Interpolation in a Multimodal Space}},
+  booktitle   = {Proceedings of the 2021 International Conference on New Interfaces for Musical Expression (NIME2021)},
+  address     = {Shanghai, China},
+  year        = {2021}
+}
+
+@inproceedings{fukuda2021t,
+  author      = {Fukuda, Takuto and Meneses, Eduardo and West, Travis and Wanderley, Marcelo M.},
+  title       = {{The T-Stick Music Creation Project: An approach to building a creative community around a DMI}},
+  booktitle   = {Proceedings of the 2021 International Conference on New Interfaces for Musical Expression (NIME2021)},
+  address     = {Shanghai, China},
+  year        = {2021}
+}
+
+@inproceedings{tom2020haptic,
+  author      = {Tom, Ajin and Singh, Ankita and Daigle, Martin and Marandola, Fabrice and Wanderley, Marcelo M.},
+  title       = {{Haptic Tutor - A haptics-based music education tool for beginners}},
+  booktitle   = {Proceedings of the 2020 Haptics and Audio Interaction Design Workshop (HAID2020)},
+  year        = {2020}
+}
+
+@inproceedings{west2020making,
+  author      = {West, Travis and Caramiaux, Baptiste and Wanderley, Marcelo M.},
+  title       = {{Making Mappings: Examining the Design Process}},
+  booktitle   = {Proceedings of the 2020 International Conference on New Interfaces for Musical Expression (NIME2020)},
+  year        = {2020}
+}
+
+@inproceedings{calegario2020probatio,
+  author      = {Calegario, Filipe and Wanderley, Marcelo M. and Tragtenberg, Jo{\~a}o and Wang, Johnty and Sullivan, John and Meneses, Eduardo},
+  title       = {{Probatio 1.0: Collaborative development of a toolkit for functional DMI prototypes}},
+  booktitle   = {Proceedings of the 2020 International Conference on New Interfaces for Musical Expression (NIME2020)},
+  year        = {2020}
+}
+
+@inproceedings{wang2020scalability,
+  author      = {Wang, Johnty and Meneses, Eduardo and Wanderley, Marcelo M.},
+  title       = {{The Scalability of WiFi for Mobile Embedded Sensor Interfaces}},
+  booktitle   = {Proceedings of the 2020 International Conference on New Interfaces for Musical Expression (NIME2020)},
+  year        = {2020}
+}
+
+@inproceedings{kirkegaard2020torquetuner,
+  author      = {Kirkegaard, Mathias and Bredholt, Mathias and Frisson, Christian and Wanderley, Marcelo M.},
+  title       = {{TorqueTuner: A self-contained module for designing rotary haptic force feedback for digital musical instruments}},
+  booktitle   = {Proceedings of the 2020 International Conference on New Interfaces for Musical Expression (NIME2020)},
+  year        = {2020}
+}
+
+@inproceedings{sullivan2020reinventing,
+  author      = {Sullivan, John and Vanasse, Julian and Guastavino, Catherine and Wanderley, Marcelo M.},
+  title       = {{Reinventing the Noisebox: Designing Embedded Instruments for Active Musicians}},
+  booktitle   = {Proceedings of the 2020 International Conference on New Interfaces for Musical Expression (NIME2020)},
+  year        = {2020}
+}
+
+@inproceedings{morreale2020nime,
+  author      = {Morreale, Fabio and Bin, Astrid and Stapleton, Paul and McPherson, Andrew and Wanderley, Marcelo M.},
+  title       = {{A NIME of the Times: Developing an outward-looking political agenda for this community}},
+  booktitle   = {Proceedings of the 2020 International Conference on New Interfaces for Musical Expression (NIME2020)},
+  year        = {2020}
+}
+
+@inproceedings{wang2019study,
+  author      = {Wang, Song and Wanderley, Marcelo M. and Scavone, Gary},
+  title       = {{The Study of Mapping Strategies Between Excitators of the Single-Reed Woodwind and the Bowed String}},
+  booktitle   = {Proceedings of the 7th Conference on Sound and Music Technology (CSMT)},
+  address     = {China},
+  year        = {2019}
+}
+
+@inproceedings{wang2019webmapper,
+  author      = {Wang, Johnty and Malloch, Joseph and Sinclair, Stephen and Wilansky, Jonathan and Krajeski, Aaron and Wanderley, Marcelo M.},
+  title       = {{Webmapper: A Tool for Visualizing and Manipulating Mappings in Digital Musical Instruments}},
+  booktitle   = {Proceedings of the 14th International Symposium on Computer Music Multidisciplinary Research (CMMR 2019)},
+  address     = {Marseille, France},
+  year        = {2019}
+}
+
+@inproceedings{sullivan2019surveying,
+  author      = {Sullivan, John and Wanderley, Marcelo M.},
+  title       = {{Surveying Digital Musical Instrument Use Across Diverse Communities of Practice}},
+  booktitle   = {Proceedings of the 14th International Symposium on Computer Music Multidisciplinary Research (CMMR 2019)},
+  address     = {Marseille, France},
+  year        = {2019}
+}
+
+@inproceedings{wang2019practical,
+  author      = {Wang, Johnty and Mulder, Axel and Wanderley, Marcelo M.},
+  title       = {{Practical Considerations for MIDI over Bluetooth Low Energy as a Wireless Interface}},
+  booktitle   = {Proceedings of the 2019 International Conference on New Interfaces for Musical Expression (NIME2019)},
+  pages       = {25--30},
+  address     = {Porto Alegre, Brazil},
+  year        = {2019}
+}
+
+@inproceedings{tom2019rebuilding,
+  author      = {Tom, Ajin J. and Venkatesan, Harish J. and Franco, Ivan and Wanderley, Marcelo M.},
+  title       = {{Rebuilding and Reinterpreting a Digital Musical Instrument -- the Sponge}},
+  booktitle   = {Proceedings of the 2019 International Conference on New Interfaces for Musical Expression (NIME2019)},
+  pages       = {37--42},
+  address     = {Porto Alegre, Brazil},
+  year        = {2019}
+}
+
+@inproceedings{yaremchuk2019small,
+  author      = {Yaremchuk, Vanessa and Medeiros, Carolina B. and Wanderley, Marcelo M.},
+  title       = {{Small Dynamic Neural Networks for Gesture Classification with the Rulers (A Digital Musical Instrument)}},
+  booktitle   = {Proceedings of the 2019 International Conference on New Interfaces for Musical Expression (NIME2019)},
+  pages       = {150--155},
+  address     = {Porto Alegre, Brazil},
+  year        = {2019}
+}
+
+@inproceedings{meneses2019comparison,
+  author      = {Meneses, Eduardo and Wang, Johnty and Freire, S{\'e}rgio and Wanderley, Marcelo M.},
+  title       = {{A Comparison of Open-Source Linux Frameworks for an Augmented Musical Instrument Implementation}},
+  booktitle   = {Proceedings of the 2019 International Conference on New Interfaces for Musical Expression (NIME2019)},
+  pages       = {222--227},
+  address     = {Porto Alegre, Brazil},
+  year        = {2019}
+}
+
+@inproceedings{tirumalabukkapatnam2019autoregressive,
+  author      = {Tirumala Bukkapatnam, Aditya and Depalle, Philippe and Wanderley, Marcelo M.},
+  title       = {{Autoregressive Parameter Estimation for Equalizing Vibrotactile Systems}},
+  booktitle   = {Proceedings of the 2019 International Workshop of Haptic and Audio Interaction Design},
+  address     = {Lille, France},
+  year        = {2019},
+  month       = mar
+}
+
+@inproceedings{barbosa2018zenstates,
+  author      = {Barbosa, Jer{\^o}nimo and Wanderley, Marcelo M. and Huot, St{\'e}phane},
+  title       = {{ZenStates: Easy-to-Understand yet Expressive Specifications for Creative Interactive Environments}},
+  booktitle   = {Proceedings of IEEE Symposium on Visual Languages and Human-Centric Computing},
+  address     = {Lisbon, Portugal},
+  year        = {2018},
+  month       = oct
+}
+
+@inproceedings{sullivan2018stability,
+  author      = {Sullivan, John and Wanderley, Marcelo M.},
+  title       = {{Stability, Reliability, Compatibility: Reviewing 40 Years of DMI Design}},
+  booktitle   = {Proceedings of the 15th Sound and Music Computing Conference (SMC2018)},
+  address     = {Cyprus},
+  year        = {2018},
+  month       = jul
+}
+
+@inproceedings{sullivan2018gestural,
+  author      = {Sullivan, John and Tibbitts, Alexandra and Gatinet, Brice and Wanderley, Marcelo},
+  title       = {{Gestural Control of Augmented Instrumental Performance: A Case Study of the Concert Harp}},
+  booktitle   = {Proceedings of the 5th International Conference on Movement Computing (MOCO2018)},
+  year        = {2018}
+}
+
+@inproceedings{massielaberge2018kinetic,
+  author      = {Massie-Laberge, Catherine and Cossette, Isabelle and Wanderley, Marcelo M.},
+  title       = {{Kinetic Analysis of Hip Motion During Piano Playing}},
+  booktitle   = {Proceedings of the 5th International Conference on Movement Computing (MOCO2018)},
+  year        = {2018}
+}
+
+@inproceedings{malloch2018digital,
+  author      = {Malloch, Joseph and Schumacher, M. Marlon and Sinclair, Stephen and Wanderley, Marcelo M.},
+  title       = {{The Digital Orchestra Toolbox for MAX}},
+  booktitle   = {Proceedings of the 2018 International Conference on New Interfaces for Musical Expression (NIME2018)},
+  pages       = {255--258},
+  address     = {Blacksburg, Virginia, USA},
+  year        = {2018}
+}
+
+@inproceedings{meneses2018guitarami,
+  author      = {Meneses, Eduardo and Freire, S{\'e}rgio and Wanderley, Marcelo M.},
+  title       = {{Guitarami and Guiart: Two independent yet complementary projects on augmented nylon guitars}},
+  booktitle   = {Proceedings of the 2018 International Conference on New Interfaces for Musical Expression (NIME2018)},
+  pages       = {222--227},
+  address     = {Blacksburg, Virginia, USA},
+  year        = {2018}
+}
+
+@inproceedings{morreale2018nime,
+  author      = {Morreale, Fabio and McPherson, Andrew P. and Wanderley, Marcelo},
+  title       = {{NIME identity from the performer's perspective}},
+  booktitle   = {Proceedings of the 2018 International Conference on New Interfaces for Musical Expression (NIME2018)},
+  pages       = {168--173},
+  address     = {Blacksburg, Virginia, USA},
+  year        = {2018}
+}
+
+@inproceedings{nieva2018t,
+  author      = {Nieva, Alex and Wang, Johnty and Malloch, Joseph and Wanderley, Marcelo},
+  title       = {{The T-Stick: Maintaining a 12 year-old digital musical instrument}},
+  booktitle   = {Proceedings of the 2018 International Conference on New Interfaces for Musical Expression (NIME2018)},
+  pages       = {198--199},
+  address     = {Blacksburg, Virginia, USA},
+  year        = {2018}
+}
+
+@inproceedings{egloff2018haptic,
+  author      = {Egloff, Deborah and Wanderley, Marcelo M. and Frissen, Ilja},
+  title       = {{Haptic Display of Melodic Intervals for Musical Applications}},
+  booktitle   = {Proceedings of the 2018 IEEE Haptics Symposium},
+  address     = {San Francisco, CA},
+  year        = {2018}
+}
+
+@inproceedings{caramiaux2017individuality,
+  author      = {Caramiaux, Baptiste and Bevilacqua, Fr{\'e}d{\'e}ric and Wanderley, Marcelo and Palmer, Caroline},
+  title       = {{Individuality in Piano Performance Depends on Skill Learning}},
+  booktitle   = {Proceedings of the 4th International Conference on Movement Computing},
+  address     = {London, UK},
+  year        = {2017}
+}
+
+@inproceedings{wang2017versioning,
+  author      = {Wang, Johnty and Malloch, Joseph and Huot, St{\'e}phane and Chevalier, Fanny and Wanderley, Marcelo M.},
+  title       = {{Versioning and Annotation Support for Collaborative Mapping Design}},
+  booktitle   = {Proceedings of the 2017 Sound and Music Computing Conference (SCM2017)},
+  year        = {2017}
+}
+
+@inproceedings{wang2017explorations,
+  author      = {Wang, Johnty and Pritchard, Robert and Nixon, Bryn and Wanderley, Marcelo M.},
+  title       = {{Explorations with Digital Control of MIDI-enabled Pipe Organs}},
+  booktitle   = {Proceedings of the 2017 Sound and Music Computing Conference (SCM2017)},
+  year        = {2017}
+}
+
+@inproceedings{barbosa2017exploring,
+  author      = {Barbosa, Jer{\^o}nimo and Huot, Marcelo M. Wanderley St{\'e}phane},
+  title       = {{Exploring Playfulness in NIME Design: The Case of Live Looping Tools}},
+  booktitle   = {Proceedings of the 2017 International Conference on New Interfaces for Musical Expression (NIME17)},
+  pages       = {87--92},
+  year        = {2017}
+}
+
+@inproceedings{hattwick2017design,
+  author      = {Hattwick, Ian and Wanderley, Marcelo M.},
+  title       = {{Design of Hardware Systems for Professional Artistic Applications}},
+  booktitle   = {Proceedings of the 2017 International Conference on New Interfaces for Musical Expression (NIME17)},
+  pages       = {436--441},
+  year        = {2017}
+}
+
+@inproceedings{chen2016quantitative,
+  author      = {Chen, Lei and Gibet, Sylvie and Marteau, Pierre-Fran{\c c}ois and Marandola, Fabrice and Wanderley, Marcelo M.},
+  title       = {{Quantitative Evaluation of Percussive Gestures by Ranking Trainees versus Teacher}},
+  booktitle   = {Proceedings of the 3rd International Symposium on Movement and Computing (MOCO2016)},
+  address     = {Thessaloniki, Greece},
+  year        = {2016}
+}
+
+@inproceedings{franco2016mitt,
+  author      = {Franco, Ivan and Wanderley, Marcelo M.},
+  title       = {{The Mitt: Case Study in the Design of a Self-contained Digital Music Instrument}},
+  booktitle   = {Proceedings of the 12th International Symposium on Computer Music Multidisciplinary Research (CMMR)},
+  address     = {S{\~a}o Paulo, Brazil},
+  year        = {2016}
+}
+
+@inproceedings{perezcarrillo2015estimation,
+  author      = {Perez Carrillo, Alfonso and Arcos, Josep-LLuis and Wanderley, Marcelo M.},
+  title       = {{Estimation of Guitar Fingering and Plucking Controls based on Multimodal Analysis of Motion, Audio and Musical Score}},
+  booktitle   = {Proceedings of the 11th International Symposium on Computer Music Multidisciplinary Research (CMMR)},
+  year        = {2015}
+}
+
+@inproceedings{giordano2015follow,
+  author      = {Giordano, Marcello and Wanderley, Marcelo M.},
+  title       = {{Follow the Tactile Metronome: Vibrotactile Stimulation for Tempo Synchronization in Music Performance}},
+  booktitle   = {Proceedings of the SMC Conference},
+  address     = {Maynooth, Ireland},
+  year        = {2015}
+}
+
+@inproceedings{giordano2015design,
+  author      = {Giordano, Marcello and Hattwick, Ian and Franco, Ivan and Egloff, Deborah and Lamontagne, Valerie and TeZ and Salter, Chris and Wanderley, Marcelo M.},
+  title       = {{Design and Implementation of a Whole-Body Haptic Suit for ``Ilinx'', a Multisensory Art Installation}},
+  booktitle   = {Proceedings of the SMC Conference},
+  address     = {Maynooth, Ireland},
+  year        = {2015}
+}
+
+@inproceedings{hattwick2015composition,
+  author      = {Hattwick, Ian and Franco, Ivan and Giordano, Marcello and Egloff, Deborah and Lamontagne, Valerie and Arawjo, Ian and Martinucci, Maurizio and Salter, Chris and Wanderley, Marcelo M.},
+  title       = {{Composition Techniques for the Ilinx Vibrotactile Garment}},
+  booktitle   = {Proceedings of the International Computer Music Conference},
+  address     = {Denton, USA},
+  year        = {2015}
+}
+
+@inproceedings{tits2015feature,
+  author      = {Tits, Micka{\"e}l and Tilmanne, Joelle and D'Alessandro, Nicolas and Wanderley, Marcelo M.},
+  title       = {{Feature Extraction and Expertise Analysis of Pianists' Motion-Captured Finger Gestures}},
+  booktitle   = {Proceedings of the International Computer Music Conference},
+  address     = {Denton, USA},
+  year        = {2015}
+}
+
+@inproceedings{hattwick2015interactive,
+  author      = {Hattwick, Ian and Wanderley, Marcelo M.},
+  title       = {{Interactive Lighting in the Pearl: Considerations and Implementation}},
+  booktitle   = {Proceedings of the 2015 International Conference on New Interfaces for Musical Expression},
+  address     = {Baton Rouge, USA},
+  year        = {2015}
+}
+
+@inproceedings{barbosa2015does,
+  author      = {Barbosa, Jer{\^o}nimo and Malloch, Joseph and Huot, St{\'e}phane and Wanderley, Marcelo M.},
+  title       = {{What Does 'Evaluation' Mean for the NIME Community?}},
+  booktitle   = {Proceedings of the 2015 International Conference on New Interfaces for Musical Expression},
+  address     = {Baton Rouge, USA},
+  year        = {2015}
+}
+
+@inproceedings{barbosa2015designing,
+  author      = {Barbosa, Jer{\^o}nimo and Calegario, Filipe and Tragtenberg, Jo{\~a}o and Cabral, Giordano and Ramalho, Geber and Wanderley, Marcelo M.},
+  title       = {{Designing DMIs for Popular Music in the Brazilian Northeast: Lessons Learned}},
+  booktitle   = {Proceedings of the 2015 International Conference on New Interfaces for Musical Expression},
+  address     = {Baton Rouge, USA},
+  year        = {2015}
+}
+
+@inproceedings{franco2015practical,
+  author      = {Franco, Ivan and Wanderley, Marcelo M.},
+  title       = {{Practical Evaluation of Synthesis Performance on the BeagleBone Black}},
+  booktitle   = {Proceedings of the 2015 International Conference on New Interfaces for Musical Expression},
+  address     = {Baton Rouge, USA},
+  year        = {2015}
+}
+
+@inproceedings{lamontagne2015ilinx,
+  author      = {Lamontagne, Valerie and Martinucci, Maurizio and Salter, Chris and Hattwick, Ian and Franco, Ivan and Giordano, Marcello and Egloff, Deborah and Wanderley, Marcelo M.},
+  title       = {{The Ilinx Garments: Whole-body tactile experience in a multisensorial art installation}},
+  booktitle   = {Proceedings of the International Symposium on Electronic Art (ISEA)},
+  address     = {Vancouver, Canada},
+  year        = {2015}
+}
+
+@inproceedings{lourencco2014multimodal,
+  author      = {Louren{\c c}o, Sofia and Martins, Luis Gustavo and Tits, Mika{\"e}l and Wanderley, Marcelo M. and Megre, R.},
+  title       = {{Towards a multimodal analysis of European Piano Schools of Music Performance}},
+  booktitle   = {Proceedings of the 9th Conference on Interdisciplinary Musicology -- CIM14},
+  address     = {Berlin, Germany 2014},
+  year        = {2014}
+}
+
+@inproceedings{bernays2014perception,
+  author      = {Bernays, Michel and Depalle, Philippe and Wanderley, Marcelo M.},
+  title       = {{Perception and Identification of Piano timbre Nuances in Digital Performance Simulation vs. Audio Recordings}},
+  booktitle   = {Proceedings of the 9th Conference on Interdisciplinary Musicology -- CIM14},
+  address     = {Berlin, Germany 2014},
+  year        = {2014}
+}
+
+@inproceedings{rodrigues2014intonaspacio,
+  author      = {Rodrigues, Mailis G. and Wanderley, Marcelo M. and Lopes, Paulo F.},
+  title       = {{Intonaspacio: A Digital Musical Instrument for Exploring Site-Specificities in Sound}},
+  booktitle   = {Sound, Music, and Motion: 10th International Symposium, CMMR 2013, Marseille, France, October 15--18, 2013, Revised Selected Papers},
+  series      = {Lecture Notes in Computer Science},
+  address     = {Marseille, France},
+  year        = {2014},
+  month       = oct
+}
+
+@inproceedings{knutzen2014vibrotactile,
+  author      = {Knutzen, H{\r a}kon and Kvifte, Tellef and Wanderley, Marcelo M.},
+  title       = {{Vibrotactile Feedback for an Open Air Music Controller}},
+  booktitle   = {Sound, Music, and Motion: 10th International Symposium, CMMR 2013, Marseille, France, October 15--18, 2013, Revised Selected Papers},
+  series      = {Lecture Notes in Computer Science},
+  address     = {Marseille, France},
+  year        = {2014},
+  month       = oct
+}
+
+@inproceedings{hattwick2014unsounding,
+  author      = {Hattwick, Ian and Beebe, Preston and Hale, Zachary and Wanderley, Marcelo M. and Leroux, Philippe and Marandola, Fabrice},
+  title       = {{Unsounding Objects: Audio Feature Extraction for the Control of Sound Synthesis}},
+  booktitle   = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  pages       = {597--600},
+  address     = {London, UK},
+  year        = {2014}
+}
+
+@inproceedings{hattwick2014forming,
+  author      = {Hattwick, Ian and Malloch, Joseph and Wanderley, Marcelo M.},
+  title       = {{Forming Shapes to Bodies: Design for Manufacturing in the Prosthetic Instruments}},
+  booktitle   = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  pages       = {443--448},
+  address     = {London, UK},
+  year        = {2014}
+}
+
+@inproceedings{rosamamedes2014composing,
+  author      = {Rosa Mamedes, Clayton and Rodrigues, Mailis and Wanderley, Marcelo M. and Manzolli, J{\^o}natas and Garcia, Denise H. L. and Ferreira Lopes, Paulo},
+  title       = {{Composing for DMIs -- Entoa, music for Intonaspacio}},
+  booktitle   = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  pages       = {509--512},
+  address     = {London, UK},
+  year        = {2014}
+}
+
+@inproceedings{kell2014high,
+  author      = {Kell, Thor and Wanderley, Marcelo M.},
+  title       = {{A High-Level Review of Mappings in Musical iOS Applications}},
+  booktitle   = {Proceedings of the Joint 2014 International Computer Music Conference/Sound and Music Computing Conference},
+  year        = {2014}
+}
+
+@inproceedings{frid2014perceptual,
+  author      = {Frid, Emma and Giordano, Marcello and Schumacher, Marlon and Wanderley, Marcelo M.},
+  title       = {{Perceptual Characterization of a Tactile Display for a Live-Electronics Notification System}},
+  booktitle   = {Proceedings of the Joint 2014 International Computer Music Conference/Sound and Music Computing (ICMC/SMC) Conference},
+  year        = {2014},
+  note        = {SMC Young Researcher best Paper Award}
+}
+
+@inproceedings{bacon2014handedness,
+  author      = {Bacon, Benjamin and Wanderley, Marcelo M. and Marandola, Fabrice},
+  title       = {{Handedness in Percussion Sight-Reading: Observations on movement strategies}},
+  booktitle   = {Proceedings of International Workshop on Movement and Computing},
+  address     = {Paris, France},
+  year        = {2014},
+  month       = jun
+}
+
+@inproceedings{yaremchuk2014brahms,
+  author      = {Yaremchuk, Vanessa and Wanderley, Marcelo M.},
+  title       = {{Brahms, Bodies and Backpropagation: Artificial Neural Networks for Movement Classification in Musical Performance}},
+  booktitle   = {Proceedings of International Workshop on Movement and Computing},
+  address     = {Paris, France},
+  year        = {2014},
+  month       = jun
+}
+
+@inproceedings{hollinger2013mri,
+  author      = {Hollinger, Avrum and Wanderley, Marcelo M.},
+  title       = {{MRI-Compatible Optically-Sensed Cello}},
+  booktitle   = {Proceedings of IEEE SENSORS 2013 Conference},
+  year        = {2013},
+  note        = {Best student paper award}
+}
+
+@inproceedings{bacon2013effects,
+  author      = {Bacon, Benjamin and Wanderley, Marcelo M.},
+  title       = {{The Effects of Handedness in Percussion Performative Gesture}},
+  booktitle   = {Proceedings of the 10th International Symposium on Computer Music Multidisciplinary Research (CMMR2013)},
+  year        = {2013}
+}
+
+@inproceedings{ghamsari2013combining,
+  author      = {Ghamsari, Mahtab and Pras, Amandine and Wanderley, Marcelo M.},
+  title       = {{Combining musical tasks and improvisation in evaluating novel Digital Musical Instruments}},
+  booktitle   = {Proceedings of the 10th International Symposium on Computer Music Multidisciplinary Research (CMMR2013)},
+  year        = {2013}
+}
+
+@inproceedings{dalca2013expressivity,
+  author      = {Dalca, Ioana and Vines, Bradley W. and Pearce, Marcus T. and Wanderley, Marcelo M.},
+  title       = {{Expressivity as Time-Dependent Movement for Music Performance: A Statistical Exploration}},
+  booktitle   = {Proceedings of the 10th International Symposium on Computer Music Multidisciplinary Research (CMMR2013)},
+  year        = {2013}
+}
+
+@inproceedings{rosamamedes2013strategies,
+  author      = {Rosa Mamedes, Clayton and Wanderley, Marcelo M. and Manzolli, J{\^o}natas and Lopes Garcia, Denise},
+  title       = {{Strategies for mapping control in interactive audiovisual installations}},
+  booktitle   = {Proceedings of the 10th International Symposium on Computer Music Multidisciplinary Research (CMMR2013)},
+  year        = {2013}
+}
+
+@inproceedings{schumacher2013vibrotactile,
+  author      = {Schumacher, Marlon and Giordano, Marcello and Wanderley, Marcelo M. and Ferguson, Sean},
+  title       = {{Vibrotactile Notifications for Live Electronics Performance: A Prototype System}},
+  booktitle   = {Proceedings of the 10th International Symposium on Computer Music Multidisciplinary Research (CMMR2013)},
+  year        = {2013}
+}
+
+@inproceedings{cabrol2013gensession,
+  author      = {Cabrol, Fran{\c c}ois and McGuffin, Michael J. and Schumacher, Marlon and (2013), Marcelo M. Wanderley},
+  title       = {{GenSession: a Flexible Zoomable User Interface for Melody Generation}},
+  booktitle   = {Proceedings of the 10th International Symposium on Computer Music Multidisciplinary Research (CMMR2013)},
+  year        = {2013}
+}
+
+@inproceedings{teixeira2013motion,
+  author      = {Teixeira, Euler and Loureiro, Maur{\'i}cio and Yehia, Hani and Wanderley, Marcelo M.},
+  title       = {{Motion Recurrence Analysis in Music Performances}},
+  booktitle   = {Proceedings of the 2013 International Conference on Sound and Music Computing (SMC2013)},
+  year        = {2013}
+}
+
+@inproceedings{kell2013quantitative,
+  author      = {Kell, Thor and Wanderley, Marcelo M.},
+  title       = {{A Quantitative Review of Mappings in Musical iOS Applications}},
+  booktitle   = {Proceedings of the 2013 International Conference on Sound and Music Computing (SMC2013)},
+  year        = {2013}
+}
+
+@inproceedings{schiavoni2013network,
+  author      = {Schiavoni, Fl{\'a}vio L. and Queiroz, Marcelo and Wanderley, Marcelo M.},
+  title       = {{Network Music with Medusa: A comparison of tempo alignment in existing MIDI APIs}},
+  booktitle   = {Proceedings of the 2013 International Conference on Sound and Music Computing (SMC2013)},
+  year        = {2013}
+}
+
+@inproceedings{schiavoni2013alternatives,
+  author      = {Schiavoni, Fl{\'a}vio L. and Queiroz, Marcelo and Wanderley, Marcelo M.},
+  title       = {{Alternatives in Network Transport Protocols for Audio Streaming Applications}},
+  booktitle   = {Proceedings of the 2013 International Computer Music Conference (ICMC13)},
+  year        = {2013}
+}
+
+@inproceedings{giordano2013measuring,
+  author      = {Giordano, Marcello and Wanderley, Marcelo M.},
+  title       = {{Measuring the Haptic Behavior of an Acoustic Guitar by Means of a Vibrating Actuator}},
+  booktitle   = {Proceedings of the 2013 International Congress on Acoustics (ICA2013)},
+  year        = {2013}
+}
+
+@inproceedings{winters2013emotional,
+  author      = {Winters, R. Michael and Hattwick, Ian and Wanderley, Marcelo M.},
+  title       = {{Emotional Data in Music Performance: Two Audio Environments for the Emotional Imaging Composer}},
+  booktitle   = {Proceedings of the 3rd International Conference on Music \& Emotion (ICME2013)},
+  year        = {2013}
+}
+
+@inproceedings{winters2013sonification,
+  author      = {Winters, R. Michael and Wanderley, Marcelo M.},
+  title       = {{Sonification of Emotion: Strategies for Continuous Display of Arousal and Valence}},
+  booktitle   = {Proceedings of the 3rd International Conference on Music \& Emotion (ICME2013)},
+  year        = {2013}
+}
+
+@inproceedings{burlet2013stompboxes,
+  author      = {Burlet, Gregory and Wanderley, Marcelo M. and Fujinaga, Ichiro},
+  title       = {{Stompboxes: Kicking the Habit}},
+  booktitle   = {Proceedings of the 2013 International Conference on New Interfaces for Musical Expression (NIME2013)},
+  year        = {2013}
+}
+
+@inproceedings{giordano2013perceptual,
+  author      = {Giordano, Marcello and Wanderley, Marcelo M.},
+  title       = {{Perceptual and Technological Issues in the Design of Vibrotactile-Augmented Interfaces for Music Technology and Media}},
+  booktitle   = {Proceedings of the 2013 Haptics-Audio Interaction Design Workshop (HAID2013)},
+  year        = {2013},
+  month       = may
+}
+
+@inproceedings{perezcarrillo2012learning,
+  author      = {Perez Carrillo, Alfonso and Wanderley, Marcelo M.},
+  title       = {{Learning and Extraction of Violin Instrumental Controls from Audio Signal}},
+  booktitle   = {Proceedings of the MIRUM Workshop},
+  address     = {ACM Multimedia Conference, Nara, Japan},
+  year        = {2012},
+  month       = nov
+}
+
+@inproceedings{winters2012new,
+  author      = {Winters, R. Michael and Wanderley, Marcelo M.},
+  title       = {{New Directions for the Sonification of Expressive Movement in Music Performance}},
+  booktitle   = {Proceedings of the 18th International Conference on Auditory Display},
+  address     = {Atlanta, Georgia},
+  year        = {2012}
+}
+
+@inproceedings{germain2012uniform,
+  author      = {Germain, Fran{\c c}ois and Abel, Jonathan and Depalle, Philippe and Wanderley, Marcelo M.},
+  title       = {{Uniform Noise Sequences for Nonlinear System Identification}},
+  booktitle   = {Proceedings of the 15th Int},
+  address     = {Conference on Digital Audio Effects (DAFx-12)},
+  year        = {2012}
+}
+
+@inproceedings{vigliensoni2012quantitative,
+  author      = {Vigliensoni, Gabriel and Wanderley, Marcelo M.},
+  title       = {{A Quantitative Comparison of Position Trackers for the Development of a Touch-less Musical Interface}},
+  booktitle   = {Proceedings of the 2012 International Conference on New Interfaces for Musical Expression (NIME12)},
+  address     = {Ann Harbour},
+  year        = {2012}
+}
+
+@inproceedings{hollinger2012optoelectronic,
+  author      = {Hollinger, Avrum and Wanderley, Marcelo M.},
+  title       = {{Optoelectronic Acquisition and Control Board for Musical Applications}},
+  booktitle   = {Proceedings of the 2012 International Conference on New Interfaces for Musical Expression (NIME12)},
+  address     = {Ann Harbour},
+  year        = {2012}
+}
+
+@inproceedings{hattwick2012dimension,
+  author      = {Hattwick, Ian and Wanderley, Marcelo M.},
+  title       = {{A Dimension Space for Evaluating Collaborative Musical Performance Systems}},
+  booktitle   = {Proceedings of the 2012 International Conference on New Interfaces for Musical Expression (NIME12)},
+  address     = {Ann Harbour},
+  year        = {2012}
+}
+
+@inproceedings{tache2012exploring,
+  author      = {Tache, Olivier and Florens, Jean-Loup and Sinclair, Stephen and Wanderley, Marcelo M.},
+  title       = {{Exploring Audio and Tactile Qualities of Instrumentality with Bowed String Models}},
+  booktitle   = {Proceedings of the 2012 International Conference on New Interfaces for Musical Expression (NIME12)},
+  address     = {Ann Harbour},
+  year        = {2012}
+}
+
+@inproceedings{giordano2012bowing,
+  author      = {Giordano, Marcello and Sinclair, Stephen and Wanderley, Marcelo M.},
+  title       = {{Bowing a Vibration-enhanced Force-feedback Device}},
+  booktitle   = {Proceedings of the 2012 International Conference on New Interfaces for Musical Expression (NIME12)},
+  address     = {Ann Harbour},
+  year        = {2012}
+}
+
+@inproceedings{chadefaux2012experimental,
+  author      = {Chadefaux, Delphine and Wanderley, Marcelo M. and Le Carrou, Jean-Lo{\"i}c and Fabre, Beno{\^i}t and Daudet, Laurent},
+  title       = {{Experimental study of the musician / instrument interaction in the case of the concert harp}},
+  booktitle   = {Proceedings of Acoustics 2012},
+  address     = {Nantes, France},
+  year        = {2012}
+}
+
+@inproceedings{medeiros2011evaluating,
+  author      = {Medeiros, Carolina B. and Wanderley, Marcelo M.},
+  title       = {{Evaluating of sensor technologies for The Rulers, a kalimba-like Digital Musical Instrument}},
+  booktitle   = {Proceedings of the 8th Sound and Music Computing Conference},
+  address     = {Padova, Italy},
+  year        = {2011}
+}
+
+@inproceedings{giordano2011learning,
+  author      = {Giordano, Marcello and Wanderley, Marcelo M.},
+  title       = {{A Learning Interface for Novice Guitar Players using Vibrotactile Stimulation}},
+  booktitle   = {Proceedings of the 8th Sound and Music Computing Conference},
+  address     = {Padova, Italy},
+  year        = {2011}
+}
+
+@article{sinclair2011noise,
+  author      = {Sinclair, Stephen and Wanderley, Marcelo M. and Hayward, Vincent and Scavone, Gary},
+  title       = {{Noise-free haptic interaction with a bowed-string acoustic model}},
+  journal     = {Proceedings of the IEEE},
+  year        = {2011}
+}
+
+@inproceedings{marshall2011examining,
+  author      = {Marshall, Mark T. and Wanderley, Marcelo M.},
+  title       = {{Examining the Effects of Embedded Vibrotatile Feedback on the Feel of a Digital Musical Instrument}},
+  booktitle   = {Proceedings of the 2011 International Conference on the Interfaces for Musical Expression (NIME11)},
+  year        = {2011}
+}
+
+@incollection{grond2010methods,
+  author      = {Grond, Florian and Hermann, Thomas and Verfaille, Vincent and Wanderley, Marcelo M.},
+  editor      = {Kopp, Stefan and Wachsmuth, Ipke},
+  title       = {{Methods for the Effective Sonification of Clarinetists' Ancillary Gestures}},
+  booktitle   = {Gestures in Embodied Communication and Human-Computer Interaction: 8th International Gesture Workshop, GW 2009, Bielefeld, Germany, February 2009, Revised Selected Papers},
+  series      = {LNAI 5934},
+  volume      = {5934},
+  pages       = {171--181},
+  publisher   = {Springer Verlag},
+  address     = {- 8th International Gesture Workshop, Bielefeld},
+  year        = {2010},
+  month       = feb
+}
+
+@inproceedings{grond2010virtual,
+  author      = {Grond, Florian and Bou{\"e}nard, Alexandre and Hermann, Thomas and Wanderley, Marcelo M.},
+  title       = {{Virtual Auditory Myography of Timpani-playing Avatars}},
+  booktitle   = {Proceedings of the International Conference on Digital Audio Effects (DAFX)},
+  address     = {Graz, Austria},
+  year        = {2010}
+}
+
+@inproceedings{bianco2010mimicry,
+  author      = {Bianco, Tommaso and Wanderley, Marcelo M. and Bevilacqua, Frederic},
+  title       = {{Mimicry of Tone Production: results from a pilot experiment}},
+  booktitle   = {Proceedings of the 7th of Sound and Music Computing Conference},
+  address     = {Barcelona},
+  year        = {2010}
+}
+
+@inproceedings{souza2010input,
+  author      = {Souza, Fernando F. and Jr, Adolfo Maia and Wanderley, Marcelo M.},
+  title       = {{An Input Device to Control Granular Sound Processes}},
+  booktitle   = {Proceedings of the 8th Congresso de Engenharia de {\'A}udio/14a Conven{\c c}{\~a}o Nacional da AES Brasil},
+  year        = {2010},
+  month       = may
+}
+
+@inproceedings{hollinger2010embedded,
+  author      = {Hollinger, Avrum and Thibodeau, Joseph and Wanderley, Marcelo M.},
+  title       = {{An Embedded Hardware Platform for Fungible Interfaces}},
+  booktitle   = {Proceedings of the 2010 International Computer Music Conference (ICMC2010)},
+  year        = {2010}
+}
+
+@inproceedings{vigliensoni2010soundcatcher,
+  author      = {Vigliensoni, Gabriel and Wanderley, Marcelo M.},
+  title       = {{SoundCatcher: Explorations in Audio-Looping and Rime-Freezing Using an Open-Air Gestural Controller}},
+  booktitle   = {Proceedings of the 2010 International Computer Music Conference (ICMC2010)},
+  pages       = {100--103},
+  year        = {2010}
+}
+
+@inproceedings{baalman2010sense,
+  author      = {Baalman, Marije A. J. and de Belleval, Vincent and Malloch, Joseph and Thibodeau, Joseph and Salter, Christopher L. and Wanderley, Marcelo M.},
+  title       = {{SENSE/STAGE -- Low Cost, Open Source Wireless Sensor Infrastructure for Live Performance and Interactive Real-time Environments}},
+  booktitle   = {Proceedings of the 2010 international Computer Music Conference (ICMC2010)},
+  year        = {2010}
+}
+
+@incollection{marshall2009gestural,
+  author      = {Marshall, Mark T. and Malloch, Joseph and Wanderley, Marcelo M.},
+  editor      = {Dias, M. S. and Gibet, S. and Wanderley, M. M. and Bastos, R.},
+  title       = {{Gestural Control of Sound Spatialization for Live Musical Performance}},
+  booktitle   = {Gesture-Based Human-Computer Interaction and Simulation: 7th International Gesture Workshop, GW 2007, Lisbon, Portugal, May 23--25, 2007, Revised Selected Papers},
+  series      = {LNCS series Vol},
+  volume      = {5085},
+  pages       = {227--238},
+  publisher   = {Springer Verlag},
+  address     = {: 7th International Gesture Workshop, Lisbon},
+  year        = {2009},
+  month       = may
+}
+
+@incollection{rasamimanana2009string,
+  author      = {Rasamimanana, Nicolas H. and Bernardin, Delphine and Wanderley, Marcelo M. and Bevilacqua, Frederic},
+  editor      = {Dias, M. S. and Gibet, S. and Wanderley, M. M. and Bastos, R.},
+  title       = {{String Bowing Gestures at Varying Bow Stroke Frequencies: A Case Study}},
+  booktitle   = {Gesture-Based Human-Computer Interaction and Simulation: 7th International Gesture Workshop, GW 2007, Lisbon, Portugal, May 23--25, 2007, Revised Selected Papers},
+  series      = {LNCS series Vol},
+  volume      = {5085},
+  pages       = {216--226},
+  publisher   = {Springer Verlag},
+  address     = {: 7th International Gesture Workshop, Lisbon},
+  year        = {2009},
+  month       = may
+}
+
+@incollection{mazzarino2009improving,
+  author      = {Mazzarino, Barbara and Peinado, Manuel and Boulic, Ronan and Volpe, Gualtiero and Wanderley, Marcelo M.},
+  editor      = {Dias, M. S. and Gibet, S. and Wanderley, M. M. and Bastos, R.},
+  title       = {{Improving the believability of virtual characters using qualitative gesture analysis}},
+  booktitle   = {Gesture-Based Human-Computer Interaction and Simulation: 7th International Gesture Workshop, GW 2007, Lisbon, Portugal, May 23--25, 2007, Revised Selected Papers},
+  series      = {LNCS series Vol},
+  volume      = {5085},
+  pages       = {48--56},
+  publisher   = {Springer Verlag},
+  address     = {: 7th International Gesture Workshop, Lisbon},
+  year        = {2009},
+  month       = may
+}
+
+@inproceedings{sinclair2010haptic,
+  author      = {Sinclair, Stephen and Florens, Jean-Loup and Wanderley, Marcelo M.},
+  title       = {{A Haptic Simulator for Gestural Interaction with the bowed String}},
+  booktitle   = {Proceedings of the 10{\`e}me Congr{\`e}s Fran{\c c}ais d'Acoustique},
+  year        = {2010}
+}
+
+@inproceedings{ferguson2009mcgill,
+  author      = {Ferguson, Sean and Wanderley, Marcelo M.},
+  title       = {{The McGill Digital Orchestra: Interdisciplinarity in Digital Musical Instrument Design}},
+  booktitle   = {Proceedings of the 5th International Conference on Interdisciplinary Musicology},
+  year        = {2009}
+}
+
+@inproceedings{zadel2009haptic,
+  author      = {Zadel, Mark and Sinclair, Stephen and Wanderley, Marcelo M.},
+  title       = {{Haptic feedback for Different Strokes using DIMPLE}},
+  booktitle   = {Proceedings of the 2009 International Computer Music Conference (ICMC09)},
+  pages       = {291--294},
+  year        = {2009}
+}
+
+@inproceedings{sinclair2009audio,
+  author      = {Sinclair, Stephen and Scavone, Gary and Wanderley, Marcelo M.},
+  title       = {{Audio-Haptic Interaction with the Digital Waveguide Bowed String}},
+  booktitle   = {Proceedings of the 2009 International Computer Music Conference (ICMC09)},
+  pages       = {275--278},
+  year        = {2009}
+}
+
+@inproceedings{pestova2009cirmmt,
+  author      = {Pestova, Xenia and Donald, Erika and Hindman, Heather and Malloch, Joseph and Marshall, Mark T. and Rocha, Fernando and Sinclair, Stephen and Stewart, D. Andrew and Wanderley, Marcelo M. and Ferguson, Sean},
+  title       = {{The CIRMMT/McGill Digital Orchestra Project}},
+  booktitle   = {Proceedings of the 2009 International Computer Music Conference (ICMC09)},
+  pages       = {295--298},
+  year        = {2009}
+}
+
+@inproceedings{bouenard2009advantages,
+  author      = {Bou{\"e}nard, Alexandre and Wanderley, Marcelo M. and Gibet, Sylvie},
+  title       = {{Advantages and Limitations of Simulating Percussion Gestures for Sound Synthesis}},
+  booktitle   = {Proceedings of the International Computer Music Conference (ICMC'09)},
+  pages       = {255--261},
+  year        = {2009}
+}
+
+@inproceedings{bouenard2009hybrid,
+  author      = {Bou{\"e}nard, Alexandre and Gibet, Sylvie and Wanderley, Marcelo M.},
+  title       = {{Hybrid Motion Control combining Inverse Kinematics and Inverse Dynamics Controllers for Simulating Percussion Gestures}},
+  booktitle   = {Proceedings of the International Conference on Computer Animation and Social Agents (CASA'09)},
+  pages       = {17--20},
+  year        = {2009}
+}
+
+@inproceedings{lahdeoja2009instrument,
+  author      = {L{\"a}hdeoja, Otso and Wanderley, Marcelo M. and Malloch, Joseph},
+  title       = {{Instrument Augmentation using Ancillary Gestures for Subtle Sonic Effects}},
+  booktitle   = {Proceedings of the 6th Sound and Music Computing Conference},
+  pages       = {327--330},
+  address     = {Porto, Portugal},
+  year        = {2009}
+}
+
+@inproceedings{collicutt2009real,
+  author      = {Collicutt, Michael and Casciato, Carmine and Wanderley, Marcelo M.},
+  title       = {{From Real to Virtual: A Comparison of Input Devices for Percussion Tasks}},
+  booktitle   = {Proceedings of the 2009 International Conference on New Interfaces for Musical Expression (NIME09)},
+  pages       = {1--6},
+  year        = {2009}
+}
+
+@inproceedings{hockman2009real,
+  author      = {Hockman, Jason A. and Wanderley, Marcelo M. and Fujinaga, Ichiro},
+  title       = {{Real-time Phase Vocoder Manipulation by Runner's Pace}},
+  booktitle   = {Proceedings of the 2009 International Conference on New Interfaces for Musical Expression (NIME09)},
+  pages       = {90--93},
+  year        = {2009}
+}
+
+@inproceedings{baalman2009sharing,
+  author      = {Baalman, Marije A. J. and Smoak, Harry C. and Salter, Christopher L. and Malloch, Joseph and Wanderley, Marcelo M.},
+  title       = {{Sharing Data in Collaborative, Interactive Performances: the SenseWorld DataNetwork}},
+  booktitle   = {Proceedings of the 2009 International Conference on New Interfaces for Musical Expression (NIME09)},
+  pages       = {131--134},
+  year        = {2009}
+}
+
+@incollection{malloch2008network,
+  author      = {Malloch, Joseph and Sinclair, Stephen and Wanderley, Marcelo M.},
+  editor      = {Kronland-Martinet, R. and Ystad, S. and Jensen, K.},
+  title       = {{A Network-Based Framework for Collaborative Development and Performance of Digital Musical Instruments}},
+  booktitle   = {Computer Music Modeling and Retrieval: CMMR 2007},
+  series      = {LNCS 4969},
+  volume      = {4969},
+  pages       = {401--425},
+  publisher   = {Berlin Heidelberg: Springer-Verlag},
+  address     = {- Proceedings of Computer Music Modeling and Retrieval 2007 Conference},
+  year        = {2008}
+}
+
+@inproceedings{bouenard2008analysis,
+  author      = {Bou{\"e}nard, Alexandre and Wanderley, Marcelo M. and Gibet, Sylvie},
+  title       = {{Analysis of Percussion Grip for Physically Based Character Animation}},
+  booktitle   = {Proceedings of the 5th International Conference on Enactive Interfaces (ENACTIVE'08)},
+  pages       = {22--27},
+  address     = {Pisa, Italy},
+  year        = {2008}
+}
+
+@inproceedings{marentakis2008influence,
+  author      = {Marentakis, Georgios and Malloch, Joseph and Peters, Nils and Marshall, Mark and Wanderley, Marcelo and McAdams, Stephen},
+  title       = {{Influence of Performance Gestures on the Identification of Spatial Sound Trajectories in a Concert Hall}},
+  booktitle   = {Proceedings of the 2008 International Conference on Auditory Display (ICAD08)},
+  address     = {Paris, France},
+  year        = {2008}
+}
+
+@inproceedings{bouenard2008enhancing,
+  author      = {Bou{\"e}nard, Alexandre and Gibet, Sylvie and Wanderley, Marcelo M.},
+  title       = {{Enhancing the Visualization of Percussion Gestures by Virtual Character Animation}},
+  booktitle   = {Proceedings of the 2008 International Conference on New Interfaces for Musical Expression (NIME08)},
+  pages       = {38--43},
+  address     = {Genoa, Italy},
+  year        = {2008}
+}
+
+@inproceedings{schoonderwaldt2007visualization,
+  author      = {Schoonderwaldt, Erwin and Wanderley, Marcelo M.},
+  title       = {{Visualization of Bowing Gestures for Feedback: The Hodgson Plot}},
+  booktitle   = {Proceedings of the I-Maestro Workshop 2007},
+  year        = {2007},
+  month       = dec
+}
+
+@inproceedings{casciato2007lessons,
+  author      = {Casciato, Carmine and Wanderley, Marcelo M.},
+  title       = {{Lessons from Long Term Gestural Controller Users}},
+  booktitle   = {Proceedings of the 4th International Conference on Enactive Interfaces (ENACTIVE'07)},
+  pages       = {333--336},
+  address     = {Grenoble, France},
+  year        = {2007}
+}
+
+@inproceedings{marshall2007non,
+  author      = {Marshall, Mark T. and Malloch, Joseph and Wanderley, Marcelo M.},
+  title       = {{Non-Conscious Control of Sound Spatialization}},
+  booktitle   = {Proceedings of the 4th International Conference on Enactive Interfaces (ENACTIVE'07)},
+  pages       = {377--380},
+  address     = {Grenoble, France},
+  year        = {2007}
+}
+
+@inproceedings{nusseck2007validating,
+  author      = {Nusseck, Manfred and Wanderley, Marcelo M. and Schoonderwaldt, Erwin},
+  title       = {{Validating Kinematic Displays for the Perception of Musical Performance}},
+  booktitle   = {Proceedings of the 4th International Conference on Enactive Interfaces (ENACTIVE'07)},
+  pages       = {381--384},
+  address     = {Grenoble, France},
+  year        = {2007}
+}
+
+@inproceedings{schoonderwaldt2007we,
+  author      = {Schoonderwaldt, Erwin and Sinclair, Stephen and Wanderley, Marcelo M.},
+  title       = {{Why Do We Need 5-DOF Force Feedback? The case of Violin Bowing}},
+  booktitle   = {Proceedings of the 4th International Conference on Enactive Interfaces (ENACTIVE'07)},
+  pages       = {397--400},
+  address     = {Grenoble, France},
+  year        = {2007}
+}
+
+@inproceedings{sinclair2007extending,
+  author      = {Sinclair, Stephen and Wanderley, Marcelo M.},
+  title       = {{Extending DIMPLE: a Rigid Body Simulator for Interactive Control of Sound}},
+  booktitle   = {Proceedings of the 4th International Conference on Enactive Interfaces (ENACTIVE'07)},
+  pages       = {263--266},
+  address     = {Grenoble, France},
+  year        = {2007}
+}
+
+@inproceedings{koehly2007carbon,
+  author      = {Koehly, Rodolphe and Curtil, Denis and van de Ven, Theodorus and Wanderley, Marcelo M.},
+  title       = {{Carbon Black Loaded Paper: An Intelligent Substrate for Electronic Sensors Design}},
+  booktitle   = {Proceedings of the IARIGAI 2007 Conference},
+  address     = {Grenoble, France},
+  year        = {2007}
+}
+
+@inproceedings{birnbaum2007systematic,
+  author      = {Birnbaum, David M. and Wanderley, Marcelo M.},
+  title       = {{A Systematic Approach to Musical Vibrotactile Feedback}},
+  booktitle   = {Proceedings of the 2007 International Computer Music Conference (ICMC07)},
+  pages       = {397--404},
+  address     = {Copenhagen, Denmark},
+  year        = {2007}
+}
+
+@inproceedings{malloch2007controller,
+  author      = {Malloch, Joseph and Sinclair, Stephen and Wanderley, Marcelo M.},
+  title       = {{From Controller to Sound: Tools for Collaborative Development of Digital Musical Instruments}},
+  booktitle   = {Proceedings of the 2007 International Computer Music Conference (ICMC07)},
+  pages       = {65--72},
+  address     = {Copenhagen, Denmark},
+  year        = {2007}
+}
+
+@inproceedings{kereliuk2007indirect,
+  author      = {Kereliuk, Corey and Scherrer, Bertrand and Verfaille, Vincent and Depalle, Philippe and Wanderley, Marcelo M.},
+  title       = {{Indirect Acquisition of Fingerings of Harmonic Notes on the Flute}},
+  booktitle   = {Proceedings of the 2007 International Computer Music Conference (ICMC07)},
+  pages       = {263--266},
+  address     = {Copenhagen, Denmark},
+  year        = {2007}
+}
+
+@inproceedings{vannort2007extraction,
+  author      = {Van Nort, Doug and Gauthier, David and Wei, Sha Xin and Wanderley, Marcelo M.},
+  title       = {{Extraction of Gestural Meaning from a Fabric-Based Instrument}},
+  booktitle   = {Proceedings of the 2007 International Computer Music Conference (ICMC07)},
+  pages       = {441--444},
+  address     = {Copenhagen, Denmark},
+  year        = {2007}
+}
+
+@inproceedings{sinclair2007using,
+  author      = {Sinclair, Stephen and Wanderley, Marcelo M.},
+  title       = {{Using PureData to control a haptically-enabled virtual environment}},
+  booktitle   = {Proceedings of the Pd Convention'07},
+  address     = {Montreal},
+  year        = {2007},
+  month       = aug
+}
+
+@inproceedings{birnbaum2007mapping,
+  author      = {Birnbaum, David and Abtan, Freida and Wei, Sha Xin and Wanderley, Marcelo M.},
+  title       = {{Mapping and Dimensionality of a Cloth-based Sound Instrument}},
+  booktitle   = {Proceedings of the 4th Sound and Music Computing Conference (SMC'07)},
+  address     = {Lefkada, Greece},
+  year        = {2007}
+}
+
+@inproceedings{malloch2007t,
+  author      = {Malloch, Joseph and Wanderley, Marcelo M.},
+  title       = {{The T-Stick: From Musical Interface to Musical Instrument}},
+  booktitle   = {Proceedings of the 2007 International Conference on New Interfaces for Musical Expression (NIME07)},
+  pages       = {66--69},
+  address     = {New York City, USA},
+  year        = {2007}
+}
+
+@inproceedings{vannort2007control,
+  author      = {Van Nort, Doug and Wanderley, Marcelo M.},
+  title       = {{Control Strategies for Navigation of Complex Sonic Spaces}},
+  booktitle   = {Proceedings of the 2007 International Conference on New Interfaces for Musical Expression (NIME07)},
+  pages       = {379--382},
+  address     = {New York City, USA},
+  year        = {2007}
+}
+
+@inproceedings{sinclair2007defining,
+  author      = {Sinclair, Stephen and Wanderley, Marcelo M.},
+  title       = {{Defining a control standard for easily integrating haptic virtual environments with existing audio/visual systems}},
+  booktitle   = {Proceedings of the 2007 International Conference on New Interfaces for Musical Expression (NIME07)},
+  pages       = {209--212},
+  address     = {New York City, USA},
+  year        = {2007}
+}
+
+@inproceedings{hollinger2007fmri,
+  author      = {Hollinger, Avrum and Penhune, Virginia and Zatorre, Robert and Steele, Christopher and Wanderley, Marcelo M.},
+  title       = {{fMRI-Compatible Electronic Controllers}},
+  booktitle   = {Proceedings of the 2007 International Conference on New Interfaces for Musical Expression (NIME07)},
+  pages       = {246--249},
+  address     = {New York City, USA},
+  year        = {2007}
+}
+
+@incollection{marshall2006evaluation,
+  author      = {Marshall, Mark and Wanderley, Marcelo M.},
+  editor      = {Kronland-Martinet, R. and Voinier, T. and Ystad, S.},
+  title       = {{Evaluation of Sensors as Input Devices for Computer Music Interfaces}},
+  booktitle   = {Computer Music Modeling and Retrieval: CMMR 2005},
+  series      = {LNCS 3902},
+  volume      = {3902},
+  pages       = {130--139},
+  publisher   = {Berlin Heidelberg: Springer-Verlag},
+  address     = {- Proceedings of Computer Music Modeling and Retrieval 2005 Conference},
+  year        = {2006}
+}
+
+@incollection{jensenius2006building,
+  author      = {Jensenius, Alexander R. and Koehly, Rodolphe and Wanderley, Marcelo M.},
+  editor      = {Kronland-Martinet, R. and Voinier, T. and Ystad, S.},
+  title       = {{Building Low-Cost Music Controllers}},
+  booktitle   = {Computer Music Modeling and Retrieval: CMMR 2005},
+  series      = {LNCS 3902},
+  volume      = {3902},
+  pages       = {123--129},
+  publisher   = {Berlin Heidelberg: Springer-Verlag},
+  address     = {- Proceedings of Computer Music Modeling and Retrieval 2005 Conference},
+  year        = {2006}
+}
+
+@inproceedings{vannort2006lom,
+  author      = {van Nort, Doug and Wanderley, Marcelo M.},
+  title       = {{The LoM Mapping Toolbox for Max/MSP/Jitter}},
+  booktitle   = {Proceedings of the 2006 International Computer Music Conference (ICMC06)},
+  address     = {New Orleans, USA},
+  year        = {2006}
+}
+
+@inproceedings{marshall2006development,
+  author      = {Marshall, Mark T. and Peters, Nils and Jensenius, Alexander R. and Boissinot, Julien and Wanderley, Marcelo M. and Braasch, Jonas},
+  title       = {{On the Development of a System for Gesture Control of Spatialization}},
+  booktitle   = {Proceedings of the 2006 International Computer Music Conference (ICMC06)},
+  pages       = {360--366},
+  address     = {New Orleans, USA},
+  year        = {2006}
+}
+
+@inproceedings{verfaille2006ssynth,
+  author      = {Verfaille, Vincent and Boissinot, Julien and Depalle, Philippe and Wanderley, Marcelo M.},
+  title       = {{Ssynth: A Real Time Additive Synthesizer with Flexible Control}},
+  booktitle   = {Proceedings of the 2006 International Computer Music Conference (ICMC06)},
+  address     = {New Orleans, USA},
+  year        = {2006}
+}
+
+@inproceedings{malloch2006new,
+  author      = {Malloch, Joseph and Birnbaum, David and Sinyor, Elliot and Wanderley, Marcelo M.},
+  title       = {{A New Conceptual Framework for Digital Musical Instruments}},
+  booktitle   = {Proceedings of the 9th International Conference on Digital Audio Effects (DAFx-06)},
+  pages       = {49--52},
+  address     = {Montreal, Canada},
+  year        = {2006}
+}
+
+@inproceedings{verfaille2006sonification,
+  author      = {Verfaille, Vincent and Quek, Oswald and Wanderley, Marcelo M.},
+  title       = {{Sonification of Musician's Ancillary Gestures}},
+  booktitle   = {Proceedings of the 2006 International Conference on Auditory Display (ICAD06)},
+  address     = {London, England},
+  year        = {2006}
+}
+
+@inproceedings{burns2006computer,
+  author      = {Burns, Anne-Marie and Wanderley, Marcelo M.},
+  title       = {{Computer Vision Method for Guitarist Fingering Retrieval}},
+  booktitle   = {Proceedings of the 2006 Sound and Music Computing Conference (SMC06)},
+  address     = {Marseille, France},
+  year        = {2006}
+}
+
+@inproceedings{vannort2006exploring,
+  author      = {van Nort, Doug and Wanderley, Marcelo M.},
+  title       = {{Exploring the Effect of Mapping Trajectories on Musical Performance}},
+  booktitle   = {Proceedings of the 2006 Sound and Music Computing Conference (SMC06)},
+  address     = {Marseille, France},
+  year        = {2006}
+}
+
+@inproceedings{koehly2006paper,
+  author      = {Koehly, Rodolphe and Wanderley, Marcelo M. and Curtil, Denis},
+  title       = {{Paper FSRs and Latex/Fabric Traction Sensors: Methods for the Development of Home-Made Touch Sensors}},
+  booktitle   = {Proceedings of the 2006 International Conference on New Interfaces for Musical Expression (NIME06)},
+  pages       = {230--233},
+  address     = {Paris, France},
+  year        = {2006}
+}
+
+@inproceedings{marshall2006vibrotactile,
+  author      = {Marshall, Mark T. and Wanderley, Marcelo M.},
+  title       = {{Vibrotactile Feedback in Digital Musical Instruments}},
+  booktitle   = {Proceedings of the 2006 International Conference on New Interfaces for Musical Expression (NIME06)},
+  pages       = {226--229},
+  address     = {Paris, France},
+  year        = {2006}
+}
+
+@inproceedings{burns2006visual,
+  author      = {Burns, Anne-Marie and Wanderley, Marcelo M.},
+  title       = {{Visual Methods for the Retrieval of Guitarist Fingering}},
+  booktitle   = {Proceedings of the 2006 International Conference on New Interfaces for Musical Expression (NIME06)},
+  pages       = {196--199},
+  address     = {Paris, France},
+  year        = {2006}
+}
+
+@inproceedings{wanderley2006sensorwiki,
+  author      = {Wanderley, Marcelo M. and Malloch, Joseph and Birnbaum, David and Sinyor, Elliot and Boissinot, Julien},
+  title       = {{SensorWiki.org: A Collaborative Resource on Transducers for Researchers and Interface Designers}},
+  booktitle   = {Proceedings of the 2006 International Conference on New Interfaces for Musical Expression (NIME06)},
+  pages       = {180--183},
+  address     = {Paris, France},
+  year        = {2006}
+}
+
+@article{vines2005dimensions,
+  author      = {Vines, Bradley W. and Krumhansl, Carol L. and Wanderley, Marcelo M. and Dalca, Ioana M. and Levitin, Daniel J.},
+  title       = {{Dimensions of Emotion in Expressive Musical Performance}},
+  journal     = {Annals of the New York Academy of Sciences},
+  pages       = {462--466},
+  year        = {2005}
+}
+
+@inproceedings{jensenius2005developing,
+  author      = {Jensenius, Alexander R. and Godoy, Rolf Inge and Wanderley, Marcelo M.},
+  title       = {{Developing Tools for Studying Musical Gestures within the MAX/MSP/JITTER Environment}},
+  booktitle   = {Proceedings of the 2005 International Computer Music Conference (ICMC2005)},
+  address     = {Barcelona, Spain},
+  year        = {2005}
+}
+
+@inproceedings{sinyor2005gyrotyre,
+  author      = {Sinyor, Elliot and Wanderley, Marcelo M.},
+  title       = {{Gyrotyre: A Hand-held Dynamic Computer-Music Controller Based on a Spinning Wheel}},
+  booktitle   = {Proceedings of the 2005 International Conference on New Interfaces for Musical Expression (NIME05)},
+  pages       = {42--45},
+  address     = {Vancouver, Canada},
+  year        = {2005}
+}
+
+@inproceedings{dasilva2005use,
+  author      = {da Silva, Andrey and Wanderley, Marcelo M. and Scavone, Gary},
+  title       = {{On the Use of Flute Air Jet as a Musical Control Variable}},
+  booktitle   = {Proceedings of the 2005 International Conference on New Interfaces for Musical Expression (NIME05)},
+  pages       = {105--108},
+  address     = {Vancouver, Canada},
+  year        = {2005}
+}
+
+@inproceedings{birnbaum2005dimension,
+  author      = {Birnbaum, David and Fiebrink, Rebecca and Malloch, Joseph and Wanderley, Marcelo M.},
+  title       = {{Towards a Dimension Space for Musical Artifacts}},
+  booktitle   = {Proceedings of the 2005 International Conference on New Interfaces for Musical Expression (NIME05)},
+  pages       = {192--195},
+  address     = {Vancouver, Canada},
+  year        = {2005}
+}
+
+@inproceedings{kolesnik2005implementation,
+  author      = {Kolesnik, Paul and Wanderley, Marcelo M.},
+  title       = {{Implementation of the Discrete Hidden Markov Model in Max / MSP Environment}},
+  booktitle   = {Proceedings of the FLAIRS 2005 Conference},
+  address     = {Miami, Fl},
+  year        = {2005}
+}
+
+@incollection{vines2004performance,
+  author      = {Vines, Brad and Wanderley, Marcelo M. and Krumhansl, Carol and Nuzzo, Regina and Levitin, Daniel},
+  editor      = {Camurri, A. and Volpe, G.},
+  title       = {{Performance Gestures of Musicians: What Structural and Emotional Information do they Convey?}},
+  booktitle   = {Gesture-Based Communication in Human-Computer Interaction},
+  series      = {Lecture Notes in Computer Science},
+  volume      = {2915},
+  pages       = {468--478},
+  publisher   = {Springer Verlag},
+  year        = {2004}
+}
+
+@inproceedings{kolesnik2004recognition,
+  author      = {Kolesnik, Paul and Wanderley, Marcelo M.},
+  title       = {{Recognition, Analysis and Performance with Expressive Conducting Gestures}},
+  booktitle   = {Proceedings of the 2004 International Computer Music Conference (ICMC2004)},
+  address     = {Miami, Fl},
+  year        = {2004}
+}
+
+@inproceedings{scavone2004music,
+  author      = {Scavone, Gary and Wanderley, Marcelo M.},
+  title       = {{The Music Technology Program at McGill University}},
+  booktitle   = {Proceedings of the 2004 International Computer Music Conference (ICMC2004)},
+  address     = {Miami, Fl},
+  year        = {2004}
+}
+
+@inproceedings{peinado2004configurable,
+  author      = {Peinado, Manuel and Herbelin, Bruno and Wanderley, Marcelo M. and Callennec, Benoit Le and Boulic, Ronan and Thalmann, Daniel},
+  title       = {{Towards Configurable Motion Capture with Prioritized Inverse Kinematics}},
+  booktitle   = {Proceedings of the Third International Workshop on Virtual Rehabilitation (IWVR2004)},
+  address     = {EPFL, Lausanne, Switzerland},
+  year        = {2004}
+}
+
+@inproceedings{vannort2004choice,
+  author      = {Van Nort, Doug and Wanderley, Marcelo M. and Depalle, Philippe},
+  title       = {{On the Choice of Mappings based on Geometrical Properties}},
+  booktitle   = {Proceedings of the 2004 International Conference on New Interfaces for Musical Expression (NIME04)},
+  address     = {Hamamatsu, Japan},
+  year        = {2004},
+  month       = jun
+}
+
+@inproceedings{traube2003indirect,
+  author      = {Traube, Caroline and Depalle, Philippe and Wanderley, Marcelo M.},
+  title       = {{Indirect Acquisition of Instrumental Gesture Based on Signal, Physical and Perceptual Information}},
+  booktitle   = {Proceedings of the 2003 International Conference on New Interfaces for Musical Expression (NIME03)},
+  pages       = {42--47},
+  address     = {Montreal, Canada},
+  year        = {2003},
+  month       = may
+}
+
+@incollection{wanderley2002quantitative,
+  author      = {Wanderley, Marcelo M.},
+  editor      = {Wachsmuth, I. and Sowa, T.},
+  title       = {{Quantitative Analysis of Non-Obvious Performer Gestures}},
+  booktitle   = {Gesture and Sign Language in Human-Computer Interaction},
+  pages       = {241--253},
+  publisher   = {Springer Verlag},
+  year        = {2002}
+}
+
+@inproceedings{wanderley2001gesturally,
+  author      = {Wanderley, Marcelo M. and Depalle, Philippe},
+  title       = {{Gesturally Controlled Digital Audio Effects}},
+  booktitle   = {Proceedings of the COST-6 Conference on Digital Audio Effects (DAFx01)},
+  pages       = {165--169},
+  address     = {Limerick},
+  year        = {2001},
+  month       = dec
+}
+
+@inproceedings{wanderley2001gestural,
+  author      = {Wanderley, Marcelo M. and Serra, Marie-H{\'e}l{\`e}ne and Battier, Marc and Rodet, Xavier},
+  title       = {{Gestural Control Research at Ircam}},
+  booktitle   = {Proceedings of the 2001 International Computer Music Conference (ICMC2001)},
+  address     = {Havana, Cuba},
+  year        = {2001}
+}
+
+@inproceedings{orio2001input,
+  author      = {Orio, Nicola and Schnell, Norbert and Wanderley, Marcelo M.},
+  title       = {{Input Devices for Musical Expression: Borrowing Tools from HCI}},
+  booktitle   = {Online Proceedings of the Workshop on New Interfaces for Musical Expression -- ACM CHI01},
+  address     = {Seattle, WA},
+  year        = {2001}
+}
+
+@inproceedings{wanderley2000choice,
+  author      = {Wanderley, Marcelo M. and Viollet, Jean-Philippe and Isart, Fabrice and Rodet, Xavier},
+  title       = {{On the Choice of Transducer Technologies for Specific Musical Functions}},
+  booktitle   = {Proceedings of the 2000 International Computer Music Conference (ICMC2000)},
+  pages       = {244--247},
+  address     = {Berlin, Germany},
+  year        = {2000}
+}
+
+@inproceedings{hunt2000model,
+  author      = {Hunt, Andy and Wanderley, Marcelo M. and Kirk, Ross},
+  title       = {{Towards a Model for Instrumental Mapping in Expert Musical Interaction}},
+  booktitle   = {Proceedings of the 2000 International Computer Music Conference (ICMC2000)},
+  pages       = {209--212},
+  address     = {Berlin, Germany},
+  year        = {2000}
+}
+
+@incollection{wanderley1999non,
+  author      = {Wanderley, Marcelo M.},
+  editor      = {Braffort, A. and others},
+  title       = {{Non-obvious Performer Gestures in Instrumental Music}},
+  booktitle   = {Gesture-Based Communication in Human-Computer Interaction},
+  pages       = {37--48},
+  publisher   = {Springer Verlag},
+  year        = {1999}
+}
+
+@inproceedings{serafin1999gestural,
+  author      = {Serafin, Stefania and Dudas, Richard and Wanderley, Marcelo M. and Rodet, Xavier},
+  title       = {{Gestural Control of a Real-Time Physical Model of a Bowed String Instrument}},
+  booktitle   = {Proceedings of the 1999 International Computer Music Conference (ICMC1999)},
+  pages       = {375--378},
+  address     = {Beijing, China},
+  year        = {1999}
+}
+
+@inproceedings{wanderley1999improving,
+  author      = {Wanderley, Marcelo M. and Depalle, Philippe and Warusfel, Olivier},
+  title       = {{Improving Instrumental Sound Synthesis by Modeling the Effects of Performer Gesture}},
+  booktitle   = {Proceedings of the 1999 International Computer Music Conference (ICMC1999)},
+  pages       = {418--421},
+  address     = {Beijing, China},
+  year        = {1999}
+}
+
+@inproceedings{wanderley1998escher,
+  author      = {Wanderley, Marcelo M. and Schnell, Norbert and Rovan, Joseph B.},
+  title       = {{Escher - Modeling and Performing ''Composed Instruments'' in Real-Time}},
+  booktitle   = {Proceedings of the IEEE International Conference on Systems, Man and Cybernetics (SMC'98)},
+  pages       = {1080--1084},
+  address     = {(SMC'98), San Diego, CA},
+  year        = {1998}
+}
+
+@inproceedings{wanderley1998gestural,
+  author      = {Wanderley, Marcelo M. and Battier, Marc and Depalle, Philippe and Dubnov, Shlomo and Hayward, Vincent and Iovino, Francisco and Larcher, Veronique and Malt, Mikhail and Pierrot, Patrice and Rovan, Joseph B. and Vergez, Christophe},
+  title       = {{Gestural Research at Ircam: A Progress Report}},
+  booktitle   = {Proceedings Journ{\'e}es d'Informatique Musicale (JIM98)},
+  address     = {La Londe-Les-Maures, France},
+  year        = {1998}
+}
+
+@inproceedings{rovan1997instrumental,
+  author      = {Rovan, Joseph B. and Wanderley, Marcelo M. and Dubnov, Shlomo and Depalle, Philippe},
+  title       = {{Instrumental Gestural Mapping Strategies as Expressivity Determinants in Computer Music Performance}},
+  booktitle   = {Proceedings of the Kansei - The Technology of Emotion Workshop},
+  pages       = {68--73},
+  address     = {Genoa - Italy},
+  year        = {1997}
+}
+
+@inproceedings{auer19963d,
+  author      = {Auer, Vinicius and Maes, Marcelo M. and Bonfim, M{\'a}rlio C. and Wanderley, Marcelo M. and Lamar, Marcus V.},
+  title       = {{3D Position Signals Acquisition System with Application to Real-Time Processing}},
+  booktitle   = {Proceedings ICSPAT'96 - Boston},
+  pages       = {505--509},
+  address     = {MA - USA},
+  year        = {1996},
+  month       = oct
+}
+
+@inproceedings{lima1996dance,
+  author      = {Lima, Geraldo and Maes, Marcelo and Bonfim, M{\'a}rlio and Lamar, Marcus and Wanderley, Marcelo M.},
+  title       = {{Dance-Music Interface based on Ultrasound Sensors and Computers}},
+  booktitle   = {Proceedings of the III Brazilian Symposium on Computer Music - Recife},
+  address     = {PE - Brazil},
+  year        = {1996}
+}
+
+@inproceedings{wanderley1991novas,
+  author      = {Wanderley, Marcelo M. and Schneider, M{\'a}rcio C. and Noceti Filho, Sidnei},
+  title       = {{Novas Implementa{\c c}{\~o}es CMOS de Transportadores de Corrente}},
+  booktitle   = {Anais do VI Congresso da Sociedade Brasileira de Microeletr{\^o}nica},
+  pages       = {402--411},
+  address     = {Belo Horizonte, MG, Brazil},
+  year        = {1991}
+}
+
+@inproceedings{kirkegaard2020intermediate,
+  author      = {Kirkegaard, Mathias and Bredholt, Mathias and Wanderley, Marcelo M.},
+  title       = {{An Intermediate Mapping Layer for Interactive Sequencing}},
+  booktitle   = {Proceedings of the International Conference on Human-Computer Interaction (HCII)},
+  address     = {Copenhagen, Denmark},
+  year        = {2020}
+}
+
+@inproceedings{meneses2020expanding,
+  author      = {Meneses, Eduardo A. L. and Fukuda, Takuto and Wanderley, Marcelo M.},
+  title       = {{Expanding and Embedding a High-level Gesture Vocabulary for the Digital and Augmented Musical Instruments}},
+  booktitle   = {Proceedings of the International Conference on Human-Computer Interaction (HCII)},
+  address     = {Copenhagen, Denmark},
+  year        = {2020}
+}
+
+@inproceedings{calegario2020open,
+  author      = {Calegario, Filipe and Tragtenberg, Jo{\~a}o and Wang, Jonhty and Franco, Ivan and Meneses, Eduardo A. L. and Wanderley, Marcelo M.},
+  title       = {{Open Source DMIs: Towards a replication certification for online shared projects of digital musical instruments}},
+  booktitle   = {Proceedings of the International Conference on Human-Computer Interaction (HCII)},
+  address     = {Copenhagen, Denmark},
+  year        = {2020}
+}
+
+@inproceedings{wanderley2020visualization,
+  author      = {Wanderley, Marcelo M. and Bredholt, Mathias and Frisson, Christian},
+  title       = {{A Visualization Tool for the CIRMMT Distinguished Lecture Series}},
+  booktitle   = {Proceedings of the International Conference on Human-Computer Interaction (HCII)},
+  address     = {Copenhagen, Denmark},
+  year        = {2020}
+}
+
+@inproceedings{west2019design,
+  author      = {West, Travis and Bachmayer, Alexandra and Wanderley, Marcelo and Berzowska, Joanna and Bhagwati, Sandeep},
+  title       = {{The Design of the body::suit::score, a Full-body Vibrotactile Musical Score}},
+  booktitle   = {Proceedings of the Human-Computer Interaction International Conference (HCII)},
+  address     = {Orlando, FL},
+  year        = {2019}
+}
+
+@inproceedings{hattwick2017vibropixels,
+  author      = {Hattwick, Ian and Franco, Ivan and Wanderley, Marcelo M.},
+  title       = {{The Vibropixels: A Scalable Wireless Tactile Display System}},
+  booktitle   = {Proceedings of the Human-Computer Interaction International Conference (HCII)},
+  address     = {Vancouver, Canada},
+  year        = {2017},
+  note        = {Best Paper Award}
+}
+
+@inproceedings{ignoto2017development,
+  author      = {Ignoto, Patrick and Hattwick, Ian and Wanderley, Marcelo M.},
+  title       = {{Development of a Vibrotactile Metronome to Assist in Conducting Contemporary Classical Music}},
+  booktitle   = {Proceedings of the 8th International Conference on Applied Human Factors and Ergonomics (AHFE)},
+  address     = {Los Angeles, CA},
+  year        = {2017}
+}
+
+@article{chadefaux2012etude,
+  author      = {Chadefaux, D. and le Carrou, J.-L. and Fabre, B. and Wanderley, M. M. and Daudet, L.},
+  title       = {{{\'E}tude exp{\'e}rimentale de l'interaction musician/instrument dans le cas de l'harpe de concert}},
+  journal     = {Acoustique et Techniques},
+  number      = {69},
+  pages       = {29--34},
+  year        = {2012}
+}
+
+@article{wanderley2002report,
+  author      = {Wanderley, M. M.},
+  title       = {{Report on the First 18 Months of the ICMA/EMF Working Group on Interactive Systems and Instrument Design in Music -- ISIDM}},
+  journal     = {Array},
+  year        = {2002}
+}
+
+@article{depalle1997instruments,
+  author      = {Depalle, P. and Tassart, S. and Wanderley, M. M.},
+  title       = {{Instruments Virtuels}},
+  journal     = {R{\'e}sonance},
+  number      = {12},
+  pages       = {5--8},
+  year        = {1997}
+}
+
+@techreport{bouenard2009real,
+  author      = {Bou{\"e}nard, Alexandre and Gibet, Sylvie and Wanderley, Marcelo M.},
+  title       = {{Real-Time Simulation and Interaction of Percussion Gestures with Sound Synthesis}},
+  institution = {HAL Open Archives},
+  type        = {Technical Report},
+  year        = {2009},
+  month       = jan
+}
+
+@techreport{burns2007computer,
+  author      = {Burns, Anne-Marie and Wanderley, Marcelo M.},
+  title       = {{A Computer Vision Based Prototype for Automatic Guitarist Fingering Retrieval}},
+  institution = {Input Devices and Music Interaction Laboratory},
+  type        = {Research Report},
+  year        = {2007},
+  month       = apr
+}
+
+@techreport{hollinger2006evaluation,
+  author      = {Hollinger, Avrum and Wanderley, Marcelo M.},
+  title       = {{Evaluation of Commercial Force-Sensing Resistors}},
+  institution = {Input Devices and Music Interaction Laboratory},
+  type        = {Research Report},
+  year        = {2006},
+  month       = jan
+}
+
+@techreport{wanderley2005methods,
+  author      = {Wanderley, Marcelo M. and Koehly, Rodolphe},
+  title       = {{Methods for the In-House Development of Sensors for Musical Applications}},
+  institution = {Input Devices and Music Interaction Laboratory},
+  type        = {Research Report},
+  year        = {2005},
+  month       = nov
+}
+
+@techreport{campbell2005use,
+  author      = {Campbell, L. and Chagnon, M.-J. and Wanderley, M. M.},
+  title       = {{On the Use of Laban-Bartenieff Techniques to Describe Ancillary Gestures of Clarinetists}},
+  institution = {Input Devices and Music Interaction Laboratory},
+  type        = {Research Report},
+  year        = {2005}
+}
+
+@techreport{wanderley2004expressive,
+  author      = {Wanderley, Marcelo M. and Hatch, Wesley and McKay, Cory and Middleton, Neil and Vines, Bradley},
+  title       = {{Expressive Movements of Clarinetists: Quantification and Musical Considerations}},
+  institution = {Sound Processing and Control Laboratory, McGill University},
+  year        = {2004},
+  month       = feb
+}
+
+@techreport{zadel2004inertial,
+  author      = {Zadel, Mark and Kosek, Paul C. and Wanderley, Marcelo M.},
+  title       = {{An Inertial, Pliable Interface}},
+  institution = {Sound Processing and Control Laboratory, McGill University},
+  year        = {2004},
+  month       = jan
+}
+
+@techreport{viollet1999choice,
+  author      = {Viollet, J.-Ph. and Isart, F. and Wanderley, M. M. and Rodet, X.},
+  title       = {{On the Choice of Transducer Technologies for Specific Musical Functions: A study on gestural control applied to sound synthesis}},
+  institution = {Analysis-Synthesis Team, IRCAM},
+  year        = {1999},
+  month       = sep
+}
+
+@techreport{wanderley1998gesture,
+  author      = {Wanderley, M. M.},
+  title       = {{Gesture - Sensor - Feedback}},
+  institution = {Analysis-Synthesis Team, IRCAM},
+  year        = {1998},
+  month       = jun
+}
+
+@techreport{wanderley1998report,
+  author      = {Wanderley, M. M.},
+  title       = {{Report on Kansei, The Technology of Emotion Workshop}},
+  institution = {Analysis-Synthesis Team, IRCAM},
+  year        = {1998},
+  month       = jan
+}
+
+@techreport{wanderley1997report,
+  author      = {Wanderley, Marcelo M.},
+  title       = {{Report on Les Nouveaux Gestes de la Musique -- Colloque International}},
+  institution = {Analysis-Synthesis Team, IRCAM},
+  year        = {1997},
+  month       = may
+}

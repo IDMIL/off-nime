@@ -7,7 +7,15 @@ See the website here: [https://idmil.github.io/off-nime](https://idmil.github.io
 
 This repo contains BibTeX bibliography entries for New Interfaces for Musical Expression (NIME) papers that were published outside of NIME. This includes materials that were published before NIME existed as well as concurrent submissions. 
 
-All of the raw .bib files can be found in `./bibs`.  There are three main datasets: (1) [Computer Music Journal (CMJ)](https://www.computermusicjournal.org/), (2) [International Computer Music Conference (ICMC)](https://quod.lib.umich.edu/i/icmc/), and (3) [Interactive Systems and Instrument Design in Music Working Group (ISIDM)](https://www.sensorwiki.org/isidm). All of the entries were deemed relevant to researchers in music interface design across a plurality of areas.
+All of the raw .bib files can be found in `./bibs`.  There are several datasets: 
+
+1. [Computer Music Journal (CMJ)](https://www.computermusicjournal.org/)
+2. [International Computer Music Conference (ICMC)](https://quod.lib.umich.edu/i/icmc/)
+3. [Interactive Systems and Instrument Design in Music Working Group (ISIDM)](https://www.sensorwiki.org/isidm) 
+4. From-NIME: NIME-cited works, including [Alexander Jensenius' recursive NIME search in his NIME Literature Atlas](https://alexarje.github.io/off-nime/atlas/)
+5. Extras: Various other works, including Marcelo Wanderley's papers and specific requests
+
+All of the entries were deemed relevant to researchers in music interface design across a plurality of areas.
 
 If you would like to get involved with cleaning any references, or with adding new datasets/features, see below.
 
@@ -24,6 +32,7 @@ Adding publications to this website is simple:
   * For changes to existing datasets, put the file in the corresponding folder (e.g., ICMC citations go in `bibs/ICMC/`).
   * For new datasets, make a new folder or put it in `bibs/Extras/`. You may want to add a radio button for the new dataset on the website with some filtering operations; see examples in `index.md` and "Changing the Website" below.
   * If you need to do some data cleaning on your `.bib` first, the convention in this repo is to make a `scripts/` subfolder in the dataset folder and run scripts from there. We mark any intermediate `.bib`s as `.bib.skip` to prevent the BibTeX parser from trying to parse them.
+* Run `label-all.py` in `bibs/scripts/` to label all of your entries properly. (Labels are used to distinguish datasets in the table filter on the website, and they are stored in the Notes field in each BibTeX entry.)
 * Navigate back to the repo root, `git add ./`, `git commit -m "[message]"` (make the message useful and human-readable), and `git push`
 * [Make a PR on the GitHub](https://github.com/IDMIL/off-nime/pulls) to merge your new feature branch with `main`
 

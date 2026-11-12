@@ -90,6 +90,8 @@ function searchTable() {
     for (const result of results) {
         result.htmlObject.style.display = "";
     }
+
+    updateNumEntries();
 }
 
 filterTable('');

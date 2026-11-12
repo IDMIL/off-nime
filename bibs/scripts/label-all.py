@@ -14,7 +14,6 @@ def label(path, l):
 def recurseRun(path):
     for child in os.listdir(path):
         childPath = path + "/" + child
-        print(childPath)
 
         if os.path.isdir(childPath):
             recurseRun(childPath)
@@ -22,6 +21,10 @@ def recurseRun(path):
         else:
             _, ext = os.path.splitext(childPath)
             if ext == ".bib":
-                label(childPath, "From-NIME")
+                labelStr = childPath[:childPath.find('/')]
+                print(f"{childPath}:\t{labelStr}")
+                label(childPath, labelStr)
 
-recurseRun(".")
+for item in os.listdir():
+    if os.path.isdir(item):
+        recurseRun(item)

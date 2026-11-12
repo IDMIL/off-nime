@@ -1,1 +1,1 @@
-This folder contains citations from Alexander Jensenius' [NIME citation atlas](https://alexarje.github.io/off-nime/atlas/). It specifically pulls from the "Missing works" tab, under the section "Cited by the archives, but in neither".
+This folder contains citations from Alexander Jensenius' [NIME Literature Atlas](https://alexarje.github.io/off-nime/atlas/). It specifically pulls from the "Missing works" tab, under the section "Cited by the archives, but in neither".

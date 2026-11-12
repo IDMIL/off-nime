@@ -1,0 +1,1 @@
+cat raw.txt | sed -E 's/^[0-9]+\.\t//' > out.txt
