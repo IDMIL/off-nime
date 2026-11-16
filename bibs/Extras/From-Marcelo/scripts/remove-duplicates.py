@@ -35,6 +35,7 @@ def main():
 
     print("Getting all entries from the database...")
     recurseGetEntries(sys.argv[1], sys.argv[2].split("/")[-1])
+    print(entryTitles)
     print("Done!")
 
     lib = bibtexparser.parse_file(sys.argv[2])
