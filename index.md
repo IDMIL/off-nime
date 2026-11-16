@@ -35,7 +35,7 @@ Other features of this table include the search bar, column sorting (click the h
 
 <button id="download-all-button" onclick="downloadAll()">Click here to download all entries as a single BibTeX file</button>
 
-<input type="text" id="table-search" onkeyup="searchTable(); setNumEntries();" placeholder="Search...">
+<input type="text" id="table-search" onkeyup="searchTable();" placeholder="Search...">
 
 <label for="html">Dataset:</label>
 <select>
