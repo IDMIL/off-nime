@@ -11,7 +11,13 @@ layout: page
 
 This website contains a table of <span id="blurb-count"></span> vetted Off-NIME references deemed to be relevant to the NIME community. This includes materials from conferences that predated NIME (CMJ, ICMC; so-called ["prehistoric NIME"](https://nime.org/proceedings/2023/nime2023_8.pdf)) as well as concurrent conferences, publications, and books, currently from around <span id="min-year"></span> to <span id="max-year"></span>. 
 
-There are three primary datasets, represented by the radio buttons just above the table: CMJ, ICMC, and ISIDM ([the Interactive Systems and Instrument Design in Music Working Group](https://www.sensorwiki.org/isidm)). There is also the From-NIME dataset, which was created by performing a recursive NIME and Off-NIME paper citation search. This was headed by [Alexander Jensenius](https://www.arj.no/) in his [Off-NIME Atlas](https://alexarje.github.io/off-nime/atlas/). 
+There are several datasets, selectable in the dropdown above the table: 
+
+1. [Computer Music Journal (CMJ)](https://www.computermusicjournal.org/)
+2. [International Computer Music Conference (ICMC)](https://quod.lib.umich.edu/i/icmc/)
+3. [Interactive Systems and Instrument Design in Music Working Group (ISIDM)](https://www.sensorwiki.org/isidm) 
+4. From-NIME: NIME-cited works, including [Alexander Jensenius' recursive NIME search in his NIME Literature Atlas](https://alexarje.github.io/off-nime/atlas/)
+5. Extras: Various other works, including Marcelo Wanderley's papers and specific requests
 
 If you would like to get involved with cleaning any references, or with adding new datasets/features, check out [README.md in the GitHub repo](https://github.com/IDMIL/off-nime).
 
@@ -31,15 +37,15 @@ Other features of this table include the search bar, column sorting (click the h
 
 <input type="text" id="table-search" onkeyup="searchTable(); setNumEntries();" placeholder="Search...">
 
-<div id="table-tabs">
-    <p>Datasets:</p>
-    <input type="radio" id="html" name="table-tab" checked="checked" onclick="filterTable(''); updateNumEntries();"><label for="html">All</label>
-    <input type="radio" id="html" name="table-tab" onclick="filterTable('CMJ'); updateNumEntries();"><label for="html">CMJ</label>
-    <input type="radio" id="html" name="table-tab" onclick="filterTable('ICMC'); updateNumEntries();"><label for="html">ICMC</label>
-    <input type="radio" id="html" name="table-tab" onclick="filterTable('ISIDM'); updateNumEntries();"><label for="html">ISIDM</label>
-    <input type="radio" id="html" name="table-tab" onclick="filterTable('From-NIME'); updateNumEntries();"><label for="html">From-NIME</label>
-    <input type="radio" id="html" name="table-tab" onclick="filterTable('Extras'); updateNumEntries();"><label for="html">Extras</label>    
-</div>
+<label for="html">Dataset:</label>
+<select>
+    <option onclick="filterTable('')">All</option>
+    <option onclick="filterTable('CMJ')">CMJ</option>
+    <option onclick="filterTable('ICMC')">ICMC</option>
+    <option onclick="filterTable('ISIDM')">ISIDM</option>
+    <option onclick="filterTable('From-NIME')">From-NIME</option>
+    <option onclick="filterTable('Extras')">Extras</option>
+</select>
 
 <div class="scrollableTable">
 <table id="bibliography-table" class="sortable">

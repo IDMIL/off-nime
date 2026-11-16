@@ -43,6 +43,9 @@ function filterTable(query) {
     if (document.getElementById("table-search").value != "") {
         searchTable();
     }
+    else {
+        updateNumEntries();
+    }
 }
 
 /**
@@ -50,22 +53,6 @@ function filterTable(query) {
  * @note Uses https://github.com/lucaong/minisearch for fuzzy searching
  */
 function searchTable() {
-    // const searchTerm = document.getElementById("table-search").value.toUpperCase();
-
-    // // We are only searching the subset of trs given to us from the active filter
-    // for (const tr of filterVisibleRows) {
-    //     let found = false;
-
-    //     for (const td of tr.getElementsByTagName("td")) {
-    //         if (td.textContent.toUpperCase().indexOf(searchTerm) > -1) {
-    //             found = true;
-    //             break;
-    //         }
-    //     }
-
-    //     tr.style.display = (found ? "" : "none");
-    // }
-
     const searchTerm = document.getElementById("table-search").value;
 
     if (searchTerm == "") {
