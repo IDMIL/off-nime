@@ -17,7 +17,7 @@ There are several datasets, selectable in the dropdown above the table:
 2. [International Computer Music Conference (ICMC)](https://quod.lib.umich.edu/i/icmc/)
 3. [Interactive Systems and Instrument Design in Music Working Group (ISIDM)](https://www.sensorwiki.org/isidm) 
 4. From-NIME: NIME-cited works, including [Alexander Jensenius' recursive NIME search in his NIME Literature Atlas](https://alexarje.github.io/off-nime/atlas/)
-5. Extras: Various other works, including Marcelo Wanderley's papers and specific requests
+5. Extras: Various other works, including specific requests
 
 If you would like to get involved with cleaning any references, or with adding new datasets/features, check out [README.md in the GitHub repo](https://github.com/IDMIL/off-nime).
 
