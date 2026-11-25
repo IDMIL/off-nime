@@ -32,7 +32,7 @@ Adding publications to this website is simple:
   * For changes to existing datasets, put the file in the corresponding folder (e.g., ICMC citations go in `bibs/ICMC/`).
   * For new datasets, make a new folder or put it in `bibs/Extras/`. You may want to add a radio button for the new dataset on the website with some filtering operations; see examples in `index.md` and "Changing the Website" below.
   * If you need to do some data cleaning on your `.bib` first, the convention in this repo is to make a `scripts/` subfolder in the dataset folder and run scripts from there. We mark any intermediate `.bib`s as `.bib.skip` to prevent the BibTeX parser from trying to parse them.
-* Run `label-all.py` in `bibs/scripts/` to label all of your entries properly. (Labels are used to distinguish datasets in the table filter on the website, and they are stored in the Notes field in each BibTeX entry.)
+* `cd bibs`, run `python3 scripts/label-all.py` to label all of your entries properly. (Labels are used to distinguish datasets in the table filter on the website, and they are stored in the Notes field in each BibTeX entry.) You will need Python to run this.
 * Navigate back to the repo root, `git add ./`, `git commit -m "[message]"` (make the message useful and human-readable), and `git push`
 * [Make a PR on the GitHub](https://github.com/IDMIL/off-nime/pulls) to merge your new feature branch with `main`
 
